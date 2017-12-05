@@ -155,28 +155,6 @@ blockquote:before {
 	text-align: center;
 }
 
-.learn-more {
-	position: absolute;
-	left: 0;
-	bottom: 30px;
-	text-align: center;
-	font-size: 1.4em;
-	width: 100%;
-
-	a {
-		text-decoration: none;
-		color: #fff;
-		opacity: .9;
-
-		&:hover {
-			opacity: 1;
-		}
-	}
-	.arrow {
-		font-size: .6em;
-	}
-}
-
 .editor-link {
  	display: none;
 	margin-top: 0;
