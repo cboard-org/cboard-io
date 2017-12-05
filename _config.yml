@@ -1,11 +1,11 @@
 # ----
 # Site
 
-title: Cboard
+title: Cboard - Communication Board
 url: "http://cboard.io"
 baseurl:
 google_analytics_key:
-google_maps_javascript_api_key:
+google_maps_javascript_api_key: AIzaSyB-zxaWqIbmrZqoPeLj8gSaaZbzE-ziHBw
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)

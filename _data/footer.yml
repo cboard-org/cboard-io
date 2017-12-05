@@ -7,20 +7,8 @@ left_links:
     link: /contact/
 right_links:
   - name:
-    link: https://facebook.com/
-    new_window: true
-    social_icon: Facebook
-  - name:
-    link: https://twitter.com/
-    social_icon: Twitter
-    new_window: true
-  - name:
-    link: https://youtube.com/
+    link: https://www.youtube.com/channel/UCIdXJsQko7DVK-yApMQyV_Q
     social_icon: YouTube
-    new_window: true
-  - name:
-    link: https://plus.google.com/
-    social_icon: Google Plus
     new_window: true
   - name:
     link: /feed.xml
