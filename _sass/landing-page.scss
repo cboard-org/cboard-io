@@ -3,20 +3,7 @@
 	text-align: center;
 	height: 100vh;
 	min-height: 550px;
-	background-color: #333;
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-position: center center;
-
-	&:before {
-		content: "";
-		background: linear-gradient(to bottom,rgba(0,0,0,.65) 0,rgba(0, 0, 0, 0) 100%);
-		position: absolute;
-		top: 0;
-		left: 0;
-		right: 0;
-		height: 300px;
-}
+	background-color: #8E24AA;
 
 	p {
 		color: #fff;
