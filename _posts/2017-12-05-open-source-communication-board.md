@@ -1,7 +1,7 @@
 ---
-title: The story of Cboard
+title: Open-source communication board
 date: 2017-12-05
-description: Open-source communication board
+description: The story of Cboard
 categories:
   - cboard
   - open-source
