@@ -5,7 +5,7 @@ description: The beginning of Cboard
 categories:
   - cboard
   - open-source
-image: https://source.unsplash.com/collection/375719/2000x1322?a=.png
+image: 
 author_staff_member: shay
 ---
 **Cboard** is a communication board for children and adults who cannot communicate using their voice. A communication board is essentially a grid with pictures or symbols that users can point at to express their needs and thoughts. There are [low-tech solutions](https://www.youtube.com/watch?v=mnyv8h6J4rc) which do not need electricity and high-tech ones which can generate speech.
