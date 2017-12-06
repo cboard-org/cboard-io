@@ -23,7 +23,7 @@ Oftentimes commercial solutions can be expensive or have limited language suppor
 Our goal was to make Cboard a solution that works for everyone, everywhere.
 To accomplish this we used the web as our platform, it enabled us to provide Cboard on desktops, tablets and mobile phones running a modern browser. There is no installation process, no purchase, just follow a link and you’re good to go.
 
-## Why open source?
+## Why open-source?
 
 Cboard started as an open-source project with no budget, it relied and still relies on volunteers from around the world. Contributions and feedback from programmers, speech therapists and language translators, helped shape the project to its current state. The main advantage of an open-source project is that everyone involved actually care, most contribute in their spare time and for no fee, some identify with the project’s mission, some care about the technology stack, but **everyone care** and it shows.
 
