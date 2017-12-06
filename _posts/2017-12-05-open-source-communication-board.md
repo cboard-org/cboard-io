@@ -10,7 +10,7 @@ author_staff_member: shay
 ---
 **Cboard** is a communication board for children and adults who cannot communicate using their voice. A communication board is essentially a grid with pictures or symbols that users can point at to express their needs and thoughts. There are [low-tech solutions](https://www.youtube.com/watch?v=mnyv8h6J4rc) which do not need electricity and high-tech ones which can generate speech.
 
-![Screenshot](/images/app/water-ipad-english.png)
+[![Cboard](/images/app/water-ipad-english.png)](https://shayc.github.io/cboard)
 
 Cboard is a free and open-source AAC web application with support for text-to-speech. It was made for a wide range of speech and language impairments such as cerebral palsy, intellectual impairment and autism. It supports 33 languages and works on multiple devices. It comes with more than 3400 symbols from the [Mulberry Symbol Set](http://straight-street.com/) for creating personalized boards.
 
