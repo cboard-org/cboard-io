@@ -10,6 +10,8 @@ author_staff_member: shay
 ---
 **Cboard** is a communication board for children and adults who cannot communicate using their voice. A communication board is essentially a grid with pictures or symbols that users can point at to express their needs and thoughts. There are [low-tech solutions](https://www.youtube.com/watch?v=mnyv8h6J4rc) which do not need electricity and high-tech ones which can generate speech.
 
+![Screenshot](/images/app/water-ipad-english.png)
+
 Cboard is a free and open-source AAC web application with support for text-to-speech. It was made for a wide range of speech and language impairments such as cerebral palsy, intellectual impairment and autism. It supports 33 languages and works on multiple devices. It comes with more than 3400 symbols from the [Mulberry Symbol Set](http://straight-street.com/) for creating personalized boards.
 
 Oftentimes commercial solutions are too expensive and have limited language availability, which may render them inaccessisble in many low-income countries.
@@ -19,6 +21,8 @@ To accomplish this we chose the web as our platform, which enabled us to provide
 Cboard started as an open-source project with no budget, it relied and still relies on volunteers from around the world. Contributions and feedback from programmers, speech therapists and language translators, helped shape the project to it's current state. The main advantage of an open-source project is that everyone involved actually care, most do it in their spare time and for no fee, some identify with the project’s mission, some care about the technology stack, but **everyone care** and it shows.
 
 I believe being able to express onself is what defines us as individuals, this resonates deeply in me, so when I learned that some people cannot afford or access such communication aids, I started investigating the feasibility of a free multi-language alternative. Luckily the web has matured quite nicely over the last couple of years and now provides all the missing pieces to accomplish such fit, from text-to-speech, to service workers. What was left is stitching the pieces together, I immediately started searching online for programmers who would like to join the adventure, I was so lucky to find Akshat Gupta, Amberley Romo and Martin Bedouret [to name a few](https://github.com/shayc/cboard/graphs/contributors), from which I have learned a lot.
+
+![Cireha](/images/cireha-group-outside.jpg)
 
 Martin connected the project with [Cireha rehab center](http://www.cireha.com.ar/index.asp) in Argentine, which provides us with counseling and product requirements. We had everything we needed for a successful project but to accelerate the development we needed funding.
 
