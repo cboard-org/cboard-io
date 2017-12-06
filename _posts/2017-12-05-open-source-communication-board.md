@@ -16,7 +16,10 @@ Cboard is a free and open-source AAC web application with support for text-to-sp
 
 ## Who needs it?
 
-Oftentimes commercial solutions are too expensive or have a limited language support, which may render them inaccessisble to many people in low-income countries.
+Oftentimes commercial solutions can be expensive or have limited language support, this may render them inaccessisble to many people in low-income countries.
+
+> According to the World Health Organization, in many low-income countries only 5-15 percent of the people who need assistive technology are able to obtain it
+
 Our goal was to make Cboard a solution that works for everyone, everywhere.
 To accomplish this we used the web as our platform, it enabled us to provide Cboard on desktops, tablets and mobile phones running a modern browser. There is no installation process, no purchase, just follow a link and you’re good to go.
 
