@@ -27,9 +27,13 @@ To accomplish this we used the web as our platform, it enabled us to provide Cbo
 
 Cboard started as an open-source project with no budget, it relied (and still relies) on volunteers from around the world. Contributions and feedback from programmers, speech therapists and language translators, helped shape the project to its current state. The main advantage of an open-source project is that everyone involved actually care, most contribute in their spare time and for no fee, some identify with the project’s mission, some care about the technology stack, but **everyone care** and it shows.
 
+## Motivation
+
+I believe being able to express oneself is what defines us as individuals, this resonates deeply in me, so when I learned that some people cannot afford or access such communication aids, I started checking the feasibility of developing a free multi-language alternative. Luckily the web has matured quite nicely over the last couple of years and now provides all the missing pieces to accomplish such fit, from Speech Synthesis to Service Workers, what was left is stitching the pieces together.
+
 ## With a little help from my friends
 
-I believe being able to express oneself is what defines us as individuals, this resonates deeply in me, so when I learned that some people cannot afford or access such communication aids, I started researching the feasibility of developing a free multi-language alternative. Luckily the web has matured quite nicely over the last couple of years and now provides all the missing pieces to accomplish such fit, from Speech Synthesis, to Service Workers. What was left is stitching the pieces together, I immediately started searching online for programmers who would like to join the adventure, I was so lucky to find Akshat Gupta, Amberley Romo and Martin Bedouret [to name a few](https://github.com/shayc/cboard/graphs/contributors), who all helped make this a reality and from which I have learned a lot.
+I immediately started searching online for programmers who would like to join the adventure, I was so lucky to find Akshat Gupta, Amberley Romo and Martin Bedouret [to name a few](https://github.com/shayc/cboard/graphs/contributors), who all helped make this a reality and from which I have learned a lot.
 
 ![Cireha](/images/cireha-group-outside.jpg)
 
