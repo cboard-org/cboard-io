@@ -33,7 +33,7 @@ I believe being able to express oneself is what defines us as individuals, this 
 
 ## With a little help from my friends
 
-I immediately started searching online for programmers who would like to join the adventure, I was so lucky to find Akshat Gupta, Amberley Romo and Martin Bedouret [to name a few](https://github.com/shayc/cboard/graphs/contributors), who all helped make this a reality and from which I have learned a lot.
+Immediately I started searching online for developers who would like to join the adventure, I was so lucky to find Akshat Gupta, Amberley Romo and Martin Bedouret [to name a few](https://github.com/shayc/cboard/graphs/contributors), who all helped make this a reality and from which I have learned a lot.
 
 ![Cireha](/images/cireha-group-outside.jpg)
 
