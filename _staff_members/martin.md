@@ -1,7 +1,7 @@
 ---
 name: Martin Bedouret
-position:
-image_path: 
+position: Developer
+image_path: /images/staff/martinbedouret.jpg
 twitter_username:
 blurb:
 ---
