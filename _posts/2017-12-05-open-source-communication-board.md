@@ -16,12 +16,12 @@ Cboard is a free and open-source AAC web application with support for text-to-sp
 
 ## Who needs it?
 
-Oftentimes commercial solutions can be expensive or have limited language support, this may render them inaccessisble to many people in low-income countries.
+Oftentimes commercial solutions can be expensive or have limited language support, this may render them inaccessible to many in low-income countries.
 
 > According to the World Health Organization, in many low-income countries only 5-15 percent of the people who need assistive technology are able to obtain it
 
 Our goal was to make Cboard a solution that works for everyone, everywhere.
-To accomplish this we used the web as our platform, it enabled us to provide Cboard on desktops, tablets and mobile phones running a modern browser. There is no installation process, no purchase, just follow [a link](https://shayc.github.io/cboard/) and you’re good to go.
+To accomplish this we used the web as our platform, this enabled us to provide Cboard on desktops, tablets and mobile phones running a modern browser. There is no installation process, no purchase, just follow [a link](https://shayc.github.io/cboard/) and you’re good to go.
 
 ## Why open-source?
 
@@ -29,16 +29,14 @@ Cboard started as an open-source project with no budget, it relied (and still re
 
 ## Motivation
 
-I believe being able to express oneself is what defines us as individuals, this resonates deeply in me, so when I discovered that some people cannot afford or have access to such communication aids, I started checking the feasibility of developing a free multi-language alternative. Luckily the web has matured quite nicely over the last couple of years and now provides all the missing pieces to accomplish such fit, from Speech Synthesis to Service Workers, what was left is stitching the pieces together.
+I believe being able to express oneself is what defines us as individuals, this resonates deeply in me so when I discovered that some people cannot afford or have access to such communication aids, I started investigating the feasibility of developing a free multi-language web alternative. Luckily the web has matured quite nicely over the last couple of years and now provides all the missing pieces to accomplish such fit, from Speech Synthesis API to Service Workers, what was left is stitching the pieces together.
 
 ## With a little help from my friends
 
-Immediately I started searching online for developers who would like to join the adventure, I was so lucky to find Akshat Gupta, Amberley Romo and Martin Bedouret [to name a few](https://github.com/shayc/cboard/graphs/contributors), who all helped make this a reality and from which I have learned a lot.
+I wanted to find developers who would like to join the adventure, but where do I start? The app is being developed in React JS so I joined [Reactiflux](https://www.reactiflux.com/), a community of 25,000+ React JS developers. There I found Akshat Gupta, a great and modest developer, who helped with the initial work. I emailed some developers asking for help, responses were great! Some gave tips, some tweeted, [Aaron Gustafson](https://www.aaron-gustafson.com/about/) introduced me to [Amberley Romo](https://www.aaron-gustafson.com/notebook/my-2017-mentees/) (Texas) an avid developer who joined the team. Martin Bedouret simply showed up on our [Discord](https://discord.gg/TEH8uxh), introduced himself and offered to help. Martin connected the project with [Cireha rehab center](http://www.cireha.com.ar/index.asp) in Argentine, which provides us with counseling and product requirements. All of these and [more](https://github.com/shayc/cboard/graphs/contributors) had a direct impact on the project’s success, for which I am ever thankful.
 
 ![Cireha](/images/cireha-group-outside.jpg)
 
-Martin connected the project with [Cireha rehab center](http://www.cireha.com.ar/index.asp) in Argentine, which provides us with counseling and product requirements. We had everything we needed for a successful project, but to accelerate development we needed funding.
-
 ## UNICEF FTW!
 
-This is where [UNICEF Innovation Fund](https://unicefinnovationfund.org/) came to play, after 4 months of development, we came to know about UNICEF call to fund for open-source AAC applications, with just a few days left for submission, we filled the forms and submitted Cboard. A few months later and a demo in between we’ve been told we have been selected for funding. This is huge for the project! and will impact the pace of development and overall quality of our product. We plan on hiring freelancers who will help with proofreading translations, programmers who will help with missing features. The application will continue to be offered for free and continue to be open-source.
+At this stage we had all the essentials, but to accelerate development we needed funding. This is where [UNICEF Innovation Fund](https://unicefinnovationfund.org/) came to play, after 4 months of development, we came to know about UNICEF call to fund for open-source AAC applications, we filled the forms and submitted Cboard. A few months later and a demo in between we’ve been told we have been selected for funding. This is huge for the project! and will impact the pace of development and overall quality of our product. We plan on hiring freelancers who will help with proofreading translations, programmers who will help with missing features. The application will continue to be offered for free and continue to be open-source.
