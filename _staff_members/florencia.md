@@ -1,7 +1,7 @@
 ---
 name: Florencia
 position: Speech Therapist
-image_path: 
+image_path: /images/staff/florenciagrieco.jpg
 twitter_username:
 blurb: 
 ---
