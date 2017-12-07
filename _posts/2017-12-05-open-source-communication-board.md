@@ -29,7 +29,7 @@ Cboard started as an open-source project with no budget, it relied (and still re
 
 ## Motivation
 
-I believe being able to express oneself is what empowers us as individuals, it resonates deeply in me so when I discovered that some people cannot afford or have access to such communication aids, I started investigating the feasibility of developing a free multi-language web alternative. Luckily the web has matured quite nicely over the last couple of years and now provides all the missing pieces to accomplish such fit, from Speech Synthesis API to Service Workers, what was left is stitching the pieces together.
+I believe being able to express oneself is what empowers us as individuals, it resonates deeply in me, so when I learned that some people cannot afford or have access to such communication aids, I started investigating the feasibility of developing a free multi-language web alternative. Luckily the web has matured quite nicely over the last couple of years and now provides all the missing pieces to accomplish such fit, from Speech Synthesis API to Service Workers, what was left is stitching the pieces together.
 
 ## With a little help from my friends
 
