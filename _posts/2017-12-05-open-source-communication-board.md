@@ -21,7 +21,7 @@ Commercial solutions can be expensive or have limited language support, this mak
 > According to the World Health Organization, in many low-income countries only 5-15 percent of the people who need assistive technology are able to obtain it
 
 Our goal was to make Cboard a solution that works for everyone, *everywhere*.
-To accomplish this we used the web as our platform, this enabled us to provide Cboard on desktops, tablets and mobile phones running a modern browser. There is no installation process, no purchase, just follow [a link](https://shayc.github.io/cboard/) and you’re good to go.
+To accomplish this we used the web as our platform, it enabled us to provide Cboard on desktops, tablets and mobile phones running a modern browser. There is no installation process, no purchase, just follow [a link](https://shayc.github.io/cboard/) and you’re good to go.
 
 ## Why open-source?
 
