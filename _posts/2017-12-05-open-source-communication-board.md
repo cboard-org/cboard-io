@@ -16,7 +16,7 @@ Cboard is a free and open-source AAC web application with support for text-to-sp
 
 ## Who needs it?
 
-Oftentimes commercial solutions can be expensive or have limited language support, this may render them inaccessible to many in low-income countries.
+Commercial solutions can be expensive or have limited language support, this makes them inaccessible to many people in low-income countries.
 
 > According to the World Health Organization, in many low-income countries only 5-15 percent of the people who need assistive technology are able to obtain it
 
