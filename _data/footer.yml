@@ -5,6 +5,10 @@ left_links:
     link: /about/
   - name: Contact
     link: /contact/
+  - name: Privacy Policy
+    link: /privacy/
+  - name: Terms of Use
+    link: /terms-of-use/
 right_links:
   - name:
     link: https://www.youtube.com/channel/UCIdXJsQko7DVK-yApMQyV_Q
