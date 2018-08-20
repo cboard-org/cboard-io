@@ -25,12 +25,12 @@ If more OBF compatible boards will be published online, boards will no longer be
 ## Software changes
 To implement OBF import in Cboard we created an adapter function that takes an OBF object and outputs an object that Cboard can understand and render. The spec also defines a way to bundle boards as an .OBZ file which is essentially one or more .OBF files compressed via gzip. To support gzip we needed to add two new `npm` packages `jszip` and `jszip-utils`.
 
-[![Cboard](/images/app/import.png)]
+![Cboard](/images/app/import.png)
 
 ## What does it mean for Cboard users?
 When exporting your board in Cboard `settings/export` screen, you will now have the option to export to Open Board Format. Click the `export` button and choose the `OpenBoard` menu item and save the file. Import functionality hasn’t changed.
 
-[![Cboard](/images/app/export.png)]
+![Cboard](/images/app/export.png)
 
 ## What the future holds?
 We’re hoping that one day there will be a main repository that will offer Open Board Format compatible boards, a marketplace if you will, of boards that were created by professionals, sorted by categories rated by people and offered for free.
