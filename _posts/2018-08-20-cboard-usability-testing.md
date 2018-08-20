@@ -11,7 +11,7 @@ author_staff_member: staff
 ## Preparing for testing
 In the weeks before beginning usability testing, we contacted three speech rehabilitation centers in central Buenos Aires, two of which replied they had eligible candidates and would participate in the testing. The first is Ciren (Centro Integral de Rehabilitación y Educación Neurológica), and the second Eipan (Equipo Interdisciplinario para la Atención del Niño con Alteraciones del Desarrollo). Both centers provide speech therapy, among other services, and work with children with a number of different diagnosis, including a large number with [cerebral palsy](https://en.wikipedia.org/wiki/Cerebral_palsy) and neurodevelopmental delay.
 
-![Eipan](/images/eipan.jpg)
+<img src="https://www.cboard.io/images/eipan.jpg" width="750" alt="Eipan"/>
 
 ## User testing – weeks 1 and 2
 We began the first visits to the centers during the first week of August, meeting the professionals, explaining the goal of the testing, providing further information regarding Cboard and answering any possible questions they had. August 6th we began user testing. The 10 patients we have seen in the first two weeks are between 4 and 22 years old, most of them with cerebral palsy, and one with neurodevelopmental delay.
