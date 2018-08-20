@@ -10,7 +10,7 @@ author_staff_member: shay
 ---
 **Cboard** is a communication board for children and adults who cannot communicate using their voice. A communication board is essentially a grid with pictures or symbols that users can point at to express their needs and thoughts. There are [low-tech solutions](https://www.youtube.com/watch?v=mnyv8h6J4rc) which do not need electricity and high-tech ones which can generate speech.
 
-[![Cboard](/images/app/water-ipad-english.png)](https://shayc.github.io/cboard)
+[![Cboard](/images/app/water-ipad-english.png)](https://github.com/cboard-org/cboard)
 
 Cboard is a free and open-source AAC web application with support for text-to-speech. It was made for a wide range of speech and language impairments such as cerebral palsy, intellectual impairment and autism. It supports 33 languages and works on multiple devices. It comes with more than 3400 symbols from the [Mulberry Symbol Set](http://straight-street.com/) for creating personalized boards.
 
@@ -21,7 +21,7 @@ Commercial solutions can be expensive or have limited language support, this mak
 > According to the World Health Organization, in many low-income countries only 5-15 percent of the people who need assistive technology are able to obtain it
 
 Our goal was to make Cboard a solution that works for everyone, *everywhere*.
-To accomplish this we used the web as our platform, it enabled us to provide Cboard on desktops, tablets and mobile phones running a modern browser. There is no installation process, no purchase, just follow [a link](https://shayc.github.io/cboard/) and you’re good to go.
+To accomplish this we used the web as our platform, it enabled us to provide Cboard on desktops, tablets and mobile phones running a modern browser. There is no installation process, no purchase, just follow [a link](https://app.cboard.io) and you’re good to go.
 
 ## Why open-source?
 
@@ -35,7 +35,7 @@ When I realised that some people may not be able to access such communication ai
 
 I wanted to find developers who would like to join the adventure, but where do I start? The app is being developed in React JS so I joined [Reactiflux](https://www.reactiflux.com/), a large community of React JS developers. There I found Akshat Gupta, who joined and helped with the initial heavy lifting. I emailed developers asking for help with the project, responses were nice! Some gave tips, some tweeted, [Aaron Gustafson](https://www.aaron-gustafson.com/about/) introduced me to [Amberley Romo](https://www.aaron-gustafson.com/notebook/my-2017-mentees/), an avid developer who joined the team. Martin Bedouret simply showed up on our [Discord Server](https://discord.gg/TEH8uxh) after he had learned about the project online and offered to help. Martin connected the project with [Cireha rehab center](http://www.cireha.com.ar/index.asp) in Argentine, which provides us with counseling and product requirements.
 
-All of these people and [more](https://github.com/shayc/cboard/graphs/contributors) have a direct impact on the project’s success, for that I am ever thankful.
+All of these people and [more](https://github.com/cboard-org/cboard/graphs/contributors) have a direct impact on the project’s success, for that I am ever thankful.
 
 ![Cireha](/images/cireha-group-outside.jpg)
 
