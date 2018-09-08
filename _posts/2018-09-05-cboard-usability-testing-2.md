@@ -38,7 +38,7 @@ We finished the initial user testing at Ciren and Eipan on August 28th . The fee
 
 Some new feedback includes:
 
-- #Offline use:# ability to navigate offline (with no connection to wifi). 
+- Offline use: ability to navigate offline (with no connection to wifi). 
 
 - Other features: possibility to add a game using the pictograms? 
 
