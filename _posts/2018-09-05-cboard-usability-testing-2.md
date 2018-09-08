@@ -24,17 +24,17 @@ The other patients were saw also had an easier time with the edited folders, but
 
 We finished the initial user testing at Ciren and Eipan on August 28th . The feedback from the testing remains similar to the initial feedback from the first post: 
 
-Color schemes: to make sure the color scheme, particularly within the ‘animal’ folder is clear and allows patients to differentiate between animals. 
+- Color schemes: to make sure the color scheme, particularly within the ‘animal’ folder is clear and allows patients to differentiate between animals. 
 
-Size settings: add an option within settings that would allow to enlarge pictograms, ‘back’ button, ‘erase’ and ‘backspace’ buttons. 
+- Size settings: add an option within settings that would allow to enlarge pictograms, ‘back’ button, ‘erase’ and ‘backspace’ buttons. 
 
-Print letters: to make the print all uppercase writing rather that lowercase. 
+- Print letters: to make the print all uppercase writing rather that lowercase. 
 
-Folders: Add an ‘actions and verbs’ folder ( and include listen to music, dancing, singing).
+- Folders: Add an ‘actions and verbs’ folder ( and include listen to music, dancing, singing).
 
-Copy and Paste pictograms: add an option to copy and past pictograms in order to be able to use the same one in many different locations. 
+- Copy and Paste pictograms: add an option to copy and past pictograms in order to be able to use the same one in many different locations. 
 
-Overall format: The speech therapists suggested it would be helpful and help the fluidity of the app to add a button to go straight back home and not have to press the back button many times in order to reach the home page. 
+- Overall format: The speech therapists suggested it would be helpful and help the fluidity of the app to add a button to go straight back home and not have to press the back button many times in order to reach the home page. 
 
 Some new feedback includes:
 
