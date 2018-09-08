@@ -38,9 +38,9 @@ We finished the initial user testing at Ciren and Eipan on August 28th . The fee
 
 Some new feedback includes:
 
-Offline use: ability to navigate offline (with no connection to wifi). 
+- #Offline use:# ability to navigate offline (with no connection to wifi). 
 
-Other features: possibility to add a game using the pictograms? 
+- Other features: possibility to add a game using the pictograms? 
 
 In conclusion, the user testing conducted over the month of August has been successful in that the Cboard team now has enough feedback to begin editing and adding some of the suggestions from both the patients and the professionals. Cboard has gotten positive feedback ( the pictograms are clear, the format is simple and easy to use), but the most useful feedback has been the constructive criticism around what doesn’t work, and what elements of the application would be better if changed to take into account the different needs of patients and users.  Both Ciren and Eipan have been incredibly helpful and it is thanks to their cooperation that we were able to gain so much constructive feedback.
 
