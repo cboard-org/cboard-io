@@ -22,6 +22,8 @@ We saw the 4 year old patient with neurodevelopmental delay mentioned in the fir
 
 The other patients were saw also had an easier time with the edited folders, but had some of the same issues previously mentioned regarding the size of pictograms, and the placement of the back button as well as going back to the home page without pressing the ‘back’ button so many times. The second sessions with patients pointed out that practice made Cboard easier to use, but that adding the option to enlarge both the pictograms and navigation options will be necessary to continue developing the application.
 
+![Eipan](/images/eipan3.jpg) 
+
 ## Overall feedback and last thoughts
 
 We finished the initial user testing at Ciren and Eipan on August 28th . The feedback from the testing remains similar to the initial feedback from the first post: 
