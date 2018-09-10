@@ -6,7 +6,7 @@ categories:
   - cboard
   - usability-testing
 image:
-author_staff_member: Katrina Cohen Cosentino
+author_staff_member: katrina
 ---
 ## Preparing for testing
 In the weeks before beginning usability testing, we contacted three speech rehabilitation centers in central Buenos Aires, two of which replied they had eligible candidates and would participate in the testing. The first is Ciren (Centro Integral de Rehabilitación y Educación Neurológica), and the second Eipan (Equipo Interdisciplinario para la Atención del Niño con Alteraciones del Desarrollo). Both centers provide speech therapy, among other services, and work with children with a number of different diagnosis, including a large number with [cerebral palsy](https://en.wikipedia.org/wiki/Cerebral_palsy) and neurodevelopmental delay.
