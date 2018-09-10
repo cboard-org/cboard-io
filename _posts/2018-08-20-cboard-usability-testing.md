@@ -5,7 +5,7 @@ description: Feedback from patients on usability
 categories:
   - cboard
   - usability-testing
-image:
+image: /images/eipan.jpg
 author_staff_member: katrina
 ---
 ## Preparing for testing
