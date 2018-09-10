@@ -6,7 +6,7 @@ categories:
   - cboard
   - usability-testing
 image:
-author_staff_member: Katrina Cohen Cosentino
+author_staff_member: katrina
 ---
 ## The final weeks of testing
 
