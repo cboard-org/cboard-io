@@ -48,7 +48,7 @@ Users that use a switch to interact with applications can communicate as any oth
 This is very important because it allows handicapped people to interact with the board as usual.
 
 ## Why a npm package?
-The idea behind react-scannable is to be open to the community, open sourced and free to use. You can download the source code from Github or the package from npm registry.
+The idea behind react-scannable is to be open to the community, open sourced and free to use. You can download the source code from [Github](https://github.com/cboard-org/react-scannable) or the package from [npm registry](https://www.npmjs.com/package/react-scannable).
 
 We want people to be involved in this, using react-scannable in their apps, extending the way their applications interacts with users.
 
