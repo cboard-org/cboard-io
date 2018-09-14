@@ -31,9 +31,9 @@ The objective is to extend the relationship between the user and the application
 
 By the moment this post was written, `react-scannable` has two interaction methods: automatic and manual.
 
-- Automatic method iterates over scannable elements in sequence periodically. Once you press any key (or click on the screen) the focused scannable element is selected and scanner will iterate over scannable elements within it or delegate the event to the element if it doesn’t have any scannable children.
+Automatic method iterates over scannable elements in sequence periodically. Once you press any key (or click on the screen) the focused scannable element is selected and scanner will iterate over scannable elements within it or delegate the event to the element if it doesn’t have any scannable children.
 
-- Manual method behavior is quite different. It iterates over scannable elements when the user presses space/tab keys and selects them if the user presses enter/backspace keys.
+Manual method behavior is quite different. It iterates over scannable elements when the user presses space/tab keys and selects them if the user presses enter/backspace keys.
 
 Even if you are in automatic or manual method, the user can deactivate scanner by pressing Escape four times.
 
