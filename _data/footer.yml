@@ -5,6 +5,8 @@ left_links:
     link: /about/
   - name: Contact
     link: /contact/
+  - name: Help
+    link: /help/
   - name: Privacy Policy
     link: /privacy/
   - name: Terms of Use
