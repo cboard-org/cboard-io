@@ -19,7 +19,7 @@ React-scannable provides a scanner, that means a React Component that explores t
 
 React-scannable is a npm package built on the top of React and JavaScript. Developers can use this package to include a scanner into their React projects.
 
-## What does react-scannable do?
+## What does react-scannable do?
 Once a scanner is active, it iterates over those elements that have been identified as scannable and lets them execute actions when they get focused on the screen.
 
 ![react-scannable in action](/images/scanning.gif)
