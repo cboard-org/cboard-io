@@ -26,13 +26,14 @@
   .inner-hero {
     display: flex;
     align-items: center;
+    justify-content: center;
     height: 100%;
     z-index: 1;
   }
 
   .hero-text-container {
     width: 600px;
-    text-align: left;
+    text-align: center;
   }
 
   .hero-text-right {
