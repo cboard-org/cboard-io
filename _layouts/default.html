@@ -1,75 +1,79 @@
 <!DOCTYPE html>
 
 <html lang="en">
-	<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<meta name="generator" content="Jekyll v{{ jekyll.version }}">
 
-		<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:300|Rubik:300">
-		<link rel="stylesheet" href="{{ site.baseurl }}/css/screen.css">
-		<link rel="apple-touch-icon" href="{{ site.baseurl }}/apple-touch-icon.png">
-		<link rel="icon" type="image/png" href="{{ site.baseurl }}/touch-icon.png" sizes="192x192">
-		<link rel="icon" type="image/png" href="{{ site.baseurl }}/images/favicon.png">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="generator" content="Jekyll v{{ jekyll.version }}">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arimo:400,700">
+	<link rel="stylesheet" href="{{ site.baseurl }}/css/screen.css">
+	<link rel="apple-touch-icon" href="{{ site.baseurl }}/apple-touch-icon.png">
+	<link rel="icon" type="image/png" href="{{ site.baseurl }}/touch-icon.png" sizes="192x192">
+	<link rel="icon" type="image/png" href="{{ site.baseurl }}/images/favicon.png">
 
-		{% seo %}
-		{% feed_meta %}
+	{% seo %}
+	{% feed_meta %}
 
-		{% if jekyll.environment == 'production' and site.google_analytics_key != '' %}
-			<!-- Global site tag (gtag.js) - Google Analytics -->
-			<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics_key }}"></script>
-			<script>
-				window.dataLayer = window.dataLayer || [];
-				function gtag(){dataLayer.push(arguments);}
-				gtag('js', new Date());
+	{% if jekyll.environment == 'production' and site.google_analytics_key != '' %}
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics_key }}"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
 
-				gtag('config', '{{ site.google_analytics_key }}');
-			</script>
-		{% endif %}
-	</head>
+		gtag('config', '{{ site.google_analytics_key }}');
+	</script>
+	{% endif %}
+</head>
 
-	<body>
-		<header id="mainHeader">
-			<div class="container">
-				<div class="company-name">
-					<a href="{{ site.baseurl }}/">
-						<span class="logo">Cboard</span>
+<body>
+	<header id="mainHeader">
+		<div class="container">
+			<div class="company-name">
+				<a href="{{ site.baseurl }}/">
+					<span class="logo">Cboard</span>
+				</a>
+			</div>
+			{% include navigation.html %}
+			<p class="editor-link"><a style="display:inline;" href="cloudcannon:collections/_data/navigation.yml" class="btn"><strong>&#9998;</strong>
+					Edit navigation</a></p>
+		</div>
+	</header>
+
+	{{ content }}
+
+	<footer>
+		<div class="container">
+			<p class="editor-link"><a href="cloudcannon:collections/_data/footer.yml" class="btn"><strong>&#9998;</strong> Edit
+					footer</a></p>
+			<ul class="footer-left-links">
+				{% for link in site.data.footer.left_links %}
+				<li>
+					<a {% if link.new_window %}target="_blank" {% endif %} href="{% include relative-src.html src=link.link %}" {% if
+					 link.social_icon %}class="{{ link.social_icon | slugify }}-icon" {% endif %}>
+						{% if link.social_icon %}{% include social-icon.html icon=link.social_icon %}{% endif %}
+						{{ link.name }}
 					</a>
-				</div>
-				{% include navigation.html %}
-				<p class="editor-link"><a style="display:inline;" href="cloudcannon:collections/_data/navigation.yml" class="btn"><strong>&#9998;</strong> Edit navigation</a></p>
-			</div>
-		</header>
+				</li>
+				{% endfor %}
+			</ul>
+			<ul class="footer-right-links">
+				{% for link in site.data.footer.right_links %}
+				<li>
+					<a {% if link.new_window %}target="_blank" {% endif %} href="{% include relative-src.html src=link.link %}" {% if
+					 link.social_icon %}class="{{ link.social_icon | slugify }}-icon" {% endif %}>
+						{% if link.social_icon %}{% include social-icon.html icon=link.social_icon %}{% endif %}
+						{{ link.name }}
+					</a>
+				</li>
+				{% endfor %}
+			</ul>
+		</div>
+	</footer>
 
-		{{ content }}
+	<script src="{{ site.baseurl }}/js/main.js"></script>
+</body>
 
-		<footer>
-			<div class="container">
-				<p class="editor-link"><a href="cloudcannon:collections/_data/footer.yml" class="btn"><strong>&#9998;</strong> Edit footer</a></p>
-				<ul class="footer-left-links">
-					{% for link in site.data.footer.left_links %}
-						<li>
-							<a {% if link.new_window %}target="_blank"{% endif %} href="{% include relative-src.html src=link.link %}" {% if link.social_icon %}class="{{ link.social_icon | slugify }}-icon"{% endif %}>
-								{% if link.social_icon %}{% include social-icon.html icon=link.social_icon %}{% endif %}
-								{{ link.name }}
-							</a>
-						</li>
-					{% endfor %}
-				</ul>
-				<ul class="footer-right-links">
-					{% for link in site.data.footer.right_links %}
-						<li>
-							<a {% if link.new_window %}target="_blank"{% endif %} href="{% include relative-src.html src=link.link %}" {% if link.social_icon %}class="{{ link.social_icon | slugify }}-icon"{% endif %}>
-								{% if link.social_icon %}{% include social-icon.html icon=link.social_icon %}{% endif %}
-								{{ link.name }}
-							</a>
-						</li>
-					{% endfor %}
-				</ul>
-			</div>
-		</footer>
-
-		<script src="//ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-		<script src="{{ site.baseurl }}/js/main.js"></script>
-	</body>
 </html>
