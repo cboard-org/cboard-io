@@ -31,13 +31,13 @@ h2 strong {
 }
 
 h1 {
-  font-weight: 700;
-  font-size: 2.5em;
+  font-weight: 300;
+  font-size: 2em;
   margin: 0;
 }
 
 h2 {
-  font-weight: 700;
+  font-weight: 300;
   font-size: 2em;
   margin: 0 0 30px 0;
   line-height: 1.2em;
@@ -58,9 +58,9 @@ h2 a {
 p,
 address,
 ul {
-  font-size: 1.38em;
+  font-size: 1.2em;
   margin-bottom: 20px;
   font-weight: 300;
-  line-height: 1.6em;
+  line-height: 1.5;
   font-family: "Arimo", sans-serif;
 }
