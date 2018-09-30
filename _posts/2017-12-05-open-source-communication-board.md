@@ -5,14 +5,15 @@ description: The beginning of Cboard
 categories:
   - cboard
   - open-source
-image: 
+? image
 author_staff_member: shay
 ---
+
 **Cboard** is a communication board for children and adults who cannot communicate using their voice. A communication board is essentially a grid with pictures or symbols that users can point at to express their needs and thoughts. There are [low-tech solutions](https://www.youtube.com/watch?v=mnyv8h6J4rc) which do not need electricity and high-tech ones which can generate speech.
 
 [![Cboard](/images/app/water-ipad-english.png)](https://github.com/cboard-org/cboard)
 
-Cboard is a free and open-source AAC web application with support for text-to-speech. It was made for a wide range of speech and language impairments such as cerebral palsy, intellectual impairment and autism. It supports 33 languages and works on multiple devices. It comes with more than 3400 symbols from the [Mulberry Symbol Set](http://straight-street.com/) for creating personalized boards.
+Cboard is a free and open-source AAC web application with support for text-to-speech. It was made for a wide range of speech and language impairments such as cerebral palsy, intellectual impairment and autism. It supports 33 languages and works on multiple devices. It comes with more than 3400 symbols from the [Mulberry Symbol Set](https://mulberrysymbols.org/) for creating personalized boards.
 
 ## Who needs it?
 
@@ -20,7 +21,7 @@ Commercial solutions can be expensive or have limited language support, this mak
 
 > According to the World Health Organization, in many low-income countries only 5-15 percent of the people who need assistive technology are able to obtain it
 
-Our goal was to make Cboard a solution that works for everyone, *everywhere*.
+Our goal was to make Cboard a solution that works for everyone, _everywhere_.
 To accomplish this we used the web as our platform, it enabled us to provide Cboard on desktops, tablets and mobile phones running a modern browser. There is no installation process, no purchase, just follow [a link](https://app.cboard.io) and you’re good to go.
 
 ## Why open-source?
