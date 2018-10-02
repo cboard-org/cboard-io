@@ -1,6 +1,6 @@
 ---
 name: Katrina Cohen Cosentino
-position: Intern
+position: Communications Manager
 image_path: /images/staff/katrina.jpeg
 twitter_username:
 blurb:
