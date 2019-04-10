@@ -8,4 +8,6 @@ group :jekyll_plugins do
 	gem 'jekyll-paginate', '1.1.0'
 	gem 'jekyll-archives', '2.1.1'
 	gem 'jekyll-sitemap', '1.2.0'
+	gem 'tzinfo', '~> 1.2', '>= 1.2.5'
+	gem 'tzinfo-data', '~> 1.2019', '>= 1.2019.1'
 end
