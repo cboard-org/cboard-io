@@ -4,11 +4,28 @@ global:
   twitter: Twitter
   github: GitHub
 langs:
-  it: Italiano
-  en: English
-  es: Español
+  en: Eng
+  es: Esp
+  it: Ita
 pages:
+  indexTitleTop: Comunicación para todos.
+  indexSubTitleTop:  aplicación web  para niños y adultos con discapacidades del habla y del lenguaje, que ayuda a la comunicación con símbolos y texto a voz.
+  indexSubTitleTopin: es una
   example: Ejemplo
-  includeexample: El siguiente texto es un parámetro de Jekyll include liquid tag
+  headAbout: Nuestra Historia
+  contactTitle: Ponte en contacto hoy
+  contactSubTitle: Si tiene alguna pregunta o consulta, envíenos un mensaje y nos pondremos en contacto con usted lo antes posible
+  blogTitle: Las últimas noticias
+  blogSubTitle: Escucha los últimos avances en el desarrollo de Cboard.
 titles:
   pagination: Paginación
+navs: 
+   about: Nosotros
+   contact: contacto
+subtitulos:
+  about: Somos un grupo internacional de profesionales cuyo único objetivo es desarrollar una ayuda de comunicación gratuita y de código abierto para personas de todo el mundo.
+button:
+  readmore: Leer Mas
+  star: Iniciar Cboard
+
+

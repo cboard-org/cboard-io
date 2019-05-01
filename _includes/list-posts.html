@@ -9,7 +9,7 @@
 			{% if post.externalLink %}
 				<div class="button"><a href="{{ post.externalLink }}">Read On {{ post.externalSrc }}</a></div>
 			{% else %}
-				<div class="button"><a href="{% include relative-src.html src=post.url %}">Read More</a></div>
+				<div class="button"><a href="{% include relative-src.html src=post.url %}">{% t button.readmore %}</a></div>
 			{% endif %}
 		</div>
 	</li>

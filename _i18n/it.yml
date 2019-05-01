@@ -8,15 +8,15 @@ langs:
   es: Esp
   it: Ita
 pages:
-  indexTitleTop: Communication for everyone
-  indexSubTitleTop:  web app for children and adults with speech and language impairments, aiding communication with symbols and text-to-speech.
-  indexSubTitleTopin: is an
+  indexTitleTop: Comunicazione per tutti
+  indexSubTitleTop:   applicazione Web  per bambini e adulti con disabilità linguistiche e vocali, che aiuta a comunicare con i simboli e il testo in voce.
+  indexSubTitleTopin: è un
   example: example
   headAbout: Our Story
   contactTitle: Get in touch today
   contactSubTitle: If you have any questions or queries send us a message and we'll get back to you as soon as we can.
-  blogTitle: The latest news
-  blogSubTitle: Hear the latest progress on Cboard development
+  blogTitle: Le ultime notizie
+  blogSubTitle: Ascolta gli ultimi progressi sullo sviluppo di Cboard
 titles:
   pagination: Pagination
 navs: 
@@ -26,5 +26,4 @@ subtitulos:
   about: We are an international group of professionals whose sole goal is to develop a free and open-source communication aid for people around the globe.
 button:
   readmore: Read More
-  star: Start Cboard
-
+  star: Inizio Cboard
