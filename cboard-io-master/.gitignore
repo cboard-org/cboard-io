@@ -1,9 +1,0 @@
-_site/
-.sass-cache/
-.jekyll-metadata
-
-# netbeans
-nbproject/
-
-# visual studio
-*.njsproj
