@@ -9,8 +9,10 @@ categories:
 image: /images/aacgathering.jpg
 author_staff_member: martin
 ---
-## UNICEF Innovation Fund graduation 
+## Cboard graduates!
 We are proud to say we have complete the process that finishes our 15 months of investment with the Unicef innovation fund.
+
+![UNICEF-Innovation_Primary-Logo](/images/UNICEF-Innovation_Primary-Logo.png)
 
 ## Biggest key achievements 
 Over the past 15 months, our team was able to run three iterations of development and field testing of a cloud-based application that can help users to communicate.
