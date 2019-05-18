@@ -1,5 +1,5 @@
 ---
-title:  UNICEF Innovation Fund graduation 
+title: UNICEF Innovation Fund graduation 
 date: 2019-05-15
 description: A long and fantastic trip 
 categories:
