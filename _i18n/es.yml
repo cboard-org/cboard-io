@@ -1,32 +1,37 @@
+---
 global:
-  tagline: Español
+  tagline: Inglés
   about: Sobre
   twitter: Twitter
   github: GitHub
 langs:
-  en: Eng
+  en: Ing
   es: Esp
   it: Ita
 pages:
   indexTitleTop: Comunicación para todos.
-  indexSubTitleTop:  aplicación web  para niños y adultos con discapacidades del habla y del lenguaje, que ayuda a la comunicación con símbolos y texto a voz.
-  indexSubTitleTopin: es una
-  example: Ejemplo
-  headAbout: Nuestra Historia
+  indexSubTitleTop: Aplicación web para niños y adultos con discapacidades del habla y del lenguaje, que ayuda a la comunicación con símbolos y texto a voz.
+  indexSubTitleTopin: es un
+  example: ejemplo
+  headAbout: Nuestra historia
   contactTitle: Ponte en contacto hoy
-  contactSubTitle: Si tiene alguna pregunta o consulta, envíenos un mensaje y nos pondremos en contacto con usted lo antes posible
+  contactSubTitle: Si tiene alguna pregunta o consulta, envíenos un mensaje y nos pondremos en contacto con usted lo antes posible.
   blogTitle: Las últimas noticias
   blogSubTitle: Escucha los últimos avances en el desarrollo de Cboard.
   index_info1Title: Construido para la web
+  index_info2Title: Tableros personalizados
+  index_info3Title: 33 idiomas
+  index_info1Desc: "Cboard funciona en navegadores modernos y está disponible en una amplia variedad de plataformas, que incluyen computadoras de escritorio, tabletas y teléfonos móviles. El soporte sin conexión está disponible en Google Chrome (escritorio y Android)."
+  index_info2Desc: 'Con más de 3400 símbolos del <a href="https://mulberrysymbols.org/">Conjunto de símbolos de Mulberry</a>, puede crear sus propios tableros personalizados para diferentes situaciones de la vida.'
+  index_info3Desc: "Cboard viene con soporte para 33 idiomas, el soporte varía según los sistemas operativos."
 titles:
   pagination: Paginación
-navs: 
-   about: Nosotros
-   contact: contacto
+navs:
+  about: acerca de
+  contact: contacto
 subtitulos:
   about: Somos un grupo internacional de profesionales cuyo único objetivo es desarrollar una ayuda de comunicación gratuita y de código abierto para personas de todo el mundo.
 button:
-  readmore: Leer Mas
+  readmore: Lee mas
   star: Iniciar Cboard
-
 

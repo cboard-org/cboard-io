@@ -1,7 +1,8 @@
+---
 global:
-  tagline: English
-  about: About
-  twitter: Twitter
+  tagline: Inglese
+  about: Info
+  twitter: cinguettio
   github: GitHub
 langs:
   en: Eng
@@ -9,21 +10,28 @@ langs:
   it: Ita
 pages:
   indexTitleTop: Comunicazione per tutti
-  indexSubTitleTop:   applicazione Web  per bambini e adulti con disabilità linguistiche e vocali, che aiuta a comunicare con i simboli e il testo in voce.
+  indexSubTitleTop: app web per bambini e adulti con problemi linguistici e vocali, facilitando la comunicazione con i simboli e la sintesi vocale.
   indexSubTitleTopin: è un
-  example: example
-  headAbout: Our Story
-  contactTitle: Get in touch today
-  contactSubTitle: If you have any questions or queries send us a message and we'll get back to you as soon as we can.
+  example: esempio
+  headAbout: La nostra storia
+  contactTitle: Mettiti in contatto oggi
+  contactSubTitle: Se hai domande o domande inviaci un messaggio e ti risponderemo al più presto.
   blogTitle: Le ultime notizie
   blogSubTitle: Ascolta gli ultimi progressi sullo sviluppo di Cboard
+  index_info1Title: Costruito per il web
+  index_info2Title: Schede personalizzate
+  index_info3Title: 33 lingue
+  index_info1Desc: "Cboard funziona su browser moderni ed è disponibile su una vasta gamma di piattaforme, inclusi desktop, tablet e telefoni cellulari. Il supporto offline è disponibile su Google Chrome (desktop e android)."
+  index_info2Desc: 'Con oltre 3400 simboli del <a href="https://mulberrysymbols.org/">Mulberry Symbol Set</a>, puoi creare le tue schede personalizzate per le diverse situazioni della vita.'
+  index_info3Desc: "Cboard viene fornito con supporto per 33 lingue, il supporto varia a seconda dei sistemi operativi."
 titles:
-  pagination: Pagination
-navs: 
-   about: about
-   contact: contact
+  pagination: paginatura
+navs:
+  about: di
+  contact: contatto
 subtitulos:
-  about: We are an international group of professionals whose sole goal is to develop a free and open-source communication aid for people around the globe.
+  about: Siamo un gruppo internazionale di professionisti il cui unico obiettivo è sviluppare un servizio di comunicazione gratuito e open source per persone in tutto il mondo.
 button:
-  readmore: Read More
-  star: Inizio Cboard
+  readmore: Leggi di più
+  star: Start Cboard
+
