@@ -1,21 +1,45 @@
 <nav>
 	<a class="nav-toggle" href="#">&#9776;</a>
-	
 	{% for link in site.data.navigation %}
-		{% assign class = "" %}
-	
-		{% if link.highlight %}
-			{% assign class = class | append: " highlight" %}
-		{% endif %}
+	{% assign class = "" %}
+	{% if link.highlight %}
+	{% assign class = class | append: " highlight" %}
+	{% endif %}
 
-		{% if link.link == page.url %}
-			{% assign class = class | append: " active" %}
-		{% endif %}
-		
-		<a href="{% include relative-src.html src=link.link %}" class="{{ class }}" {% if link.new_window %}target="_blank" {%
-		endif %}>{{ link.name }}</a>
+	{% if link.link == page.url %}
+	{% assign class = class | append: " active" %}
+	{% endif %}
+	<a href="{% include relative-src.html src=link.link %}" class="{{ class }}" {% if link.new_window %}target="_blank" {%
+	 endif %}>{{ link.name }}</a>
 	{% endfor %}
+  <a class="github-link" href="https://github.com/cboard-org/cboard">GitHub</a>
+  
 	
-	<a class="github-link" href="https://github.com/cboard-org/cboard">GitHub</a>
-	<a class="donate-link" href="https://opencollective.com/cboard" target="_blank">Donate</a>
+	<div align="right">
+      <!-- Adds links to other languages on the post -->
+      {% for lang in site.languages %}
+        {% unless site.lang == lang %}
+          {% if lang == site.default_lang %}
+            <a href="{{ site.baseurl_root }}{{ page.url }}" >{% t langs.{{ lang }} %}</a>
+          {% else %}
+            <a href="{{ site.baseurl_root }}/{{ lang }}{{ page.url }}" >{% t langs.{{ lang }} %}</a>
+          {% endif %}
+          
+          {% assign next = forloop.index | plus: 1 %}
+          
+          {% if forloop.last != true and site.languages[forloop.index] != site.lang or site.languages[forloop.index] == site.lang and next < forloop.length %}
+            
+          {% endif %}
+          
+        {% endunless %}
+      {% endfor %}
+    </div>
+
+
+
+
+
 </nav>
+
+
+

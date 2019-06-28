@@ -33,6 +33,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-archives
+  - jekyll-multiple-languages-plugin
 
 exclude:
   - Gemfile
@@ -106,3 +107,8 @@ social_icons:
 _comments:
   description: Text shown when sharing on social media
   blurb: Short bio or description of this person
+
+# jekyll-multiple-languages-plugin settings:
+languages: ["en", "es", "it"]
+
+exclude_from_localizations: [ "javascripts", "css", "scripts", "favicon.ico"]

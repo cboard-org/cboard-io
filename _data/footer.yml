@@ -19,3 +19,11 @@ right_links:
   - name:
     link: /feed.xml
     social_icon: RSS
+  - name:
+    link: https://www.facebook.com/cboardAAC/
+    social_icon: Facebook
+    new_window: true  
+  - name:
+    link: https://www.instagram.com/cboardapp/?hl=es-la
+    social_icon: Instagram
+    new_window: true    

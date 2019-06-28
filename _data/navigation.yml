@@ -1,8 +1,14 @@
 - name: Blog
   link: /blog/
+  link_es: /bloguie/
 - name: About
   link: /about/
 - name: Contact
   link: /contact/
 - name: Help
   link: /help/
+- name: Donate
+  link: https://opencollective.com/cboard
+
+  
+  
