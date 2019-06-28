@@ -13,9 +13,11 @@ pages:
   indexSubTitleTop: app web per bambini e adulti con problemi linguistici e vocali, facilitando la comunicazione con i simboli e la sintesi vocale.
   indexSubTitleTopin: è un
   example: esempio
-  headAbout: La nostra storia
-  contactTitle: Mettiti in contatto oggi
-  contactSubTitle: Se hai domande o domande inviaci un messaggio e ti risponderemo al più presto.
+  about_title: La nostra storia
+  about_desc: Siamo un gruppo internazionale di professionisti il cui unico obiettivo è sviluppare un servizio di comunicazione gratuito e open source per persone in tutto il mondo.
+  contact_address: Indirizzo
+  contact_title: Mettiti in contatto oggi
+  contact_subtitle: Se hai domande o domande inviaci un messaggio e ti risponderemo al più presto.
   blogTitle: Le ultime notizie
   blogSubTitle: Ascolta gli ultimi progressi sullo sviluppo di Cboard
   index_info1Title: Costruito per il web
@@ -24,13 +26,13 @@ pages:
   index_info1Desc: "Cboard funziona su browser moderni ed è disponibile su una vasta gamma di piattaforme, inclusi desktop, tablet e telefoni cellulari. Il supporto offline è disponibile su Google Chrome (desktop e android)."
   index_info2Desc: 'Con oltre 3400 simboli del <a href="https://mulberrysymbols.org/">Mulberry Symbol Set</a>, puoi creare le tue schede personalizzate per le diverse situazioni della vita.'
   index_info3Desc: "Cboard viene fornito con supporto per 33 lingue, il supporto varia a seconda dei sistemi operativi."
+  index_bottomTitle: 'Unisciti a noi su GitHub'
+  index_bottomDesc: 'Cboard è un progetto open source, apprezziamo sempre una mano amica, se vuoi contribuire, sei invitato al nostro repository GitHub.'
 titles:
   pagination: paginatura
 navs:
   about: di
   contact: contatto
-subtitulos:
-  about: Siamo un gruppo internazionale di professionisti il cui unico obiettivo è sviluppare un servizio di comunicazione gratuito e open source per persone in tutto il mondo.
 button:
   readmore: Leggi di più
   star: Start Cboard

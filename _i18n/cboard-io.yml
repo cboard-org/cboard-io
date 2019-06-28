@@ -12,9 +12,11 @@ pages:
   indexSubTitleTop:  web app for children and adults with speech and language impairments, aiding communication with symbols and text-to-speech.
   indexSubTitleTopin: is an
   example: example
-  headAbout: Our Story
-  contactTitle: Get in touch today
-  contactSubTitle: If you have any questions or queries send us a message and we'll get back to you as soon as we can.
+  about_title: Our Story
+  about_desc: We are an international group of professionals whose sole goal is to develop a free and open-source communication aid for people around the globe.
+  contact_address: Address
+  contact_title: Get in touch today
+  contact_subtitle: If you have any questions or queries send us a message and we'll get back to you as soon as we can.
   blogTitle: The latest news
   blogSubTitle: Hear the latest progress on Cboard development
   index_info1Title: Built for the web
@@ -23,13 +25,13 @@ pages:
   index_info1Desc: "Cboard works on modern browsers and is available on a wide variety of platforms, including desktops, tablets and mobile phones. Offline support is available on Google Chrome (desktop & android)."
   index_info2Desc: 'With more than 3400 symbols from the <a href="https://mulberrysymbols.org/">Mulberry Symbol Set</a>, you can create your own custom boards for different situations in life.'
   index_info3Desc: "Cboard comes with support for 33 languages, support varies between operating systems."
+  index_bottomTitle: 'Join us on GitHub'
+  index_bottomDesc: 'Cboard is an open-source project, we always appreciate a helping hand, if you want to contribute you are invited to our GitHub repo.'
 titles:
   pagination: Pagination
 navs: 
    about: about
    contact: contact
-subtitulos:
-  about: We are an international group of professionals whose sole goal is to develop a free and open-source communication aid for people around the globe.
 button:
   readmore: Read More
   star: Start Cboard
