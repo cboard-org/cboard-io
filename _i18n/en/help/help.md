@@ -7,7 +7,7 @@ description: Cboard Help -
 Cboard Help
 ===========
 
-What is Cboard? {style="padding-top: 5%;"}
+What is Cboard?
 ---------------
 
 Cboard is a free web application for children and adults with speech and
