@@ -1,7 +1,3 @@
----
-title: Cboard Help 
-description: Cboard Help -
----
 
 
 Cboard Help
