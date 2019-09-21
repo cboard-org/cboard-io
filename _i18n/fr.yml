@@ -1,0 +1,39 @@
+---
+global:
+  tagline: Anglais
+  about: À propos
+  twitter: Twitter
+  github: GitHub
+langs:
+  en: Eng
+  es: Esp
+  it: Ita
+pages:
+  indexTitleTop: Communication pour tous
+  indexSubTitleTop: application Web pour enfants et adultes ayant des troubles de la parole et du langage, facilitant la communication avec des symboles et la synthèse vocale.
+  indexSubTitleTopin: est un
+  example: exemple
+  about_title: Notre histoire
+  about_desc: Nous sommes un groupe international de professionnels dont le seul objectif est de développer une aide à la communication gratuite et ouverte pour tous dans le monde.
+  contact_address: Adresse
+  contact_title: Entrez en contact aujourd'hui
+  contact_subtitle: Si vous avez des questions ou des questions, envoyez-nous un message et nous vous contacterons dès que possible.
+  blogTitle: Les dernières nouvelles
+  blogSubTitle: Écoutez les derniers progrès sur le développement de Cboard
+  index_info1Title: Construit pour le web
+  index_info2Title: Conseils personnalisés
+  index_info3Title: 33 langues
+  index_info1Desc: "Cboard fonctionne sur les navigateurs modernes et est disponible sur une grande variété de plates-formes, y compris les ordinateurs de bureau, les tablettes et les téléphones mobiles. Le support hors ligne est disponible sur Google Chrome (desktop et android)."
+  index_info2Desc: 'Avec plus de 3 400 symboles du groupe de symboles <a href="https://mulberrysymbols.org/">Mulberry</a>, vous pouvez créer vos propres tableaux personnalisés pour différentes situations de la vie.'
+  index_info3Desc: "Cboard prend en charge 33 langues, la prise en charge varie selon les systèmes d'exploitation."
+  index_bottomTitle: 'Rejoignez-nous sur GitHub'
+  index_bottomDesc: 'Cboard est un projet open-source, nous apprécions toujours de l''aide, si vous voulez contribuer, vous êtes invité à notre repo GitHub.'
+titles:
+  pagination: Pagination
+navs:
+  about: sur
+  contact: contact
+button:
+  readmore: Lire la suite
+  star: Démarrer Cboard
+

@@ -1,0 +1,39 @@
+---
+global:
+  tagline: Engleski
+  about: Oko
+  twitter: Cvrkut
+  github: GitHub
+langs:
+  en: Eng
+  es: esp
+  it: Ita
+pages:
+  indexTitleTop: Komunikacija za sve
+  indexSubTitleTop: internetska aplikacija za djecu i odrasle osobe s oštećenjem govora i jezika, pomažući komunikaciji sa simbolima i tekstom u govor.
+  indexSubTitleTopin: je
+  example: primjer
+  about_title: Naša priča
+  about_desc: Mi smo međunarodna skupina profesionalaca čiji je jedini cilj razviti besplatnu komunikacijsku pomoć otvorenog koda za ljude širom svijeta.
+  contact_address: Adresa
+  contact_title: Javite se danas
+  contact_subtitle: Ako imate bilo kakvih pitanja ili upita, pošaljite nam poruku i javit ćemo vam se što je prije moguće.
+  blogTitle: Najnovije vijesti
+  blogSubTitle: Čujte najnoviji napredak na razvoju ploče
+  index_info1Title: Izgrađeno za web
+  index_info2Title: Personalizirane ploče
+  index_info3Title: 33 jezika
+  index_info1Desc: "Cboard radi na modernim preglednicima i dostupan je na velikom broju platformi, uključujući radne površine, tablete i mobilne telefone. Izvanmrežna podrška dostupna je na pregledniku Google Chrome (desktop i android)."
+  index_info2Desc: 'S više od 3400 simbola iz skupa simbola <a href="https://mulberrysymbols.org/">Mulberry</a>, možete stvoriti vlastite prilagođene ploče za različite životne situacije.'
+  index_info3Desc: "Na ploči se nudi podrška za 33 jezika, a podrška varira između operativnih sustava."
+  index_bottomTitle: 'Pridružite nam se na GitHub-u'
+  index_bottomDesc: 'Cboard je projekt otvorenog koda, uvijek ćemo vam pomoći ako želite dati svoj doprinos, pozvani ste u naš GitHub repo.'
+titles:
+  pagination: obilježavanje strana
+navs:
+  about: oko
+  contact: kontakt
+button:
+  readmore: Čitaj više
+  star: Pokrenite Cboard
+

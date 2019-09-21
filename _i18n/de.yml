@@ -1,0 +1,39 @@
+---
+global:
+  tagline: Englisch
+  about: Über
+  twitter: Twitter
+  github: GitHub
+langs:
+  en: Eng
+  es: Esp
+  it: Ita
+pages:
+  indexTitleTop: Kommunikation für alle
+  indexSubTitleTop: Web-App für Kinder und Erwachsene mit Sprach- und Sprachbehinderungen zur Unterstützung der Kommunikation mit Symbolen und Text-to-Speech.
+  indexSubTitleTopin: ist ein
+  example: Beispiel
+  about_title: Unsere Geschichte
+  about_desc: Wir sind eine internationale Gruppe von Fachleuten, deren einziges Ziel es ist, eine kostenlose und quelloffene Kommunikationshilfe für Menschen auf der ganzen Welt zu entwickeln.
+  contact_address: Adresse
+  contact_title: Nehmen Sie noch heute Kontakt auf
+  contact_subtitle: Wenn Sie Fragen oder Anregungen haben, senden Sie uns eine Nachricht und wir werden uns so schnell wie möglich bei Ihnen melden.
+  blogTitle: Die neusten Nachrichten
+  blogSubTitle: Hören Sie die neuesten Fortschritte in der Cboard-Entwicklung
+  index_info1Title: Für das Web gebaut
+  index_info2Title: Personalisierte Tafeln
+  index_info3Title: 33 Sprachen
+  index_info1Desc: "Cboard funktioniert mit modernen Browsern und ist auf einer Vielzahl von Plattformen verfügbar, darunter Desktops, Tablets und Mobiltelefone. Die Offline-Unterstützung ist in Google Chrome (Desktop & Android) verfügbar."
+  index_info2Desc: 'Mit mehr als 3400 Symbolen aus dem <a href="https://mulberrysymbols.org/">Mulberry Symbol Set</a>können Sie Ihre eigenen benutzerdefinierten Boards für verschiedene Lebenssituationen erstellen.'
+  index_info3Desc: "Cboard wird mit 33 Sprachen unterstützt. Die Unterstützung variiert je nach Betriebssystem."
+  index_bottomTitle: 'Begleiten Sie uns auf GitHub'
+  index_bottomDesc: 'Cboard ist ein Open-Source-Projekt. Wir freuen uns immer über eine helfende Hand. Wenn Sie etwas beitragen möchten, werden Sie zu unserem GitHub-Repo eingeladen.'
+titles:
+  pagination: Seitennummerierung
+navs:
+  about: Über
+  contact: Kontakt
+button:
+  readmore: Weiterlesen
+  star: Starten Sie Cboard
+
