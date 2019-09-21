@@ -1,6 +1,6 @@
 ---
 global:
-  tagline: Anglais
+  tagline: Français
   about: À propos
   twitter: Twitter
   github: GitHub
@@ -8,6 +8,9 @@ langs:
   en: Eng
   es: Esp
   it: Ita
+  de: Deu
+  fr: Fra
+  hr: Hrv
 pages:
   indexTitleTop: Communication pour tous
   indexSubTitleTop: application Web pour enfants et adultes ayant des troubles de la parole et du langage, facilitant la communication avec des symboles et la synthèse vocale.

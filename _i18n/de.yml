@@ -1,6 +1,6 @@
 ---
 global:
-  tagline: Englisch
+  tagline: German
   about: Über
   twitter: Twitter
   github: GitHub
@@ -8,6 +8,9 @@ langs:
   en: Eng
   es: Esp
   it: Ita
+  de: Deu
+  fr: Fra
+  hr: Hrv
 pages:
   indexTitleTop: Kommunikation für alle
   indexSubTitleTop: Web-App für Kinder und Erwachsene mit Sprach- und Sprachbehinderungen zur Unterstützung der Kommunikation mit Symbolen und Text-to-Speech.

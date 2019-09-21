@@ -1,6 +1,6 @@
 ---
 global:
-  tagline: Engleski
+  tagline: Hrvatski
   about: Oko
   twitter: Cvrkut
   github: GitHub
@@ -8,6 +8,9 @@ langs:
   en: Eng
   es: esp
   it: Ita
+  de: Deu
+  fr: Fra
+  hr: Hrv
 pages:
   indexTitleTop: Komunikacija za sve
   indexSubTitleTop: internetska aplikacija za djecu i odrasle osobe s oštećenjem govora i jezika, pomažući komunikaciji sa simbolima i tekstom u govor.

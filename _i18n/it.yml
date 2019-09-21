@@ -1,6 +1,6 @@
 ---
 global:
-  tagline: Inglese
+  tagline: Italiano
   about: Info
   twitter: cinguettio
   github: GitHub
@@ -8,6 +8,9 @@ langs:
   en: Eng
   es: Esp
   it: Ita
+  de: Deu
+  fr: Fra
+  hr: Hrv
 pages:
   indexTitleTop: Comunicazione per tutti
   indexSubTitleTop: app web per bambini e adulti con problemi linguistici e vocali, facilitando la comunicazione con i simboli e la sintesi vocale.
