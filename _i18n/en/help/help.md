@@ -6,7 +6,7 @@ Cboard is a free web application for children and adults with speech and languag
 
 ## How do I register for Cboard?
 
-To register for Cboard, begin by following the steps on the Welcome page [Figure 1](#Figure1).
+iiiiTo register for Cboard, begin by following the steps on the Welcome page [Figure 1](#Figure1).
 
 ![Figure 1](/images/help/image11.png "Figure 1")
 
@@ -106,3 +106,6 @@ In order to Import and Export boards you have two options:
 To print your board, press the printer logo on the left hand side of the black HOME bar, after having unlocked the HOME page (see Figure 6).
 
 ## Can I resize buttons on Cboard?
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTkxNjk1NDc1OF19
+-->
