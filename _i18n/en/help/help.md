@@ -33,7 +33,7 @@ Figure 3
 
 ### What is the difference between a registered and a non-registered user?
 
-
+##
 
 ### How do I reset my password?
 ## How much does Cboard cost?
@@ -122,6 +122,6 @@ To print your board, press the printer logo on the left hand side of the black H
 
 ## Can I resize buttons on Cboard?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MjI4NTcwNywtMTQyNTMzMDc0NiwxOT
-E2OTU0NzU4XX0=
+eyJoaXN0b3J5IjpbLTE2MDM5MzAzNDcsLTE0MjUzMzA3NDYsMT
+kxNjk1NDc1OF19
 -->
