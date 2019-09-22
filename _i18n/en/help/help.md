@@ -59,7 +59,9 @@ Figure 4
 
 Cboard comes with support for 33 languages.
 
-### Sp
+### Speech capabilities
+
+### Export and import 
 
 ## How do I access settings in Cboard?
 
@@ -129,6 +131,6 @@ To print your board, press the printer logo on the left hand side of the black H
 
 ## Can I resize buttons on Cboard?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NjUzNTkwLC0xNDI1MzMwNzQ2LDE5MT
-Y5NTQ3NThdfQ==
+eyJoaXN0b3J5IjpbMTM3MDc5OTAzOCwtMTQyNTMzMDc0NiwxOT
+E2OTU0NzU4XX0=
 -->
