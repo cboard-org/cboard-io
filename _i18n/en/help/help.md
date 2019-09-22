@@ -33,9 +33,11 @@ Figure 3
 
 ### What is the difference between a registered and a non-registered user?
 
-##
+### How do I update my user information?
 
 ### How do I reset my password?
+
+## 
 ## How much does Cboard cost?
 
 Cboard is completely free of any charge.
@@ -122,6 +124,6 @@ To print your board, press the printer logo on the left hand side of the black H
 
 ## Can I resize buttons on Cboard?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDM5MzAzNDcsLTE0MjUzMzA3NDYsMT
-kxNjk1NDc1OF19
+eyJoaXN0b3J5IjpbLTM2NDc4MDEzLC0xNDI1MzMwNzQ2LDE5MT
+Y5NTQ3NThdfQ==
 -->
