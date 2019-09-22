@@ -29,7 +29,8 @@ To log in to Cboard, you follow the first step used to sign up, but instead of c
 ![Figure 3](/images/help/image3.png "Figure 3")
 
 Figure 3
-
+### How do I logout?
+### How do I reset my password?
 ## How much does Cboard cost?
 
 Cboard is completely free of any charge.
@@ -42,7 +43,7 @@ Cboard works on modern browsers and is available on a wide variety of platforms,
 
 Figure 4
 
-## How do I reset my password?
+
 
 ## Cboard supported languages
 
@@ -116,6 +117,6 @@ To print your board, press the printer logo on the left hand side of the black H
 
 ## Can I resize buttons on Cboard?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjA1NDA4NzIsLTE0MjUzMzA3NDYsMT
-kxNjk1NDc1OF19
+eyJoaXN0b3J5IjpbLTUyMTUxNjYyMSwtMTQyNTMzMDc0NiwxOT
+E2OTU0NzU4XX0=
 -->
