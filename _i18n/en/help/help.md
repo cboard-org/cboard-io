@@ -18,7 +18,8 @@ If you are a new user, press SIGN UP, and a short form will pop up asking for ba
 
 Figure 2
 
-##Can I reg
+##Can I register myself using my social media accounts?
+
 
 ## How do I log in to Cboard?
 
@@ -109,6 +110,6 @@ To print your board, press the printer logo on the left hand side of the black H
 
 ## Can I resize buttons on Cboard?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMDI0ODY3OSwtMTQyNTMzMDc0NiwxOT
+eyJoaXN0b3J5IjpbLTgyOTkxNDI4NiwtMTQyNTMzMDc0NiwxOT
 E2OTU0NzU4XX0=
 -->
