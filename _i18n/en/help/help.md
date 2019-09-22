@@ -85,6 +85,12 @@ In order to access settings, double-click the small lock on the right-hand side,
 
 Figure 6
 
+### How do I print my board set in Cboard?
+
+To print your board, press the printer logo on the left hand side of the black HOME bar, after having unlocked the HOME page (see Figure 6).
+
+### How do I see 
+
 ## How do I get started talking with Cboard?
 
 ## How do I create an empty board?
@@ -133,12 +139,8 @@ In order to Import and Export boards you have two options:
 - Use Cboard native file boards.
 - Use OpenBoard formatted files.
 
-## How do I print my board set in Cboard?
-
-To print your board, press the printer logo on the left hand side of the black HOME bar, after having unlocked the HOME page (see Figure 6).
-
 ## Can I resize buttons on Cboard?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAwNTEyOTYyLC0xNDI1MzMwNzQ2LDE5MT
-Y5NTQ3NThdfQ==
+eyJoaXN0b3J5IjpbLTEyNzkzNTE5OTMsLTE0MjUzMzA3NDYsMT
+kxNjk1NDc1OF19
 -->
