@@ -63,7 +63,7 @@ Figure 6
 
 ## How do I get started talking with Cboard?
 
-##
+## How do I create an empty board?
 
 ## How do I personalize an existing board in Cboard?
 
@@ -114,6 +114,6 @@ To print your board, press the printer logo on the left hand side of the black H
 
 ## Can I resize buttons on Cboard?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc1NTI3OTYzLC0xNDI1MzMwNzQ2LDE5MT
+eyJoaXN0b3J5IjpbNTMwMjI3Njg0LC0xNDI1MzMwNzQ2LDE5MT
 Y5NTQ3NThdfQ==
 -->
