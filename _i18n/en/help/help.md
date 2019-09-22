@@ -41,7 +41,7 @@ Cboard works on modern browsers and is available on a wide variety of platforms,
 
 Figure 4
 
-## How do I rese
+## How do I reset my password?
 
 ## Cboard supported languages
 
@@ -62,6 +62,8 @@ In order to access settings, double-click the small lock on the right-hand side,
 Figure 6
 
 ## How do I get started talking with Cboard?
+
+##
 
 ## How do I personalize an existing board in Cboard?
 
@@ -112,6 +114,6 @@ To print your board, press the printer logo on the left hand side of the black H
 
 ## Can I resize buttons on Cboard?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTg3NDE4NjEsLTE0MjUzMzA3NDYsMT
-kxNjk1NDc1OF19
+eyJoaXN0b3J5IjpbNDc1NTI3OTYzLC0xNDI1MzMwNzQ2LDE5MT
+Y5NTQ3NThdfQ==
 -->
