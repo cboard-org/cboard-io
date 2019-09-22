@@ -30,6 +30,9 @@ To log in to Cboard, you follow the first step used to sign up, but instead of c
 
 Figure 3
 ### How do I logout?
+
+### What is the difference between a registered and a non
+
 ### How do I reset my password?
 ## How much does Cboard cost?
 
@@ -117,6 +120,6 @@ To print your board, press the printer logo on the left hand side of the black H
 
 ## Can I resize buttons on Cboard?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMTUxNjYyMSwtMTQyNTMzMDc0NiwxOT
-E2OTU0NzU4XX0=
+eyJoaXN0b3J5IjpbLTE2MjA1MDU2MzgsLTE0MjUzMzA3NDYsMT
+kxNjk1NDc1OF19
 -->
