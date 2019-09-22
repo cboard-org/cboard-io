@@ -43,7 +43,9 @@ Figure 3
 
 Cboard is completely free of any charge.
 
-## What devices and OS are supported?
+## Features 
+
+### What devices and OS are supported?
 
 Cboard works on modern browsers and is available on a wide variety of platforms, including desktops, tablets and mobile phones.
 
@@ -53,7 +55,7 @@ Figure 4
 
 
 
-## Cboard supported languages
+### Cboard supported languages
 
 Cboard comes with support for 33 languages.
 
@@ -125,6 +127,6 @@ To print your board, press the printer logo on the left hand side of the black H
 
 ## Can I resize buttons on Cboard?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDkyODE1NjEsLTE0MjUzMzA3NDYsMT
-kxNjk1NDc1OF19
+eyJoaXN0b3J5IjpbLTQwMDMyNTY4OCwtMTQyNTMzMDc0NiwxOT
+E2OTU0NzU4XX0=
 -->
