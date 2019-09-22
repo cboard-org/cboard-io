@@ -18,6 +18,8 @@ If you are a new user, press SIGN UP, and a short form will pop up asking for ba
 
 Figure 2
 
+##Can I reg
+
 ## How do I log in to Cboard?
 
 To log in to Cboard, you follow the first step used to sign up, but instead of clicking SIGN UP on the Welcome screen, click LOGIN (Figure 3). \ You will then be asked to provide the e-mail you initially signed up with, and the password you set.
@@ -107,5 +109,6 @@ To print your board, press the printer logo on the left hand side of the black H
 
 ## Can I resize buttons on Cboard?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjUzMzA3NDYsMTkxNjk1NDc1OF19
+eyJoaXN0b3J5IjpbMTEzMDI0ODY3OSwtMTQyNTMzMDc0NiwxOT
+E2OTU0NzU4XX0=
 -->
