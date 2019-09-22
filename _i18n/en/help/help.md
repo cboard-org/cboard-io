@@ -37,8 +37,9 @@ Figure 3
 
 ### How do I reset my password?
 
-## 
-## How much does Cboard cost?
+## Price 
+
+### How much does Cboard cost?
 
 Cboard is completely free of any charge.
 
@@ -124,6 +125,6 @@ To print your board, press the printer logo on the left hand side of the black H
 
 ## Can I resize buttons on Cboard?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NDc4MDEzLC0xNDI1MzMwNzQ2LDE5MT
-Y5NTQ3NThdfQ==
+eyJoaXN0b3J5IjpbLTE4MDkyODE1NjEsLTE0MjUzMzA3NDYsMT
+kxNjk1NDc1OF19
 -->
