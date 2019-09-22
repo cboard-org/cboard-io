@@ -4,7 +4,7 @@
 
 Cboard is a free web application for children and adults with speech and language impairments, facilitating communication with pictures and text-to-speech.
 
-## How do I register for Cboard?
+# Registration and ## How do I register for Cboard?
 
 To register for Cboard, begin by following the steps on the Welcome page [Figure 1](#Figure1).
 
@@ -65,6 +65,7 @@ Figure 6
 
 ## How do I create an empty board?
 
+
 ## How do I personalize an existing board in Cboard?
 
 In order to personalize an existing board, unlock the HOME page by double clicking the lock on the right hand side. Then click on the dashboard button on the left hand side of the gray bar. (See Figure 6 for reference). \ Once you click select, the gray bar should turn blue, and on the right hand side you will see a small trash can and a pencil (Figure 7).
@@ -114,6 +115,6 @@ To print your board, press the printer logo on the left hand side of the black H
 
 ## Can I resize buttons on Cboard?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMwMjI3Njg0LC0xNDI1MzMwNzQ2LDE5MT
-Y5NTQ3NThdfQ==
+eyJoaXN0b3J5IjpbLTE0NjgyNTE5OTcsLTE0MjUzMzA3NDYsMT
+kxNjk1NDc1OF19
 -->
