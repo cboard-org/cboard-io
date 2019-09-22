@@ -6,7 +6,7 @@ Cboard is a free web application for children and adults with speech and languag
 
 ## How do I register for Cboard?
 
-iiiiTo register for Cboard, begin by following the steps on the Welcome page [Figure 1](#Figure1).
+To register for Cboard, begin by following the steps on the Welcome page [Figure 1](#Figure1).
 
 ![Figure 1](/images/help/image11.png "Figure 1")
 
@@ -107,5 +107,5 @@ To print your board, press the printer logo on the left hand side of the black H
 
 ## Can I resize buttons on Cboard?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNjk1NDc1OF19
+eyJoaXN0b3J5IjpbLTE0MjUzMzA3NDYsMTkxNjk1NDc1OF19
 -->
