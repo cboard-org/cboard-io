@@ -18,7 +18,7 @@ If you are a new user, press SIGN UP, and a short form will pop up asking for ba
 
 Figure 2
 
-##Can I register myself using my social media accounts?
+## Can I register myself using my social media accounts?
 
 
 ## How do I log in to Cboard?
@@ -40,6 +40,8 @@ Cboard works on modern browsers and is available on a wide variety of platforms,
 ![Figure 4](/images/help/image4.png "Figure 4")
 
 Figure 4
+
+## How do I rese
 
 ## Cboard supported languages
 
@@ -110,6 +112,6 @@ To print your board, press the printer logo on the left hand side of the black H
 
 ## Can I resize buttons on Cboard?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyOTkxNDI4NiwtMTQyNTMzMDc0NiwxOT
-E2OTU0NzU4XX0=
+eyJoaXN0b3J5IjpbLTE2NTg3NDE4NjEsLTE0MjUzMzA3NDYsMT
+kxNjk1NDc1OF19
 -->
