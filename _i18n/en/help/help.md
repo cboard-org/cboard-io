@@ -91,9 +91,12 @@ To print your board, press the printer logo on the left hand side of the black H
 
 ### How do I see Cboard in fullscreen?
 
-### How do I share a b
+### How do I share a board?
 
-## How do I get started talking with Cboard?
+## Talking 
+
+### How do I get started talking with Cboard?
+# How do 
 
 ## How do I create an empty board?
 
@@ -143,6 +146,6 @@ In order to Import and Export boards you have two options:
 
 ## Can I resize buttons on Cboard?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDUzODYwNTgsLTE0MjUzMzA3NDYsMT
-kxNjk1NDc1OF19
+eyJoaXN0b3J5IjpbMTU5NjA2NDk0NiwtMTQyNTMzMDc0NiwxOT
+E2OTU0NzU4XX0=
 -->
