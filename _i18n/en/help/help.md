@@ -89,7 +89,9 @@ Figure 6
 
 To print your board, press the printer logo on the left hand side of the black HOME bar, after having unlocked the HOME page (see Figure 6).
 
-### How do I see 
+### How do I see Cboard in fullscreen?
+
+### How do I share a b
 
 ## How do I get started talking with Cboard?
 
@@ -141,6 +143,6 @@ In order to Import and Export boards you have two options:
 
 ## Can I resize buttons on Cboard?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzkzNTE5OTMsLTE0MjUzMzA3NDYsMT
+eyJoaXN0b3J5IjpbLTEzNDUzODYwNTgsLTE0MjUzMzA3NDYsMT
 kxNjk1NDc1OF19
 -->
