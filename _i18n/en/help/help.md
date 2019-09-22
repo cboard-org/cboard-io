@@ -69,7 +69,9 @@ Cboard comes with support for 33 languages.
 
 ### Navigation trough the interface 
 
-## How do I access settings in Cboard?
+## Settings 
+
+### How do I access settings in Cboard?
 
 Once you log into Cboard, the HOME page will open (Figure 5).
 
@@ -137,6 +139,6 @@ To print your board, press the printer logo on the left hand side of the black H
 
 ## Can I resize buttons on Cboard?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDAzMTk5MDAsLTE0MjUzMzA3NDYsMT
-kxNjk1NDc1OF19
+eyJoaXN0b3J5IjpbNDAwNTEyOTYyLC0xNDI1MzMwNzQ2LDE5MT
+Y5NTQ3NThdfQ==
 -->
