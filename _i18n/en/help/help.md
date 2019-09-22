@@ -4,7 +4,8 @@
 
 Cboard is a free web application for children and adults with speech and language impairments, facilitating communication with pictures and text-to-speech.
 
-# Registration and ## How do I register for Cboard?
+## Registration and login 
+### How do I register for Cboard?
 
 To register for Cboard, begin by following the steps on the Welcome page [Figure 1](#Figure1).
 
@@ -18,10 +19,10 @@ If you are a new user, press SIGN UP, and a short form will pop up asking for ba
 
 Figure 2
 
-## Can I register myself using my social media accounts?
+### Can I register myself using my social media accounts?
 
 
-## How do I log in to Cboard?
+### How do I log in to Cboard?
 
 To log in to Cboard, you follow the first step used to sign up, but instead of clicking SIGN UP on the Welcome screen, click LOGIN (Figure 3). \ You will then be asked to provide the e-mail you initially signed up with, and the password you set.
 
@@ -115,6 +116,6 @@ To print your board, press the printer logo on the left hand side of the black H
 
 ## Can I resize buttons on Cboard?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjgyNTE5OTcsLTE0MjUzMzA3NDYsMT
+eyJoaXN0b3J5IjpbLTE5NjA1NDA4NzIsLTE0MjUzMzA3NDYsMT
 kxNjk1NDc1OF19
 -->
