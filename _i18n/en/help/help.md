@@ -146,15 +146,19 @@ Figure 10
 
 In order to import a board, follow the steps used to Export. The Import symbol is below Export, an upward facing arrow with a horizontal bar below it (See figure 9).
 
-## What file format does Cboard use for import/export?
+### What file format does Cboard use for import/export?
 
 In order to Import and Export boards you have two options:
 
 - Use Cboard native file boards.
 - Use OpenBoard formatted files.
 
-## Can I resize buttons on Cboard?
+## Display capabilities 
+
+### Can I resize buttons on Cboard?
+
+### 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyODQ0MDUxOCwtMTQyNTMzMDc0NiwxOT
+eyJoaXN0b3J5IjpbLTY1MTE0MDA2NywtMTQyNTMzMDc0NiwxOT
 E2OTU0NzU4XX0=
 -->
