@@ -102,7 +102,7 @@ To print your board, press the printer logo on the left hand side of the black H
 
 ### How do I switch to a different voice?
 
-### How do I
+### How do I change how a voice sounds?
 
 ## Board Editing
 
@@ -167,5 +167,5 @@ In order to Import and Export boards you have two options:
 
 ## Navigation trough the interface 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MDU3Njg1MCwxNjMzNTIxNDBdfQ==
+eyJoaXN0b3J5IjpbLTE4NTU2ODE0OTAsMTYzMzUyMTQwXX0=
 -->
