@@ -96,7 +96,8 @@ To print your board, press the printer logo on the left hand side of the black H
 ## Talking 
 
 ### How do I get started talking with Cboard?
-# How do 
+
+### How do I remove symbols from the output bar?
 
 ## How do I create an empty board?
 
@@ -146,6 +147,6 @@ In order to Import and Export boards you have two options:
 
 ## Can I resize buttons on Cboard?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NjA2NDk0NiwtMTQyNTMzMDc0NiwxOT
-E2OTU0NzU4XX0=
+eyJoaXN0b3J5IjpbOTcyNDE0NzEwLC0xNDI1MzMwNzQ2LDE5MT
+Y5NTQ3NThdfQ==
 -->
