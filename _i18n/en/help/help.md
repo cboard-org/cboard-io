@@ -163,6 +163,5 @@ In order to Import and Export boards you have two options:
 
 ## Navigation trough the interface 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMzUyMTQwLC0xNDI1MzMwNzQ2LDE5MT
-Y5NTQ3NThdfQ==
+eyJoaXN0b3J5IjpbMTYzMzUyMTQwXX0=
 -->
