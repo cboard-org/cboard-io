@@ -99,10 +99,12 @@ To print your board, press the printer logo on the left hand side of the black H
 
 ### How do I remove symbols from the output bar?
 
-## How do I create an empty board?
+## Board Editing
+
+### How do I create an empty board?
 
 
-## How do I personalize an existing board in Cboard?
+### How do I personalize an existing board in Cboard?
 
 In order to personalize an existing board, unlock the HOME page by double clicking the lock on the right hand side. Then click on the dashboard button on the left hand side of the gray bar. (See Figure 6 for reference). \ Once you click select, the gray bar should turn blue, and on the right hand side you will see a small trash can and a pencil (Figure 7).
 
@@ -116,7 +118,7 @@ In order to personalize the board, click the pencil and you will be able to chan
 
 Figure 8
 
-## Can I use my own pictures when editing a board?
+### Can I use my own pictures when editing a board?
 
 Yes, you can use your own picture when editing a board. In order to use your own picture, you can upload the image when you create a new tile (by pressing the plus sign on the grey bar after unlocking the page, see Figure 6). \ You can also edit an existing tile with your own picture (see Figures 7 and 8).
 
@@ -147,6 +149,6 @@ In order to Import and Export boards you have two options:
 
 ## Can I resize buttons on Cboard?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcyNDE0NzEwLC0xNDI1MzMwNzQ2LDE5MT
-Y5NTQ3NThdfQ==
+eyJoaXN0b3J5IjpbMTYyNDM1ODcxNywtMTQyNTMzMDc0NiwxOT
+E2OTU0NzU4XX0=
 -->
