@@ -122,7 +122,9 @@ Figure 8
 
 Yes, you can use your own picture when editing a board. In order to use your own picture, you can upload the image when you create a new tile (by pressing the plus sign on the grey bar after unlocking the page, see Figure 6). \ You can also edit an existing tile with your own picture (see Figures 7 and 8).
 
-### Can I change the ordering 
+### Can I change the ordering of the elements in a board?
+
+### How do I select mul
 
 ## How do I export my board in Cboard?
 
@@ -151,6 +153,6 @@ In order to Import and Export boards you have two options:
 
 ## Can I resize buttons on Cboard?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTQ5MTgyMzIsLTE0MjUzMzA3NDYsMT
-kxNjk1NDc1OF19
+eyJoaXN0b3J5IjpbLTEyMTA2MDkxMywtMTQyNTMzMDc0NiwxOT
+E2OTU0NzU4XX0=
 -->
