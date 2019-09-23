@@ -124,9 +124,11 @@ Yes, you can use your own picture when editing a board. In order to use your own
 
 ### Can I change the ordering of the elements in a board?
 
-### How do I select mul
+### How do I select multiple elements to edit?
 
-## How do I export my board in Cboard?
+## Export and import 
+
+### How do I export my board in Cboard?
 
 In order to export your board in Cboard, go to settings (see Figure 6), and as soon as you open Settings, the Export option will appear as a downward facing arrow, right below Language and Speech (Figure 9).
 
@@ -140,7 +142,7 @@ Click on Export, and you will be able to download your Cboard by clicking on eit
 
 Figure 10
 
-## How do I import a board into Cboard?
+### How do I import a board into Cboard?
 
 In order to import a board, follow the steps used to Export. The Import symbol is below Export, an upward facing arrow with a horizontal bar below it (See figure 9).
 
@@ -153,6 +155,6 @@ In order to Import and Export boards you have two options:
 
 ## Can I resize buttons on Cboard?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTA2MDkxMywtMTQyNTMzMDc0NiwxOT
+eyJoaXN0b3J5IjpbLTUyODQ0MDUxOCwtMTQyNTMzMDc0NiwxOT
 E2OTU0NzU4XX0=
 -->
