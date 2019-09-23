@@ -100,7 +100,9 @@ To print your board, press the printer logo on the left hand side of the black H
 
 ### How do I remove symbols from the output bar?
 
-### How do I # Switch to a different voice
+### How do I switch to a different voice?
+
+### 
 
 ## Board Editing
 
@@ -165,5 +167,5 @@ In order to Import and Export boards you have two options:
 
 ## Navigation trough the interface 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjA3ODQxNTMsMTYzMzUyMTQwXX0=
+eyJoaXN0b3J5IjpbLTEyODg3MTY1OTgsMTYzMzUyMTQwXX0=
 -->
