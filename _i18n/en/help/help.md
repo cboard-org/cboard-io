@@ -5,6 +5,7 @@
 Cboard is a free web application for children and adults with speech and language impairments, facilitating communication with pictures and text-to-speech.
 
 ## Registration and login 
+
 ### How do I register for Cboard?
 
 To register for Cboard, begin by following the steps on the Welcome page [Figure 1](#Figure1).
@@ -157,8 +158,11 @@ In order to Import and Export boards you have two options:
 
 ### Can I resize buttons on Cboard?
 
-### 
+## Scanning 
+
+
+## Navigation trough the interface 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MTE0MDA2NywtMTQyNTMzMDc0NiwxOT
-E2OTU0NzU4XX0=
+eyJoaXN0b3J5IjpbMTYzMzUyMTQwLC0xNDI1MzMwNzQ2LDE5MT
+Y5NTQ3NThdfQ==
 -->
