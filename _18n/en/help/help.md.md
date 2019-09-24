@@ -42,6 +42,8 @@ A registered user is able to personalize their boards, and the changes made will
 
 ### How do I update my user information?
 
+To update your user information, follow the same steps you would if you were trying to log out. Double click the lock symbol on the right corner, and once you unlock the screen and the red bar appears, click on the icon to the left of the lock (your picture if you have one loaded), and you can then edit your user information. 
+
 ### How do I reset my password?
 
 ## Price 
@@ -173,6 +175,6 @@ In order to Import and Export boards you have two options:
 
 ## Navigation trough the interface 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzOTQ1MDg5LC0xODU1NjgxNDkwLDE2Mz
-M1MjE0MF19
+eyJoaXN0b3J5IjpbODA5NDYyOTc0LDE5Mzk0NTA4OSwtMTg1NT
+Y4MTQ5MCwxNjMzNTIxNDBdfQ==
 -->
