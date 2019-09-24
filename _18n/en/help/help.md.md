@@ -38,13 +38,15 @@ To logout, double click the lock symbol on the right corner, and once you unlock
 
 ### What is the difference between a registered and a non-registered user?
 
-A registered user is able to personalize their boards, and the changes made will 
+A registered user is able to personalize their boards, and the changes made will be saved to their account so that when they log back in, they can use their customized boards. A non-registered user won't be able to save changes safely. We recommend registering just in case, so you can save all your changes safely!
 
 ### How do I update my user information?
 
 ### How do I reset my password?
 
 ## Price 
+
+Cboard is FREE. We don't require any payment whatsoever. 
 
 ### How much does Cboard cost?
 
@@ -173,6 +175,6 @@ In order to Import and Export boards you have two options:
 
 ## Navigation trough the interface 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIwODk1MzQwLC0xODU1NjgxNDkwLDE2Mz
-M1MjE0MF19
+eyJoaXN0b3J5IjpbLTY0MDIyNTc5MywtMTg1NTY4MTQ5MCwxNj
+MzNTIxNDBdfQ==
 -->
