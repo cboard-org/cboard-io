@@ -34,9 +34,11 @@ Figure 3
 
 ### How do I logout?
 
-To logout, double click the 
+To logout, double click the lock symbol on the right corner, and once you unlock the screen and the red bar appears, click on the icon to the left of the lock (your picture if you have one loaded) and the option to log out will appear in red. 
 
 ### What is the difference between a registered and a non-registered user?
+
+A registered user is able to personalize their boards, and the changes made will 
 
 ### How do I update my user information?
 
@@ -171,6 +173,6 @@ In order to Import and Export boards you have two options:
 
 ## Navigation trough the interface 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NDM2Mjk5LC0xODU1NjgxNDkwLDE2Mz
+eyJoaXN0b3J5IjpbMzIwODk1MzQwLC0xODU1NjgxNDkwLDE2Mz
 M1MjE0MF19
 -->
