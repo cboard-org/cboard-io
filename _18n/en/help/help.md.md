@@ -22,6 +22,7 @@ Figure 2
 
 ### Can I register myself using my social media accounts?
 
+Yes! On the lo
 
 ### How do I log in to Cboard?
 
@@ -167,5 +168,6 @@ In order to Import and Export boards you have two options:
 
 ## Navigation trough the interface 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTU2ODE0OTAsMTYzMzUyMTQwXX0=
+eyJoaXN0b3J5IjpbLTc5MDY2NTg3NSwtMTg1NTY4MTQ5MCwxNj
+MzNTIxNDBdfQ==
 -->
