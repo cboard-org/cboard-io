@@ -46,8 +46,6 @@ A registered user is able to personalize their boards, and the changes made will
 
 ## Price 
 
-Cboard is FREE. We don't require any payment whatsoever. 
-
 ### How much does Cboard cost?
 
 Cboard is completely free of any charge.
@@ -175,6 +173,6 @@ In order to Import and Export boards you have two options:
 
 ## Navigation trough the interface 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MDIyNTc5MywtMTg1NTY4MTQ5MCwxNj
-MzNTIxNDBdfQ==
+eyJoaXN0b3J5IjpbMTkzOTQ1MDg5LC0xODU1NjgxNDkwLDE2Mz
+M1MjE0MF19
 -->
