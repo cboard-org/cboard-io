@@ -22,7 +22,7 @@ Figure 2
 
 ### Can I register myself using my social media accounts?
 
-Yes! On the lo
+Yes! On the log in page, you will be given the option to sign up with your Google or Facebook account if you wish to do so. You can also register with an e-mail address. 
 
 ### How do I log in to Cboard?
 
@@ -31,7 +31,10 @@ To log in to Cboard, you follow the first step used to sign up, but instead of c
 ![Figure 3](/images/help/image3.png "Figure 3")
 
 Figure 3
+
 ### How do I logout?
+
+To logout, double click the 
 
 ### What is the difference between a registered and a non-registered user?
 
@@ -168,6 +171,6 @@ In order to Import and Export boards you have two options:
 
 ## Navigation trough the interface 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MDY2NTg3NSwtMTg1NTY4MTQ5MCwxNj
-MzNTIxNDBdfQ==
+eyJoaXN0b3J5IjpbMTU4NDM2Mjk5LC0xODU1NjgxNDkwLDE2Mz
+M1MjE0MF19
 -->
