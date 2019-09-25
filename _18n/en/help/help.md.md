@@ -141,7 +141,8 @@ Yes! When you are editing a board, unlock the screen using the lock symbol. Then
 
 ### How do I select multiple elements to edit?
 The same way you change the ordering of elements in a board, but instead of clicking and dragging, you select the circle inside the pictogram square, and you can choose more than one. 
-After doing so, click on the right hand side on the 
+After doing so, click on the right hand side on the pencil symbol on the blue line, which will allow you to edit the elements selected: 
+
 ## Export and import 
 
 ### How do I export my board in Cboard?
@@ -180,7 +181,7 @@ Yes! You can resize buttons in Settings. In the category 'system', click on the 
 
 ## Navigation trough the interface 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTQ3NzQ0MDYsLTE5OTMwOTQyMDgsLT
-E0MjE5MzMzNjMsMTkzOTQ1MDg5LC0xODU1NjgxNDkwLDE2MzM1
-MjE0MF19
+eyJoaXN0b3J5IjpbLTQyNzIzMzQwMiwtMTk5MzA5NDIwOCwtMT
+QyMTkzMzM2MywxOTM5NDUwODksLTE4NTU2ODE0OTAsMTYzMzUy
+MTQwXX0=
 -->
