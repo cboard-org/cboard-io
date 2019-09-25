@@ -171,11 +171,12 @@ In order to Import and Export boards you have two options:
 
 ### Can I resize buttons on Cboard?
 
+Yes! You can resize buttons in Settings. 
 ## Scanning 
 
 
 ## Navigation trough the interface 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjE5MzMzNjMsMTkzOTQ1MDg5LC0xOD
-U1NjgxNDkwLDE2MzM1MjE0MF19
+eyJoaXN0b3J5IjpbMTIwNDk0MTU1NywtMTQyMTkzMzM2MywxOT
+M5NDUwODksLTE4NTU2ODE0OTAsMTYzMzUyMTQwXX0=
 -->
