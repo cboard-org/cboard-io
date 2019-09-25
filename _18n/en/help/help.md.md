@@ -137,7 +137,7 @@ Figure 8
 Yes, you can use your own picture when editing a board. In order to use your own picture, you can upload the image when you create a new tile (by pressing the plus sign on the grey bar after unlocking the page, see Figure 6). \ You can also edit an existing tile with your own picture (see Figures 7 and 8).
 
 ### Can I change the ordering of the elements in a board?
-Yes! 
+Yes! When you are editing a board, unlock the screen using the lock symbol. Then click the 'edit' symbol on the left hand side (below the 'build' symbol). You can then drag the pictogram or folder to wherever you want t
 ### How do I select multiple elements to edit?
 
 ## Export and import 
@@ -178,6 +178,6 @@ Yes! You can resize buttons in Settings. In the category 'system', click on the 
 
 ## Navigation trough the interface 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyOTkzNjc3NCwtMTQyMTkzMzM2MywxOT
+eyJoaXN0b3J5IjpbMTUyMDY5OTgxNSwtMTQyMTkzMzM2MywxOT
 M5NDUwODksLTE4NTU2ODE0OTAsMTYzMzUyMTQwXX0=
 -->
