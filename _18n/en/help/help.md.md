@@ -137,7 +137,7 @@ Figure 8
 Yes, you can use your own picture when editing a board. In order to use your own picture, you can upload the image when you create a new tile (by pressing the plus sign on the grey bar after unlocking the page, see Figure 6). \ You can also edit an existing tile with your own picture (see Figures 7 and 8).
 
 ### Can I change the ordering of the elements in a board?
-
+Yes! 
 ### How do I select multiple elements to edit?
 
 ## Export and import 
@@ -171,12 +171,13 @@ In order to Import and Export boards you have two options:
 
 ### Can I resize buttons on Cboard?
 
-Yes! You can resize buttons in Settings. 
+Yes! You can resize buttons in Settings. In the category 'system', click on the Display button and you will be given 3 options for size: Standard, Large, Extra Large. See figure below: 
+
 ## Scanning 
 
 
 ## Navigation trough the interface 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNDk0MTU1NywtMTQyMTkzMzM2MywxOT
+eyJoaXN0b3J5IjpbMTUyOTkzNjc3NCwtMTQyMTkzMzM2MywxOT
 M5NDUwODksLTE4NTU2ODE0OTAsMTYzMzUyMTQwXX0=
 -->
