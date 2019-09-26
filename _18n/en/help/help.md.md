@@ -26,7 +26,7 @@ Yes! On the log in page, you will be given the option to sign up with your Googl
 
 ### How do I log in to Cboard?
 
-To log in to Cboard, you follow the first step used to sign up, but instead of clicking SIGN UP on the Welcome screen, click LOGIN (Figure 3). \ You will then be asked to provide the e-mail you initially signed up with, and the password you set.
+To log in to Cboard, you follow the first step used to sign up, but instead of clicking SIGN UP on the Welcome screen, click LOGIN (Figure 3). \ You will then be asked to provide the e-mail you initially signed up with, and the password you set up.
 
 ![Figure 3](/images/help/image3.png "Figure 3")
 
@@ -34,8 +34,7 @@ Figure 3
 
 ### How do I logout?
 
-To logout, double click the lock symbol on the right corner, and once you unlock the screen and the red bar appears, click on the icon to the left of the lock (your picture if you have one loaded) and the option to log out will appear in red. 
-You can also log out by clicking the settings icon, and the option will also appear in red. 
+You can log out by clicking the settings icon, and the option will also appear in red. You can also double click the lock symbol on the right corner, and once you unlock the screen and the red bar appears, click on the icon to the left of the lock (your picture if you have one loaded) and the option to log out will appear in red. 
 
 ### What is the difference between a registered and a non-registered user?
 
@@ -181,7 +180,7 @@ Yes! You can resize buttons in Settings. In the category 'system', click on the 
 
 ## Navigation through the interface 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNjMzNDUxNiwtNDI3MjMzNDAyLC0xOT
-kzMDk0MjA4LC0xNDIxOTMzMzYzLDE5Mzk0NTA4OSwtMTg1NTY4
-MTQ5MCwxNjMzNTIxNDBdfQ==
+eyJoaXN0b3J5IjpbLTI1OTk2NTg1OSwtNDE2MzM0NTE2LC00Mj
+cyMzM0MDIsLTE5OTMwOTQyMDgsLTE0MjE5MzMzNjMsMTkzOTQ1
+MDg5LC0xODU1NjgxNDkwLDE2MzM1MjE0MF19
 -->
