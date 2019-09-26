@@ -111,6 +111,7 @@ To print your board, press the printer logo on the left hand side of the black H
 
 ### How do I see Cboard in fullscreen?
 
+In order to see Cboard in fullscreen, unlock the screen by pressing the lock symbol on the right hand side, and 
 ### How do I share a board?
 
 ## Talking 
@@ -191,8 +192,8 @@ Yes! You can resize buttons in Settings. In the category 'system', click on the 
 
 ## Navigation through the interface 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MDQyMjkwMSwtMTQzMTg5NTk1MiwxNj
-I1NDIyODY1LC00MTYzMzQ1MTYsLTQyNzIzMzQwMiwtMTk5MzA5
-NDIwOCwtMTQyMTkzMzM2MywxOTM5NDUwODksLTE4NTU2ODE0OT
-AsMTYzMzUyMTQwXX0=
+eyJoaXN0b3J5IjpbLTE4NDk5MDk5MDEsLTc1MDQyMjkwMSwtMT
+QzMTg5NTk1MiwxNjI1NDIyODY1LC00MTYzMzQ1MTYsLTQyNzIz
+MzQwMiwtMTk5MzA5NDIwOCwtMTQyMTkzMzM2MywxOTM5NDUwOD
+ksLTE4NTU2ODE0OTAsMTYzMzUyMTQwXX0=
 -->
