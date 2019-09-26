@@ -74,7 +74,9 @@ In order to adjust speech capabilities, go into settings, and under the 'Languag
 ### Export and import 
 
 Both options to export are within Settings in the System category, right below Language and Speech. 
-The Export category i
+The Export category will give you the option to upload either an OpenBoard or PDF. 
+The Import category will directly open your saved files once you press RESTORE.
+
 ### Display capabilities 
 
 ### Scanning symbols
@@ -183,7 +185,7 @@ Yes! You can resize buttons in Settings. In the category 'system', click on the 
 
 ## Navigation through the interface 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjM2NzQ5NjYsMTYyNTQyMjg2NSwtND
+eyJoaXN0b3J5IjpbLTE0MzE4OTU5NTIsMTYyNTQyMjg2NSwtND
 E2MzM0NTE2LC00MjcyMzM0MDIsLTE5OTMwOTQyMDgsLTE0MjE5
 MzMzNjMsMTkzOTQ1MDg5LC0xODU1NjgxNDkwLDE2MzM1MjE0MF
 19
