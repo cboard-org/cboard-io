@@ -115,7 +115,8 @@ In order to see Cboard in fullscreen, unlock the screen by pressing the lock sym
 
 ### How do I share a board?
 
-To share a board, unlock the screen by pressing the lock symbol on the right hand side, then 
+To share a board, unlock the screen by pressing the lock symbol on the right hand side, then on the highest row (the black bar), the third symbol from the right gives you the option to share your board on either email, Facebook, Twitter, or copy the link to send to someone. 
+
 ## Talking 
 
 ### How do I get started talking with Cboard?
@@ -194,8 +195,8 @@ Yes! You can resize buttons in Settings. In the category 'system', click on the 
 
 ## Navigation through the interface 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDc3NTA0NjQsLTc1MDQyMjkwMSwtMT
-QzMTg5NTk1MiwxNjI1NDIyODY1LC00MTYzMzQ1MTYsLTQyNzIz
-MzQwMiwtMTk5MzA5NDIwOCwtMTQyMTkzMzM2MywxOTM5NDUwOD
-ksLTE4NTU2ODE0OTAsMTYzMzUyMTQwXX0=
+eyJoaXN0b3J5IjpbLTY3NTg0NDYzLC03NTA0MjI5MDEsLTE0Mz
+E4OTU5NTIsMTYyNTQyMjg2NSwtNDE2MzM0NTE2LC00MjcyMzM0
+MDIsLTE5OTMwOTQyMDgsLTE0MjE5MzMzNjMsMTkzOTQ1MDg5LC
+0xODU1NjgxNDkwLDE2MzM1MjE0MF19
 -->
