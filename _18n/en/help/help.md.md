@@ -87,7 +87,7 @@ Scanning (also within Settings and the System category) has different settings f
 
 ### Navigation trough the interface 
 
-In order to edit and facilitate navigating through Cboard, the Navigation button, the last within System (all in Settings) allows to add certain details to make using the board easier. The first option within Navigation allows a larger 'back' button that is easier to press because of the size. The second allows 
+In order to edit and facilitate navigating through Cboard, the Navigation button, the last within System (all in Settings) allows to add certain details to make using the board easier. The first option within Navigation allows a larger 'back' button that is easier to press because of the size. The second adds an 'x' button to make it easier to delete symbols, and the third makes it easier to unlock by requiring only one click to unlock settings. 
 
 ## Settings 
 
@@ -191,7 +191,7 @@ Yes! You can resize buttons in Settings. In the category 'system', click on the 
 
 ## Navigation through the interface 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NjkwNDQwNiwtMTQzMTg5NTk1MiwxNj
+eyJoaXN0b3J5IjpbLTc1MDQyMjkwMSwtMTQzMTg5NTk1MiwxNj
 I1NDIyODY1LC00MTYzMzQ1MTYsLTQyNzIzMzQwMiwtMTk5MzA5
 NDIwOCwtMTQyMTkzMzM2MywxOTM5NDUwODksLTE4NTU2ODE0OT
 AsMTYzMzUyMTQwXX0=
