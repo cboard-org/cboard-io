@@ -83,10 +83,11 @@ Display settings can be edited in Settings, within the System category. The Disp
 
 ### Scanning symbols
 
-Scanning (also within Settings and the System category) has 
+Scanning (also within Settings and the System category) has different settings for scanning. One you press it, you should first enable the scanning setting by pressing the first option that says 'Enable'. You can then choose the time delay, as well as the method (either automatic of manual). 
 
 ### Navigation trough the interface 
 
+In order to edit and facilitate na
 ## Settings 
 
 ### How do I access settings in Cboard?
@@ -189,7 +190,7 @@ Yes! You can resize buttons in Settings. In the category 'system', click on the 
 
 ## Navigation through the interface 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTY5NzEyMTIsLTE0MzE4OTU5NTIsMT
+eyJoaXN0b3J5IjpbLTEwODIwNjMyNzQsLTE0MzE4OTU5NTIsMT
 YyNTQyMjg2NSwtNDE2MzM0NTE2LC00MjcyMzM0MDIsLTE5OTMw
 OTQyMDgsLTE0MjE5MzMzNjMsMTkzOTQ1MDg5LC0xODU1NjgxND
 kwLDE2MzM1MjE0MF19
