@@ -121,7 +121,8 @@ To share a board, unlock the screen by pressing the lock symbol on the right han
 
 ### How do I get started talking with Cboard?
 
-First, go to the board you want to start with. Second, unlock the board using the lock on the right hand side. Third, Press the 'edit' button on the left hand side. Once you press this, you
+First, go to the board you want to start with. Second, unlock the board using the lock on the right hand side. Third, Press the 'edit' button on the left hand side. Once you press this, you can choose which tile you want to add personalized voice to. Once you pick, choose the tile by pressing on it. Once you do so, press the edit (pencil) symbol on the far right side on the light blue bar. Once the tile opens, you are gi
+
 ### How do I remove symbols from the output bar?
 
 ### How do I switch to a different voice?
@@ -196,7 +197,7 @@ Yes! You can resize buttons in Settings. In the category 'system', click on the 
 
 ## Navigation through the interface 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNDU3OTI0OCwtNjc1ODQ0NjMsLTc1MD
+eyJoaXN0b3J5IjpbMTEwMDc2NTk2MywtNjc1ODQ0NjMsLTc1MD
 QyMjkwMSwtMTQzMTg5NTk1MiwxNjI1NDIyODY1LC00MTYzMzQ1
 MTYsLTQyNzIzMzQwMiwtMTk5MzA5NDIwOCwtMTQyMTkzMzM2My
 wxOTM5NDUwODksLTE4NTU2ODE0OTAsMTYzMzUyMTQwXX0=
