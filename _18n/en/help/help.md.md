@@ -127,7 +127,11 @@ First, go to the board you want to start with. Second, unlock the board using th
 
 ### How do I switch to a different voice?
 
+In order to adjust speech capabilities/voice, go into settings, and under the 'Language' category is the 'Speech' category. When you press 'Speech' you will be able to edit the pitch and pace of speech on Cboard. You can also record your own voice for the symbols following the steps on the answer from how to start talking on the app. 
+
 ### How do I change how a voice sounds?
+
+In order to adjust speech capabilities/voice/sound, go into settings, and under the 'Language' category is the 'Speech' category. When you press 'Speech' you will be able to edit the pitch and pace of speech on Cboard. You can also record your own voice for the symbols following the steps on the answer from how to start talking on the app. 
 
 ## Board Editing
 
@@ -197,8 +201,8 @@ Yes! You can resize buttons in Settings. In the category 'system', click on the 
 
 ## Navigation through the interface 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIzNzMyNDAzLC02NzU4NDQ2MywtNzUwND
-IyOTAxLC0xNDMxODk1OTUyLDE2MjU0MjI4NjUsLTQxNjMzNDUx
-NiwtNDI3MjMzNDAyLC0xOTkzMDk0MjA4LC0xNDIxOTMzMzYzLD
-E5Mzk0NTA4OSwtMTg1NTY4MTQ5MCwxNjMzNTIxNDBdfQ==
+eyJoaXN0b3J5IjpbLTQ4NzM1NTM3MywtNjc1ODQ0NjMsLTc1MD
+QyMjkwMSwtMTQzMTg5NTk1MiwxNjI1NDIyODY1LC00MTYzMzQ1
+MTYsLTQyNzIzMzQwMiwtMTk5MzA5NDIwOCwtMTQyMTkzMzM2My
+wxOTM5NDUwODksLTE4NTU2ODE0OTAsMTYzMzUyMTQwXX0=
 -->
