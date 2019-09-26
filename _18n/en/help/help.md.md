@@ -79,6 +79,8 @@ The Import category will directly open your saved files once you press RESTORE.
 
 ### Display capabilities 
 
+Display settings can be edit
+
 ### Scanning symbols
 
 ### Navigation trough the interface 
@@ -185,8 +187,8 @@ Yes! You can resize buttons in Settings. In the category 'system', click on the 
 
 ## Navigation through the interface 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzE4OTU5NTIsMTYyNTQyMjg2NSwtND
-E2MzM0NTE2LC00MjcyMzM0MDIsLTE5OTMwOTQyMDgsLTE0MjE5
-MzMzNjMsMTkzOTQ1MDg5LC0xODU1NjgxNDkwLDE2MzM1MjE0MF
-19
+eyJoaXN0b3J5IjpbMjA2MzU1MTQzNiwtMTQzMTg5NTk1MiwxNj
+I1NDIyODY1LC00MTYzMzQ1MTYsLTQyNzIzMzQwMiwtMTk5MzA5
+NDIwOCwtMTQyMTkzMzM2MywxOTM5NDUwODksLTE4NTU2ODE0OT
+AsMTYzMzUyMTQwXX0=
 -->
