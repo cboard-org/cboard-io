@@ -179,9 +179,9 @@ Yes! You can resize buttons in Settings. In the category 'system', click on the 
 ## Scanning 
 
 
-## Navigation trough the interface 
+## Navigation through the interface 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNzIzMzQwMiwtMTk5MzA5NDIwOCwtMT
-QyMTkzMzM2MywxOTM5NDUwODksLTE4NTU2ODE0OTAsMTYzMzUy
-MTQwXX0=
+eyJoaXN0b3J5IjpbLTQxNjMzNDUxNiwtNDI3MjMzNDAyLC0xOT
+kzMDk0MjA4LC0xNDIxOTMzMzYzLDE5Mzk0NTA4OSwtMTg1NTY4
+MTQ5MCwxNjMzNTIxNDBdfQ==
 -->
