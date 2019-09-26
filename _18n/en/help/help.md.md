@@ -63,13 +63,13 @@ Cboard works on modern browsers and is available on a wide variety of platforms,
 Figure 4
 
 
-
 ### Cboard supported languages
 
 Cboard comes with support for 33 languages.
 
 ### Speech capabilities
 
+In order to adjust speech capabilities, go into settings, and under the 'language' category 
 ### Export and import 
 
 ### Display capabilities 
@@ -180,7 +180,7 @@ Yes! You can resize buttons in Settings. In the category 'system', click on the 
 
 ## Navigation through the interface 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1OTk2NTg1OSwtNDE2MzM0NTE2LC00Mj
+eyJoaXN0b3J5IjpbLTgyMjczNTE2MywtNDE2MzM0NTE2LC00Mj
 cyMzM0MDIsLTE5OTMwOTQyMDgsLTE0MjE5MzMzNjMsMTkzOTQ1
 MDg5LC0xODU1NjgxNDkwLDE2MzM1MjE0MF19
 -->
