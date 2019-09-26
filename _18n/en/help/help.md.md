@@ -69,7 +69,8 @@ Cboard comes with support for 33 languages.
 
 ### Speech capabilities
 
-In order to adjust speech capabilities, go into settings, and under the 'language' category 
+In order to adjust speech capabilities, go into settings, and under the 'Language' category is the 'Speech' category. When you press 'Speech' you will be able to edit the pitch and pace of speech on Cboard. 
+
 ### Export and import 
 
 ### Display capabilities 
@@ -180,7 +181,7 @@ Yes! You can resize buttons in Settings. In the category 'system', click on the 
 
 ## Navigation through the interface 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMjczNTE2MywtNDE2MzM0NTE2LC00Mj
+eyJoaXN0b3J5IjpbMTYyNTQyMjg2NSwtNDE2MzM0NTE2LC00Mj
 cyMzM0MDIsLTE5OTMwOTQyMDgsLTE0MjE5MzMzNjMsMTkzOTQ1
 MDg5LC0xODU1NjgxNDkwLDE2MzM1MjE0MF19
 -->
