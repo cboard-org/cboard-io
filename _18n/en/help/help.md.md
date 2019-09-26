@@ -121,6 +121,7 @@ To share a board, unlock the screen by pressing the lock symbol on the right han
 
 ### How do I get started talking with Cboard?
 
+
 ### How do I remove symbols from the output bar?
 
 ### How do I switch to a different voice?
@@ -195,8 +196,8 @@ Yes! You can resize buttons in Settings. In the category 'system', click on the 
 
 ## Navigation through the interface 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NTg0NDYzLC03NTA0MjI5MDEsLTE0Mz
-E4OTU5NTIsMTYyNTQyMjg2NSwtNDE2MzM0NTE2LC00MjcyMzM0
-MDIsLTE5OTMwOTQyMDgsLTE0MjE5MzMzNjMsMTkzOTQ1MDg5LC
-0xODU1NjgxNDkwLDE2MzM1MjE0MF19
+eyJoaXN0b3J5IjpbLTE5NTgzMTM0NjksLTY3NTg0NDYzLC03NT
+A0MjI5MDEsLTE0MzE4OTU5NTIsMTYyNTQyMjg2NSwtNDE2MzM0
+NTE2LC00MjcyMzM0MDIsLTE5OTMwOTQyMDgsLTE0MjE5MzMzNj
+MsMTkzOTQ1MDg5LC0xODU1NjgxNDkwLDE2MzM1MjE0MF19
 -->
