@@ -121,7 +121,7 @@ To share a board, unlock the screen by pressing the lock symbol on the right han
 
 ### How do I get started talking with Cboard?
 
-
+First, go to the board you want to start with. Second, unlock the board using the lock on the right hand side. Third, Press the 'edit' button on the left hand side. Once you press this, you
 ### How do I remove symbols from the output bar?
 
 ### How do I switch to a different voice?
@@ -196,8 +196,8 @@ Yes! You can resize buttons in Settings. In the category 'system', click on the 
 
 ## Navigation through the interface 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTgzMTM0NjksLTY3NTg0NDYzLC03NT
-A0MjI5MDEsLTE0MzE4OTU5NTIsMTYyNTQyMjg2NSwtNDE2MzM0
-NTE2LC00MjcyMzM0MDIsLTE5OTMwOTQyMDgsLTE0MjE5MzMzNj
-MsMTkzOTQ1MDg5LC0xODU1NjgxNDkwLDE2MzM1MjE0MF19
+eyJoaXN0b3J5IjpbMTYzNDU3OTI0OCwtNjc1ODQ0NjMsLTc1MD
+QyMjkwMSwtMTQzMTg5NTk1MiwxNjI1NDIyODY1LC00MTYzMzQ1
+MTYsLTQyNzIzMzQwMiwtMTk5MzA5NDIwOCwtMTQyMTkzMzM2My
+wxOTM5NDUwODksLTE4NTU2ODE0OTAsMTYzMzUyMTQwXX0=
 -->
