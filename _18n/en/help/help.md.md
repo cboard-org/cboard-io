@@ -79,7 +79,7 @@ The Import category will directly open your saved files once you press RESTORE.
 
 ### Display capabilities 
 
-Display settings can be edit
+Display settings can be edited in Settings, within the System category. The Display option is right below Export and Import. One you press the button, you can change the UI size as well as the app Font size b. 
 
 ### Scanning symbols
 
@@ -187,7 +187,7 @@ Yes! You can resize buttons in Settings. In the category 'system', click on the 
 
 ## Navigation through the interface 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MzU1MTQzNiwtMTQzMTg5NTk1MiwxNj
+eyJoaXN0b3J5IjpbMTE1MTkxMjUzOSwtMTQzMTg5NTk1MiwxNj
 I1NDIyODY1LC00MTYzMzQ1MTYsLTQyNzIzMzQwMiwtMTk5MzA5
 NDIwOCwtMTQyMTkzMzM2MywxOTM5NDUwODksLTE4NTU2ODE0OT
 AsMTYzMzUyMTQwXX0=
