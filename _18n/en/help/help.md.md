@@ -165,14 +165,12 @@ In order to Import and Export boards you have two options:
 
 Yes! You can resize buttons in Settings. In the category 'system', click on the Display button and you will be given 3 options for size: Standard, Large, Extra Large. 
 
-## Scanning 
-
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc4OTM0NzY2LC0xMzAzMjQ4NTg5LC0xOD
-k3MDM4MTYwLC0xMzY5NzE3MDU5LC00ODczNTUzNzMsLTY3NTg0
-NDYzLC03NTA0MjI5MDEsLTE0MzE4OTU5NTIsMTYyNTQyMjg2NS
-wtNDE2MzM0NTE2LC00MjcyMzM0MDIsLTE5OTMwOTQyMDgsLTE0
-MjE5MzMzNjMsMTkzOTQ1MDg5LC0xODU1NjgxNDkwLDE2MzM1Mj
-E0MF19
+eyJoaXN0b3J5IjpbMTY2MjYxOTEwNSwtMTMwMzI0ODU4OSwtMT
+g5NzAzODE2MCwtMTM2OTcxNzA1OSwtNDg3MzU1MzczLC02NzU4
+NDQ2MywtNzUwNDIyOTAxLC0xNDMxODk1OTUyLDE2MjU0MjI4Nj
+UsLTQxNjMzNDUxNiwtNDI3MjMzNDAyLC0xOTkzMDk0MjA4LC0x
+NDIxOTMzMzYzLDE5Mzk0NTA4OSwtMTg1NTY4MTQ5MCwxNjMzNT
+IxNDBdfQ==
 -->
