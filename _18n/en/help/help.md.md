@@ -121,7 +121,7 @@ In order to adjust speech capabilities/voice/sound, go into settings, and under 
 
 ### How do I make a folder?
  
- The folders are the blue tiles, as opposed to the yellow ones. Unlock the screen on the right hand side, and press the plus symbol. You will then be given the option to create a new tile. In order to make it a folder, press the folder button below 'Button
+ The folders are the blue tiles, as opposed to the yellow ones. Unlock the screen on the right hand side, and press the plus symbol. You will then be given the option to create a new tile. In order to make it a folder, press the folder button below 'Button'. You can then create folders and add tiles within the folder you create. 
  
 ### How do I create an empty board?
 
@@ -153,7 +153,6 @@ In order to export your board in Cboard, go to settings (see Figure 6), and as s
 
 Click on Export, and you will be able to download your Cboard by clicking on either ‘OpenBoard’ or EXPORT.
 
-
 ### How do I import a board into Cboard?
 
 In order to import a board, follow the steps used to Export. The Import symbol is below Export, an upward facing arrow with a horizontal bar below it.
@@ -173,10 +172,10 @@ Yes! You can resize buttons in Settings. In the category 'system', click on the 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDE5NjA1MzMsLTQ0NTA1NzY5MSwxNj
-YyNjE5MTA1LC0xMzAzMjQ4NTg5LC0xODk3MDM4MTYwLC0xMzY5
-NzE3MDU5LC00ODczNTUzNzMsLTY3NTg0NDYzLC03NTA0MjI5MD
-EsLTE0MzE4OTU5NTIsMTYyNTQyMjg2NSwtNDE2MzM0NTE2LC00
-MjcyMzM0MDIsLTE5OTMwOTQyMDgsLTE0MjE5MzMzNjMsMTkzOT
-Q1MDg5LC0xODU1NjgxNDkwLDE2MzM1MjE0MF19
+eyJoaXN0b3J5IjpbMTI2NDQ2NTM2NSwtNDQ1MDU3NjkxLDE2Nj
+I2MTkxMDUsLTEzMDMyNDg1ODksLTE4OTcwMzgxNjAsLTEzNjk3
+MTcwNTksLTQ4NzM1NTM3MywtNjc1ODQ0NjMsLTc1MDQyMjkwMS
+wtMTQzMTg5NTk1MiwxNjI1NDIyODY1LC00MTYzMzQ1MTYsLTQy
+NzIzMzQwMiwtMTk5MzA5NDIwOCwtMTQyMTkzMzM2MywxOTM5ND
+UwODksLTE4NTU2ODE0OTAsMTYzMzUyMTQwXX0=
 -->
