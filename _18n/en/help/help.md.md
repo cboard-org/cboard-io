@@ -119,6 +119,8 @@ In order to adjust speech capabilities/voice/sound, go into settings, and under 
 
 ## Board Editing
 
+### How do I make a folder?
+
 ### How do I create an empty board?
 
 To create an empty board, begin by unlocking the screen pressing the lock button on the right hand side. Once you unlock the screen, press the plus symbol on the right hand side, in order to 'add tile'. You will then be given the option to add a tile, but instead of adding a button (the first and automatic option), press the 'folder' option directly below it. By creating a folder, you are creating a new board to which you can add more tiles and folders. 
@@ -169,10 +171,10 @@ Yes! You can resize buttons in Settings. In the category 'system', click on the 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NTA1NzY5MSwxNjYyNjE5MTA1LC0xMz
-AzMjQ4NTg5LC0xODk3MDM4MTYwLC0xMzY5NzE3MDU5LC00ODcz
-NTUzNzMsLTY3NTg0NDYzLC03NTA0MjI5MDEsLTE0MzE4OTU5NT
-IsMTYyNTQyMjg2NSwtNDE2MzM0NTE2LC00MjcyMzM0MDIsLTE5
-OTMwOTQyMDgsLTE0MjE5MzMzNjMsMTkzOTQ1MDg5LC0xODU1Nj
-gxNDkwLDE2MzM1MjE0MF19
+eyJoaXN0b3J5IjpbMjAwNTk1Mjk1MCwtNDQ1MDU3NjkxLDE2Nj
+I2MTkxMDUsLTEzMDMyNDg1ODksLTE4OTcwMzgxNjAsLTEzNjk3
+MTcwNTksLTQ4NzM1NTM3MywtNjc1ODQ0NjMsLTc1MDQyMjkwMS
+wtMTQzMTg5NTk1MiwxNjI1NDIyODY1LC00MTYzMzQ1MTYsLTQy
+NzIzMzQwMiwtMTk5MzA5NDIwOCwtMTQyMTkzMzM2MywxOTM5ND
+UwODksLTE4NTU2ODE0OTAsMTYzMzUyMTQwXX0=
 -->
