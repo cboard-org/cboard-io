@@ -13,20 +13,15 @@ To register for Cboard, begin by following the steps on the Welcome page.
 ![enter image description here](https://lh3.googleusercontent.com/Y3qPDF7eEloZSXbysP_QXSZtgxBNeWbZEYLjPzUoIfatIh1uQ4uY5drLhUO0R_m3x2nJov-ozn4)
 If you are a new user, press SIGN UP, and a short form will pop up asking for basic information in order to create your account (Figure 2). \ Once you have filled out this information, you will receive an e-mail shortly after with a link to follow in order to confirm your account, and that’s it! \ Once you have verified your account you will have access to Cboard, and will receive another e-mail confirming you were successfully verified.
 
-Figure 2
-
 ### Can I register myself using my social media accounts?
 
 Yes! On the log in page, you will be given the option to sign up with your Google or Facebook account if you wish to do so. You can also register with an e-mail address. 
 
 ### How do I log in to Cboard?
 
-To log in to Cboard, you follow the first step used to sign up, but instead of clicking SIGN UP on the Welcome screen, click LOGIN (Figure 3). \ You will then be asked to provide the e-mail you initially signed up with, and the password you set up.
+To log in to Cboard, you follow the first step used to sign up, but instead of clicking SIGN UP on the Welcome screen, click LOGIN. You will then be asked to provide the e-mail you initially signed up with, and the password you set up.
 
-![Figure 3](/images/help/image3.png "Figure 3")
-
-Figure 3
-
+![enter image description here](https://lh3.googleusercontent.com/jQjYMja6n_QUuPR_c-Mhs8CpgFcbYhLqD67DujjdYSCx2UioN4eee8HL93o_M4LhNudxU4pXBa0)
 ### How do I logout?
 
 You can log out by clicking the settings icon, and the option will also appear in red. You can also double click the lock symbol on the right corner, and once you unlock the screen and the red bar appears, click on the icon to the left of the lock (your picture if you have one loaded) and the option to log out will appear in red. 
@@ -197,9 +192,9 @@ Yes! You can resize buttons in Settings. In the category 'system', click on the 
 
 ## Navigation through the interface 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTE1NjY3OTksLTE4OTcwMzgxNjAsLT
-EzNjk3MTcwNTksLTQ4NzM1NTM3MywtNjc1ODQ0NjMsLTc1MDQy
-MjkwMSwtMTQzMTg5NTk1MiwxNjI1NDIyODY1LC00MTYzMzQ1MT
-YsLTQyNzIzMzQwMiwtMTk5MzA5NDIwOCwtMTQyMTkzMzM2Mywx
-OTM5NDUwODksLTE4NTU2ODE0OTAsMTYzMzUyMTQwXX0=
+eyJoaXN0b3J5IjpbMTU5NzQ5NTM0LC0xODk3MDM4MTYwLC0xMz
+Y5NzE3MDU5LC00ODczNTUzNzMsLTY3NTg0NDYzLC03NTA0MjI5
+MDEsLTE0MzE4OTU5NTIsMTYyNTQyMjg2NSwtNDE2MzM0NTE2LC
+00MjcyMzM0MDIsLTE5OTMwOTQyMDgsLTE0MjE5MzMzNjMsMTkz
+OTQ1MDg5LC0xODU1NjgxNDkwLDE2MzM1MjE0MF19
 -->
