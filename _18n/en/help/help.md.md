@@ -137,6 +137,7 @@ In order to adjust speech capabilities/voice/sound, go into settings, and under 
 
 ### How do I create an empty board?
 
+To create an empty board, begin by unlocking the screen pressing the lock button on the right hand side. Once you unlock the screen, press the plus symbol on the right hand side, 
 
 ### How do I personalize an existing board in Cboard?
 
@@ -201,8 +202,9 @@ Yes! You can resize buttons in Settings. In the category 'system', click on the 
 
 ## Navigation through the interface 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NzM1NTM3MywtNjc1ODQ0NjMsLTc1MD
-QyMjkwMSwtMTQzMTg5NTk1MiwxNjI1NDIyODY1LC00MTYzMzQ1
-MTYsLTQyNzIzMzQwMiwtMTk5MzA5NDIwOCwtMTQyMTkzMzM2My
-wxOTM5NDUwODksLTE4NTU2ODE0OTAsMTYzMzUyMTQwXX0=
+eyJoaXN0b3J5IjpbLTIwOTM2ODEwMTMsLTQ4NzM1NTM3MywtNj
+c1ODQ0NjMsLTc1MDQyMjkwMSwtMTQzMTg5NTk1MiwxNjI1NDIy
+ODY1LC00MTYzMzQ1MTYsLTQyNzIzMzQwMiwtMTk5MzA5NDIwOC
+wtMTQyMTkzMzM2MywxOTM5NDUwODksLTE4NTU2ODE0OTAsMTYz
+MzUyMTQwXX0=
 -->
