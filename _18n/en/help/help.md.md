@@ -37,6 +37,8 @@ To update your user information, follow the same steps you would if you were try
 
 ### How do I reset my password?
 
+In order to reset your password, please e-mail support@cboard.io and we will get back to you. 
+
 ## Price 
 
 ### How much does Cboard cost?
@@ -167,10 +169,10 @@ Yes! You can resize buttons in Settings. In the category 'system', click on the 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MjYxOTEwNSwtMTMwMzI0ODU4OSwtMT
-g5NzAzODE2MCwtMTM2OTcxNzA1OSwtNDg3MzU1MzczLC02NzU4
-NDQ2MywtNzUwNDIyOTAxLC0xNDMxODk1OTUyLDE2MjU0MjI4Nj
-UsLTQxNjMzNDUxNiwtNDI3MjMzNDAyLC0xOTkzMDk0MjA4LC0x
-NDIxOTMzMzYzLDE5Mzk0NTA4OSwtMTg1NTY4MTQ5MCwxNjMzNT
-IxNDBdfQ==
+eyJoaXN0b3J5IjpbLTQ0NTA1NzY5MSwxNjYyNjE5MTA1LC0xMz
+AzMjQ4NTg5LC0xODk3MDM4MTYwLC0xMzY5NzE3MDU5LC00ODcz
+NTUzNzMsLTY3NTg0NDYzLC03NTA0MjI5MDEsLTE0MzE4OTU5NT
+IsMTYyNTQyMjg2NSwtNDE2MzM0NTE2LC00MjcyMzM0MDIsLTE5
+OTMwOTQyMDgsLTE0MjE5MzMzNjMsMTkzOTQ1MDg5LC0xODU1Nj
+gxNDkwLDE2MzM1MjE0MF19
 -->
