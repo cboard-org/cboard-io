@@ -48,11 +48,6 @@ Cboard is completely free of any charge.
 
 Cboard works on modern browsers and is available on a wide variety of platforms, including desktops, tablets and mobile phones.
 
-![Figure 4](/images/help/image4.png "Figure 4")
-
-Figure 4
-
-
 ### Cboard supported languages
 
 Cboard comes with support for 33 languages.
@@ -61,6 +56,7 @@ Cboard comes with support for 33 languages.
 
 In order to adjust speech capabilities, go into settings, and under the 'Language' category is the 'Speech' category. When you press 'Speech' you will be able to edit the pitch and pace of speech on Cboard. 
 
+![enter image description here](https://lh3.googleusercontent.com/NOU6zqaToQ4gjObCyOHcvTutvBfm-BKnq7GrIAtB4G05wvoi6fzdZNume7j-WK1gU7Gd4ngly70)
 ### Export and import 
 
 Both options to export are within Settings in the System category, right below Language and Speech. 
@@ -70,7 +66,7 @@ The Import category will directly open your saved files once you press RESTORE.
 ### Display capabilities 
 
 Display settings can be edited in Settings, within the System category. The Display option is right below Export and Import. One you press the button, you can change the UI size as well as the app Font size by pressing the size you want. The red dot should be under the size you want to choose. 
-
+![enter image description here](https://lh3.googleusercontent.com/-y4Hces7O2ORdR4HM0XZsiWW3tzPNNl0uj_jb8l0TkdQp429E6K3pYx3hFlyszPXQcrrAex420U)
 ### Scanning symbols
 
 Scanning (also within Settings and the System category) has different settings for scanning. One you press it, you should first enable the scanning setting by pressing the first option that says 'Enable'. You can then choose the time delay, as well as the method (either automatic of manual). 
@@ -78,7 +74,7 @@ Scanning (also within Settings and the System category) has different settings f
 ### Navigation trough the interface 
 
 In order to edit and facilitate navigating through Cboard, the Navigation button, the last within System (all in Settings) allows to add certain details to make using the board easier. The first option within Navigation allows a larger 'back' button that is easier to press because of the size. The second adds an 'x' button to make it easier to delete symbols, and the third makes it easier to unlock by requiring only one click to unlock settings. 
-
+![enter image description here](https://lh3.googleusercontent.com/Qjr_y28Vd46Age-qefbqmdtFSbEjzxk9-Raeg0y56PJjD8MMyG7l2MlEFBUfrdIwrxvsXEK971Q)
 ## Settings 
 
 ### How do I access settings in Cboard?
@@ -192,9 +188,9 @@ Yes! You can resize buttons in Settings. In the category 'system', click on the 
 
 ## Navigation through the interface 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NzQ5NTM0LC0xODk3MDM4MTYwLC0xMz
-Y5NzE3MDU5LC00ODczNTUzNzMsLTY3NTg0NDYzLC03NTA0MjI5
-MDEsLTE0MzE4OTU5NTIsMTYyNTQyMjg2NSwtNDE2MzM0NTE2LC
-00MjcyMzM0MDIsLTE5OTMwOTQyMDgsLTE0MjE5MzMzNjMsMTkz
-OTQ1MDg5LC0xODU1NjgxNDkwLDE2MzM1MjE0MF19
+eyJoaXN0b3J5IjpbLTE1NDI2MDQ4NDAsLTE4OTcwMzgxNjAsLT
+EzNjk3MTcwNTksLTQ4NzM1NTM3MywtNjc1ODQ0NjMsLTc1MDQy
+MjkwMSwtMTQzMTg5NTk1MiwxNjI1NDIyODY1LC00MTYzMzQ1MT
+YsLTQyNzIzMzQwMiwtMTk5MzA5NDIwOCwtMTQyMTkzMzM2Mywx
+OTM5NDUwODksLTE4NTU2ODE0OTAsMTYzMzUyMTQwXX0=
 -->
