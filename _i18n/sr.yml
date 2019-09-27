@@ -1,6 +1,5 @@
----
 global:
-  tagline: English
+  tagline: ??????
   about: About
   twitter: Twitter
   github: GitHub
@@ -14,7 +13,7 @@ langs:
   sr: Srb
 pages:
   indexTitleTop: Communication for everyone
-  indexSubTitleTop: web app for children and adults with speech and language impairments, aiding communication with symbols and text-to-speech.
+  indexSubTitleTop:  web app for children and adults with speech and language impairments, aiding communication with symbols and text-to-speech.
   indexSubTitleTopin: is an
   example: example
   about_title: Our Story
@@ -34,9 +33,9 @@ pages:
   index_bottomDesc: 'Cboard is an open-source project, we always appreciate a helping hand, if you want to contribute you are invited to our GitHub repo.'
 titles:
   pagination: Pagination
-navs:
-  about: about
-  contact: contact
+navs: 
+   about: about
+   contact: contact
 button:
   readmore: Read More
   star: Start Cboard
