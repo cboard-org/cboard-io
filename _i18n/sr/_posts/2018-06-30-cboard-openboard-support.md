@@ -1,38 +1,38 @@
 ---
-title: Cboard supports openboard standard
+title: Цбоард подржава опенбоард стандард
 date: 2018-06-30
-description: Introduction to openboard on Cboard
+description: Увод у опенбоард на Цбоард-у
 categories:
-  - cboard
-  - openboard
-  - open-source
+  - картон
+  - опенбоард
+  - отвореног кода
 image:
-author_staff_member: shay
+author_staff_member: стидљив
 ---
-## Intro
+## Интро
 
-We at Cboard recently released a new and exiting feature: openboard support. This is going to be as key piece in order to allow Cboard users a flexible platform that supports easy sharing and migration.
+Недавно смо избацили нову функцију: подршку за опенбоард. Ово ће бити кључни део како би се корисницима Цбоард-а омогућила флексибилна платформа која подржава лако дељење и миграцију.
 
-## What is Open Board Format?
+## Шта је Опен Боард Формат?
 
-Open Board Format, or OBF in short, is a specification for AAC communication boards, it describes the data and structure needed to represent a board, from the number of grid rows to buttons, images and more. It was created to allow boards to be portable between apps and shareable between people.
+Отворени формат плоче, или укратко ОБФ, спецификација је за ААЦ комуникационе плоче, описује податке и структуру потребне за представљање плоче, од броја редова решетки до тастера, слика и више. Створена је да омогући да плоче буду преносиве између апликација и могу се делити између људи.
 
-## Why support Open Board Format?
+## Зашто подржавати Опен Боард Формат?
 
-When we learned about Open Board Format, we didn’t need to think much, the benefits were obvious, everyone wins, the user, Cboard and the AAC eco-system (hopefully). The user can migrate his boards to other applications and share boards with other people. Cboard can incorporate publicly available third party boards, users can migrate to Cboard from other apps. If more OBF compatible boards will be published online, boards will no longer be a key factor in deciding between AAC apps, it will force companies to focus more on improving software quality rather than content to gain a competitive edge.
+Када смо сазнали за Опен Боард Формат, нисмо морали много да размишљамо, предности су биле очигледне, сви победе, корисник, Цбоард и ААЦ еко систем (надамо се). Корисник може мигрирати своје плоче у друге апликације и дијелити плоче с другим људима. Цбоард може да садржи јавно доступне плоче трећих страна, корисници могу да пређу на Цбоард из других апликација. Ако ће више мрежних плоча компатибилних са ОБФ-ом бити објављено на мрежи, плоче више неће бити кључни фактор у одлучивању између ААЦ апликација, то ће приморати компаније да се више фокусирају на побољшање квалитета софтвера, а не на садржај, како би стекли конкурентску предност.
 
-## Software changes
+## Промене софтвера
 
-To implement OBF import in Cboard we created an adapter function that takes an OBF object and outputs an object that Cboard can understand and render. The spec also defines a way to bundle boards as an .OBZ file which is essentially one or more .OBF files compressed via gzip. To support gzip we needed to add two new `npm` packages `jszip` and `jszip-utils`.
+Да бисмо имплементирали ОБФ увоз у Цбоард, креирали смо функцију адаптера која узима ОБФ објект и исписује објект који Цбоард може разумјети и приказати. Спецификација такође дефинише начин повезивања плоча као .ОБЗ датотека која је у основи једна или више .ОБФ датотека компримованих преко гзип-а. За подршку гзип морали смо да додате две нове `НПМ` пакете `јсзип` и `јсзип-утилс`.
 
-![Cboard](/images/app/import.png)
+![Цбоард](/images/app/import.png)
 
-## What does it mean for Cboard users?
+## Шта то значи за кориснике картице?
 
-When exporting your board in Cboard `settings/export` screen, you will now have the option to export to Open Board Format. Click the `export` button and choose the `OpenBoard` menu item and save the file. Import functionality hasn’t changed.
+Када извозите плочу у екран подешавања Цбоард `/ извоз` , сада ћете имати могућност извоза у Опен Боард Формат. Кликните на дугме `извоза` и изаберите ставку `ОпенБоард` и сачувајте датотеку. Функција увоза није промењена.
 
-![Cboard](/images/app/export.png)
+![Цбоард](/images/app/export.png)
 
-## What the future holds?
+## Шта будућност носи?
 
-We’re hoping that one day there will be a main repository that will offer Open Board Format compatible boards, a marketplace if you will, of boards that were created by professionals, sorted by categories rated by people and offered for free.
+Надамо се да ће једног дана постојати главно складиште које ће нудити компатибилне плоче Опен Боард Формат, тржиште ако то желите, од табли које су креирали професионалци, сортиране по категоријама које су оценили људи и које се нуде бесплатно.

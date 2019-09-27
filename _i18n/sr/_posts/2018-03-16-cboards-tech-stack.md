@@ -1,13 +1,13 @@
 ---
-title: Cboard's tech stack
+title: Цбоард је технолошки пакет
 date: 2018-03-16
-description: Developer introduction to Cboard
-externalLink: https://css-tricks.com/a-browser-based-open-source-tool-for-alternative-communication/
-externalSrc: CSS-Tricks
+description: Увод у програмере у Цбоард
+externalLink: хттпс://цсс-трицкс.цом/а-бровсер-басед-опен-соурце-тоол-фор-алтернативе-цоммуницатион/
+externalSrc: ЦСС-трикови
 categories:
-  - cboard
-  - open-source
+  - картон
+  - отвореног кода
 image:
-author_staff_member: amberley
+author_staff_member: амберлеи
 ---
-We were delighted recently to have the opportunity to [share on CSS-Tricks](https://css-tricks.com/a-browser-based-open-source-tool-for-alternative-communication/)! Check it out to learn more about how the open-source ecosystem and modern browser developments are making Cboard possible. We discuss the Web Speech API, React, the Internationalization API, and the “progressive web app” concept.
+Недавно смо били одушевљени што смо имали прилику да [поделимо на ЦСС-триковима](https://css-tricks.com/a-browser-based-open-source-tool-for-alternative-communication/)! Погледајте то како бисте сазнали више о томе како отворени изворни екосистем и савремени развој прегледача омогућавају Цбоард. Разговарамо о АПИ-ју за веб говор, Реацт, АПИ интернационализације и концепт „прогресивне веб апликације“.

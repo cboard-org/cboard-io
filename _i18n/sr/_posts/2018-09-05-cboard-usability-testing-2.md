@@ -1,49 +1,49 @@
 ---
-title: Cboard usability testing 2
+title: Испитивање употребљивости плоче 2
 date: 2018-09-05
-description: Feedback from patients on usability
+description: Повратне информације пацијената о употребљивости
 categories:
-  - cboard
-  - usability-testing
-image: /images/eipam2.jpg
-author_staff_member: katrina
+  - картон
+  - тестирање употребљивости
+image: /имагес/еипам2.јпг
+author_staff_member: катрина
 ---
-## The final weeks of testing
+## Последње недеље тестирања
 
-For the final two weeks of testing, we continued seeing patients from both Ciren and Eipan, but though we saw a few new patients, the majority of the visits were second sessions with previously seen patients. This was helpful in that the children were not as overwhelmed with new images, and were seeing Cboard for a second time (at least). We had created folders with few pictograms (so less visual stimulation) in order to determine whether their reactions and understanding changed from the initial visit.
+Последње две недеље тестирања наставили смо да виђамо пацијенте и из Цирен-а и из Еипан-а, али иако смо видели неколико нових пацијената, већина посета биле су друге сесије са раније виђеним пацијентима. Ово је било корисно у томе што деца нису била преплављена новим сликама и виђала су Цбоард по други пут (бар). Направили смо фасцикле са неколико пиктограма (тако да мање визуелна стимулација) како бисмо утврдили да ли су се њихове реакције и разумевања променили од почетне посете.
 
-![Eipan](/images/eipam2.jpg)
+![Еипан](/images/eipam2.jpg)
 
-## User testing – weeks 3 and 4
+## Испитивање корисника - 3. и 4. недеља
 
-Following the first two weeks, the initial obstacles the kids were encountering with Cboard of overstimulation due to having too many pictograms on the screen. The patients often had little to no practice with assistive augmentative communication (AAC), and the speech therapists suggested editing the pages to limit shown images. We also focused on understanding of the pictograms, and ability to communicate during an activity using these pictograms, rather than ability to navigate for instance. Since many of the patients were very young and had little to no experience with AAC, navigating would take time and practice, while understanding of pictograms and distinction of folder versus pictogram would be instant.
+Након прве две недеље, почетне препреке са којима су се деца сусрела са ЦСБ-ом због превелике стимулације због превише пиктограма на екрану. Пацијенти често нису имали практицирања помоћне аугментативне комуникације (ААЦ), а логопеди су предложили уређивање страница како би ограничили приказане слике. Такође смо се фокусирали на разумевање пиктограма и способност комуникације током активности помоћу тих пиктограма, уместо на способност навигације, на пример. Будући да су многи пацијенти били врло млади и нису имали никаквог искуства са ААЦ-ом, навигација би захтевала време и вежбу, док би разумевање пиктограма и разликовање мапе од пиктограма било тренутно.
 
-We saw the 4 year old patient with neurodevelopmental delay mentioned in the first blog post a second time, but edited the folder in order to provide fewer pictograms. This patient was able to focus more on what was on the screen, and Cboard here served as a tool to facilitate playing. The game consisted of bathing and feeding a baby. The folders from Cboard used were ‘food’ and ‘hygiene’ primarily. The second visit was easier because the patient was receptive to instructions, and able to focus for longer amount of time on the pictograms in front of her. In sum, Cboard, like any other online application or tool, became easier to use with practice and individual editing for this patient’s personal needs.
+Видели смо четверогодишњег пацијента са неуроразвојним кашњењем који је поменут у првом посту на блогу други пут, али смо уредили фасциклу како би пружили мање пиктограма. Овај пацијент се могао више фокусирати на оно што је било на екрану, а Цбоард је овде послужио као алат за олакшавање играња. Игра се састојала од купања и храњења бебе. Мапе са Цбоард-а су биле првенствено „храна“ и „хигијена“. Друга посета је била лакша јер је пацијенткиња била пријемчива за упутства и била је у стању да се дуже фокусира на пиктограме испред ње. Укратко, Цбоард се, као и било који други мрежни програм или алат, постао лакши за употребу са праксом и индивидуалним уређивањем за личне потребе овог пацијента.
 
-The other patients were saw also had an easier time with the edited folders, but had some of the same issues previously mentioned regarding the size of pictograms, and the placement of the back button as well as going back to the home page without pressing the ‘back’ button so many times. The second sessions with patients pointed out that practice made Cboard easier to use, but that adding the option to enlarge both the pictograms and navigation options will be necessary to continue developing the application.
+Остали пацијенти су такође имали лакше време са уређеним мапама, али имали су неке исте проблеме раније поменуте у вези са величином пиктограма, и постављањем задњег тастера, као и враћањем на почетну страницу без притиска на ' тастер за повратак толико пута. У другој сесији са пацијентима истакнуто је да је пракса Цбоард учинила лакшом за употребу, али да ће за наставак развоја апликације бити потребно додавање могућности за увећање пиктограма и опција за навигацију.
 
-![Eipan2](/images/eipan3.jpeg)
+![Еипан2](/images/eipan3.jpeg)
 
-## Overall feedback and last thoughts
+## Укупна повратна информација и последња размишљања
 
-We finished the initial user testing at Ciren and Eipan on August 28th . The feedback from the testing remains similar to the initial feedback from the first post:
+Завршили смо почетно тестирање корисника у Цирен-у и Еипану 28. августа. Повратне информације са тестирања остају сличне почетним повратним информацијама из првог поста:
 
-- Color schemes: to make sure the color scheme, particularly within the ‘animal’ folder is clear and allows patients to differentiate between animals.
+- Шеме боја: да бисте били сигурни да је схема боја, посебно унутар мапе „животиња“, јасна и омогућава пацијентима да разликују животиње.
 
-- Size settings: add an option within settings that would allow to enlarge pictograms, ‘back’ button, ‘erase’ and ‘backspace’ buttons.
+- Подешавања величине: додајте опцију у подешавања која би омогућила увећање пиктограма, дугмета „назад“, дугмета „брисање“ и „повратног простора“.
 
-- Print letters: to make the print all uppercase writing rather that lowercase.
+- Штампање слова: да бисте штампали све велико слово, а не мала слова.
 
-- Folders: Add an ‘actions and verbs’ folder ( and include listen to music, dancing, singing).
+- Мапе: Додајте фасциклу „акције и глаголи“ (и укључују слушање музике, плес, певање).
 
-- Copy and Paste pictograms: add an option to copy and past pictograms in order to be able to use the same one in many different locations.
+- Копирај и залепи пиктограме: додај опцију за копирање и прошлих пиктограма како би се могла користити иста на многим различитим локацијама.
 
-- Overall format: The speech therapists suggested it would be helpful and help the fluidity of the app to add a button to go straight back home and not have to press the back button many times in order to reach the home page.
+- Укупни формат: Логопеди су претпоставили да би било корисно и помоћи флуидности апликације да додају дугме да бисте се вратили равно кући и да не бисте морали више пута да притиснете дугме за повратак да бисте дошли до почетне странице.
 
-Some new feedback includes:
+Неке нове повратне информације укључују:
 
-- Offline use: ability to navigate offline (with no connection to wifi).
+- Употреба ван мреже: могућност навигације ван мреже (без везе са вифи-јем).
 
-- Other features: possibility to add a game using the pictograms?
+- Остале карактеристике: могућност додавања игре помоћу пиктограма?
 
-In conclusion, the user testing conducted over the month of August has been successful in that the Cboard team now has enough feedback to begin editing and adding some of the suggestions from both the patients and the professionals. Cboard has gotten positive feedback ( the pictograms are clear, the format is simple and easy to use), but the most useful feedback has been the constructive criticism around what doesn’t work, and what elements of the application would be better if changed to take into account the different needs of patients and users. Both Ciren and Eipan have been incredibly helpful and it is thanks to their cooperation that we were able to gain so much constructive feedback.
+Закључно, корисничко тестирање спроведено током августа месеца било је успешно јер тим Цбоард тима сада има довољно повратних информација да започне са уређивањем и додавањем неких предлога како од пацијената, тако и од професионалаца. Цбоард је добио позитивне повратне информације (пиктограми су јасни, формат је једноставан и лак за употребу), али најкориснија повратна информација била је конструктивна критика око тога шта не функционише и који би елементи апликације били бољи ако би се променили у узети у обзир различите потребе пацијената и корисника. И Цирен и Еипан су нам били невероватно корисни и управо захваљујући њиховој сарадњи успели смо да добијемо толико конструктивних повратних информација.

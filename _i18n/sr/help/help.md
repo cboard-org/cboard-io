@@ -1,205 +1,202 @@
-# Cboard Help
+# Цбоард Хелп
 
-## What is Cboard?
+## Шта је Цбоард?
 
-Cboard is a free web application for children and adults with speech and language impairments, facilitating communication with pictures and text-to-speech.
+Цбоард је бесплатна веб апликација за децу и одрасле са оштећењима говора и језика, олакшавајући комуникацију са сликама и текстом у говор.
 
-## Registration and login 
+## Регистрација и пријава
 
-### How do I register for Cboard?
+### Како да се региструјем за Цбоард?
 
-To register for Cboard, begin by following the steps on the Welcome page [Figure 1](#Figure1).
+Да бисте се регистровали за Цбоард, почните следити кораке на страници добродошлице [Слика 1](#Figure1).
 
-![Figure 1](/images/help/image11.png "Figure 1")
+![Слика 1](/images/help/image11.png "Figure 1")
 
-Figure 1
+Слика 1
 
-If you are a new user, press SIGN UP, and a short form will pop up asking for basic information in order to create your account (Figure 2). Once you have filled out this information, you will receive an e-mail shortly after with a link to follow in order to confirm your account, and that’s it! Once you have verified your account you will have access to Cboard, and will receive another e-mail confirming you were successfully verified.
+Ако сте нови корисник, притисните ПРИЈАВИ УПОЗОРЕЊЕ и појавиће се кратак образац који ће тражити основне информације да бисте креирали свој налог (Слика 2). Након што испуните ове информације, добићете е-маил убрзо након тога, са линком који треба да следите да бисте потврдили свој налог и то је то! Једном када потврдите свој рачун, добићете приступ Цбоард-у и добићете други е-маил којим сте потврдили да сте успешно верификовани.
 
-![Figure 2](/images/help/image2.png "Figure 2")
+![Слика 2](/images/help/image2.png "Figure 2")
 
-Figure 2
+Слика 2
 
-### Can I register myself using my social media accounts?
+### Да ли се могу регистровати користећи своје налоге на друштвеним мрежама?
 
-Yes! On the log in page, you will be given the option to sign up with your Google or Facebook account if you wish to do so. You can also register with an e-mail address. 
+Да! На страници за пријављивање биће вам дата могућност да се пријавите са својим Гоогле или Фацебоок налогом ако то желите. Такође се можете регистровати са адресом е-поште.
 
-### How do I log in to Cboard?
+### Како се пријавим на Цбоард?
 
-To log in to Cboard, you follow the first step used to sign up, but instead of clicking SIGN UP on the Welcome screen, click LOGIN (Figure 3).You will then be asked to provide the e-mail you initially signed up with, and the password you set up.
+Да бисте се пријавили на Цбоард, следите први корак који сте користили за регистрацију, али уместо да притиснете ПРИЈАВИ на екрану добродошлице, кликните ПРИЈАВИ (Слика 3). Затим ћете бити упитани да унесете е-пошту са којом сте се првобитно пријавили. , и лозинку коју сте поставили.
 
-![Figure 3](/images/help/image3.png "Figure 3")
+![Слика 3](/images/help/image3.png "Figure 3")
 
-Figure 3
+Слика 3
 
-### How do I logout?
+### Како се одјавити?
 
-You can log out by clicking the settings icon, and the option will also appear in red. You can also double click the lock symbol on the right corner, and once you unlock the screen and the red bar appears, click on the icon to the left of the lock (your picture if you have one loaded) and the option to log out will appear in red. 
+Можете се одјавити кликом на икону поставки, а опција ће се такође појавити црвеном бојом. Такође можете двапут да кликнете на симбол закључавања у десном углу, а када откључате екран и појави се црвена трака, кликните на икону са леве стране браве (слика ако имате један учитан) и опцију да се одјавите. појавит ће се црвено.
 
-### What is the difference between a registered and a non-registered user?
+### Која је разлика између регистрованог и нерегистрованог корисника?
 
-A registered user is able to personalize their boards, and the changes made will be saved to their account so that when they log back in, they can use their customized boards. A non-registered user won't be able to save changes safely. We recommend registering just in case, so you can save all your changes safely!
+Регистровани корисник је у могућности да персонализује своје плоче, а промене ће бити сачуване на њихов налог тако да када се поново пријаве, могу да користе своје прилагођене плоче. Нерегистровани корисник неће моћи безбедно да спреми промене. Препоручујемо да се региструјете за сваки случај, тако да можете безбедно да сачувате све своје промене!
 
-### How do I update my user information?
+### Како да ажурирам своје корисничке податке?
 
-To update your user information, follow the same steps you would if you were trying to log out. Double click the lock symbol on the right corner, and once you unlock the screen and the red bar appears, click on the icon to the left of the lock (your picture if you have one loaded), and you can then edit your user information. 
+Да бисте ажурирали своје корисничке податке, следите исте кораке као и када бисте се покушали одјавити. Двапут кликните на симбол закључавања у десном углу, а када откључате екран и појави се црвена трака, кликните на икону са леве стране закључавања (слика ако имате једну учитану) и можете да измените своје корисничке информације .
 
-### How do I reset my password?
+### Како да ресетујем лозинку?
 
-## Price 
+## Цена
 
-### How much does Cboard cost?
+### Колико кошта Цбоард?
 
-Cboard is completely free of any charge.
+Картон је потпуно бесплатан.
 
-## Features 
+## Карактеристике
 
-### What devices and OS are supported?
+### Који су уређаји и ОС подржани?
 
-Cboard works on modern browsers and is available on a wide variety of platforms, including desktops, tablets and mobile phones.
+Цбоард ради на модерним прегледачима и доступан је на великом броју платформи, укључујући радне површине, таблете и мобилне телефоне.
 
-![Figure 4](/images/help/image4.png "Figure 4")
+![Слика 4](/images/help/image4.png "Figure 4")
 
-Figure 4
+Слика 4
 
+### Језици који подржавају картицу
 
-### Cboard supported languages
+Цбоард долази са подршком за 33 језика.
 
-Cboard comes with support for 33 languages.
+### Способности говора
 
-### Speech capabilities
+Да бисте прилагодили говорне могућности, уђите у подешавања, а под „Језик“ је категорија „Говор“. Када притиснете „Говор“, моћи ћете да уређујете висину и темпо говора на Цбоард-у.
 
-In order to adjust speech capabilities, go into settings, and under the 'Language' category is the 'Speech' category. When you press 'Speech' you will be able to edit the pitch and pace of speech on Cboard. 
+### Извоз и увоз
 
-### Export and import 
+Обе опције за извоз налазе се у оквиру поставки у категорији система, одмах испод Језик и говор. Категорија Извоз даје вам могућност да отпремите ОпенБоард или ПДФ. Категорија Увоз директно ће отворити ваше сачуване датотеке након што притиснете РЕСТОРЕ.
 
-Both options to export are within Settings in the System category, right below Language and Speech. 
-The Export category will give you the option to upload either an OpenBoard or PDF. 
-The Import category will directly open your saved files once you press RESTORE.
+### Могућности приказа
 
-### Display capabilities 
+Подешавања екрана могу се уређивати у Поставкама, у категорији Систем. Опција Дисплаи је тачно испод Екпорт анд Импорт. Једним када притиснете дугме, можете променити величину корисничког сучеља као и величину фонта апликације притиском на жељену величину. Црвена тачка би требала бити испод величине коју желите изабрати.
 
-Display settings can be edited in Settings, within the System category. The Display option is right below Export and Import. One you press the button, you can change the UI size as well as the app Font size by pressing the size you want. The red dot should be under the size you want to choose. 
+### Симболи за скенирање
 
-### Scanning symbols
+Скенирање (такође у оквиру поставки и категорије система) има другачија подешавања за скенирање. Кад га притиснете, прво бисте требали да омогућите поставку скенирања притиском на прву опцију која каже „Омогући“. Затим можете да изаберете одлагање времена, као и метод (било аутоматски или ручно).
 
-Scanning (also within Settings and the System category) has different settings for scanning. One you press it, you should first enable the scanning setting by pressing the first option that says 'Enable'. You can then choose the time delay, as well as the method (either automatic of manual). 
+### Навигација кроз интерфејс
 
-### Navigation trough the interface 
+Да бисте изменили и олакшали навигацију кроз картицу, дугме за навигацију, последње у систему (све у подешавањима), омогућава додавање одређених детаља ради лакшег коришћења плоче. Прва опција у навигацији омогућава веће дугме за повратак на које је лакше притиснути због величине. Други додаје дугме 'к' ради лакшег брисања симбола, а трећи олакшава откључавање захтијевајући само један клик за откључавање поставки.
 
-In order to edit and facilitate navigating through Cboard, the Navigation button, the last within System (all in Settings) allows to add certain details to make using the board easier. The first option within Navigation allows a larger 'back' button that is easier to press because of the size. The second adds an 'x' button to make it easier to delete symbols, and the third makes it easier to unlock by requiring only one click to unlock settings. 
+## Подешавања
 
-## Settings 
+### Како да приступим подешавањима на картици?
 
-### How do I access settings in Cboard?
+Једном када се пријавите на Цбоард, отворит ће се ХОМЕ страница (Слика 5).
 
-Once you log into Cboard, the HOME page will open (Figure 5).
+![Слика 5](/images/help/image15.png "Figure 5")
 
-![Figure 5](/images/help/image15.png "Figure 5")
+Слика 5
 
-Figure 5
+Да бисте приступили подешавањима, двапут кликните малу браву са десне стране, испод стрелице. Након што то учините, сива трака ће се појавити испод црне ХОМЕ траке, а дугме „подешавања“ ће се појавити директно са леве стране закључавања на траци ХОМЕ, друго са десне стране (слика 6).
 
-In order to access settings, double-click the small lock on the right-hand side, below the arrow. Once you have done this, a grey bar will appear below the black HOME bar, and the ‘settings’ button will appear directly to the left of the lock on the HOME bar, the second from the right (Figure 6).
+![Слика 6](/images/help/image16.png "Figure 6")
 
-![Figure 6](/images/help/image16.png "Figure 6")
+Слика 6
 
-Figure 6
+### Како да штампам свој сет плоче на Цбоард?
 
-### How do I print my board set in Cboard?
+Да бисте исписали плочу, притисните логотип штампача на левој страни црне траке ХОМЕ, након што сте откључали ХОМЕ страницу (погледајте слику 6).
 
-To print your board, press the printer logo on the left hand side of the black HOME bar, after having unlocked the HOME page (see Figure 6).
+### Како могу да видим картицу на целом екрану?
 
-### How do I see Cboard in fullscreen?
+Да бисте видели Цбоард на целом екрану, откључајте екран притиском на симбол закључавања са десне стране, а затим на највиши ред (црна трака), други симбол са леве стране који изгледа као правоугаоник проширује екран.
 
-In order to see Cboard in fullscreen, unlock the screen by pressing the lock symbol on the right hand side, and then on the highest row (the black bar), the second symbol from the left that looks like a rectangle expands the screen. 
+### Како да делим плочу?
 
-### How do I share a board?
+Да бисте делили плочу, откључајте екран притиском на симбол закључавања са десне стране, а затим на највишем реду (црна трака), трећи симбол са десне стране вам даје могућност да заједничку плочу делите на било који емаил, Фацебоок, Твиттер или копирајте везу да бисте је некоме послали.
 
-To share a board, unlock the screen by pressing the lock symbol on the right hand side, then on the highest row (the black bar), the third symbol from the right gives you the option to share your board on either email, Facebook, Twitter, or copy the link to send to someone. 
+## Талкинг
 
-## Talking 
+### Како да започнем разговор са Цбоард-ом?
 
-### How do I get started talking with Cboard?
+Прво идите на плочу са којом желите да почнете. Друго, откључајте плочу помоћу браве на десној страни. Треће, притисните дугме за уређивање на левој страни. Када то притиснете, можете одабрати у коју плочицу желите да додате персонализовани глас. Једном када одаберете, одаберите плочицу притиском на њу. Када то учините, притисните симбол за уређивање (оловка) на крајњој десној страни на светло плавој траци. Једном када се плочица отвори, добићете могућност да користите диктафон за додавање звука. Затим притиснете симбол микрофона и снимите, можете снимати више пута и можете их репродуковати пре него што га сачувате на плочу.
 
-First, go to the board you want to start with. Second, unlock the board using the lock on the right hand side. Third, Press the 'edit' button on the left hand side. Once you press this, you can choose which tile you want to add personalized voice to. Once you pick, choose the tile by pressing on it. Once you do so, press the edit (pencil) symbol on the far right side on the light blue bar. Once the tile opens, you are given the option to use a voice recorder to add sound. You then press the microphone symbol and record, you can record multiple times and can play it back before saving it to the board. 
+### Како да уклоним симболе из излазне траке?
 
-### How do I remove symbols from the output bar?
+### Како да пребацим на други глас?
 
-### How do I switch to a different voice?
+Да бисте прилагодили говорне могућности / глас, уђите у подешавања, а под 'Језик' категорија је 'Говор' категорија. Када притиснете „Говор“, моћи ћете да уређујете висину и темпо говора на Цбоард-у. Такође можете снимити свој сопствени глас за симболе пратећи кораке на одговору како започети разговор у апликацији.
 
-In order to adjust speech capabilities/voice, go into settings, and under the 'Language' category is the 'Speech' category. When you press 'Speech' you will be able to edit the pitch and pace of speech on Cboard. You can also record your own voice for the symbols following the steps on the answer from how to start talking on the app. 
+### Како да променим звук гласа?
 
-### How do I change how a voice sounds?
+Да бисте прилагодили говорне могућности / глас / звук, уђите у подешавања, а под 'Језик' категорија је 'Говор' категорија. Када притиснете „Говор“, моћи ћете да уређујете висину и темпо говора на Цбоард-у. Такође можете снимити свој сопствени глас за симболе пратећи кораке на одговору како започети разговор у апликацији.
 
-In order to adjust speech capabilities/voice/sound, go into settings, and under the 'Language' category is the 'Speech' category. When you press 'Speech' you will be able to edit the pitch and pace of speech on Cboard. You can also record your own voice for the symbols following the steps on the answer from how to start talking on the app. 
+## Уређивање одбора
 
-## Board Editing
+### Како да направим празну плочу?
 
-### How do I create an empty board?
+### Како да персонализујем постојећу плочу у Цбоард-у?
 
+Да бисте персонализирали постојећу плочу, откључајте ХОМЕ страницу двоструким кликом на закључавање са десне стране. Затим кликните на дугме контролне табле на левој страни сиве траке. (Погледајте слику 6 за референцу). Када кликнете на дугме, сива трака би требала постати плава, а на десној страни ћете видети малу канту за смеће и оловку (слика 7).
 
-### How do I personalize an existing board in Cboard?
+![Слика 7](/images/help/image7.png "Figure 7")
 
-In order to personalize an existing board, unlock the HOME page by double clicking the lock on the right hand side. Then click on the dashboard button on the left hand side of the gray bar. (See Figure 6 for reference).Once you click select, the gray bar should turn blue, and on the right hand side you will see a small trash can and a pencil (Figure 7).
+Слика 7
 
-![Figure 7](/images/help/image7.png "Figure 7")
+Да бисте персонализовали плочу, кликните оловку и моћи ћете да промените налепницу, уплоадате слику и додате вокализацију (слика 8).
 
-Figure 7
+![Фигура 8](/images/help/image18.png "Figure 8")
 
-In order to personalize the board, click the pencil and you will be able to change the label, upload an image, and add Vocalization (Figure 8).
+Фигура 8
 
-![Figure 8](/images/help/image18.png "Figure 8")
+### Могу ли користити своје слике приликом уређивања плоче?
 
-Figure 8
+Да, можете користити сопствену слику приликом уређивања плоче. Да бисте користили сопствену слику, можете је отпремити кад креирате нову плочицу (притиском на знак плус на сивој траци након откључавања странице, погледајте слику 6). Такође можете уредити постојећу плочицу са сопственом сликом (види слике 7 и 8).
 
-### Can I use my own pictures when editing a board?
+### Могу ли променити редослед елемената на плочи?
 
-Yes, you can use your own picture when editing a board. In order to use your own picture, you can upload the image when you create a new tile (by pressing the plus sign on the grey bar after unlocking the page, see Figure 6). You can also edit an existing tile with your own picture (see Figures 7 and 8).
+Да! Када уређујете плочу, откључајте екран користећи симбол закључавања. Затим кликните на симбол „уреди“ на левој страни (испод симбола „направи“). Затим можете повући пиктограм или мапу где год желите да га ставите унутар исте плоче. Погледајте слику испод:
 
-### Can I change the ordering of the elements in a board?
-Yes! When you are editing a board, unlock the screen using the lock symbol. Then click the 'edit' symbol on the left hand side (below the 'build' symbol). You can then drag the pictogram or folder to wherever you want to put it within the same board. See figure below:
+### Како да изаберем више елемената за уређивање?
 
-### How do I select multiple elements to edit?
-The same way you change the ordering of elements in a board, but instead of clicking and dragging, you select the circle inside the pictogram square, and you can choose more than one. 
-After doing so, click on the right hand side on the pencil symbol on the blue line, which will allow you to edit the elements selected: 
+На исти начин мењате редослед елемената на плочи, али уместо да кликнете и превучете, изаберите круг унутар пиктограмског квадрата и можете одабрати више њих. Након тога кликните десну страну на симбол оловке на плавој линији, што ће вам омогућити да измените одабране елементе:
 
-## Export and import 
+## Извоз и увоз
 
-### How do I export my board in Cboard?
+### Како да извозим плочу у картон?
 
-In order to export your board in Cboard, go to settings (see Figure 6), and as soon as you open Settings, the Export option will appear as a downward facing arrow, right below Language and Speech (Figure 9).
+Да бисте извезли плочу у Цбоард, идите на подешавања (погледајте слику 6), а чим отворите Сеттингс, опција Екпорт ће се појавити као стрелица окренута надоле, тачно испод Језик и говор (слика 9).
 
-![Figure 9](/images/help/image19.png "Figure 9")
+![Слика 9](/images/help/image19.png "Figure 9")
 
-Figure 9
+Слика 9
 
-Click on Export, and you will be able to download your Cboard by clicking on either ‘OpenBoard’ or EXPORT.
+Кликните на Екпорт, а своју плочу ћете моћи преузети кликом на 'ОпенБоард' или ЕКСПОРТ.
 
-![Figure 10](/images/help/image10.png "Figure 10")
+![Слика 10](/images/help/image10.png "Figure 10")
 
-Figure 10
+Слика 10
 
-### How do I import a board into Cboard?
+### Како да увозим плочу у Цбоард?
 
-In order to import a board, follow the steps used to Export. The Import symbol is below Export, an upward facing arrow with a horizontal bar below it (See figure 9).
+Да бисте увезли плочу, следите кораке коришћене за извоз. Симбол увоза је испод Извоз, стрелица окренута према горе са хоризонталном траком испод ње (види слику 9).
 
-### What file format does Cboard use for import/export?
+### Који формат датотека користи Цбоард за увоз / извоз?
 
-In order to Import and Export boards you have two options:
+За увоз и извоз плоча имате две могућности:
 
-- Use Cboard native file boards.
-- Use OpenBoard formatted files.
+- Користите матичне плоче датотека Цбоард.
+- Користите датотеке форматиране на ОпенБоард-у.
 
-## Display capabilities 
+## Могућности приказа
 
-### Can I resize buttons on Cboard?
+### Могу ли да променим величину тастера на плочи?
 
-Yes! You can resize buttons in Settings. In the category 'system', click on the Display button and you will be given 3 options for size: Standard, Large, Extra Large. See figure below: 
+Да! Дугмад можете променити у Сеттингс. У категорији „систем“ кликните на дугме Дисплаи и биће вам додељене 3 опције за величину: Стандард, Ларге, Ектра Ларге. Погледајте слику испод:
 
-## Scanning 
+## Скенирање
 
+## Навигација кроз интерфејс
 
-## Navigation through the interface 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTQ4NzM1NTM3MywtNjc1ODQ0NjMsLTc1MD
 QyMjkwMSwtMTQzMTg5NTk1MiwxNjI1NDIyODY1LC00MTYzMzQ1
