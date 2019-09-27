@@ -123,24 +123,17 @@ To create an empty board, begin by unlocking the screen pressing the lock button
 
 ### How do I personalize an existing board in Cboard?
 
-In order to personalize an existing board, unlock the HOME page by double clicking the lock on the right hand side. Then click on the dashboard button on the left hand side of the gray bar. (See Figure 6 for reference). \ Once you click select, the gray bar should turn blue, and on the right hand side you will see a small trash can and a pencil .
+In order to personalize an existing board, unlock the HOME page by double clicking the lock on the right hand side. Then click on the dashboard button on the left hand side of the gray bar. (See Figure 6 for reference). \ Once you click select, the gray bar should turn blue, and on the right hand side you will see a small trash can and a pencil.
 
-![Figure 7](/images/help/image7.png "Figure 7")
+In order to personalize the board, click the pencil and you will be able to change the label, upload an image, and add Vocalization.
 
-Figure 7
-
-In order to personalize the board, click the pencil and you will be able to change the label, upload an image, and add Vocalization (Figure 8).
-
-![Figure 8](/images/help/image18.png "Figure 8")
-
-Figure 8
 
 ### Can I use my own pictures when editing a board?
 
-Yes, you can use your own picture when editing a board. In order to use your own picture, you can upload the image when you create a new tile (by pressing the plus sign on the grey bar after unlocking the page, see Figure 6). \ You can also edit an existing tile with your own picture (see Figures 7 and 8).
+Yes, you can use your own picture when editing a board. In order to use your own picture, you can upload the image when you create a new tile (by pressing the plus sign on the grey bar after unlocking the page). You can also edit an existing tile with your own picture.
 
 ### Can I change the ordering of the elements in a board?
-Yes! When you are editing a board, unlock the screen using the lock symbol. Then click the 'edit' symbol on the left hand side (below the 'build' symbol). You can then drag the pictogram or folder to wherever you want to put it within the same board. See figure below:
+Yes! When you are editing a board, unlock the screen using the lock symbol. Then click the 'edit' symbol on the left hand side (below the 'build' symbol). You can then drag the pictogram or folder to wherever you want to put it within the same board. 
 
 ### How do I select multiple elements to edit?
 The same way you change the ordering of elements in a board, but instead of clicking and dragging, you select the circle inside the pictogram square, and you can choose more than one. 
@@ -150,21 +143,14 @@ After doing so, click on the right hand side on the pencil symbol on the blue li
 
 ### How do I export my board in Cboard?
 
-In order to export your board in Cboard, go to settings (see Figure 6), and as soon as you open Settings, the Export option will appear as a downward facing arrow, right below Language and Speech (Figure 9).
-
-![Figure 9](/images/help/image19.png "Figure 9")
-
-Figure 9
+In order to export your board in Cboard, go to settings (see Figure 6), and as soon as you open Settings, the Export option will appear as a downward facing arrow, right below Language and Speech.
 
 Click on Export, and you will be able to download your Cboard by clicking on either ‘OpenBoard’ or EXPORT.
 
-![Figure 10](/images/help/image10.png "Figure 10")
-
-Figure 10
 
 ### How do I import a board into Cboard?
 
-In order to import a board, follow the steps used to Export. The Import symbol is below Export, an upward facing arrow with a horizontal bar below it (See figure 9).
+In order to import a board, follow the steps used to Export. The Import symbol is below Export, an upward facing arrow with a horizontal bar below it.
 
 ### What file format does Cboard use for import/export?
 
@@ -177,17 +163,16 @@ In order to Import and Export boards you have two options:
 
 ### Can I resize buttons on Cboard?
 
-Yes! You can resize buttons in Settings. In the category 'system', click on the Display button and you will be given 3 options for size: Standard, Large, Extra Large. See figure below: 
+Yes! You can resize buttons in Settings. In the category 'system', click on the Display button and you will be given 3 options for size: Standard, Large, Extra Large. 
 
 ## Scanning 
 
 
-## Navigation through the interface 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMjMwMjcxMywtMTMwMzI0ODU4OSwtMT
-g5NzAzODE2MCwtMTM2OTcxNzA1OSwtNDg3MzU1MzczLC02NzU4
-NDQ2MywtNzUwNDIyOTAxLC0xNDMxODk1OTUyLDE2MjU0MjI4Nj
-UsLTQxNjMzNDUxNiwtNDI3MjMzNDAyLC0xOTkzMDk0MjA4LC0x
-NDIxOTMzMzYzLDE5Mzk0NTA4OSwtMTg1NTY4MTQ5MCwxNjMzNT
-IxNDBdfQ==
+eyJoaXN0b3J5IjpbNjc4OTM0NzY2LC0xMzAzMjQ4NTg5LC0xOD
+k3MDM4MTYwLC0xMzY5NzE3MDU5LC00ODczNTUzNzMsLTY3NTg0
+NDYzLC03NTA0MjI5MDEsLTE0MzE4OTU5NTIsMTYyNTQyMjg2NS
+wtNDE2MzM0NTE2LC00MjcyMzM0MDIsLTE5OTMwOTQyMDgsLTE0
+MjE5MzMzNjMsMTkzOTQ1MDg5LC0xODU1NjgxNDkwLDE2MzM1Mj
+E0MF19
 -->
