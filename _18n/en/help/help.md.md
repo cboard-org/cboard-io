@@ -137,7 +137,7 @@ In order to adjust speech capabilities/voice/sound, go into settings, and under 
 
 ### How do I create an empty board?
 
-To create an empty board, begin by unlocking the screen pressing the lock button on the right hand side. Once you unlock the screen, press the plus symbol on the right hand side, 
+To create an empty board, begin by unlocking the screen pressing the lock button on the right hand side. Once you unlock the screen, press the plus symbol on the right hand side, in order to 'add tile'. You will then be given the option to add a tile, but instead of adding a button (the first and automatic option), press the 'folder' option directly below it. By creating a folder, you are creating a new board to which you can add more tiles and folders. 
 
 ### How do I personalize an existing board in Cboard?
 
@@ -202,7 +202,7 @@ Yes! You can resize buttons in Settings. In the category 'system', click on the 
 
 ## Navigation through the interface 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTM2ODEwMTMsLTQ4NzM1NTM3MywtNj
+eyJoaXN0b3J5IjpbLTEzNjk3MTcwNTksLTQ4NzM1NTM3MywtNj
 c1ODQ0NjMsLTc1MDQyMjkwMSwtMTQzMTg5NTk1MiwxNjI1NDIy
 ODY1LC00MTYzMzQ1MTYsLTQyNzIzMzQwMiwtMTk5MzA5NDIwOC
 wtMTQyMTkzMzM2MywxOTM5NDUwODksLTE4NTU2ODE0OTAsMTYz
