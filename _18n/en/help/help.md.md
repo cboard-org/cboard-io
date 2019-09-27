@@ -92,6 +92,7 @@ To print your board, press the printer logo on the left hand side of the black H
 
 In order to see Cboard in fullscreen, unlock the screen by pressing the lock symbol on the right hand side, and then on the highest row (the black bar), the second symbol from the left that looks like a rectangle expands the screen. 
 
+![enter image description here](https://lh3.googleusercontent.com/L2kege-7UQsnkT1LHXcXAh6Fhd3g9fWvmG7cRhjz-okvZAdPoAUi80gKwtZXWUnpyjOfL16Vz20)
 ### How do I share a board?
 
 To share a board, unlock the screen by pressing the lock symbol on the right hand side, then on the highest row (the black bar), the third symbol from the right gives you the option to share your board on either email, Facebook, Twitter, or copy the link to send to someone. 
@@ -181,9 +182,9 @@ Yes! You can resize buttons in Settings. In the category 'system', click on the 
 
 ## Navigation through the interface 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MDA0MjI0OSwtMTg5NzAzODE2MCwtMT
-M2OTcxNzA1OSwtNDg3MzU1MzczLC02NzU4NDQ2MywtNzUwNDIy
-OTAxLC0xNDMxODk1OTUyLDE2MjU0MjI4NjUsLTQxNjMzNDUxNi
-wtNDI3MjMzNDAyLC0xOTkzMDk0MjA4LC0xNDIxOTMzMzYzLDE5
-Mzk0NTA4OSwtMTg1NTY4MTQ5MCwxNjMzNTIxNDBdfQ==
+eyJoaXN0b3J5IjpbLTEwNTQ0NTU5NTIsLTE4OTcwMzgxNjAsLT
+EzNjk3MTcwNTksLTQ4NzM1NTM3MywtNjc1ODQ0NjMsLTc1MDQy
+MjkwMSwtMTQzMTg5NTk1MiwxNjI1NDIyODY1LC00MTYzMzQ1MT
+YsLTQyNzIzMzQwMiwtMTk5MzA5NDIwOCwtMTQyMTkzMzM2Mywx
+OTM5NDUwODksLTE4NTU2ODE0OTAsMTYzMzUyMTQwXX0=
 -->
