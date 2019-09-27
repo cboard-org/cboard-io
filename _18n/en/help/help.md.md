@@ -10,10 +10,9 @@ Cboard is a free web application for children and adults with speech and languag
 
 To register for Cboard, begin by following the steps on the Welcome page [Figure 1](#Figure1).
 
-![Figure 1](/images/help/image11.png "Figure 1")
-
 Figure 1
 
+![enter image description here](https://lh3.googleusercontent.com/Y3qPDF7eEloZSXbysP_QXSZtgxBNeWbZEYLjPzUoIfatIh1uQ4uY5drLhUO0R_m3x2nJov-ozn4)
 If you are a new user, press SIGN UP, and a short form will pop up asking for basic information in order to create your account (Figure 2). \ Once you have filled out this information, you will receive an e-mail shortly after with a link to follow in order to confirm your account, and that’s it! \ Once you have verified your account you will have access to Cboard, and will receive another e-mail confirming you were successfully verified.
 
 ![Figure 2](/images/help/image2.png "Figure 2")
@@ -202,9 +201,9 @@ Yes! You can resize buttons in Settings. In the category 'system', click on the 
 
 ## Navigation through the interface 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjk3MTcwNTksLTQ4NzM1NTM3MywtNj
-c1ODQ0NjMsLTc1MDQyMjkwMSwtMTQzMTg5NTk1MiwxNjI1NDIy
-ODY1LC00MTYzMzQ1MTYsLTQyNzIzMzQwMiwtMTk5MzA5NDIwOC
-wtMTQyMTkzMzM2MywxOTM5NDUwODksLTE4NTU2ODE0OTAsMTYz
-MzUyMTQwXX0=
+eyJoaXN0b3J5IjpbLTE4OTcwMzgxNjAsLTEzNjk3MTcwNTksLT
+Q4NzM1NTM3MywtNjc1ODQ0NjMsLTc1MDQyMjkwMSwtMTQzMTg5
+NTk1MiwxNjI1NDIyODY1LC00MTYzMzQ1MTYsLTQyNzIzMzQwMi
+wtMTk5MzA5NDIwOCwtMTQyMTkzMzM2MywxOTM5NDUwODksLTE4
+NTU2ODE0OTAsMTYzMzUyMTQwXX0=
 -->
