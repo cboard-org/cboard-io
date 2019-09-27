@@ -10,6 +10,7 @@ Cboard is a free web application for children and adults with speech and languag
 
 To register for Cboard, begin by following the steps on the Welcome page.
 
+![enter image description here](https://lh3.googleusercontent.com/YUd66WPwUbbTGURuBBhojo0DD2PEcVsnCuyOjoIicGLCQ6aSk9pdulImBIoPegKNNBkPrUgwwzQ)
 ![enter image description here](https://lh3.googleusercontent.com/Y3qPDF7eEloZSXbysP_QXSZtgxBNeWbZEYLjPzUoIfatIh1uQ4uY5drLhUO0R_m3x2nJov-ozn4)
 If you are a new user, press SIGN UP, and a short form will pop up asking for basic information in order to create your account (Figure 2). \ Once you have filled out this information, you will receive an e-mail shortly after with a link to follow in order to confirm your account, and that’s it! \ Once you have verified your account you will have access to Cboard, and will receive another e-mail confirming you were successfully verified.
 
@@ -79,21 +80,13 @@ In order to edit and facilitate navigating through Cboard, the Navigation button
 
 ### How do I access settings in Cboard?
 
-Once you log into Cboard, the HOME page will open (Figure 5).
+Once you log into Cboard, the HOME page will open. 
 
-![Figure 5](/images/help/image15.png "Figure 5")
-
-Figure 5
-
-In order to access settings, double-click the small lock on the right-hand side, below the arrow. Once you have done this, a grey bar will appear below the black HOME bar, and the ‘settings’ button will appear directly to the left of the lock on the HOME bar, the second from the right (Figure 6).
-
-![Figure 6](/images/help/image16.png "Figure 6")
-
-Figure 6
+In order to access settings, click the small lock on the right-hand side three times, below the arrow. Once you have done this, a grey bar will appear below the black HOME bar, and the ‘settings’ button will appear directly to the left of the lock on the HOME bar, the second from the right.
 
 ### How do I print my board set in Cboard?
 
-To print your board, press the printer logo on the left hand side of the black HOME bar, after having unlocked the HOME page (see Figure 6).
+To print your board, press the printer logo on the left hand side of the black HOME bar, after having unlocked the HOME page.
 
 ### How do I see Cboard in fullscreen?
 
@@ -188,9 +181,9 @@ Yes! You can resize buttons in Settings. In the category 'system', click on the 
 
 ## Navigation through the interface 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDI2MDQ4NDAsLTE4OTcwMzgxNjAsLT
-EzNjk3MTcwNTksLTQ4NzM1NTM3MywtNjc1ODQ0NjMsLTc1MDQy
-MjkwMSwtMTQzMTg5NTk1MiwxNjI1NDIyODY1LC00MTYzMzQ1MT
-YsLTQyNzIzMzQwMiwtMTk5MzA5NDIwOCwtMTQyMTkzMzM2Mywx
-OTM5NDUwODksLTE4NTU2ODE0OTAsMTYzMzUyMTQwXX0=
+eyJoaXN0b3J5IjpbMTM4MDA0MjI0OSwtMTg5NzAzODE2MCwtMT
+M2OTcxNzA1OSwtNDg3MzU1MzczLC02NzU4NDQ2MywtNzUwNDIy
+OTAxLC0xNDMxODk1OTUyLDE2MjU0MjI4NjUsLTQxNjMzNDUxNi
+wtNDI3MjMzNDAyLC0xOTkzMDk0MjA4LC0xNDIxOTMzMzYzLDE5
+Mzk0NTA4OSwtMTg1NTY4MTQ5MCwxNjMzNTIxNDBdfQ==
 -->
