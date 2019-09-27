@@ -103,7 +103,8 @@ To share a board, unlock the screen by pressing the lock symbol on the right han
 ### How do I get started talking with Cboard?
 
 First, go to the board you want to start with. Second, unlock the board using the lock on the right hand side. Third, Press the 'edit' button on the left hand side. Once you press this, you can choose which tile you want to add personalized voice to. Once you pick, choose the tile by pressing on it. Once you do so, press the edit (pencil) symbol on the far right side on the light blue bar. Once the tile opens, you are given the option to use a voice recorder to add sound. You then press the microphone symbol and record, you can record multiple times and can play it back before saving it to the board. 
-
+![enter image description here](https://lh3.googleusercontent.com/pgvDV4BTXNHMYiYFl8lzEoGUaxSRj2SDySvLE8BJkIRa0RQAh_5G1MIegWo_NUKYtfRgvN1fr5I)
+![enter image description here](https://lh3.googleusercontent.com/0IaWGCnXmOv0_UhiVEu_8owSDAf8-iOTuSRaeTeT22WJ7gZqDLZ0y-b6-Je8eKVgNLOSTCE4440)
 ### How do I remove symbols from the output bar?
 
 ### How do I switch to a different voice?
@@ -122,7 +123,7 @@ To create an empty board, begin by unlocking the screen pressing the lock button
 
 ### How do I personalize an existing board in Cboard?
 
-In order to personalize an existing board, unlock the HOME page by double clicking the lock on the right hand side. Then click on the dashboard button on the left hand side of the gray bar. (See Figure 6 for reference). \ Once you click select, the gray bar should turn blue, and on the right hand side you will see a small trash can and a pencil (Figure 7).
+In order to personalize an existing board, unlock the HOME page by double clicking the lock on the right hand side. Then click on the dashboard button on the left hand side of the gray bar. (See Figure 6 for reference). \ Once you click select, the gray bar should turn blue, and on the right hand side you will see a small trash can and a pencil .
 
 ![Figure 7](/images/help/image7.png "Figure 7")
 
@@ -183,9 +184,10 @@ Yes! You can resize buttons in Settings. In the category 'system', click on the 
 
 ## Navigation through the interface 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDMyNDg1ODksLTE4OTcwMzgxNjAsLT
-EzNjk3MTcwNTksLTQ4NzM1NTM3MywtNjc1ODQ0NjMsLTc1MDQy
-MjkwMSwtMTQzMTg5NTk1MiwxNjI1NDIyODY1LC00MTYzMzQ1MT
-YsLTQyNzIzMzQwMiwtMTk5MzA5NDIwOCwtMTQyMTkzMzM2Mywx
-OTM5NDUwODksLTE4NTU2ODE0OTAsMTYzMzUyMTQwXX0=
+eyJoaXN0b3J5IjpbMTMwMjMwMjcxMywtMTMwMzI0ODU4OSwtMT
+g5NzAzODE2MCwtMTM2OTcxNzA1OSwtNDg3MzU1MzczLC02NzU4
+NDQ2MywtNzUwNDIyOTAxLC0xNDMxODk1OTUyLDE2MjU0MjI4Nj
+UsLTQxNjMzNDUxNiwtNDI3MjMzNDAyLC0xOTkzMDk0MjA4LC0x
+NDIxOTMzMzYzLDE5Mzk0NTA4OSwtMTg1NTY4MTQ5MCwxNjMzNT
+IxNDBdfQ==
 -->
