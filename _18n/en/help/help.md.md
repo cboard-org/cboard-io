@@ -164,7 +164,11 @@ You can choose to add a linked or empty board by selecting the small lock on the
 
 In order to personalize an existing board, select the small lock on the top right-hand side of the bar above the board, (below the arrow with a cross). Once you have done this, another bar will appear below the black HOME bar, and you will find a small block icon on the left hand side to add a tile or cell. Once the block is select, the grey bar should turn blue, and on the right hand side you will see a small trash can and a pencil.
 
+![enter image description here](https://lh3.googleusercontent.com/Jg_Qkp81WXA6pzjpCEYLA5Sd55j5d8F1ypPCkSkzzjc_b9MGqoOoQkFWsbMZs9QVqeJrOC6rLxM)
 
+In order to personalize the board, select the pencil and you will be able to change the label, upload an image, and add Vocalization. 
+
+![enter image description here](https://lh3.googleusercontent.com/W5R8nM-aaY9l2LYgWXEILkF7bU-r6g2E3MnQv5ULl3KHBNVQd6Oc9c7kvsO7Em8sAkjOkFX22Fs)
 ### Can I use my own pictures when editing a board?
 
 Yes, you can use your own picture when editing a board. In order to use your own picture, you can upload the image when you create a new tile (by pressing the plus sign on the grey bar after unlocking the page). You can also edit an existing tile with your own picture.
@@ -174,7 +178,7 @@ Yes! When you are editing a board, unlock the screen using the lock symbol. Then
 
 ### How do I select multiple elements to edit?
 The same way you change the ordering of elements in a board, but instead of clicking and dragging, you select the circle inside the pictogram square, and you can choose more than one. 
-After doing so, click on the right hand side on the pencil symbol on the blue line, which will allow you to edit the elements selected: 
+After doing so, click on the right hand side on the pencil symbol on the blue line, which will allow you to edit the elements selected.
 
 ## Export and import 
 
@@ -203,11 +207,11 @@ Yes! You can resize buttons in Settings. In the category 'system', click on the 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzQ2NDc1NjMsMTA1Mjc3MjYyNSwtOD
-UxNzQ4OTUxLC0xNzA3NTc3ODA0LC00NDUwNTc2OTEsMTY2MjYx
-OTEwNSwtMTMwMzI0ODU4OSwtMTg5NzAzODE2MCwtMTM2OTcxNz
-A1OSwtNDg3MzU1MzczLC02NzU4NDQ2MywtNzUwNDIyOTAxLC0x
-NDMxODk1OTUyLDE2MjU0MjI4NjUsLTQxNjMzNDUxNiwtNDI3Mj
-MzNDAyLC0xOTkzMDk0MjA4LC0xNDIxOTMzMzYzLDE5Mzk0NTA4
-OSwtMTg1NTY4MTQ5MF19
+eyJoaXN0b3J5IjpbNjQ1ODkwMzA5LDEwNTI3NzI2MjUsLTg1MT
+c0ODk1MSwtMTcwNzU3NzgwNCwtNDQ1MDU3NjkxLDE2NjI2MTkx
+MDUsLTEzMDMyNDg1ODksLTE4OTcwMzgxNjAsLTEzNjk3MTcwNT
+ksLTQ4NzM1NTM3MywtNjc1ODQ0NjMsLTc1MDQyMjkwMSwtMTQz
+MTg5NTk1MiwxNjI1NDIyODY1LC00MTYzMzQ1MTYsLTQyNzIzMz
+QwMiwtMTk5MzA5NDIwOCwtMTQyMTkzMzM2MywxOTM5NDUwODks
+LTE4NTU2ODE0OTBdfQ==
 -->
