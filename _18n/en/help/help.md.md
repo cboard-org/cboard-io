@@ -56,10 +56,21 @@ Cboard is completely free of any charge.
 
 Cboard works on modern browsers and is available on a wide variety of platforms, including desktops, tablets and mobile phones.
 ![enter image description here](https://lh3.googleusercontent.com/irsNFs669atOMG7J4l5S8j5so53vmp6YP3uu8Y8QTfW5AJfzXJsPt5QKfurB6oBQf_e9iAIuIhQ)
+Cboard is a web based app so will respond to the settings provided by the individual browsers. This may mean you have different results to the
+
+settings provided by Cboard. For example you may find different speech options being offered.
+
+Don’t forget you can also use browser magnification or zoom to a certain degree depending on the computer, tablet or phone screen size.
+
+Please ask Cboard about using high contrast mode for those with visual impairment as browser based options are not helpful when using this type of web app.
+
 ### Cboard supported languages
 
 Cboard comes with support for 33 languages.
 
+### Can Cboard read my message out aloud?
+
+Yes, Cboard uses the synthetic speech output available on your device to read out individual labels found below each symbol as they are added to the message output box. You can select a complete message and it will also be read aloud. If a personalised recording of a sound, word or phrase has been added to a symbol (instructions under Talking – Voice Recordings) you will hear that recording instead of the synthesised voice. This can be very helpful where a translation is not available in a language, a child’s voice is needed or an accent is unacceptable. Please ensure web access has been given to your microphone.
 ### Speech capabilities
 
 In order to adjust speech capabilities, go into settings, and under the 'Language' category is the 'Speech' category. When you press 'Speech' you will be able to edit the pitch and pace of speech on Cboard. 
@@ -179,11 +190,11 @@ Yes! You can resize buttons in Settings. In the category 'system', click on the 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMDQ0NzI4NiwtODUxNzQ4OTUxLC0xNz
-A3NTc3ODA0LC00NDUwNTc2OTEsMTY2MjYxOTEwNSwtMTMwMzI0
-ODU4OSwtMTg5NzAzODE2MCwtMTM2OTcxNzA1OSwtNDg3MzU1Mz
-czLC02NzU4NDQ2MywtNzUwNDIyOTAxLC0xNDMxODk1OTUyLDE2
-MjU0MjI4NjUsLTQxNjMzNDUxNiwtNDI3MjMzNDAyLC0xOTkzMD
-k0MjA4LC0xNDIxOTMzMzYzLDE5Mzk0NTA4OSwtMTg1NTY4MTQ5
-MCwxNjMzNTIxNDBdfQ==
+eyJoaXN0b3J5IjpbLTEzNTA3NzA0ODAsLTg1MTc0ODk1MSwtMT
+cwNzU3NzgwNCwtNDQ1MDU3NjkxLDE2NjI2MTkxMDUsLTEzMDMy
+NDg1ODksLTE4OTcwMzgxNjAsLTEzNjk3MTcwNTksLTQ4NzM1NT
+M3MywtNjc1ODQ0NjMsLTc1MDQyMjkwMSwtMTQzMTg5NTk1Miwx
+NjI1NDIyODY1LC00MTYzMzQ1MTYsLTQyNzIzMzQwMiwtMTk5Mz
+A5NDIwOCwtMTQyMTkzMzM2MywxOTM5NDUwODksLTE4NTU2ODE0
+OTAsMTYzMzUyMTQwXX0=
 -->
