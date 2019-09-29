@@ -55,7 +55,7 @@ Cboard is completely free of any charge.
 ### What devices and OS are supported?
 
 Cboard works on modern browsers and is available on a wide variety of platforms, including desktops, tablets and mobile phones.
-
+![enter image description here](https://lh3.googleusercontent.com/irsNFs669atOMG7J4l5S8j5so53vmp6YP3uu8Y8QTfW5AJfzXJsPt5QKfurB6oBQf_e9iAIuIhQ)
 ### Cboard supported languages
 
 Cboard comes with support for 33 languages.
@@ -179,7 +179,7 @@ Yes! You can resize buttons in Settings. In the category 'system', click on the 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NzM0MjQ4NiwtODUxNzQ4OTUxLC0xNz
+eyJoaXN0b3J5IjpbLTMyMDQ0NzI4NiwtODUxNzQ4OTUxLC0xNz
 A3NTc3ODA0LC00NDUwNTc2OTEsMTY2MjYxOTEwNSwtMTMwMzI0
 ODU4OSwtMTg5NzAzODE2MCwtMTM2OTcxNzA1OSwtNDg3MzU1Mz
 czLC02NzU4NDQ2MywtNzUwNDIyOTAxLC0xNDMxODk1OTUyLDE2
