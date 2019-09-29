@@ -157,18 +157,12 @@ In order to adjust speech capabilities/voice/sound, go into settings, and under 
 ### How do I create an empty board?
 
 You can choose to add a linked or empty board by selecting the small lock on the top right-hand side of the bar above the board, (below the arrow with a cross). Once you have done this, another bar will appear below the black HOME bar, and you will find a small plus sign to add a tile or cell. When the CREATE TILE window appears you will see the option to add a folder. If you create a folder you can upload an image in a similar manner to making a tile with a color setting and label. It is automatically linked to that board and will appear in your list of boards as an empty board.
- 
-### How do I create an empty board?
 
-In cboard an empty board is equivalent to a folder. If you want to create a new empty you just have to create a new folder, and that will create a new empty board in the cboard storage. the new empty board will be immediately available for edition and can be set as the root board (using the build button), which means that it will be the first board you see the next time you open cboard from scratch.
-
-To create a new folder, begin by unlocking the screen pressing the lock button on the right hand side. Once you unlock the screen, press the plus symbol on the right hand side, in order to 'add tile'. You will then be given the option to add a tile, but instead of adding a button (the first and automatic option), press the 'folder' option directly below it. By creating a folder, you are creating a new board to which you can add more tiles and folders. 
 
 ### How do I personalize an existing board in Cboard?
 
-In order to personalize an existing board, unlock the HOME page by double clicking the lock on the right hand side. Then click on the dashboard button on the left hand side of the gray bar. (See Figure 6 for reference). \ Once you click select, the gray bar should turn blue, and on the right hand side you will see a small trash can and a pencil.
 
-In order to personalize the board, click the pencil and you will be able to change the label, upload an image, and add Vocalization.
+In order to personalize an existing board, select the small lock on the top right-hand side of the bar above the board, (below the arrow with a cross). Once you have done this, another bar will appear below the black HOME bar, and you will find a small block icon on the left hand side to add a tile or cell. Once the block is select, the grey bar should turn blue, and on the right hand side you will see a small trash can and a pencil.
 
 
 ### Can I use my own pictures when editing a board?
@@ -209,11 +203,11 @@ Yes! You can resize buttons in Settings. In the category 'system', click on the 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1Mjc3MjYyNSwtODUxNzQ4OTUxLC0xNz
-A3NTc3ODA0LC00NDUwNTc2OTEsMTY2MjYxOTEwNSwtMTMwMzI0
-ODU4OSwtMTg5NzAzODE2MCwtMTM2OTcxNzA1OSwtNDg3MzU1Mz
-czLC02NzU4NDQ2MywtNzUwNDIyOTAxLC0xNDMxODk1OTUyLDE2
-MjU0MjI4NjUsLTQxNjMzNDUxNiwtNDI3MjMzNDAyLC0xOTkzMD
-k0MjA4LC0xNDIxOTMzMzYzLDE5Mzk0NTA4OSwtMTg1NTY4MTQ5
-MCwxNjMzNTIxNDBdfQ==
+eyJoaXN0b3J5IjpbLTIwMzQ2NDc1NjMsMTA1Mjc3MjYyNSwtOD
+UxNzQ4OTUxLC0xNzA3NTc3ODA0LC00NDUwNTc2OTEsMTY2MjYx
+OTEwNSwtMTMwMzI0ODU4OSwtMTg5NzAzODE2MCwtMTM2OTcxNz
+A1OSwtNDg3MzU1MzczLC02NzU4NDQ2MywtNzUwNDIyOTAxLC0x
+NDMxODk1OTUyLDE2MjU0MjI4NjUsLTQxNjMzNDUxNiwtNDI3Mj
+MzNDAyLC0xOTkzMDk0MjA4LC0xNDIxOTMzMzYzLDE5Mzk0NTA4
+OSwtMTg1NTY4MTQ5MF19
 -->
