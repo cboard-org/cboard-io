@@ -87,9 +87,11 @@ The Import category will directly open your saved files once you press RESTORE.
 
 Display settings can be edited in Settings, within the System category. The Display option is right below Export and Import. One you press the button, you can change the UI size as well as the app Font size by pressing the size you want. The red dot should be under the size you want to choose. 
 ![enter image description here](https://lh3.googleusercontent.com/-y4Hces7O2ORdR4HM0XZsiWW3tzPNNl0uj_jb8l0TkdQp429E6K3pYx3hFlyszPXQcrrAex420U)
-### Can I use scanning techniques to access symbols?
+### Can I change any navigation settings?
 
-Scanning is where the items in the selection set are presented sequentially over time and the user makes a selection indirectly usually by switch access. Scanning on Cboard works within Settings and the System category. There are different settings for scanning. You should first enable the scanning setting by selecting ENABLE. You can then choose the time delay, as well as the method (either automatic of manual).
+Use the Navigation section to edit and facilitate the way you use to move around Cboard and delete symbols in the message box. Navigation at the end of the System Category in Settings allows you to have a larger ‘back’ button that is easier to select. It is also possible to allow a delete (‘x’) button to appear above each symbol as they are presented within the
+
+message box. This can make it easier to delete symbols within a sentence.
 
 ### Navigation trough the interface 
 
@@ -105,7 +107,7 @@ In order to access settings, click the small lock on the right-hand side three t
 
 ### How do I print my board set in Cboard?
 
-To print your board, press the printer logo on the left hand side of the black HOME bar, after having unlocked the HOME page.
+To print your board, press the printer logo on the left hand side of the black HOME bar, after having unlocked the HOME page. An Adobe Portable Document (.pdf) will be downloaded to your technology.
 
 ### How do I see Cboard in fullscreen?
 
@@ -119,9 +121,25 @@ To share a board, unlock the screen by pressing the lock symbol on the right han
 ![enter image description here](https://lh3.googleusercontent.com/So2-eFAt6sH0IYOdd5w3VGcrni9oY3Yb2ejZubQiD6qu5bcBuGPhm-cbrzgUgNxUmjxiBJJYzvg)
 ## Talking 
 
-### How do I get started talking with Cboard?
+### How do I add a personally recorded voice to symbols on Cboard?
 
-First, go to the board you want to start with. Second, unlock the board using the lock on the right hand side. Third, Press the 'edit' button on the left hand side. Once you press this, you can choose which tile you want to add personalized voice to. Once you pick, choose the tile by pressing on it. Once you do so, press the edit (pencil) symbol on the far right side on the light blue bar. Once the tile opens, you are given the option to use a voice recorder to add sound. You then press the microphone symbol and record, you can record multiple times and can play it back before saving it to the board. 
+1. Go to the board you want to use.
+
+2. Unlock the board using the lock on the right hand side.
+
+3. Select the EDIT button on the left hand side.
+
+4. Choose which symbol cell or tile to which you want to add a voice recording. Once you select the tile or a series of tiles, a blue tick will appear in each one and they will be highlighted.
+
+5. Select the PENCIL icon on the far right side on the light blue bar.
+
+6. Once the tile opens, you are given the option to use a voice recorder to add a sound, word or phrase etc.
+
+7. Add the label for the vocalisation
+
+8. Finally select the microphone symbol and record, you can record multiple times and can play it back before saving it to the board.
+
+9. If you have selected multiple symbols use NEXT to go to the next symbol and repeat the process.
 ![enter image description here](https://lh3.googleusercontent.com/pgvDV4BTXNHMYiYFl8lzEoGUaxSRj2SDySvLE8BJkIRa0RQAh_5G1MIegWo_NUKYtfRgvN1fr5I)
 ![enter image description here](https://lh3.googleusercontent.com/0IaWGCnXmOv0_UhiVEu_8owSDAf8-iOTuSRaeTeT22WJ7gZqDLZ0y-b6-Je8eKVgNLOSTCE4440)
 ### How do I remove symbols from the output bar?
@@ -191,7 +209,7 @@ Yes! You can resize buttons in Settings. In the category 'system', click on the 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzU4MTg5MzAsLTg1MTc0ODk1MSwtMT
+eyJoaXN0b3J5IjpbLTExMTkzMTUxOTUsLTg1MTc0ODk1MSwtMT
 cwNzU3NzgwNCwtNDQ1MDU3NjkxLDE2NjI2MTkxMDUsLTEzMDMy
 NDg1ODksLTE4OTcwMzgxNjAsLTEzNjk3MTcwNTksLTQ4NzM1NT
 M3MywtNjc1ODQ0NjMsLTc1MDQyMjkwMSwtMTQzMTg5NTk1Miwx
