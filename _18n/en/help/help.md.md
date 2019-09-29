@@ -146,17 +146,17 @@ To share a board, unlock the screen by pressing the lock symbol on the right han
 
 ### How do I switch to a different voice?
 
-In order to adjust speech capabilities/voice, go into settings, and under the 'Language' category is the 'Speech' category. When you press 'Speech' you will be able to edit the pitch and pace of speech on Cboard. You can also record your own voice for the symbols following the steps on the answer from how to start talking on the app. 
+In order to adjust speech capabilities/voice, go into settings, and under the 'Language' category is the 'Speech' category. When you press 'Speech' you will be able to edit the pitch and pace of speech on Cboard. You can also record your own voice for the symbols following the steps on the answer from how to start talking on the app. You can also record your own voice for the symbols following the steps on the answer for “How do I add a personally recorded voice to symbols on Cboard?”
 
 ### How do I change how a voice sounds?
 
-In order to adjust speech capabilities/voice/sound, go into settings, and under the 'Language' category is the 'Speech' category. When you press 'Speech' you will be able to edit the pitch and pace of speech on Cboard. You can also record your own voice for the symbols following the steps on the answer from how to start talking on the app. 
+In order to adjust speech capabilities/voice/sound, go into settings, and under the 'Language' category is the 'Speech' category. When you press 'Speech' you will be able to edit the pitch and pace of speech on Cboard. You can also record your own voice for the symbols following the steps on the answer from how to start talking on the app. You can also record your own voice for the symbols following the steps on the answer for “How do I add a personally recorded voice to symbols on Cboard?”
 
 ## Board Editing
 
-### How do I make a folder?
- 
- The folders are the blue tiles, as opposed to the yellow ones. Unlock the screen on the right hand side, and press the plus symbol. You will then be given the option to create a new tile. In order to make it a folder, press the folder button below 'Button'. You can then create folders and add tiles within the folder you create. 
+### How do I create an empty board?
+
+You can choose to add a linked or empty board by selecting the small lock on the top right-hand side of the bar above the board, (below the arrow with a cross). Once you have done this, another bar will appear below the black HOME bar, and you will find a small plus sign to add a tile or cell. When the CREATE TILE window appears you will see the option to add a folder. If you create a folder you can upload an image in a similar manner to making a tile with a color setting and label. It is automatically linked to that board and will appear in your list of boards as an empty board.
  
 ### How do I create an empty board?
 
@@ -209,11 +209,11 @@ Yes! You can resize buttons in Settings. In the category 'system', click on the 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTkzMTUxOTUsLTg1MTc0ODk1MSwtMT
-cwNzU3NzgwNCwtNDQ1MDU3NjkxLDE2NjI2MTkxMDUsLTEzMDMy
-NDg1ODksLTE4OTcwMzgxNjAsLTEzNjk3MTcwNTksLTQ4NzM1NT
-M3MywtNjc1ODQ0NjMsLTc1MDQyMjkwMSwtMTQzMTg5NTk1Miwx
-NjI1NDIyODY1LC00MTYzMzQ1MTYsLTQyNzIzMzQwMiwtMTk5Mz
-A5NDIwOCwtMTQyMTkzMzM2MywxOTM5NDUwODksLTE4NTU2ODE0
-OTAsMTYzMzUyMTQwXX0=
+eyJoaXN0b3J5IjpbMTA1Mjc3MjYyNSwtODUxNzQ4OTUxLC0xNz
+A3NTc3ODA0LC00NDUwNTc2OTEsMTY2MjYxOTEwNSwtMTMwMzI0
+ODU4OSwtMTg5NzAzODE2MCwtMTM2OTcxNzA1OSwtNDg3MzU1Mz
+czLC02NzU4NDQ2MywtNzUwNDIyOTAxLC0xNDMxODk1OTUyLDE2
+MjU0MjI4NjUsLTQxNjMzNDUxNiwtNDI3MjMzNDAyLC0xOTkzMD
+k0MjA4LC0xNDIxOTMzMzYzLDE5Mzk0NTA4OSwtMTg1NTY4MTQ5
+MCwxNjMzNTIxNDBdfQ==
 -->
