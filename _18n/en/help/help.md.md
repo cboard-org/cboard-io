@@ -180,38 +180,14 @@ Yes! When you are editing a board, unlock the screen using the lock symbol. Then
 The same way you change the ordering of elements in a board, but instead of clicking and dragging, you select the circle inside the pictogram square, and you can choose more than one. 
 After doing so, click on the right hand side on the pencil symbol on the blue line, which will allow you to edit the elements selected.
 
-## Export and import 
-
-### How do I export my board in Cboard?
-
-In order to export your board in Cboard, go to settings (see Figure 6), and as soon as you open Settings, the Export option will appear as a downward facing arrow, right below Language and Speech.
-
-Click on Export, and you will be able to download your Cboard by clicking on either ‘OpenBoard’ or EXPORT.
-
-### How do I import a board into Cboard?
-
-In order to import a board, follow the steps used to Export. The Import symbol is below Export, an upward facing arrow with a horizontal bar below it.
-
-### What file format does Cboard use for import/export?
-
-In order to Import and Export boards you have two options:
-
-- Use Cboard native file boards.
-- Use OpenBoard formatted files.
-
-## Display capabilities 
-
-### Can I resize buttons on Cboard?
-
-Yes! You can resize buttons in Settings. In the category 'system', click on the Display button and you will be given 3 options for size: Standard, Large, Extra Large. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ1ODkwMzA5LDEwNTI3NzI2MjUsLTg1MT
-c0ODk1MSwtMTcwNzU3NzgwNCwtNDQ1MDU3NjkxLDE2NjI2MTkx
-MDUsLTEzMDMyNDg1ODksLTE4OTcwMzgxNjAsLTEzNjk3MTcwNT
-ksLTQ4NzM1NTM3MywtNjc1ODQ0NjMsLTc1MDQyMjkwMSwtMTQz
-MTg5NTk1MiwxNjI1NDIyODY1LC00MTYzMzQ1MTYsLTQyNzIzMz
-QwMiwtMTk5MzA5NDIwOCwtMTQyMTkzMzM2MywxOTM5NDUwODks
-LTE4NTU2ODE0OTBdfQ==
+eyJoaXN0b3J5IjpbMTYwMjk3ODAxMywxMDUyNzcyNjI1LC04NT
+E3NDg5NTEsLTE3MDc1Nzc4MDQsLTQ0NTA1NzY5MSwxNjYyNjE5
+MTA1LC0xMzAzMjQ4NTg5LC0xODk3MDM4MTYwLC0xMzY5NzE3MD
+U5LC00ODczNTUzNzMsLTY3NTg0NDYzLC03NTA0MjI5MDEsLTE0
+MzE4OTU5NTIsMTYyNTQyMjg2NSwtNDE2MzM0NTE2LC00MjcyMz
+M0MDIsLTE5OTMwOTQyMDgsLTE0MjE5MzMzNjMsMTkzOTQ1MDg5
+LC0xODU1NjgxNDkwXX0=
 -->
