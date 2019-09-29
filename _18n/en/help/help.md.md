@@ -8,11 +8,11 @@ Cboard is a free web application for children and adults with speech and languag
 
 ### How do I register for Cboard?
 
-To register for Cboard, begin by following the steps on the Welcome page.
+To register for Cboard, begin by following the steps on the Welcome page where you will find a choice of logins.
 
 ![enter image description here](https://lh3.googleusercontent.com/YUd66WPwUbbTGURuBBhojo0DD2PEcVsnCuyOjoIicGLCQ6aSk9pdulImBIoPegKNNBkPrUgwwzQ)
 ![enter image description here](https://lh3.googleusercontent.com/Y3qPDF7eEloZSXbysP_QXSZtgxBNeWbZEYLjPzUoIfatIh1uQ4uY5drLhUO0R_m3x2nJov-ozn4)
-If you are a new user, press SIGN UP, and a short form will pop up asking for basic information in order to create your account (Figure 2). \ Once you have filled out this information, you will receive an e-mail shortly after with a link to follow in order to confirm your account, and that’s it! \ Once you have verified your account you will have access to Cboard, and will receive another e-mail confirming you were successfully verified.
+If you are a new user, press SIGN UP, and a short form will pop up asking for basic information in order to create your account. Once you have filled out this information, you will receive an e-mail shortly after with a link to follow in order to confirm your account  Once you have verified your account you will have access to Cboard, and will receive another e-mail confirming you were successfully verified.
 
 ### Can I register myself using my social media accounts?
 
@@ -174,10 +174,11 @@ Yes! You can resize buttons in Settings. In the category 'system', click on the 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDc1Nzc4MDQsLTQ0NTA1NzY5MSwxNj
-YyNjE5MTA1LC0xMzAzMjQ4NTg5LC0xODk3MDM4MTYwLC0xMzY5
-NzE3MDU5LC00ODczNTUzNzMsLTY3NTg0NDYzLC03NTA0MjI5MD
-EsLTE0MzE4OTU5NTIsMTYyNTQyMjg2NSwtNDE2MzM0NTE2LC00
-MjcyMzM0MDIsLTE5OTMwOTQyMDgsLTE0MjE5MzMzNjMsMTkzOT
-Q1MDg5LC0xODU1NjgxNDkwLDE2MzM1MjE0MF19
+eyJoaXN0b3J5IjpbLTM0NzQwNTUwMSwtMTcwNzU3NzgwNCwtND
+Q1MDU3NjkxLDE2NjI2MTkxMDUsLTEzMDMyNDg1ODksLTE4OTcw
+MzgxNjAsLTEzNjk3MTcwNTksLTQ4NzM1NTM3MywtNjc1ODQ0Nj
+MsLTc1MDQyMjkwMSwtMTQzMTg5NTk1MiwxNjI1NDIyODY1LC00
+MTYzMzQ1MTYsLTQyNzIzMzQwMiwtMTk5MzA5NDIwOCwtMTQyMT
+kzMzM2MywxOTM5NDUwODksLTE4NTU2ODE0OTAsMTYzMzUyMTQw
+XX0=
 -->
