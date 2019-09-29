@@ -64,13 +64,14 @@ Don’t forget you can also use browser magnification or zoom to a certain degre
 
 Please ask Cboard about using high contrast mode for those with visual impairment as browser based options are not helpful when using this type of web app.
 
-### Cboard supported languages
+### Which languages are supported by Cboard?
 
-Cboard comes with support for 33 languages.
+Cboard comes with support for 33 languages. To select a different language go to SETTINGS – select LANGUAGE and those available will appear. Make a choice and a ‘tick’ will appear beside the language.
 
 ### Can Cboard read my message out aloud?
 
 Yes, Cboard uses the synthetic speech output available on your device to read out individual labels found below each symbol as they are added to the message output box. You can select a complete message and it will also be read aloud. If a personalised recording of a sound, word or phrase has been added to a symbol (instructions under Talking – Voice Recordings) you will hear that recording instead of the synthesised voice. This can be very helpful where a translation is not available in a language, a child’s voice is needed or an accent is unacceptable. Please ensure web access has been given to your microphone.
+
 ### Speech capabilities
 
 In order to adjust speech capabilities, go into settings, and under the 'Language' category is the 'Speech' category. When you press 'Speech' you will be able to edit the pitch and pace of speech on Cboard. 
@@ -81,14 +82,14 @@ In order to adjust speech capabilities, go into settings, and under the 'Languag
 Both options to export are within Settings in the System category, right below Language and Speech. 
 The Export category will give you the option to upload either an OpenBoard or PDF. 
 The Import category will directly open your saved files once you press RESTORE.
-
+![enter image description here](https://lh3.googleusercontent.com/r2LwRuI98Nxat5ZR_q40M_c2Shsb2J6eCMjBUpGom8dSrWmv4Hh1EBFsm6GBk1AFKVYoholTjyI)
 ### Display capabilities 
 
 Display settings can be edited in Settings, within the System category. The Display option is right below Export and Import. One you press the button, you can change the UI size as well as the app Font size by pressing the size you want. The red dot should be under the size you want to choose. 
 ![enter image description here](https://lh3.googleusercontent.com/-y4Hces7O2ORdR4HM0XZsiWW3tzPNNl0uj_jb8l0TkdQp429E6K3pYx3hFlyszPXQcrrAex420U)
-### Scanning symbols
+### Can I use scanning techniques to access symbols?
 
-Scanning (also within Settings and the System category) has different settings for scanning. One you press it, you should first enable the scanning setting by pressing the first option that says 'Enable'. You can then choose the time delay, as well as the method (either automatic of manual). 
+Scanning is where the items in the selection set are presented sequentially over time and the user makes a selection indirectly usually by switch access. Scanning on Cboard works within Settings and the System category. There are different settings for scanning. You should first enable the scanning setting by selecting ENABLE. You can then choose the time delay, as well as the method (either automatic of manual).
 
 ### Navigation trough the interface 
 
@@ -190,7 +191,7 @@ Yes! You can resize buttons in Settings. In the category 'system', click on the 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTA3NzA0ODAsLTg1MTc0ODk1MSwtMT
+eyJoaXN0b3J5IjpbLTE2MzU4MTg5MzAsLTg1MTc0ODk1MSwtMT
 cwNzU3NzgwNCwtNDQ1MDU3NjkxLDE2NjI2MTkxMDUsLTEzMDMy
 NDg1ODksLTE4OTcwMzgxNjAsLTEzNjk3MTcwNTksLTQ4NzM1NT
 M3MywtNjc1ODQ0NjMsLTc1MDQyMjkwMSwtMTQzMTg5NTk1Miwx
