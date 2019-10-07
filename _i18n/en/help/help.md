@@ -1,6 +1,5 @@
 
-# Cboard Help
-
+# Cboard Help<br/><br/>
 ## Table of contents
 
 * [What is Cboard?](#WhatisCboard)
@@ -55,6 +54,7 @@
 Cboard is a free web application for children and adults with speech and language impairments, facilitating communication with pictures and text-to-speech.
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/pjoLEtiFf2A" frameborder="0" allowfullscreen></iframe>
+<br/><br/>
 
 ##    <a name='Registrationandlogin'></a>Registration and login 
 
@@ -290,7 +290,7 @@ In order to Import and Export boards you have two options:
 ##   <a name='Displaycapabilities-1'></a>Display capabilities 
 
 
-###  1 <a name='WhatcanIchangeonthedisplay'></a>What can I change on the display?
+###   <a name='WhatcanIchangeonthedisplay'></a>What can I change on the display?
 
 Display settings can be edited in Settings, within the System category. The Display option is below Export and Import. Once you select DISPLAY, you can change the User Interface (UI) size as well as the app Font size by selecting the size you want. The red dot should be under the size you want to choose. 
 
