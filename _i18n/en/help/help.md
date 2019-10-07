@@ -123,6 +123,8 @@ Please ask Cboard about using high contrast mode for those with visual impairmen
 
 Cboard comes with support for 33 languages. To select a different language go to SETTINGS – select LANGUAGE and those available will appear. Make a choice and a ‘tick’ will appear beside the language.
 
+<iframe width="420" height="315" src="https://www.youtube.com/embed/HHq9b3dJ0zM" frameborder="0" allowfullscreen></iframe>
+
 ###   <a name='CanCboardreadmymessageoutaloud'></a>Can Cboard read my message out aloud?
 
 Yes, Cboard uses the synthetic speech output available on your device to read out individual labels found below each symbol as they are added to the message output box.  You can select a complete message and it will also be read aloud.  If a personalised recording of  a sound, word or phrase has been added to a symbol (instructions under Talking – Voice Recordings) you will hear that recording instead of the synthesised voice.  This can be very helpful where a translation is not available in a language, a child’s voice is needed or an accent is unacceptable.  Please ensure web access has been given to your microphone. 
@@ -181,9 +183,9 @@ In order to see Cboard in fullscreen, unlock the screen by pressing the lock sym
 
 To share a board, unlock the screen by pressing the lock symbol on the right hand side, then on the highest row (the black bar), the third symbol from the right gives you the option to share your board on either email, Facebook, Twitter, or copy the link to send to someone. 
 
-![Share step 1](/images/help/share1.png "Share step 1")
 
-![Share step 2](/images/help/share2.png "Share step 2")
+<iframe width="420" height="315" src="https://www.youtube.com/embed/fE0R6HzZ9O4" frameborder="0" allowfullscreen></iframe>
+
 
 ##   <a name='Talking'></a>Talking 
 
@@ -208,9 +210,7 @@ To share a board, unlock the screen by pressing the lock symbol on the right han
  If you have selected multiple symbols use NEXT to go to the next symbol and repeat the process.
 
 
-![Edit step 1](/images/help/edit1.png "Edit step 1")
-
-![Edit step 2](/images/help/edit2.png "Edit step 2") 
+<iframe width="420" height="315" src="https://www.youtube.com/embed/KZwCP4PkM4I" frameborder="0" allowfullscreen></iframe>
 
 ###   <a name='HowdoIremovesymbolsfromtheoutputbar'></a>How do I remove symbols from the output bar?
 
@@ -231,6 +231,8 @@ In cboard an empty board is equivalent to a folder.
  If you want to create a new empty you just have to create a new folder, and that will create a new empty board in the cboard storage. the new empty board will be immediately available for edition and can be set as the root board (using the build button), which means that it will be the first board you see the next time you open cboard from scratch.
 
 To create a new folder, begin by unlocking the screen pressing the lock button on the right hand side. Once you unlock the screen, press the plus symbol on the right hand side, in order to 'add tile'. You will then be given the option to add a tile, but instead of adding a button (the first and automatic option), press the 'folder' option directly below it. By creating a folder, you are creating a new board to which you can add more tiles and folders. You can choose to add a linked or empty board by selecting the small lock on the top right-hand side of the bar above the board, (below the arrow with a cross). Once you have done this, another bar will appear below the black HOME bar, and you will find a small plus sign to add a tile or cell. When the CREATE TILE window appears you will see the option to add a folder. If you create a folder you can upload an image in a similar manner to making a tile with a color setting and label. It is automatically linked to that board and will appear in your list of boards as an empty board.
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/FPfbrAtj1Zg" frameborder="0" allowfullscreen></iframe>
 
 
 ###   <a name='HowdoIpersonalizeanexistingboardinCboard'></a>How do I personalize an existing board in Cboard?
@@ -256,10 +258,13 @@ Yes! When you are editing a board, unlock the screen using the lock symbol. Then
 The same way you change the ordering of elements in a board, but instead of clicking and dragging, you select the circle inside the pictogram square, and you can choose more than one. 
 After doing so, click on the right hand side on the pencil symbol on the blue line, which will allow you to edit the elements selected.
 
+<iframe width="420" height="315" src="https://www.youtube.com/embed/ZgRUamoF8Vk" frameborder="0" allowfullscreen></iframe>
 
 ###    <a name='FindSymbols'></a>How can I find new symbols when I am editing a tile?
 Select the edit icon on the left hand side of the board bar and choose the symbol you wish to change.  Select it and once the blue ring has a tick, go to the pencil icon on the right.  Having selected the pencil you will notice that there is a magnifying glass icon for symbol searching.  When the search feature is activated you will see  SEARCH SYMBOL LIBRARY in an edit bar.  Type in the word you are looking for and symbols will appear.  Once you have selected one symbol it will automatically return you to the edit tile page.  
-  
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/-8OXT3b4Flk" frameborder="0" allowfullscreen></iframe>
+
 ##   <a name='Exportandimport-1'></a>Export and import 
 
 ###   <a name='HowdoIexportmyboardinCboard'></a>How do I export my board in Cboard?
