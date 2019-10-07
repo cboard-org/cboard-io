@@ -243,7 +243,7 @@ In order to personalize an existing board, select the small lock on the top righ
 
 In order to personalize the board, select the pencil and you will be able to change the label, upload an image, and add Vocalization. 
 
-[![Delete item](/images/videosnapshoot/delete.PNG)](https://www.youtube.com/watch?v=sRnVvafKBLM "Delete item")
+[![](/images/videosnapshoot/delete.PNG)](https://www.youtube.com/watch?v=sRnVvafKBLM)
 
 ###   <a name='CanIusemyownpictureswheneditingaboard'></a>Can I use my own pictures when editing a board?
 
