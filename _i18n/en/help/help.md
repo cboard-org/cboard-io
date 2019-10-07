@@ -54,7 +54,7 @@
 Cboard is a free web application for children and adults with speech and language impairments, facilitating communication with pictures and text-to-speech.
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/pjoLEtiFf2A" frameborder="0" allowfullscreen></iframe>
-<br/><br/>
+<br/>
 
 ##    <a name='Registrationandlogin'></a>Registration and login 
 
@@ -126,6 +126,7 @@ Please ask Cboard about using high contrast mode for those with visual impairmen
 Cboard comes with support for 33 languages. To select a different language go to SETTINGS – select LANGUAGE and those available will appear. Make a choice and a ‘tick’ will appear beside the language.
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/HHq9b3dJ0zM" frameborder="0" allowfullscreen></iframe>
+<br/>
 
 ###   <a name='CanCboardreadmymessageoutaloud'></a>Can Cboard read my message out aloud?
 
@@ -185,9 +186,8 @@ In order to see Cboard in fullscreen, unlock the screen by pressing the lock sym
 
 To share a board, unlock the screen by pressing the lock symbol on the right hand side, then on the highest row (the black bar), the third symbol from the right gives you the option to share your board on either email, Facebook, Twitter, or copy the link to send to someone. 
 
-
 <iframe width="420" height="315" src="https://www.youtube.com/embed/fE0R6HzZ9O4" frameborder="0" allowfullscreen></iframe>
-
+<br/>
 
 ##   <a name='Talking'></a>Talking 
 
@@ -213,6 +213,7 @@ To share a board, unlock the screen by pressing the lock symbol on the right han
 
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/KZwCP4PkM4I" frameborder="0" allowfullscreen></iframe>
+<br/>
 
 ###   <a name='HowdoIremovesymbolsfromtheoutputbar'></a>How do I remove symbols from the output bar?
 
@@ -235,7 +236,7 @@ In cboard an empty board is equivalent to a folder.
 To create a new folder, begin by unlocking the screen pressing the lock button on the right hand side. Once you unlock the screen, press the plus symbol on the right hand side, in order to 'add tile'. You will then be given the option to add a tile, but instead of adding a button (the first and automatic option), press the 'folder' option directly below it. By creating a folder, you are creating a new board to which you can add more tiles and folders. You can choose to add a linked or empty board by selecting the small lock on the top right-hand side of the bar above the board, (below the arrow with a cross). Once you have done this, another bar will appear below the black HOME bar, and you will find a small plus sign to add a tile or cell. When the CREATE TILE window appears you will see the option to add a folder. If you create a folder you can upload an image in a similar manner to making a tile with a color setting and label. It is automatically linked to that board and will appear in your list of boards as an empty board.
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/FPfbrAtj1Zg" frameborder="0" allowfullscreen></iframe>
-
+<br/>
 
 ###   <a name='HowdoIpersonalizeanexistingboardinCboard'></a>How do I personalize an existing board in Cboard?
 
@@ -248,6 +249,7 @@ In order to personalize an existing board, select the small lock on the top righ
 In order to personalize the board, select the pencil and you will be able to change the label, upload an image, and add Vocalization. 
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/sRnVvafKBLM" frameborder="0" allowfullscreen></iframe>
+<br/>
 
 ###   <a name='CanIusemyownpictureswheneditingaboard'></a>Can I use my own pictures when editing a board?
 
@@ -261,11 +263,13 @@ The same way you change the ordering of elements in a board, but instead of clic
 After doing so, click on the right hand side on the pencil symbol on the blue line, which will allow you to edit the elements selected.
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/ZgRUamoF8Vk" frameborder="0" allowfullscreen></iframe>
+<br/>
 
 ###    <a name='FindSymbols'></a>How can I find new symbols when I am editing a tile?
 Select the edit icon on the left hand side of the board bar and choose the symbol you wish to change.  Select it and once the blue ring has a tick, go to the pencil icon on the right.  Having selected the pencil you will notice that there is a magnifying glass icon for symbol searching.  When the search feature is activated you will see  SEARCH SYMBOL LIBRARY in an edit bar.  Type in the word you are looking for and symbols will appear.  Once you have selected one symbol it will automatically return you to the edit tile page.  
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/-8OXT3b4Flk" frameborder="0" allowfullscreen></iframe>
+<br/>
 
 ##   <a name='Exportandimport-1'></a>Export and import 
 
@@ -288,7 +292,6 @@ In order to Import and Export boards you have two options:
 - Use OpenBoard formatted files.
 
 ##   <a name='Displaycapabilities-1'></a>Display capabilities 
-
 
 ###   <a name='WhatcanIchangeonthedisplay'></a>What can I change on the display?
 
