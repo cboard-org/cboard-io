@@ -54,6 +54,8 @@
 
 Cboard is a free web application for children and adults with speech and language impairments, facilitating communication with pictures and text-to-speech.
 
+<iframe width="420" height="315" src="https://www.youtube.com/embed/pjoLEtiFf2A" frameborder="0" allowfullscreen></iframe>
+
 ##    <a name='Registrationandlogin'></a>Registration and login 
 
 ###   <a name='HowdoIregisterforCboard'></a>How do I register for Cboard?
