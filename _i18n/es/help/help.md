@@ -31,7 +31,6 @@
     * [¿Cómo comparto un tablero?](#HowdoIshareaboard)
 * [Hablando](#Talking) 
     * [¿Cómo agrego una voz grabada personalmente a los símbolos en Cboard?](#HowdoIaddapersonallyrecordedvoicetosymbolsonCboard)
-    * [¿Cómo elimino símbolos de la barra de salida?](#HowdoIremovesymbolsfromtheoutputbar)
     * [¿Cómo cambio a una voz diferente?](#HowdoIswitchtoadifferentvoice)
     * [¿Cómo cambio cómo suena una voz?](#HowdoIchangehowavoicesounds)
 * [Edición de tablero](#BoardEditing) 
@@ -53,10 +52,10 @@
 
 ## <a name='WhatisCboard'></a>¿Qué es Cboard?
 
-Cboard es una aplicación web gratuita para niños y adultos con problemas de habla y lenguaje, que facilita la comunicación con imágenes y texto a voz. <iframe width="420" height="315" src="https://www.youtube.com/embed/pjoLEtiFf2A" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Cboard es una aplicación web gratuita para niños y adultos con problemas de habla y lenguaje, que facilita la comunicación con imágenes y texto a voz. 
 
-  
 
+<iframe width="420" height="315" src="https://www.youtube.com/embed/pjoLEtiFf2A" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ## <a name='Registrationandlogin'></a>Registro e inicio de sesión
 
@@ -68,13 +67,17 @@ Para registrarse en Cboard, comience siguiendo los pasos en la página de bienve
 
 ![Pagina de bienvenida](/images/help/welcome-page.png "Welcome page")
 
-Si es un usuario nuevo, presione REGÍSTRESE y aparecerá un breve formulario solicitando información básica para crear su cuenta. Una vez que haya completado esta información, recibirá un correo electrónico poco después con un enlace a seguir para confirmar su cuenta.
+Si es un usuario nuevo, presione REGÍSTRESE y aparecerá un breve formulario solicitando información básica para crear su cuenta.
+
+![Registro de Cboard](/images/help/signup.png "Cboard signup")
+
+Una vez que haya completado esta información, recibirá un correo electrónico poco después con un enlace a seguir para confirmar su cuenta.
+
+![Registro de correo electrónico](/images/help/signupemail.png "Email signup")
 
 Esta información solo es mantenida por la compañía para respaldar el uso de Cboard y ofrecer ayuda cuando sea necesario. No se comparte con otras organizaciones, (Ver [Detalles de privacidad](https://www.cboard.io/privacy/)).
 
-Una vez que haya verificado su cuenta, tendrá acceso a Cboard y recibirá otro correo electrónico confirmando que se verificó con éxito.
-
-![Registro de Cboard](/images/help/signup.png "Cboard signup")
+Una vez que haya verificado su cuenta, tendrá acceso a Cboard y recibirá otro correo electrónico confirmando que su cuenta fue verificada con éxito.
 
 ### <a name='CanIregistermyselfusingmysocialmediaaccounts'></a>¿Puedo registrarme usando mis cuentas de redes sociales?
 
@@ -82,13 +85,21 @@ Una vez que haya verificado su cuenta, tendrá acceso a Cboard y recibirá otro 
 
 ### <a name='HowdoIlogintoCboardonceIamaregistereduser'></a>¿Cómo inicio sesión en Cboard una vez que soy un usuario registrado?
 
-Para iniciar sesión en Cboard, siga el primer paso utilizado para registrarse, pero en lugar de hacer clic en INSCRIBIRSE en la pantalla de bienvenida, haga clic en INICIAR SESIÓN. Luego se le pedirá que proporcione el correo electrónico con el que se registró inicialmente y la contraseña que configuró.
+Para iniciar sesión en Cboard, siga el primer paso utilizado para registrarse, pero en lugar de seleccionar REGISTRO en la pantalla de bienvenida, seleccione INICIAR SESIÓN. Luego se le pedirá que proporcione el correo electrónico con el que se registró inicialmente y la contraseña que configuró.
 
 ![Inicio de sesión de Cboard](/images/help/login.png "Cboard login")
 
+### ¿Cuáles son las diferentes opciones para configurar Cboard?
+
+Una vez que inicie sesión en Cboard, puede acceder a diferentes opciones para configurar y desarrollar la placa de comunicación proporcionada cuando Cboard está en modo desbloqueado. Vea la lista de todas las opciones clave a continuación:
+
+![Configuraciones de tablero](/images/help/settings.png "Cboard settings")
+
 ### <a name='HowdoIlogout'></a>¿Cómo me desconecto?
 
-Puede cerrar sesión haciendo clic en el icono de configuración, y la opción también aparecerá en rojo. También puede hacer doble clic en el símbolo de bloqueo en la esquina derecha, y una vez que desbloquee la pantalla y aparezca la barra roja, haga clic en el icono a la izquierda del bloqueo (su imagen si tiene una cargada) y la opción de cerrar sesión aparecerá en rojo.
+Puede cerrar sesión seleccionando el icono de configuración, y la opción aparecerá en rojo. También puede seleccionar el símbolo de bloqueo en la esquina derecha, hacer clic tres veces y una vez que desbloqueó la pantalla y aparece la barra roja, seleccione el icono a la izquierda del bloqueo (su imagen si tiene una cargada) y la opción de iniciar sesión out aparecerá en rojo.
+
+![Cierre de sesión de Cboard](/images/help/logout.png "Cboard logout")
 
 ### <a name='Whatisthedifferencebetweenaregisteredandanon-registereduser'></a>¿Cuál es la diferencia entre un usuario registrado y un usuario no registrado?
 
@@ -96,7 +107,7 @@ Un usuario registrado puede personalizar sus tableros, y los cambios realizados 
 
 ### <a name='HowdoIupdatemyuserinformation'></a>¿Cómo actualizo mi información de usuario?
 
-Para actualizar su información de usuario, siga los mismos pasos que usaría si intentara cerrar sesión. Seleccione el símbolo de candado en la esquina superior derecha del tablero: tres clics o toques, y una vez que desbloquee la pantalla, seleccione el icono a la izquierda del candado (iniciales del nombre de usuario), y luego podrá editar su información de usuario.
+Para actualizar su información de usuario, siga los mismos pasos que usaría si intentara cerrar sesión. Seleccione el símbolo de candado en la esquina superior derecha del tablero: tres clics o toques, y una vez que desbloquee la pantalla, seleccione el ícono a la izquierda del candado (iniciales del nombre de usuario, foto), y luego podrá editar su información de usuario .
 
 ### <a name='HowdoIresetmypassword'></a>¿Cómo puedo restablecer mi contraseña?
 
@@ -104,19 +115,19 @@ Para restablecer su contraseña, envíe un correo electrónico a support@cboard.
 
 ## <a name='Price'></a>Precio
 
-### <a name='HowmuchdoesCboardcost'></a>¿Cuánto cuesta esto?
+### <a name='HowmuchdoesCboardcost'></a>¿Cuánto cuesta Cboard?
 
 Cboard es completamente gratis.
 
 ## <a name='Features'></a>Caracteristicas
 
-### <a name='WhatdevicesandOSaresupported'></a>¿Qué dispositivos y OS son compatibles?
+### <a name='WhatdevicesandOSaresupported'></a>¿Qué dispositivos y SO son compatibles?
 
-Cboard funciona en navegadores modernos y está disponible en una amplia variedad de plataformas, incluidas computadoras de escritorio, tabletas y teléfonos móviles.
+Cboard está disponible en línea con una amplia variedad de dispositivos, incluidos equipos de escritorio, tabletas y teléfonos móviles con sistemas operativos Mac, Windows y Android. Se ve mejor en navegadores como Chrome, Firefox, Edge y Safari y una aplicación de Android está disponible en Google Play.
 
 ![Soporte del navegador](/images/help/browsers.png "Browser support")
 
-Cboard es una aplicación basada en la web, por lo que responderá a la configuración proporcionada por los navegadores individuales. Esto puede significar que tiene resultados diferentes a la configuración proporcionada por Cboard. Por ejemplo, puede encontrar diferentes opciones de voz que se ofrecen.
+Debido a que Cboard es una aplicación basada en la web, responderá a la configuración proporcionada por los navegadores individuales. Esto puede significar que tiene resultados diferentes a la configuración proporcionada por Cboard. Por ejemplo, puede encontrar diferentes opciones de voz que se ofrecen.
 
 No olvide que también puede usar la ampliación o el zoom del navegador hasta cierto punto, dependiendo del tamaño de la pantalla de la computadora, tableta o teléfono.
 
@@ -124,10 +135,10 @@ Pregúntele a Cboard sobre el uso del modo de alto contraste para las personas c
 
 ### <a name='WhichlanguagesaresupportedbyCboard'></a>¿Qué idiomas son compatibles con Cboard?
 
-Cboard viene con soporte para 33 idiomas. Para seleccionar un idioma diferente, vaya a CONFIGURACIÓN - seleccione IDIOMA y aparecerán los disponibles. Haga una elección y aparecerá una 'marca' al lado del idioma. <iframe width="420" height="315" src="https://www.youtube.com/embed/HHq9b3dJ0zM" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Cboard viene con soporte para 33 idiomas. Para seleccionar un idioma diferente, vaya a CONFIGURACIÓN - seleccione IDIOMA y aparecerán los disponibles. Haga una elección y aparecerá una 'marca' al lado del idioma. 
 
-  
 
+<iframe width="420" height="315" src="https://www.youtube.com/embed/HHq9b3dJ0zM" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ### <a name='CanCboardreadmymessageoutaloud'></a>¿Puede Cboard leer mi mensaje en voz alta?
 
@@ -135,31 +146,29 @@ Sí, Cboard utiliza la salida de voz sintética disponible en su dispositivo par
 
 ### <a name='Speechcapabilities'></a>Capacidades de habla
 
-Para ajustar las capacidades de voz, vaya a la configuración, y debajo de la categoría 'Idioma' se encuentra la categoría 'Voz'. Cuando presione 'Voz', podrá editar el tono y el ritmo de la voz en Cboard.
+Para ajustar las capacidades de voz, vaya a CONFIGURACIÓN, y debajo de la categoría IDIOMA se encuentra la categoría HABLA. Cuando seleccione SPEECH, podrá editar el tono y el ritmo del discurso en Cboard.
 
 ![Capacidades de habla](/images/help/speech.png "Speech capabilities")
 
 ### <a name='Exportandimport'></a>Exportar e importar
 
-Ambas opciones para exportar están dentro de Configuración en la categoría Sistema, justo debajo de Idioma y voz. La categoría Exportar le dará la opción de cargar OpenBoard o PDF. La categoría Importar abrirá directamente sus archivos guardados una vez que presione RESTAURAR.
+Ambas opciones para exportar están dentro de AJUSTES en la categoría SISTEMA, debajo de Idioma y voz. La categoría EXPORTAR le dará la opción de cargar OpenBoard o PDF. La categoría IMPORTAR abrirá sus archivos guardados una vez que seleccione RESTAURAR.
 
 ![Capacidades de exportación](/images/help/export.png "Export capabilities")
 
 ### <a name='Displaycapabilities'></a>Capacidades de visualización
 
-La configuración de pantalla se puede editar en Configuración, dentro de la categoría Sistema. La opción Mostrar está justo debajo de Exportar e Importar. Una vez que presiona el botón, puede cambiar el tamaño de la interfaz de usuario y el tamaño de fuente de la aplicación presionando el tamaño que desee. El punto rojo debe estar debajo del tamaño que desea elegir.
+La configuración de la pantalla se puede editar en CONFIGURACIÓN, dentro de la categoría SISTEMA. La opción Mostrar está justo debajo de Exportar e Importar. Una vez que seleccione PANTALLA, puede cambiar el tamaño de la interfaz de usuario y el tamaño de fuente de la aplicación seleccionando el tamaño que desee. El punto rojo debe estar debajo del tamaño que desea elegir.
 
 ![Capacidades de visualización](/images/help/display.png "Display capabilities")
 
 ### <a name='CanIchangeanynavigationsettings'></a>¿Puedo cambiar la configuración de navegación?
 
-Use la sección de Navegación para editar y facilitar la forma en que usa para moverse por Cboard y eliminar símbolos en el cuadro de mensaje. La navegación al final de la Categoría del sistema en Configuración le permite tener un botón 'atrás' más grande que es más fácil de seleccionar. También es posible permitir que aparezca un botón de eliminación ('x') encima de cada símbolo a medida que se presentan dentro del
-
-buzon de mensaje. Esto puede facilitar la eliminación de símbolos dentro de una oración.
+Use la sección NAVEGACIÓN para editar y facilitar la forma en que usa para moverse por Cboard y eliminar símbolos en el cuadro de mensaje. La navegación al final de la Categoría del SISTEMA en AJUSTES le permite tener un botón 'atrás' más grande que es más fácil de seleccionar. También es posible permitir que aparezca un botón de eliminación ('x') encima de cada símbolo a medida que se presentan dentro del cuadro de mensaje. Esto puede facilitar la eliminación de símbolos dentro de una oración. Pero tenga en cuenta las necesidades del usuario, ya que también puede confundir a algunas personas.
 
 ### <a name='Navigationthroughtheinterface'></a>Navegación a través de la interfaz.
 
-Para editar y facilitar la navegación a través de Cboard, el botón de Navegación, el último dentro del Sistema (todo en Configuración) permite agregar ciertos detalles para facilitar el uso del tablero. La primera opción dentro de Navegación permite un botón 'atrás' más grande que es más fácil de presionar debido al tamaño. El segundo agrega un botón 'x' para facilitar la eliminación de símbolos, y el tercero facilita el desbloqueo al requerir solo un clic para desbloquear la configuración.
+Para editar y facilitar la navegación a través de Cboard, seleccione NAVEGACIÓN, el último elemento del menú dentro de SISTEMA (todo en Configuración) le permite agregar ciertos detalles para facilitar el uso del tablero. La primera opción dentro de Navegación permite un botón 'atrás' más grande que es más fácil de seleccionar debido al tamaño. El segundo agrega un botón 'x' para facilitar la eliminación de símbolos, y el tercero facilita el desbloqueo al requerir solo un clic para desbloquear la configuración.
 
 ![Capacidades de navegación](/images/help/navigation.png "Navigation capabilities")
 
@@ -169,7 +178,7 @@ Para editar y facilitar la navegación a través de Cboard, el botón de Navegac
 
 Una vez que inicie sesión en Cboard, se abrirá la página INICIO.
 
-Para acceder a la configuración, haga clic en el candado pequeño en el lado derecho tres veces, debajo de la flecha. Una vez que haya hecho esto, aparecerá una barra gris debajo de la barra de INICIO negra, y el botón 'configuración' aparecerá directamente a la izquierda del candado en la barra de INICIO, el segundo desde la derecha.
+Para acceder a CONFIGURACIÓN, seleccione el candado pequeño en el lado derecho tres veces, debajo de la flecha. Una vez que haya hecho esto, aparecerá una barra gris debajo de la barra de INICIO negra, y el botón 'configuración' aparecerá directamente a la izquierda del candado en la barra de INICIO, el segundo desde la derecha.
 
 ### <a name='HowdoIprintmyboardsetinCboard'></a>¿Cómo imprimo mi juego de tablas en Cboard?
 
@@ -183,10 +192,10 @@ Para ver Cboard en pantalla completa, desbloquee la pantalla presionando el sím
 
 ### <a name='HowdoIshareaboard'></a>¿Cómo comparto un tablero?
 
-Para compartir un tablero, desbloquee la pantalla presionando el símbolo de bloqueo en el lado derecho, luego en la fila más alta (la barra negra), el tercer símbolo de la derecha le da la opción de compartir su tablero en cualquier correo electrónico, Facebook, Twitter, o copie el enlace para enviar a alguien. <iframe width="420" height="315" src="https://www.youtube.com/embed/fE0R6HzZ9O4" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Para compartir un tablero, desbloquee la pantalla presionando el símbolo de bloqueo en el lado derecho, luego en la fila más alta (la barra negra), el tercer símbolo de la derecha le da la opción de compartir su tablero en cualquier correo electrónico, Facebook, Twitter, o copie el enlace para enviar a alguien. 
 
-  
 
+<iframe width="420" height="315" src="https://www.youtube.com/embed/fE0R6HzZ9O4" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ## <a name='Talking'></a>Hablando
 
@@ -208,95 +217,97 @@ Para compartir un tablero, desbloquee la pantalla presionando el símbolo de blo
 
 8. Finalmente, seleccione el símbolo del micrófono y grabe, puede grabar varias veces y reproducirlo antes de guardarlo en el tablero.
     
-    Si ha seleccionado varios símbolos, use SIGUIENTE para ir al siguiente símbolo y repita el proceso. <iframe width="420" height="315" src="https://www.youtube.com/embed/KZwCP4PkM4I" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
-
-  
+    Si ha seleccionado varios símbolos, use SIGUIENTE para ir al siguiente símbolo y repita el proceso. 
 
 
-### <a name='HowdoIremovesymbolsfromtheoutputbar'></a>¿Cómo elimino símbolos de la barra de salida?
+<iframe width="420" height="315" src="https://www.youtube.com/embed/KZwCP4PkM4I" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ### <a name='HowdoIswitchtoadifferentvoice'></a>¿Cómo cambio a una voz diferente?
 
-Para ajustar las capacidades de voz / voz, vaya a la configuración, y en la categoría 'Idioma' se encuentra la categoría 'Voz'. Cuando presione 'Voz', podrá editar el tono y el ritmo de la voz en Cboard. También puede grabar su propia voz para los símbolos siguiendo los pasos en la respuesta de cómo comenzar a hablar en la aplicación. También puede grabar su propia voz para los símbolos siguiendo los pasos de la respuesta para "¿Cómo agrego una voz grabada personalmente a los símbolos en Cboard?"
+Para ajustar las capacidades de voz / voz, vaya a la configuración, y en la categoría IDIOMA se encuentra la categoría HABLA. Cuando seleccione SPEECH, podrá editar el tono y el ritmo del discurso en Cboard. También puede grabar su propia voz para los símbolos siguiendo los pasos de la respuesta para "¿Cómo agrego una voz grabada personalmente a los símbolos en Cboard?"
 
 ### <a name='HowdoIchangehowavoicesounds'></a>¿Cómo cambio cómo suena una voz?
 
-Para ajustar las capacidades de voz / voz / sonido, vaya a la configuración, y en la categoría 'Idioma' se encuentra la categoría 'Voz'. Cuando presione 'Voz', podrá editar el tono y el ritmo de la voz en Cboard. También puede grabar su propia voz para los símbolos siguiendo los pasos en la respuesta de cómo comenzar a hablar en la aplicación. También puede grabar su propia voz para los símbolos siguiendo los pasos de la respuesta para "¿Cómo agrego una voz grabada personalmente a los símbolos en Cboard?"
+Para ajustar las capacidades de voz / voz / sonido, vaya a CONFIGURACIÓN y, en la categoría IDIOMA, seleccione la categoría ALTAVOZ. Luego podrá editar el tono y el ritmo del discurso en Cboard.
 
 ## <a name='BoardEditing'></a>Edición de tablero
 
 ### <a name='HowdoIcreateanemptyboard'></a>¿Cómo creo un tablero vacío?
 
-En el tablero, un tablero vacío es equivalente a una carpeta.
+En Cboard, un tablero vacío es equivalente a una carpeta.
 
-Si desea crear un nuevo vacío, solo tiene que crear una nueva carpeta, y eso creará un nuevo tablero vacío en el almacenamiento del tablero. el nuevo tablero vacío estará disponible inmediatamente para su edición y se puede configurar como el tablero raíz (usando el botón de compilación), lo que significa que será el primer tablero que verá la próxima vez que abra el tablero desde cero.
+Si desea crear un tablero nuevo o vacío, debe crear una nueva carpeta, y eso creará un nuevo tablero en el área de almacenamiento de Cboard (que puede ver cuando vaya a TABLEROS en la barra central en modo de edición).
 
-Para crear una nueva carpeta, comience desbloqueando la pantalla presionando el botón de bloqueo en el lado derecho. Una vez que desbloquee la pantalla, presione el símbolo más en el lado derecho, para 'agregar mosaico'. Luego se le dará la opción de agregar un mosaico, pero en lugar de agregar un botón (la primera opción y la opción automática), presione la opción 'carpeta' directamente debajo de él. Al crear una carpeta, está creando un nuevo tablero al que puede agregar más mosaicos y carpetas. Puede elegir agregar un tablero vinculado o vacío seleccionando el pequeño candado en el lado superior derecho de la barra sobre el tablero (debajo de la flecha con una cruz). Una vez que haya hecho esto, aparecerá otra barra debajo de la barra de INICIO negra, y encontrará un pequeño signo más para agregar un mosaico o celda. Cuando aparezca la ventana CREATE TILE, verá la opción de agregar una carpeta. Si crea una carpeta, puede cargar una imagen de manera similar a hacer un mosaico con una configuración de color y una etiqueta. Se vincula automáticamente a ese tablero y aparecerá en su lista de tableros como un tablero vacío. <iframe width="420" height="315" src="https://www.youtube.com/embed/FPfbrAtj1Zg" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+El nuevo tablero vacío estará inmediatamente disponible para edición y se puede configurar como el tablero raíz (usando el botón de compilación), lo que significa que será el primer tablero que verá la próxima vez que abra Cboard.
 
-  
+Para crear una nueva carpeta, comience desbloqueando la pantalla seleccionando el botón de bloqueo en el lado derecho. Una vez que desbloquee la pantalla, seleccione el símbolo más (+) en el lado derecho, para AGREGAR AZULEJO. Luego se le dará la opción de agregar un mosaico / BOTÓN, que es la primera opción automática o seleccionar la CARPETA. Esta acción crea un NUEVO TABLERO al que puede agregar más mosaicos y carpetas.
 
+Una vez que haya nombrado la carpeta, puede cargar una imagen de manera similar a hacer un mosaico con una configuración de color y una etiqueta. Esta nueva carpeta se vinculará automáticamente a un tablero sobre ella (si se incluye una fila de mosaicos). Aparecerá en su lista de tableros como un tablero vacío hasta que esté lleno de símbolos y etiquetas. 
+
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/FPfbrAtj1Zg" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ### <a name='HowdoIpersonalizeanexistingboardinCboard'></a>¿Cómo personalizo una placa existente en Cboard?
 
-Para personalizar un tablero existente, seleccione el candado pequeño en la parte superior derecha de la barra sobre el tablero (debajo de la flecha con una cruz). Una vez que haya hecho esto, aparecerá otra barra debajo de la barra INICIO negra, y encontrará un pequeño icono de bloque en el lado izquierdo para agregar un mosaico o celda. Una vez que se selecciona el bloque, la barra gris debe volverse azul, y en el lado derecho verá un pequeño bote de basura y un lápiz.
+Para personalizar un tablero existente, seleccione el BLOQUEO en la esquina superior derecha de la barra sobre el tablero (debajo de la flecha con una cruz). Una vez que haya hecho esto, aparecerá otra barra debajo de la barra de INICIO negra, y encontrará un icono de bloque pequeño (EDITAR) en el lado izquierdo para agregar un mosaico o celda. Una vez que se selecciona el bloque, la barra gris debe volverse azul, y en el lado derecho verá un pequeño bote de basura y un lápiz.
 
 ![personalizar un tablero existente](/images/help/personalize.png "personalize an existing board")
 
-Para personalizar el tablero, seleccione el lápiz y podrá cambiar la etiqueta, cargar una imagen y agregar Vocalización. <iframe width="420" height="315" src="https://www.youtube.com/embed/sRnVvafKBLM" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Para personalizar el tablero, seleccione el lápiz y podrá cambiar la etiqueta, cargar una imagen y agregar Vocalización. 
 
-  
 
+<iframe width="420" height="315" src="https://www.youtube.com/embed/sRnVvafKBLM" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ### <a name='CanIusemyownpictureswheneditingaboard'></a>¿Puedo usar mis propias imágenes al editar un tablero?
 
-Sí, puede usar su propia imagen al editar un tablero. Para usar su propia imagen, puede cargar la imagen cuando cree un nuevo mosaico (presionando el signo más en la barra gris después de desbloquear la página). También puede editar un mosaico existente con su propia imagen.
+Sí, puede usar su propia imagen al editar un tablero. Para usar su propia imagen, puede cargar la imagen cuando cree un nuevo mosaico (seleccionando el SIGNO MÁS (+) en la barra gris después de desbloquear la página). También puede editar un mosaico existente con su propia imagen.
 
 ### <a name='CanIchangetheorderingoftheelementsinaboard'></a>¿Puedo cambiar el orden de los elementos en un tablero?
 
-¡Si! Cuando esté editando un tablero, desbloquee la pantalla con el símbolo de bloqueo. Luego haga clic en el símbolo 'editar' en el lado izquierdo (debajo del símbolo 'construir'). Luego puede arrastrar el pictograma o la carpeta a donde desee colocarlo dentro del mismo tablero.
+¡Si! Cuando esté editando un tablero, desbloquee la pantalla con el símbolo de BLOQUEO. Luego seleccione el ícono EDITAR bloque en el lado izquierdo (debajo del ícono CONSTRUIR). Luego puede arrastrar el pictograma / símbolo o carpeta a donde desee colocarlo dentro del mismo tablero.
 
 ### <a name='HowdoIselectmultipleelementstoedit'></a>¿Cómo selecciono varios elementos para editar?
 
-De la misma manera que cambia el orden de los elementos en un tablero, pero en lugar de hacer clic y arrastrar, selecciona el círculo dentro del cuadrado del pictograma y puede elegir más de uno. Después de hacerlo, haga clic en el lado derecho del símbolo del lápiz en la línea azul, lo que le permitirá editar los elementos seleccionados. <iframe width="420" height="315" src="https://www.youtube.com/embed/ZgRUamoF8Vk" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+De la misma manera que cambia el orden de los elementos en un tablero, pero en lugar de seleccionar y arrastrar, elige el círculo dentro del cuadrado del pictograma / símbolo. Para editar muchos símbolos, puede elegir más de uno. Después de hacerlo, seleccione el ícono PENCIL en el lado derecho y esto le permitirá editar los elementos seleccionados. 
 
-  
 
+<iframe width="420" height="315" src="https://www.youtube.com/embed/ZgRUamoF8Vk" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ### <a name='FindSymbols'></a>¿Cómo puedo encontrar nuevos símbolos cuando estoy editando un mosaico?
 
-Seleccione el icono de edición en el lado izquierdo de la barra del tablero y elija el símbolo que desea cambiar. Selecciónelo y una vez que el anillo azul tenga una marca, vaya al ícono de lápiz a la derecha. Al seleccionar el lápiz, notará que hay un icono de lupa para buscar símbolos. Cuando la función de búsqueda está activada, verá BIBLIOTECA DE SÍMBOLOS DE BÚSQUEDA en una barra de edición. Escriba la palabra que busca y aparecerán símbolos. Una vez que haya seleccionado un símbolo, volverá automáticamente a la página de edición de mosaico. <iframe width="420" height="315" src="https://www.youtube.com/embed/-8OXT3b4Flk" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Seleccione el icono de bloque EDITAR en el lado izquierdo de la barra del tablero y elija el pictograma / símbolo que desea cambiar. Selecciónelo y una vez que el anillo azul tenga una marca, vaya al ícono LÁPIZ a la derecha. Después de seleccionar el lápiz, notará que hay un icono de MAGNIFYING GLASS para buscar símbolos. Cuando la función de búsqueda está activada, verá BIBLIOTECA DE SÍMBOLOS DE BÚSQUEDA en una barra de edición. Escriba el concepto / etiqueta / palabra que está buscando y aparecerán símbolos. Una vez que haya seleccionado un símbolo, lo regresará automáticamente a la página de edición de TILE. 
 
-  
 
+<iframe width="420" height="315" src="https://www.youtube.com/embed/-8OXT3b4Flk" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ## <a name='Exportandimport-1'></a>Exportar e importar
 
 ### <a name='HowdoIexportmyboardinCboard'></a>¿Cómo exporto mi placa en Cboard?
 
-Para exportar su tablero en Cboard, vaya a configuración, y tan pronto como abra Configuración, la opción Exportar aparecerá como una flecha hacia abajo, justo debajo de Idioma y voz.
+Para exportar su tablero en Cboard, vaya a CONFIGURACIÓN, y tan pronto como abra Configuración, la opción EXPORTAR aparecerá como una flecha hacia abajo, debajo de Idioma y voz.
 
-Haga clic en Exportar, y podrá descargar su Cboard haciendo clic en 'OpenBoard' o EXPORT.
+Seleccione EXPORTAR y descargue su Cboard seleccionando OPENBOARD o EXPORT.
 
 ### <a name='HowdoIimportaboardintoCboard'></a>¿Cómo importo un tablero a Cboard?
 
-Para importar un tablero, siga los pasos utilizados para Exportar. El símbolo Importar se encuentra debajo de Exportar, una flecha hacia arriba con una barra horizontal debajo (Ver figura 9).
+Para importar un tablero, siga los pasos utilizados para Exportar. IMPORTAR está debajo de Exportar, una flecha hacia arriba con una barra horizontal debajo.
 
 ### <a name='WhatfileformatdoesCboarduseforimportexport'></a>¿Qué formato de archivo utiliza Cboard para importar / exportar?
 
 Para importar y exportar tableros tiene dos opciones:
 
-- Use tableros de archivos nativos de Cboard.
-- Utilice archivos con formato OpenBoard.
+* Use tableros de archivos nativos de Cboard.
+* Utilice archivos con formato OpenBoard. [Obtenga más información sobre Open Board Format](https://www.openboardformat.org/)
 
 ## <a name='Displaycapabilities-1'></a>Capacidades de visualización
 
 ### <a name='WhatcanIchangeonthedisplay'></a>¿Qué puedo cambiar en la pantalla?
 
-La configuración de pantalla se puede editar en Configuración, dentro de la categoría Sistema. La opción Mostrar está debajo de Exportar e Importar. Una vez que seleccione DISPLAY, puede cambiar el tamaño de la interfaz de usuario (UI) y el tamaño de fuente de la aplicación seleccionando el tamaño que desee. El punto rojo debe estar debajo del tamaño que desea elegir.
+La configuración de la pantalla se puede editar en CONFIGURACIÓN, dentro de la categoría SISTEMA. La opción Mostrar está debajo de Exportar e Importar. Una vez que seleccione DISPLAY, puede cambiar el tamaño de la interfaz de usuario (UI) y el tamaño de fuente de la aplicación seleccionando el tamaño que desee. El punto rojo debe estar debajo del tamaño que desea elegir.
 
 ### <a name='CanIresizebuttonsonCboard'></a>¿Puedo cambiar el tamaño de los botones en Cboard?
 
-¡Si! Puede cambiar el tamaño de los botones en Configuración. En la categoría 'sistema', haga clic en el botón Mostrar y se le darán 3 opciones de tamaño: estándar, grande, extra grande. Ver figura a continuación:
+¡Si! Puede cambiar el tamaño de los mosaicos o botones en AJUSTES. En la categoría SISTEMA, seleccione PANTALLA y se le darán 3 opciones de tamaño: Estándar, Grande, Extra Grande. Ver figura a continuación:
 
 ![Capacidades de visualización](/images/help/display.png "Display capabilities")
 
@@ -304,4 +315,4 @@ La configuración de pantalla se puede editar en Configuración, dentro de la ca
 
 ### <a name='CanIusescanningtechniquestoaccesssymbols'></a>¿Puedo usar técnicas de escaneo para acceder a los símbolos?
 
-El escaneo es donde los elementos en el conjunto de selección se presentan secuencialmente a lo largo del tiempo y el usuario realiza una selección indirectamente, generalmente por acceso de interruptor. El escaneo en Cboard funciona dentro de la categoría Configuración y Sistema. Hay diferentes configuraciones para escanear. Primero debe habilitar la configuración de escaneo seleccionando ACTIVAR. Luego puede elegir el tiempo de retraso, así como el método (ya sea automático o manual).
+El escaneo es donde los elementos en el conjunto de selección se presentan secuencialmente a lo largo del tiempo y el usuario realiza una selección indirectamente, generalmente por acceso de interruptor. SCANNING on Cboard funciona dentro de AJUSTES y la categoría SISTEMA. Hay diferentes configuraciones para escanear. Primero debe habilitar la configuración de escaneo seleccionando ACTIVAR. Luego puede elegir el tiempo de retraso, así como el método (automático o manual). Tenga en cuenta que cuando usa una tableta o un teléfono inteligente, también puede tener su propia opción de escaneo incorporada.

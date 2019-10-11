@@ -29,7 +29,6 @@
 	*   [How do I share a board?](#HowdoIshareaboard)
 *  [Talking](#Talking)
 	*   [How do I add a personally recorded voice to symbols on Cboard?](#HowdoIaddapersonallyrecordedvoicetosymbolsonCboard)
-	*   [How do I remove symbols from the output bar?](#HowdoIremovesymbolsfromtheoutputbar)
 	*   [How do I switch to a different voice?](#HowdoIswitchtoadifferentvoice)
 	*   [How do I change how a voice sounds?](#HowdoIchangehowavoicesounds)
 *  [Board Editing](#BoardEditing)
