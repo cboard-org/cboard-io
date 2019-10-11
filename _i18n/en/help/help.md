@@ -54,7 +54,7 @@
 Cboard is a free web application for children and adults with speech and language impairments, facilitating communication with pictures and text-to-speech.
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/pjoLEtiFf2A" frameborder="0" allowfullscreen></iframe>
-<br/>
+
 
 ##    <a name='Registrationandlogin'></a>Registration and login 
 
@@ -66,28 +66,39 @@ To register for Cboard, begin by following the steps on the Welcome page where y
 
 ![Welcome page](/images/help/welcome-page.png "Welcome page")
 
-If you are a new user, press SIGN UP, and a short form will pop up asking for basic information in order to create your account. 
+If you are a new user, press SIGN UP, and a short form will pop up asking for basic information in order to create your account.
+
+![Cboard signup](/images/help/signup.png "Cboard signup")
+
 Once you have filled out this information, you will receive an e-mail shortly after with a link to follow in order to confirm your account.
+
+![Email signup](/images/help/signupemail.png "Email signup")
 
 This information is only held by the company to support use of Cboard and offer help when necessary. It is not shared with other organizations,  (See [Privacy details](https://www.cboard.io/privacy/)). 
 
-  Once you have verified your account you will have access to Cboard, and will receive another e-mail confirming you were successfully verified.
-  
-![Cboard signup](/images/help/signup.png "Cboard signup")
+Once you have verified your account you will have access to Cboard, and will receive another e-mail confirming you were successfully verified your account.
 
 ###   <a name='CanIregistermyselfusingmysocialmediaaccounts'></a>Can I register myself using my social media accounts?
 
-Yes! On the log in page, you will be given the option to sign up with your Google or Facebook account if you wish to do so. You can also register with an e-mail address. 
+Yes! On the login page, you will be given the option to sign up with your Google or Facebook account if you wish to do so. You can also register with an e-mail address.
 
 ###   <a name='HowdoIlogintoCboardonceIamaregistereduser'></a>How do I log in to Cboard once I am a registered user?
 
-To log in to Cboard, you follow the first step used to sign up, but instead of clicking SIGN UP on the Welcome screen, click LOGIN. You will then be asked to provide the e-mail you initially signed up with, and the password you set up.
+To log in to Cboard, you follow the first step used to sign up, but instead of selecting SIGN UP on the Welcome screen, select LOGIN. You will then be asked to provide the e-mail you initially signed up with, and the password you set up.
 
 ![Cboard login](/images/help/login.png "Cboard login")
 
+###  What are the different options to configure Cboard?
+
+Once you login to Cboard, you can access different options to configure and develop the Communication Board provided when Cboard is in unlocked mode. See the list of all the key options below:
+
+![Cboard settings](/images/help/settings.png "Cboard settings")
+
 ###   <a name='HowdoIlogout'></a>How do I logout?
 
-You can log out by clicking the settings icon, and the option will also appear in red. You can also double click the lock symbol on the right corner, and once you unlock the screen and the red bar appears, click on the icon to the left of the lock (your picture if you have one loaded) and the option to log out will appear in red. 
+You can log out by selecting the settings icon, and the option will appear in red. You can also select the lock symbol on the right corner, click three times and once you unlocked the screen and the red bar appears, select the icon to the left of the lock (your picture if you have one loaded) and the option to log out will appear in red.
+
+![Cboard logout](/images/help/logout.png "Cboard logout")
 
 ###   <a name='Whatisthedifferencebetweenaregisteredandanon-registereduser'></a>What is the difference between a registered and a non-registered user?
 
@@ -95,7 +106,7 @@ A registered user is able to personalize their boards, and the changes made will
 
 ###   <a name='HowdoIupdatemyuserinformation'></a>How do I update my user information?
 
-To update your user information, follow the same steps you would use if you were trying to log out. Select the lock symbol on the top right corner of the board – three clicks or taps, and once you unlock the screen, select the icon to the left of the lock (user name initials), and you can then edit your user information.
+To update your user information, follow the same steps you would use if you were trying to log out. Select the lock symbol on the top right corner of the board – three clicks or taps, and once you unlock the screen, select the icon to the left of the lock (user name initials, photo), and you can then edit your user information.
 
 ###   <a name='HowdoIresetmypassword'></a>How do I reset my password?
 
@@ -111,11 +122,11 @@ Cboard is completely free of any charge.
 
 ###   <a name='WhatdevicesandOSaresupported'></a>What devices and OS are supported?
 
-Cboard works on modern browsers and is available on a wide variety of platforms, including desktops, tablets and mobile phones.
+Cboard is available online using a wide variety of devices, including desktops, tablets and mobile phones using Mac, Windows and Android operating systems. It is best viewed in browsers such as Chrome, Firefox, Edge and Safari and an Android app is available from Google Play.
 
 ![Browser support](/images/help/browsers.png "Browser support")
 
-Cboard is a web based app so will respond to the settings provided by the individual browsers. This may mean you have different results to the settings provided by Cboard. For example you may find different speech options being offered.
+Because Cboard is a web based app it will respond to the settings provided by the individual browsers. This may mean you have different results to the settings provided by Cboard. For example you may find different speech options being offered.
 
 Don’t forget you can also use browser magnification or zoom to a certain degree depending on the computer, tablet or phone screen size.
 
@@ -126,7 +137,7 @@ Please ask Cboard about using high contrast mode for those with visual impairmen
 Cboard comes with support for 33 languages. To select a different language go to SETTINGS – select LANGUAGE and those available will appear. Make a choice and a ‘tick’ will appear beside the language.
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/HHq9b3dJ0zM" frameborder="0" allowfullscreen></iframe>
-<br/>
+
 
 ###   <a name='CanCboardreadmymessageoutaloud'></a>Can Cboard read my message out aloud?
 
