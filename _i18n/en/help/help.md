@@ -221,9 +221,6 @@ To share a board, unlock the screen by pressing the lock symbol on the right han
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/KZwCP4PkM4I" frameborder="0" allowfullscreen></iframe>
 
-
-###   <a name='HowdoIremovesymbolsfromtheoutputbar'></a>How do I remove symbols from the output bar?
-
 ###   <a name='HowdoIswitchtoadifferentvoice'></a>How do I switch to a different voice?
 
 In order to adjust speech capabilities/voice, go into settings, and under the LANGUAGE category is the SPEECH category. When you select SPEECH you will be able to edit the pitch and pace of speech on Cboard. You can also record your own voice for the symbols following the steps on the answer for “How do I add a personally recorded voice to symbols on Cboard?”
