@@ -47,6 +47,8 @@
 	*  [Can I resize buttons on Cboard?](#CanIresizebuttonsonCboard)
 * [Scanning](#Scanning)
 	*  [Can I use scanning techniques to access symbols?](#CanIusescanningtechniquestoaccesssymbols)
+* [Communicator builder](#CommunicatorBuilder)
+    *  [What is the communicator builder?](#Whatiscommbuilder)
 
 ##    <a name='WhatisCboard'></a>What is Cboard?
 
@@ -314,3 +316,12 @@ Yes! You can resize Tiles or Buttons in SETTINGS. In the category SYSTEM, select
 ###   <a name='CanIusescanningtechniquestoaccesssymbols'></a>Can I use scanning techniques to access symbols?
 
 Scanning is where the items in the selection set are presented sequentially over time and the user makes a selection indirectly, usually by switch access. SCANNING on Cboard works within SETTINGS and the SYSTEM category. There are different settings for scanning. You should first enable the scanning setting by selecting ENABLE. You can then choose the time delay, as well as the method (either automatic or manual).  Please be aware that when using a tablet or smartphone, it may also have its own built-in scanning option. 
+
+##   <a name='CommunicatorBuilder'></a>Communicator builder
+
+###   <a name='Whatiscommbuilder'></a>What is the communicator builder?
+
+The communicator builder is a feature that allows you to handle boards in order to copy, delete, publish, add and remove them.
+In order to access to the functionality you need to unlock settings and click on 'Build' buttton. You will see a new page structured on three different tabs: boards, public boards, all my boards. See figure below:
+
+![Communicator builder](/images/help/communicator.png "Communicator builder")
