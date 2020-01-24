@@ -49,6 +49,9 @@
 	*  [Can I use scanning techniques to access symbols?](#CanIusescanningtechniquestoaccesssymbols)
 * [Communicator builder](#CommunicatorBuilder)
     *  [What is the communicator builder?](#Whatiscommbuilder)
+    *  [Communicator boards](#CommunicatorBoards)
+    *  [Public boards](#PublicBoards)
+    *  [All my boards](#Allmyboards)
 
 ##    <a name='WhatisCboard'></a>What is Cboard?
 
@@ -325,3 +328,15 @@ The communicator builder is a feature that allows you to handle boards in order 
 In order to access to the functionality you need to unlock settings and click on 'Build' buttton. You will see a new page structured on three different tabs: boards, public boards, all my boards. See figure below:
 
 ![Communicator builder](/images/help/communicator.png "Communicator builder")
+
+###   <a name='CommunicatorBoards'></a>Communicator boards
+
+![Communicator boards](/images/help/communicatorBoards.png "Communicator boards")
+
+###   <a name='PublicBoards'></a>Public boards
+
+![Public boards](/images/help/PublicBoards.png "Public boards")
+
+###   <a name='Allmyboards'></a>All my boards
+
+![All my boards](/images/help/AllmyBoards.png "All my boards")
