@@ -341,12 +341,11 @@ The default tab you will see in communicator builder is the communicator boards 
 
 ###   <a name='PublicBoards'></a>Public boards
 
+* Copy board: this buttton will create a copy of the board and it will add it into your communicator. As this is a copy of the public board, you can edit this board as you want without affecting the original public board.
+
 ![Public boards](/images/help/PublicBoards.png "Public boards")
 
-* Copy board: this buttton will create a copy of the board and it will add it into your communicator. As this is a copy of the public board, you can edit this board as you want without affecting the original public board.
 ###   <a name='Allmyboards'></a>All my boards
-
-![All my boards](/images/help/AllmyBoards.png "All my boards")
 
 Please note that JUST registered users can access to this tab functionality.
 
@@ -359,3 +358,5 @@ Please note that JUST registered users can access to this tab functionality.
  * Unpublish board: This action will make the board private and it won't be displayed under the public boards tab. Nobody can see your board.
 
  * Delete board: This action will delete the board and it cannot be recovered. The board will be removed from the database.
+
+![All my boards](/images/help/AllmyBoards.png "All my boards")
