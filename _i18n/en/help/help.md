@@ -331,12 +331,31 @@ In order to access to the functionality you need to unlock settings and click on
 
 ###   <a name='CommunicatorBoards'></a>Communicator boards
 
+The default tab you will see in communicator builder is the communicator boards tab, that will display all boards included into your communicator. You can make changes in your communicator from following action buttons:
+
+* Remove board from communicator: this buttton will quit the board from communicator but WILL NOT delete the board from the database and it is still available under 'All my boards' tab.
+
+* Set board as root: this buttton will define the board as the first board to be displayed every time you login to Cboard.
+
 ![Communicator boards](/images/help/communicatorBoards.png "Communicator boards")
 
 ###   <a name='PublicBoards'></a>Public boards
 
 ![Public boards](/images/help/PublicBoards.png "Public boards")
 
+* Copy board: this buttton will create a copy of the board and it will add it into your communicator. As this is a copy of the public board, you can edit this board as you want without affecting the original public board.
 ###   <a name='Allmyboards'></a>All my boards
 
 ![All my boards](/images/help/AllmyBoards.png "All my boards")
+
+Please note that JUST registered users can access to this tab functionality.
+
+* Remove board from communicator: this buttton will quit the board from communicator but WILL NOT delete the board from the database and it is still available.
+
+* Add board to the communicator: this buttton will include the board to the communicator.
+
+* Publish board: This action will make public the board and it will be displayed under the public boards tab. Everybody can see your board.
+
+ * Unpublish board: This action will make the board private and it won't be displayed under the public boards tab. Nobody can see your board.
+
+ * Delete board: This action will delete the board and it cannot be recovered. The board will be removed from the database.
