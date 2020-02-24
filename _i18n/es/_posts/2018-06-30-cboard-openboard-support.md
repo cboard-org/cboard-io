@@ -1,38 +1,38 @@
 ---
-title: Cboard soporta estándar de tablero abierto
+title: Cboard supports openboard standard
 date: 2018-06-30
-description: Introducción a openboard en Cboard
+description: Introduction to openboard on Cboard
 categories:
-  - tablero
-  - Openboard
-  - fuente abierta
+  - cboard
+  - openboard
+  - open-source
 image:
 author_staff_member: shay
 ---
-## Introducción
+## Intro
 
-Nosotros en Cboard lanzamos recientemente una nueva y emocionante función: soporte de tablero abierto. Será una pieza clave para permitir a los usuarios de Cboard una plataforma flexible que permita compartir y migrar fácilmente.
+We at Cboard recently released a new and exiting feature: openboard support. This is going to be as key piece in order to allow Cboard users a flexible platform that supports easy sharing and migration.
 
-## ¿Qué es el formato de tablero abierto?
+## What is Open Board Format?
 
-Open Board Format, o OBF en resumen, es una especificación para las placas de comunicación AAC, describe los datos y la estructura necesarios para representar una placa, desde el número de filas de la cuadrícula hasta botones, imágenes y más. Fue creado para permitir que los tableros sean portátiles entre aplicaciones y compartibles entre personas.
+Open Board Format, or OBF in short, is a specification for AAC communication boards, it describes the data and structure needed to represent a board, from the number of grid rows to buttons, images and more. It was created to allow boards to be portable between apps and shareable between people.
 
-## ¿Por qué admitir Open Board Format?
+## Why support Open Board Format?
 
-Cuando nos enteramos del formato Open Board, no tuvimos que pensar mucho, los beneficios fueron obvios, todos ganan, el usuario, Cboard y el ecosistema AAC (con suerte). El usuario puede migrar sus tableros a otras aplicaciones y compartir tableros con otras personas. Cboard puede incorporar tableros de terceros disponibles al público, los usuarios pueden migrar a Cboard desde otras aplicaciones. Si se publicarán más tableros compatibles con OBF en línea, los tableros ya no serán un factor clave para decidir entre las aplicaciones AAC, obligará a las empresas a centrarse más en mejorar la calidad del software en lugar del contenido para obtener una ventaja competitiva.
+When we learned about Open Board Format, we didn’t need to think much, the benefits were obvious, everyone wins, the user, Cboard and the AAC eco-system (hopefully). The user can migrate his boards to other applications and share boards with other people. Cboard can incorporate publicly available third party boards, users can migrate to Cboard from other apps. If more OBF compatible boards will be published online, boards will no longer be a key factor in deciding between AAC apps, it will force companies to focus more on improving software quality rather than content to gain a competitive edge.
 
-## Cambios de software
+## Software changes
 
-Para implementar la importación OBF en Cboard, creamos una función de adaptador que toma un objeto OBF y genera un objeto que Cboard puede entender y representar. La especificación también define una forma de agrupar tableros como un archivo .OBZ que es esencialmente uno o más archivos .OBF comprimidos a través de gzip. Para admitir gzip, necesitábamos agregar dos paquetes nuevos de `npm` `jszip` y `jszip-utils`.
+To implement OBF import in Cboard we created an adapter function that takes an OBF object and outputs an object that Cboard can understand and render. The spec also defines a way to bundle boards as an .OBZ file which is essentially one or more .OBF files compressed via gzip. To support gzip we needed to add two new `npm` packages `jszip` and `jszip-utils`.
 
-![Tablero](/images/app/import.png)
+![Cboard](/images/app/import.png)
 
-## ¿Qué significa para los usuarios de Cboard?
+## What does it mean for Cboard users?
 
-Al exportar su tablero en la configuración de Cboard `/ pantalla de exportación` , ahora tendrá la opción de exportar a Open Board Format. Haga clic en el botón `exportar` y elija el elemento</code> menú `OpenBoard ` y guarde el archivo. La funcionalidad de importación no ha cambiado.
+When exporting your board in Cboard `settings/export` screen, you will now have the option to export to Open Board Format. Click the `export` button and choose the `OpenBoard` menu item and save the file. Import functionality hasn’t changed.
 
-![Tablero](/images/app/export.png)
+![Cboard](/images/app/export.png)
 
-## ¿Qué depara el futuro?
+## What the future holds?
 
-Esperamos que algún día haya un repositorio principal que ofrezca tableros compatibles con Open Board Format, un mercado si lo desea, de tableros que fueron creados por profesionales, ordenados por categorías clasificadas por personas y ofrecidas de forma gratuita.
+We’re hoping that one day there will be a main repository that will offer Open Board Format compatible boards, a marketplace if you will, of boards that were created by professionals, sorted by categories rated by people and offered for free.

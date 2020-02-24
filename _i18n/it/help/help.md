@@ -49,13 +49,15 @@
     * [Posso ridimensionare i pulsanti su Cboard?](#CanIresizebuttonsonCboard)
 * [lettura](#Scanning) 
     * [Posso usare le tecniche di scansione per accedere ai simboli?](#CanIusescanningtechniquestoaccesssymbols)
+* [Generatore di comunicazioni](#CommunicatorBuilder) 
+    * [Cos'è il costruttore di comunicazioni?](#Whatiscommbuilder)
+    * [Schede di comunicazione](#CommunicatorBoards)
+    * [Lavagne pubbliche](#PublicBoards)
+    * [Tutte le mie schede](#Allmyboards)
 
 ## <a name='WhatisCboard'></a>Cos'è Cboard?
 
-Cboard è un'applicazione web gratuita per bambini e adulti con problemi di linguaggio e linguaggio, che facilita la comunicazione con immagini e sintesi vocale. 
-
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/pjoLEtiFf2A" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Cboard è un'applicazione web gratuita per bambini e adulti con problemi di linguaggio e linguaggio, che facilita la comunicazione con immagini e sintesi vocale. <iframe width="420" height="315" src="https://www.youtube.com/embed/pjoLEtiFf2A" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ## <a name='Registrationandlogin'></a>Registrazione e login
 
@@ -135,10 +137,7 @@ Chiedi a Cboard di utilizzare la modalità ad alto contrasto per le persone con 
 
 ### <a name='WhichlanguagesaresupportedbyCboard'></a>Quali lingue sono supportate da Cboard?
 
-Cboard viene fornito con il supporto per 33 lingue. Per selezionare una lingua diversa vai su IMPOSTAZIONI - seleziona LINGUA e appariranno quelle disponibili. Fai una scelta e un segno di spunta apparirà accanto alla lingua. 
-
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/HHq9b3dJ0zM" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Cboard viene fornito con il supporto per 33 lingue. Per selezionare una lingua diversa vai su IMPOSTAZIONI - seleziona LINGUA e appariranno quelle disponibili. Fai una scelta e un segno di spunta apparirà accanto alla lingua. <iframe width="420" height="315" src="https://www.youtube.com/embed/HHq9b3dJ0zM" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ### <a name='CanCboardreadmymessageoutaloud'></a>Cboard può leggere il mio messaggio ad alta voce?
 
@@ -192,10 +191,7 @@ Per vedere Cboard a schermo intero, sblocca lo schermo premendo il simbolo del l
 
 ### <a name='HowdoIshareaboard'></a>Come faccio a condividere una scheda?
 
-Per condividere una scheda, sblocca lo schermo premendo il simbolo del lucchetto sul lato destro, quindi sulla riga più alta (la barra nera), il terzo simbolo a destra ti dà la possibilità di condividere la scheda su e-mail, Facebook, Twitter o copia il link da inviare a qualcuno. 
-
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/fE0R6HzZ9O4" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Per condividere una scheda, sblocca lo schermo premendo il simbolo del lucchetto sul lato destro, quindi sulla riga più alta (la barra nera), il terzo simbolo a destra ti dà la possibilità di condividere la scheda su e-mail, Facebook, Twitter o copia il link da inviare a qualcuno. <iframe width="420" height="315" src="https://www.youtube.com/embed/fE0R6HzZ9O4" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ## <a name='Talking'></a>parlando
 
@@ -217,10 +213,7 @@ Per condividere una scheda, sblocca lo schermo premendo il simbolo del lucchetto
 
 8. Infine, seleziona il simbolo del microfono e registra, puoi registrare più volte e riprodurlo prima di salvarlo sulla scheda.
     
-    Se sono stati selezionati più simboli, utilizzare NEXT per passare al simbolo successivo e ripetere il processo. 
-
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/KZwCP4PkM4I" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+    Se sono stati selezionati più simboli, utilizzare NEXT per passare al simbolo successivo e ripetere il processo. <iframe width="420" height="315" src="https://www.youtube.com/embed/KZwCP4PkM4I" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ### <a name='HowdoIswitchtoadifferentvoice'></a>Come posso passare a una voce diversa?
 
@@ -242,10 +235,7 @@ La nuova scheda vuota sarà immediatamente disponibile per la modifica e può es
 
 Per creare una nuova cartella, iniziare sbloccando lo schermo selezionando il pulsante di blocco sul lato destro. Dopo aver sbloccato lo schermo, selezionare il simbolo più (+) sul lato destro, per AGGIUNGERE PIASTRELLA. Ti verrà quindi data la possibilità di aggiungere una tessera / PULSANTE che è la prima e automatica opzione o selezionare la CARTELLA Questa azione crea una NUOVA SCHEDA alla quale puoi aggiungere più tessere e cartelle.
 
-Dopo aver assegnato un nome alla cartella, puoi caricare un'immagine in modo simile alla creazione di un riquadro con un'impostazione e un'etichetta di colore. Questa nuova cartella si collegherà automaticamente a una scheda sopra di essa (se inclusa una fila di tessere). Apparirà nel tuo elenco di schede come una scheda vuota fino a quando non viene popolata con simboli ed etichette. 
-
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/FPfbrAtj1Zg" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Dopo aver assegnato un nome alla cartella, puoi caricare un'immagine in modo simile alla creazione di un riquadro con un'impostazione e un'etichetta di colore. Questa nuova cartella si collegherà automaticamente a una scheda sopra di essa (se inclusa una fila di tessere). Apparirà nel tuo elenco di schede come una scheda vuota fino a quando non viene popolata con simboli ed etichette. <iframe width="420" height="315" src="https://www.youtube.com/embed/FPfbrAtj1Zg" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ### <a name='HowdoIpersonalizeanexistingboardinCboard'></a>Come personalizzo una scheda esistente in Cboard?
 
@@ -253,10 +243,7 @@ Per personalizzare una tavola esistente, seleziona il BLOCCO nell'angolo in alto
 
 ![personalizzare una scheda esistente](/images/help/personalize.png "personalize an existing board")
 
-Per personalizzare la lavagna, seleziona la matita e sarai in grado di cambiare l'etichetta, caricare un'immagine e aggiungere la vocalizzazione. 
-
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/sRnVvafKBLM" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Per personalizzare la lavagna, seleziona la matita e sarai in grado di cambiare l'etichetta, caricare un'immagine e aggiungere la vocalizzazione. <iframe width="420" height="315" src="https://www.youtube.com/embed/sRnVvafKBLM" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ### <a name='CanIusemyownpictureswheneditingaboard'></a>Posso usare le mie foto quando modifico una lavagna?
 
@@ -268,17 +255,11 @@ Sì! Quando modifichi una lavagna, sblocca lo schermo usando il simbolo BLOCCO. 
 
 ### <a name='HowdoIselectmultipleelementstoedit'></a>Come seleziono più elementi da modificare?
 
-Allo stesso modo in cui cambi l'ordine di elementi in una tavola, ma invece di selezionare e trascinare, scegli il cerchio all'interno del quadrato del pittogramma / simbolo. Per modificare molti simboli puoi sceglierne più di uno. Dopo averlo fatto, seleziona l'icona MATITA sul lato destro e questo ti permetterà di modificare gli elementi selezionati. 
-
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/ZgRUamoF8Vk" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Allo stesso modo in cui cambi l'ordine di elementi in una tavola, ma invece di selezionare e trascinare, scegli il cerchio all'interno del quadrato del pittogramma / simbolo. Per modificare molti simboli puoi sceglierne più di uno. Dopo averlo fatto, seleziona l'icona MATITA sul lato destro e questo ti permetterà di modificare gli elementi selezionati. <iframe width="420" height="315" src="https://www.youtube.com/embed/ZgRUamoF8Vk" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ### <a name='FindSymbols'></a>Come posso trovare nuovi simboli quando modifico una tessera?
 
-Seleziona l'icona del blocco EDIT sul lato sinistro della barra della scheda e scegli il pittogramma / simbolo che desideri modificare. Selezionalo e una volta che l'anello blu ha un segno di spunta, vai sull'icona PENCIL sulla destra. Dopo aver selezionato la matita, noterai che è presente un'icona LENTE D'INGRANDIMENTO per la ricerca di simboli. Quando la funzione di ricerca è attivata, vedrai RICERCA SIMBOLI DI RICERCA in una barra di modifica. Digita il concetto / etichetta / parola che stai cercando e appariranno i simboli. Dopo aver selezionato un simbolo, tornerai automaticamente alla pagina di modifica TILE. 
-
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/-8OXT3b4Flk" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Seleziona l'icona del blocco EDIT sul lato sinistro della barra della scheda e scegli il pittogramma / simbolo che desideri modificare. Selezionalo e una volta che l'anello blu ha un segno di spunta, vai sull'icona PENCIL sulla destra. Dopo aver selezionato la matita, noterai che è presente un'icona LENTE D'INGRANDIMENTO per la ricerca di simboli. Quando la funzione di ricerca è attivata, vedrai RICERCA SIMBOLI DI RICERCA in una barra di modifica. Digita il concetto / etichetta / parola che stai cercando e appariranno i simboli. Dopo aver selezionato un simbolo, tornerai automaticamente alla pagina di modifica TILE. <iframe width="420" height="315" src="https://www.youtube.com/embed/-8OXT3b4Flk" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ## <a name='Exportandimport-1'></a>Esporta e importa
 
@@ -316,3 +297,43 @@ Sì! Puoi ridimensionare riquadri o pulsanti in IMPOSTAZIONI. Nella categoria SI
 ### <a name='CanIusescanningtechniquestoaccesssymbols'></a>Posso usare le tecniche di scansione per accedere ai simboli?
 
 La scansione è il punto in cui gli elementi nel set di selezione vengono presentati in sequenza nel tempo e l'utente effettua una selezione indirettamente, in genere mediante l'accesso al passaggio. SCANNING on Cboard funziona all'interno delle IMPOSTAZIONI e della categoria SISTEMA. Esistono diverse impostazioni per la scansione. Innanzitutto è necessario abilitare l'impostazione di scansione selezionando ENABLE. È quindi possibile scegliere il ritardo, nonché il metodo (automatico o manuale). Si noti che quando si utilizza un tablet o uno smartphone, potrebbe anche avere la propria opzione di scansione integrata.
+
+## <a name='CommunicatorBuilder'></a>Generatore di comunicazioni
+
+### <a name='Whatiscommbuilder'></a>Cos'è il costruttore di comunicazioni?
+
+Il generatore di comunicatori è una funzione che consente di gestire le tabelle per copiarle, eliminare, pubblicare, aggiungerle e rimuoverle. Per accedere alla funzionalità è necessario sbloccare le impostazioni e fare clic sul buttton 'Build'. Vedrai una nuova pagina strutturata su tre schede diverse: le bacheche, le lavagne, tutte le mie schede. Vedi la cifra qui sotto:
+
+![Generatore di comunicazioni](/images/help/communicator.png "Communicator builder")
+
+### <a name='CommunicatorBoards'></a>Schede di comunicazione
+
+La scheda predefinita che vedrai nel costruttore di comunicatori è la scheda board di comunicazione, che mostrerà tutte le schede incluse nel comunicatore. Puoi apportare modifiche al tuo comunicatore dai seguenti pulsanti d'azione:
+
+* Rimuovi la scheda dal comunicatore: questo buttton abbandonerà la scheda dal comunicatore, ma NON eliminerà la scheda dal database ed è ancora disponibile sotto la scheda 'Tutte le mie schede'.
+
+* Imposta la scheda come radice: questo buttton definirà la scheda come prima scheda da visualizzare ogni volta che accedi a Cboard.
+
+![Schede di comunicazione](/images/help/communicatorBoards.png "Communicator boards")
+
+### <a name='PublicBoards'></a>Lavagne pubbliche
+
+* Copia scheda: questo buttton creerà una copia della scheda e la aggiungerà nel comunicatore. Come questa è una copia del forum pubblico, puoi modificare questa scheda come vuoi senza influire sul board pubblico originale.
+
+![Lavagne pubbliche](/images/help/PublicBoards.png "Public boards")
+
+### <a name='Allmyboards'></a>Tutte le mie schede
+
+Nota che gli utenti registrati di JUST possono accedere a questa funzionalità di tabulazione.
+
+* Rimuovi la scheda dal comunicatore: questo buttton abbandonerà la scheda dal comunicatore, ma NON eliminerà la scheda dal database ed è ancora disponibile.
+
+* Aggiungi una scheda al comunicatore: questo buttton includerà la scheda al comunicatore.
+
+* Pubblica bacheca: questa azione renderà pubblica la board e verrà visualizzata sotto la scheda board pubblica. Tutti riescono a vedere la vostra lavagna.
+    
+ * Annulla la pubblicazione: Questa azione renderà la scheda privata e non verrà visualizzata sotto la scheda scheda scheda pubblica. Nessuno riesce a vedere la vostra lavagna.
+    
+ * Elimina board: Questa azione eliminerà la scheda e non potrà essere recuperata. La scheda verrà rimossa dal database.
+
+![Tutte le mie schede](/images/help/AllmyBoards.png "All my boards")

@@ -1,42 +1,42 @@
 ---
-title: Pruebas de usabilidad de Cboard
+title: Cboard usability testing
 date: 2018-08-20
-description: Comentarios de los pacientes sobre la usabilidad
+description: Feedback from patients on usability
 categories:
-  - tablero
-  - prueba de usabilidad
+  - cboard
+  - usability-testing
 image: /images/eipan.jpg
 author_staff_member: katrina
 ---
-## Preparándose para la prueba
+## Preparing for testing
 
-En las semanas previas a comenzar las pruebas de usabilidad, contactamos a tres centros de rehabilitación del habla en el centro de Buenos Aires, dos de los cuales respondieron que tenían candidatos elegibles y que participarían en las pruebas. El primero es Ciren (Centro Integral de Rehabilitación y Educación Neurológica), y el segundo Eipan (Equipo Interdisciplinario para la Atención del Niño con Alteraciones del Desarrollo). Ambos centros brindan terapia del habla, entre otros servicios, y trabajan con niños con diferentes diagnósticos, incluido un gran número con [parálisis cerebral](https://en.wikipedia.org/wiki/Cerebral_palsy) y retraso del desarrollo neurológico.
+In the weeks before beginning usability testing, we contacted three speech rehabilitation centers in central Buenos Aires, two of which replied they had eligible candidates and would participate in the testing. The first is Ciren (Centro Integral de Rehabilitación y Educación Neurológica), and the second Eipan (Equipo Interdisciplinario para la Atención del Niño con Alteraciones del Desarrollo). Both centers provide speech therapy, among other services, and work with children with a number of different diagnosis, including a large number with [cerebral palsy](https://en.wikipedia.org/wiki/Cerebral_palsy) and neurodevelopmental delay.
 
 ![Eipan](/images/eipan.jpg)
 
-## Pruebas de usuario: semanas 1 y 2
+## User testing – weeks 1 and 2
 
-Comenzamos las primeras visitas a los centros durante la primera semana de agosto, reuniéndonos con los profesionales, explicando el objetivo de las pruebas, brindando más información sobre Cboard y respondiendo cualquier pregunta que pudieran tener. El 6 de agosto comenzamos las pruebas de usuario. Los 10 pacientes que hemos visto en las primeras dos semanas tienen entre 4 y 22 años, la mayoría de ellos con parálisis cerebral y uno con retraso del desarrollo neurológico.
+We began the first visits to the centers during the first week of August, meeting the professionals, explaining the goal of the testing, providing further information regarding Cboard and answering any possible questions they had. August 6th we began user testing. The 10 patients we have seen in the first two weeks are between 4 and 22 years old, most of them with cerebral palsy, and one with neurodevelopmental delay.
 
-El primer paciente, un niño de 4 años con retraso en el desarrollo neurológico, pudo reconocer los símbolos claramente, y pudo reconocer las carpetas y el formato general de Cboard. El paciente puede hablar, pero tiene problemas con el enfoque y la sobreestimulación. Cboard sería una opción para este paciente, pero necesitaría ser editado para proporcionar menos para que el paciente pueda enfocarse y formular una idea.
+The first patient, a 4 year old with neurodevelopmental delay, was able to recognize the symbols clearly, and able to recognize folders and the general format of Cboard. The patient is able to speak, but has issues with focusing and overstimulation. Cboard would be an option for this patient, but would need to be edited in order to provide less so the patient can focus and formulate an idea.
 
-Entre los otros pacientes, Cboard parecía una buena opción para algunos de los pacientes mayores. Uno en particular se destacó como un gran candidato, un joven de 22 años con parálisis cerebral, y antes de la prueba no tenía experiencia con la comunicación asistiva aumentativa ([AAC](https://en.wikipedia.org/wiki/Augmentative_and_alternative_communication)). Ella tiene un uso limitado de sus manos y brazos, pero pudo usar Cboard en una tableta. Pudo navegar, expresar sus necesidades (fue capaz de expresar claramente que tenía hambre y quería comer pastel), así como rápidamente entendió cómo regresar, qué significaban las categorías, e incluso expresó que disfrutaba usando Cboard. Lo que se observó en sus pruebas fue que habría sido útil para ella si el botón 'atrás' fuera más grande, y la carpeta 'familia' era confusa porque no entendía los pictogramas utilizados para representar a los miembros de la familia.
+Among the other patients, Cboard seemed like a good fit for a few of the older patients. One in particular stood out as a great candidate, a 22 year old with cerebral palsy, and previous to the testing had no experience with assistive augmentative communication ([AAC](https://en.wikipedia.org/wiki/Augmentative_and_alternative_communication)). She has limited use of her hands and arms, but was able to use Cboard on a tablet. She was able to navigate, express her needs (was able to clearly express she was hungry and wanted to eat cake), as well as quickly understood how to go back, what the categories meant, and even expressed she enjoyed using Cboard. What was noted from her testing was that it would have been helpful for her if the ‘back’ button was larger, and the ‘family’ folder was confusing in that she did not understand the pictograms used to represent family members.
 
-## Realimentación
+## Feedback
 
-La respuesta positiva general fue que los pictogramas son claros y comprensibles en su mayor parte, y la mayoría entendió el formato y rápidamente supo cómo funcionaba la aplicación sin demasiada explicación. Los pacientes también disfrutaron de Cboard, y lo vieron como un juego. Muchos de los pacientes más jóvenes (de 4 a 6 años) disfrutaron usando la aplicación para comunicar qué juguete querían y luego jugar con el juguete en sí antes de continuar con Cboard (por ejemplo, presionar el pictograma de una pelota y luego recibir un pelota).
+The overall positive feedback was that the pictograms are clear and understandable for the most part, and most understood the format and quickly knew how the application worked without too much explanation. The patients also enjoyed Cboard, and saw it as a game. Many of the younger patients (ages 4-6) enjoyed using the application to communicate what toy they wanted, and then get to play with the toy itself before continuing with Cboard (for example, pressing the pictogram of a ball and then getting handed a ball).
 
-Por otro lado, hemos recibido varias sugerencias útiles de las pruebas para trabajar en:
+On the other hand, we have received a number to useful suggestions from the testing to work on:
 
-- Esquemas de colores: para asegurarse de que el esquema de colores, particularmente dentro de la carpeta 'animal', sea claro y permita a los pacientes diferenciar entre animales.
-- Configuración de tamaño: agregue una opción dentro de la configuración que permita ampliar pictogramas, botón 'atrás', 'borrar' y botones 'retroceso'.
-- Imprimir letras: para hacer que la impresión se escriba en mayúsculas en lugar de minúsculas.
-- Carpetas: Agregue una carpeta de 'acciones y verbos' (e incluya 'escuchar música', 'bailar', 'cantar').
-- Copiar y pegar pictogramas: agregue una opción para copiar y pegar pictogramas para poder usar el mismo en muchas ubicaciones diferentes.
-- Formato general: los terapeutas del habla sugirieron que sería útil y ayudaría a la fluidez de la aplicación a agregar un botón para ir directamente a casa y no tener que presionar el botón de retroceso muchas veces para llegar a la página de inicio.
+- Color schemes: to make sure the color scheme, particularly within the ‘animal’ folder is clear and allows patients to differentiate between animals.
+- Size settings: add an option within settings that would allow to enlarge pictograms, ‘back’ button, ‘erase’ and ‘backspace’ buttons.
+- Print letters: to make the print all uppercase writing rather that lowercase.
+- Folders: Add an ‘actions and verbs’ folder (and include ‘listen to music’, ‘dancing’, ‘singing’).
+- Copy and Paste pictograms: add an option to copy and past pictograms in order to be able to use the same one in many different locations.
+- Overall format: The speech therapists suggested it would be helpful and help the fluidity of the app to add a button to go straight back home and not have to press the back button many times in order to reach the home page.
 
-## Planifica para las próximas semanas
+## Plan for the next weeks
 
-Para las próximas semanas, hemos programado visitas a ambos Centros con pacientes para continuar analizando Cboard (algunos de los que ya han sido vistos y algunos pacientes nuevos). La mayoría de los comentarios de los pacientes se han cargado en qtrial, donde podremos tener una imagen más amplia de los comentarios generales de los pacientes. Para algunos, se necesitará una segunda sesión porque la primera simplemente no fue suficiente para evaluar si entendieron Cboard o no. Con muchos de los pacientes, Cboard fue abrumador debido a la cantidad de pictogramas que se muestran, pero el objetivo dentro de las próximas dos semanas es volver a evaluar a los pacientes, pero editar sus cuentas específicas según sus necesidades personales.
+For the next weeks we have scheduled visits to both Centers with patients to continue testing Cboard (some of those already seen and some new patients). Most patient feedback has been uploaded to qtrial, where we’ll be able to have a broader picture of the overall feedback from patients. For some, a second session will be needed because the first was simply not enough to assess whether they understood Cboard or not. With many of the patients, Cboard was overwhelming due to the amount of pictograms displayed, but the aim within the next two weeks is to test the patients again, but edit their specific accounts to their personal needs.
 
-También planeamos trabajar con los logopedas para ver cómo continuar trabajando en Cboard y, más específicamente, cómo les gustaría que fuera la aplicación. Algunos de ellos mencionaron que les gustaría crear dentro de sus cuentas diferentes carpetas con los nombres de sus pacientes para que durante sus sesiones, puedan acceder fácilmente a estas herramientas personalizadas.
+We also plan on working with the speech therapists to see how to continue working on Cboard, and more specifically, how they would like the application to be. A few of them mentioned they would like to create within their accounts different folders with their patient’s names’ so that during their sessions, they can easily access these personalized tools.

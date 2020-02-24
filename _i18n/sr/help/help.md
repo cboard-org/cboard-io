@@ -49,13 +49,15 @@
     * [Могу ли да променим величину тастера на плочи?](#CanIresizebuttonsonCboard)
 * [Скенирање](#Scanning) 
     * [Могу ли да користим технике скенирања за приступ симболима?](#CanIusescanningtechniquestoaccesssymbols)
+* [Communicator builder](#CommunicatorBuilder) 
+    * [What is the communicator builder?](#Whatiscommbuilder)
+    * [Communicator boards](#CommunicatorBoards)
+    * [Public boards](#PublicBoards)
+    * [All my boards](#Allmyboards)
 
 ## <a name='WhatisCboard'></a>Шта је Цбоард?
 
-Цбоард је бесплатна веб апликација за децу и одрасле са оштећењима говора и језика, олакшавајући комуникацију са сликама и текстом у говор. 
-
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/pjoLEtiFf2A" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Цбоард је бесплатна веб апликација за децу и одрасле са оштећењима говора и језика, олакшавајући комуникацију са сликама и текстом у говор. <iframe width="420" height="315" src="https://www.youtube.com/embed/pjoLEtiFf2A" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ## <a name='Registrationandlogin'></a>Регистрација и пријава
 
@@ -135,10 +137,7 @@
 
 ### <a name='WhichlanguagesaresupportedbyCboard'></a>Које језике подржава Цбоард?
 
-Цбоард долази са подршком за 33 језика. Да бисте изабрали други језик, идите на ПОСТАВКЕ - одаберите ЈЕЗИК и појавиће се онај који је доступан. Изаберите избор и поред језика ће се појавити „крпељ“. 
-
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/HHq9b3dJ0zM" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Цбоард долази са подршком за 33 језика. Да бисте изабрали други језик, идите на ПОСТАВКЕ - одаберите ЈЕЗИК и појавиће се онај који је доступан. Изаберите избор и поред језика ће се појавити „крпељ“. <iframe width="420" height="315" src="https://www.youtube.com/embed/HHq9b3dJ0zM" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ### <a name='CanCboardreadmymessageoutaloud'></a>Може ли Цбоард наглас прочитати моју поруку?
 
@@ -192,10 +191,7 @@
 
 ### <a name='HowdoIshareaboard'></a>Како да делим плочу?
 
-Да бисте делили плочу, откључајте екран притиском на симбол закључавања са десне стране, а затим на највишем реду (црна трака), трећи симбол са десне стране вам даје могућност да заједничку плочу делите на било који емаил, Фацебоок, Твиттер или копирајте везу да бисте је некоме послали. 
-
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/fE0R6HzZ9O4" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Да бисте делили плочу, откључајте екран притиском на симбол закључавања са десне стране, а затим на највишем реду (црна трака), трећи симбол са десне стране вам даје могућност да заједничку плочу делите на било који емаил, Фацебоок, Твиттер или копирајте везу да бисте је некоме послали. <iframe width="420" height="315" src="https://www.youtube.com/embed/fE0R6HzZ9O4" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ## <a name='Talking'></a>Талкинг
 
@@ -217,10 +213,7 @@
 
 8. Коначно одаберите симбол микрофона и снимите, можете да снимате више пута и можете да га репродукујете пре него што га сачувате на плочу.
     
-    Ако сте одабрали више симбола, НЕКСТ пређите на следећи симбол и поновите поступак. 
-
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/KZwCP4PkM4I" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+    Ако сте одабрали више симбола, НЕКСТ пређите на следећи симбол и поновите поступак. <iframe width="420" height="315" src="https://www.youtube.com/embed/KZwCP4PkM4I" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ### <a name='HowdoIswitchtoadifferentvoice'></a>Како да пребацим на други глас?
 
@@ -242,10 +235,7 @@
 
 Да бисте креирали нову фасциклу, започните откључавањем екрана одабиром дугмета за закључавање на десној страни. Једном када откључате екран, изаберите симбол плус (+) на десној страни да бисте додали плочицу. Тада ћете добити опцију да додате плочицу / дугме која је прва и аутоматска опција или да одаберете ФОЛДЕР. Ова радња чини НОВУ таблу којој можете додати више плочица и мапа.
 
-Једном када именујете фасциклу, можете отпремити слику на сличан начин као и плочица са поставком боја и налепницом. Ова нова мапа ће се аутоматски повезати с плочом изнад ње (ако садржи ред плочица). Појавит ће се на вашој листи плоча као празна табла док није попуњена симболима и наљепницама. 
-
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/FPfbrAtj1Zg" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Једном када именујете фасциклу, можете отпремити слику на сличан начин као и плочица са поставком боја и налепницом. Ова нова мапа ће се аутоматски повезати с плочом изнад ње (ако садржи ред плочица). Појавит ће се на вашој листи плоча као празна табла док није попуњена симболима и наљепницама. <iframe width="420" height="315" src="https://www.youtube.com/embed/FPfbrAtj1Zg" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ### <a name='HowdoIpersonalizeanexistingboardinCboard'></a>Како да персонализујем постојећу плочу у Цбоард-у?
 
@@ -253,10 +243,7 @@
 
 ![персонализујте постојећу плочу](/images/help/personalize.png "personalize an existing board")
 
-Да бисте персонализовали плочу, изаберите оловку и моћи ћете да промените налепницу, ставите слику и додате Воцализатион. 
-
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/sRnVvafKBLM" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Да бисте персонализовали плочу, изаберите оловку и моћи ћете да промените налепницу, ставите слику и додате Воцализатион. <iframe width="420" height="315" src="https://www.youtube.com/embed/sRnVvafKBLM" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ### <a name='CanIusemyownpictureswheneditingaboard'></a>Могу ли користити своје слике приликом уређивања плоче?
 
@@ -268,17 +255,11 @@
 
 ### <a name='HowdoIselectmultipleelementstoedit'></a>Како да изаберем више елемената за уређивање?
 
-На исти начин мењате редослед елемената на плочи, али уместо да одаберете и превлачите, бирате круг унутар пиктограма / симбола. За уређивање многих симбола можете одабрати више њих. Након тога, изаберите икону ПЕНЦИЛ на десној страни и то ће вам омогућити да измените одабране елементе. 
-
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/ZgRUamoF8Vk" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+На исти начин мењате редослед елемената на плочи, али уместо да одаберете и превлачите, бирате круг унутар пиктограма / симбола. За уређивање многих симбола можете одабрати више њих. Након тога, изаберите икону ПЕНЦИЛ на десној страни и то ће вам омогућити да измените одабране елементе. <iframe width="420" height="315" src="https://www.youtube.com/embed/ZgRUamoF8Vk" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ### <a name='FindSymbols'></a>Како могу да пронађем нове симболе када уређујем плочицу?
 
-Изаберите икону блока ЕДИТ на левој страни траке плоче и изаберите пиктограм / симбол који желите да промените. Изаберите га и када плави прстен има квачицу, идите на икону ПЕНЦИЛ са десне стране. Одабиром оловке приметићете да постоји икона ЗА МЕЊАВАЊЕ СТАКЛА за претраживање симбола. Када је активирана функција претраживања, на траци за уређивање видећете СЕАРЦХ СИМБОЛ ЛИБРАРИ. Упишите концепт / ознаку / реч коју тражите и појавиће се симболи. Једном када одаберете један симбол, аутоматски ће вас вратити на страницу за уређивање ТИЛЕ. 
-
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/-8OXT3b4Flk" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Изаберите икону блока ЕДИТ на левој страни траке плоче и изаберите пиктограм / симбол који желите да промените. Изаберите га и када плави прстен има квачицу, идите на икону ПЕНЦИЛ са десне стране. Одабиром оловке приметићете да постоји икона ЗА МЕЊАВАЊЕ СТАКЛА за претраживање симбола. Када је активирана функција претраживања, на траци за уређивање видећете СЕАРЦХ СИМБОЛ ЛИБРАРИ. Упишите концепт / ознаку / реч коју тражите и појавиће се симболи. Једном када одаберете један симбол, аутоматски ће вас вратити на страницу за уређивање ТИЛЕ. <iframe width="420" height="315" src="https://www.youtube.com/embed/-8OXT3b4Flk" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ## <a name='Exportandimport-1'></a>Извоз и увоз
 
@@ -316,3 +297,43 @@
 ### <a name='CanIusescanningtechniquestoaccesssymbols'></a>Могу ли да користим технике скенирања за приступ симболима?
 
 Скенирање је оно где се ставке у скупу за избор приказују узастопно током времена и корисник врши избор индиректно, обично прекидачем. Скенирање на плочи ради у оквиру ПОСТАВКЕ и у категорији СИСТЕМ. Постоје различита подешавања за скенирање. Прво бисте требали омогућити подешавање скенирања одабиром опције ЕНАБЛЕ. Затим можете одабрати временско одлагање, као и метод (аутоматски или ручни). Имајте на уму да када користите таблет или паметни телефон може имати и своју уграђену опцију скенирања.
+
+## <a name='CommunicatorBuilder'></a>Communicator builder
+
+### <a name='Whatiscommbuilder'></a>What is the communicator builder?
+
+The communicator builder is a feature that allows you to handle boards in order to copy, delete, publish, add and remove them. In order to access to the functionality you need to unlock settings and click on 'Build' buttton. You will see a new page structured on three different tabs: boards, public boards, all my boards. See figure below:
+
+![Communicator builder](/images/help/communicator.png "Communicator builder")
+
+### <a name='CommunicatorBoards'></a>Communicator boards
+
+The default tab you will see in communicator builder is the communicator boards tab, that will display all boards included into your communicator. You can make changes in your communicator from following action buttons:
+
+* Remove board from communicator: this buttton will quit the board from communicator but WILL NOT delete the board from the database and it is still available under 'All my boards' tab.
+
+* Set board as root: this buttton will define the board as the first board to be displayed every time you login to Cboard.
+
+![Communicator boards](/images/help/communicatorBoards.png "Communicator boards")
+
+### <a name='PublicBoards'></a>Public boards
+
+* Copy board: this buttton will create a copy of the board and it will add it into your communicator. As this is a copy of the public board, you can edit this board as you want without affecting the original public board.
+
+![Public boards](/images/help/PublicBoards.png "Public boards")
+
+### <a name='Allmyboards'></a>All my boards
+
+Please note that JUST registered users can access to this tab functionality.
+
+* Remove board from communicator: this buttton will quit the board from communicator but WILL NOT delete the board from the database and it is still available.
+
+* Add board to the communicator: this buttton will include the board to the communicator.
+
+* Publish board: This action will make public the board and it will be displayed under the public boards tab. Everybody can see your board.
+    
+ * Unpublish board: This action will make the board private and it won't be displayed under the public boards tab. Nobody can see your board.
+    
+ * Delete board: This action will delete the board and it cannot be recovered. The board will be removed from the database.
+
+![All my boards](/images/help/AllmyBoards.png "All my boards")

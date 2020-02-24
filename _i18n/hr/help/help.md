@@ -35,7 +35,7 @@
     * [Kako mogu promijeniti način na koji zvuči glas?](#HowdoIchangehowavoicesounds)
 * [Uređivanje ploče](#BoardEditing) 
     * [Kako mogu stvoriti praznu ploču?](#HowdoIcreateanemptyboard)
-    * [Kako personalizirati postojeću ploču u programu Cboard?](#HowdoIpersonalizeanexistingboardinCboard)
+    * [Kako personalizirati postojeću ploču u Cboardu?](#HowdoIpersonalizeanexistingboardinCboard)
     * [Mogu li koristiti svoje slike pri uređivanju ploče?](#CanIusemyownpictureswheneditingaboard)
     * [Mogu li promijeniti redoslijed elemenata na ploči?](#CanIchangetheorderingoftheelementsinaboard)
     * [Kako mogu odabrati više elemenata za uređivanje?](#HowdoIselectmultipleelementstoedit)
@@ -49,6 +49,11 @@
     * [Mogu li promijeniti veličinu tipke na ploči?](#CanIresizebuttonsonCboard)
 * [Skeniranje](#Scanning) 
     * [Mogu li koristiti tehnike skeniranja za pristup simbolima?](#CanIusescanningtechniquestoaccesssymbols)
+* [Opcija za izradu Komunikatora](#CommunicatorBuilder) 
+    * [Što je opcija za izradu Komunikatora?](#Whatiscommbuilder)
+    * [Ploče komunikatora](#CommunicatorBoards)
+    * [Javne ploče](#PublicBoards)
+    * [Sve moje ploče](#Allmyboards)
 
 ## <a name='WhatisCboard'></a>Što je Cboard?
 
@@ -292,3 +297,43 @@ Da! Možete promijeniti veličinu pločica ili gumba u POSTAVKAMA. U kategoriji 
 ### <a name='CanIusescanningtechniquestoaccesssymbols'></a>Mogu li koristiti tehnike skeniranja za pristup simbolima?
 
 Skeniranje je mjesto u kojem se stavke u izbornom setu prikazuju uzastopno tijekom vremena, a korisnik vrši odabir neizravno, obično prekidačem. Skeniranje na ploči funkcionira unutar kategorije POSTAVKE i kategorije SUSTAV. Postoje različite postavke skeniranja. Prvo biste trebali omogućiti postavku skeniranja odabirom opcije OMOGUĆI. Tada možete odabrati vremensko odgađanje kao i metodu (automatsku ili ručnu). Imajte na umu da prilikom korištenja tableta ili pametnog telefona on može imati i svoju ugrađenu opciju skeniranja.
+
+## <a name='CommunicatorBuilder'></a>Opcija za izradu Komunikatora
+
+### <a name='Whatiscommbuilder'></a>Što je opcija za izradu Komunikatora?
+
+Opcija za izradu Komunikatora omogućava rukovanje pločama i sadrži funkcionalnosti kopiranja, brisanja, objave, dodavanja i uklanjanja ploče. Da bi se pristupilo ovoj opciji, potrebno je otključati postavke i kliknuti na tipku Izradi. Nakon toga se otvara stranica s tri kartice: Ploče, Javne ploče i Sve moje ploče. Pogledajte sliku ispod:
+
+![Opcija za izradu Komunikatora](/images/help/communicator.png "Communicator builder")
+
+### <a name='CommunicatorBoards'></a>Ploče Komunikatora
+
+Početna kartica nakon otvaranja opcije za izradu Komunikatora je kartica s pločama komunikatora koja će prikazati sve ploče koje su uključene u vaš Komunikator. Moguće je napraviti izmjene s pločama komunikatora pomoću sljedećih tipki:
+
+* Ukloni ploču iz komunikatora: ova tipka će ukloniti ploču iz Komunikatora, ali NEĆE obrisati ploču iz baze podataka te će i dalje biti dostupna pod karticom Sve moje ploče.
+
+* Postavi ploču kao početnu: ova tipka definira odabranu ploču kao početnu ploču koja će se prikazati svaki puta kada se prijavite u Cboard.
+
+![Ploče Komunikatora](/images/help/communicatorBoards.png "Communicator boards")
+
+### <a name='PublicBoards'></a>Javne ploče
+
+* Kopiraj ploču: ova tipka će stvoriti kopiju ploče i dodat će ju među ploče vašeg Komunikatora. Kako je ovo kopija javne ploče, možete uređivati ovu ploču kako želite bez utjecaja na izvornu javnu ploču.
+
+![Javne ploče](/images/help/PublicBoards.png "Public boards")
+
+### <a name='Allmyboards'></a>Sve moje ploče
+
+*Napomena: samo registrirani i prijavljeni korisnici imaju pristup ovoj kartici.
+
+* Ukloni ploču iz Komunikatora: ova tipka će ukloniti ploču iz komunikatora, ali ju NEĆE obrisati iz baze podataka i bit će dostupna i dalje.
+
+* Dodaj ploču u Komunikator: ova tipka će uključiti ploču u Komunikator.
+
+* Objavi ploču: ova tipka će objaviti ploču tako da bude vidljiva pod karticom Javne ploče. Ploča će biti vidljiva i ostalim korisnicima aplikacije.
+    
+ * Odjavi ploču: ova tipka će ponovno učiniti ploču privatnom i više neće biti vidljiva pod karticom Javne ploče. Nitko neće moći vidjeti vašu ploču.
+    
+ * • Obriši ploču: ova tipka će izbrisati ploču i neću ju biti moguće vratiti jer će biti trajno uklonjena iz baze podataka. The board will be removed from the database.
+
+![Sve moje ploče](/images/help/AllmyBoards.png "All my boards")

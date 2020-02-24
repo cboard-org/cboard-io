@@ -49,12 +49,15 @@
     * [Kann ich die Größe von Schaltflächen auf Cboard ändern?](#CanIresizebuttonsonCboard)
 * [Scannen](#Scanning) 
     * [Kann ich mit Scantechniken auf Symbole zugreifen?](#CanIusescanningtechniquestoaccesssymbols)
+* [Builder für Kommunikatoren](#CommunicatorBuilder) 
+    * [Was ist der Communicator Builder?](#Whatiscommbuilder)
+    * [Kommunikatorentafeln](#CommunicatorBoards)
+    * [Öffentliche Gremien](#PublicBoards)
+    * [Alle meine Bretter](#Allmyboards)
 
 ## <a name='WhatisCboard'></a>Was ist Cboard?
 
-Cboard ist eine kostenlose Webanwendung für Kinder und Erwachsene mit Sprach- und Sprachbehinderungen, die die Kommunikation mit Bildern und Text zu Sprache erleichtert. 
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/pjoLEtiFf2A" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Cboard ist eine kostenlose Webanwendung für Kinder und Erwachsene mit Sprach- und Sprachbehinderungen, die die Kommunikation mit Bildern und Text zu Sprache erleichtert. <iframe width="420" height="315" src="https://www.youtube.com/embed/pjoLEtiFf2A" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ## <a name='Registrationandlogin'></a>Registrierung und Login
 
@@ -134,10 +137,7 @@ Bitte fragen Sie Cboard nach der Verwendung des kontrastreichen Modus für Benut
 
 ### <a name='WhichlanguagesaresupportedbyCboard'></a>Welche Sprachen werden von Cboard unterstützt?
 
-Cboard unterstützt 33 Sprachen. Um eine andere Sprache auszuwählen, gehen Sie zu EINSTELLUNGEN - wählen Sie SPRACHE und die verfügbaren werden angezeigt. Treffen Sie eine Auswahl und ein 'Häkchen' erscheint neben der Sprache. 
-
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/HHq9b3dJ0zM" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Cboard unterstützt 33 Sprachen. Um eine andere Sprache auszuwählen, gehen Sie zu EINSTELLUNGEN - wählen Sie SPRACHE und die verfügbaren werden angezeigt. Treffen Sie eine Auswahl und ein 'Häkchen' erscheint neben der Sprache. <iframe width="420" height="315" src="https://www.youtube.com/embed/HHq9b3dJ0zM" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ### <a name='CanCboardreadmymessageoutaloud'></a>Kann Cboard meine Nachricht laut vorlesen?
 
@@ -191,9 +191,7 @@ Um Cboard im Vollbildmodus anzuzeigen, entsperren Sie den Bildschirm, indem Sie 
 
 ### <a name='HowdoIshareaboard'></a>Wie teile ich ein Board?
 
-Um ein Board freizugeben, entsperren Sie den Bildschirm, indem Sie auf das Schlosssymbol auf der rechten Seite und dann auf das dritte Symbol in der obersten Zeile (der schwarzen Leiste) klicken. Twitter, oder kopieren Sie den Link, um ihn an jemanden zu senden. 
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/fE0R6HzZ9O4" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Um ein Board freizugeben, entsperren Sie den Bildschirm, indem Sie auf das Schlosssymbol auf der rechten Seite und dann auf das dritte Symbol in der obersten Zeile (der schwarzen Leiste) klicken. Twitter, oder kopieren Sie den Link, um ihn an jemanden zu senden. <iframe width="420" height="315" src="https://www.youtube.com/embed/fE0R6HzZ9O4" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ## <a name='Talking'></a>Reden
 
@@ -215,9 +213,7 @@ Um ein Board freizugeben, entsperren Sie den Bildschirm, indem Sie auf das Schlo
 
 8. Wählen Sie abschließend das Mikrofonsymbol und nehmen Sie auf, Sie können mehrmals aufzeichnen und es wiedergeben, bevor Sie es auf der Platine speichern.
     
-    Wenn Sie mehrere Symbole ausgewählt haben, wechseln Sie mit NEXT zum nächsten Symbol und wiederholen Sie den Vorgang. 
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/KZwCP4PkM4I" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+    Wenn Sie mehrere Symbole ausgewählt haben, wechseln Sie mit NEXT zum nächsten Symbol und wiederholen Sie den Vorgang. <iframe width="420" height="315" src="https://www.youtube.com/embed/KZwCP4PkM4I" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ### <a name='HowdoIswitchtoadifferentvoice'></a>Wie wechsle ich zu einer anderen Stimme?
 
@@ -239,10 +235,7 @@ Das neue leere Board steht sofort zur Bearbeitung zur Verfügung und kann (über
 
 Um einen neuen Ordner zu erstellen, entsperren Sie zunächst den Bildschirm, indem Sie auf die Sperrschaltfläche auf der rechten Seite klicken. Wenn Sie den Bildschirm entsperrt haben, wählen Sie das Pluszeichen (+) auf der rechten Seite aus, um KACHEL HINZUFÜGEN. Sie haben dann die Möglichkeit, eine Kachel / einen Knopf hinzuzufügen, die / der die erste und automatische Option ist, oder den Ordner auszuwählen. Diese Aktion erstellt ein NEUES BOARD, zu dem Sie weitere Kacheln und Ordner hinzufügen können.
 
-Nachdem Sie den Ordner benannt haben, können Sie ein Bild auf ähnliche Weise hochladen wie eine Kachel mit einer Farbeinstellung und einem Etikett. Dieser neue Ordner wird automatisch mit einer darüber liegenden Tafel verknüpft (sofern eine Reihe von Kacheln enthalten ist). Es wird in Ihrer Liste der Boards als leeres Board angezeigt, bis es mit Symbolen und Beschriftungen gefüllt ist. 
-
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/FPfbrAtj1Zg" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Nachdem Sie den Ordner benannt haben, können Sie ein Bild auf ähnliche Weise hochladen wie eine Kachel mit einer Farbeinstellung und einem Etikett. Dieser neue Ordner wird automatisch mit einer darüber liegenden Tafel verknüpft (sofern eine Reihe von Kacheln enthalten ist). Es wird in Ihrer Liste der Boards als leeres Board angezeigt, bis es mit Symbolen und Beschriftungen gefüllt ist. <iframe width="420" height="315" src="https://www.youtube.com/embed/FPfbrAtj1Zg" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ### <a name='HowdoIpersonalizeanexistingboardinCboard'></a>Wie personalisiere ich ein vorhandenes Board in Cboard?
 
@@ -250,10 +243,7 @@ Um ein vorhandenes Board zu personalisieren, wählen Sie das LOCK in der oberen 
 
 ![Personalisieren Sie ein vorhandenes Board](/images/help/personalize.png "personalize an existing board")
 
-Um das Board zu personalisieren, wählen Sie den Stift aus und Sie können das Label ändern, ein Bild hochladen und Vocalization hinzufügen. 
-
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/sRnVvafKBLM" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Um das Board zu personalisieren, wählen Sie den Stift aus und Sie können das Label ändern, ein Bild hochladen und Vocalization hinzufügen. <iframe width="420" height="315" src="https://www.youtube.com/embed/sRnVvafKBLM" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ### <a name='CanIusemyownpictureswheneditingaboard'></a>Kann ich beim Bearbeiten eines Boards meine eigenen Bilder verwenden?
 
@@ -265,17 +255,11 @@ Ja! Wenn Sie ein Board bearbeiten, entsperren Sie den Bildschirm mit dem LOCK-Sy
 
 ### <a name='HowdoIselectmultipleelementstoedit'></a>Wie wähle ich mehrere Elemente zum Bearbeiten aus?
 
-Genauso wie Sie die Reihenfolge der Elemente in einer Tafel ändern, aber anstatt sie auszuwählen und zu ziehen, wählen Sie den Kreis innerhalb des Piktogramm- / Symbolquadrats. Um viele Symbole zu bearbeiten, können Sie mehrere auswählen. Wählen Sie anschließend das BLEISTIFT-Symbol auf der rechten Seite, um die ausgewählten Elemente zu bearbeiten. 
-
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/ZgRUamoF8Vk" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Genauso wie Sie die Reihenfolge der Elemente in einer Tafel ändern, aber anstatt sie auszuwählen und zu ziehen, wählen Sie den Kreis innerhalb des Piktogramm- / Symbolquadrats. Um viele Symbole zu bearbeiten, können Sie mehrere auswählen. Wählen Sie anschließend das BLEISTIFT-Symbol auf der rechten Seite, um die ausgewählten Elemente zu bearbeiten. <iframe width="420" height="315" src="https://www.youtube.com/embed/ZgRUamoF8Vk" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ### <a name='FindSymbols'></a>Wie finde ich neue Symbole, wenn ich eine Kachel bearbeite?
 
-Wählen Sie das EDIT-Block-Symbol auf der linken Seite der Board-Leiste und wählen Sie das Piktogramm / Symbol, das Sie ändern möchten. Wählen Sie es aus und sobald der blaue Ring ein Häkchen hat, gehen Sie zum BLEISTIFT-Symbol auf der rechten Seite. Wenn Sie den Stift ausgewählt haben, sehen Sie, dass ein Lupensymbol für die Symbolsuche angezeigt wird. Wenn die Suchfunktion aktiviert ist, wird in einer Bearbeitungsleiste SUCHBIBLIOTHEK angezeigt. Geben Sie das gesuchte Konzept / Etikett / Wort ein, und Symbole werden angezeigt. Sobald Sie ein Symbol ausgewählt haben, kehren Sie automatisch zur Seite KACHEL bearbeiten zurück. 
-
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/-8OXT3b4Flk" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Wählen Sie das EDIT-Block-Symbol auf der linken Seite der Board-Leiste und wählen Sie das Piktogramm / Symbol, das Sie ändern möchten. Wählen Sie es aus und sobald der blaue Ring ein Häkchen hat, gehen Sie zum BLEISTIFT-Symbol auf der rechten Seite. Wenn Sie den Stift ausgewählt haben, sehen Sie, dass ein Lupensymbol für die Symbolsuche angezeigt wird. Wenn die Suchfunktion aktiviert ist, wird in einer Bearbeitungsleiste SUCHBIBLIOTHEK angezeigt. Geben Sie das gesuchte Konzept / Etikett / Wort ein, und Symbole werden angezeigt. Sobald Sie ein Symbol ausgewählt haben, kehren Sie automatisch zur Seite KACHEL bearbeiten zurück. <iframe width="420" height="315" src="https://www.youtube.com/embed/-8OXT3b4Flk" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ## <a name='Exportandimport-1'></a>Export und Import
 
@@ -313,3 +297,43 @@ Ja! Sie können die Größe von Kacheln oder Schaltflächen in EINSTELLUNGEN än
 ### <a name='CanIusescanningtechniquestoaccesssymbols'></a>Kann ich mit Scantechniken auf Symbole zugreifen?
 
 Beim Scannen werden die Elemente im Auswahlsatz nacheinander im Laufe der Zeit angezeigt, und der Benutzer trifft eine indirekte Auswahl, normalerweise über den Schalterzugriff. SCANNEN auf Cboard funktioniert innerhalb von EINSTELLUNGEN und der Kategorie SYSTEM. Es gibt verschiedene Einstellungen für das Scannen. Sie sollten zuerst die Scaneinstellung aktivieren, indem Sie AKTIVIEREN auswählen. Sie können dann die Zeitverzögerung sowie die Methode (entweder automatisch oder manuell) auswählen. Beachten Sie, dass bei Verwendung eines Tablets oder Smartphones möglicherweise auch eine eigene Scanoption integriert ist.
+
+## <a name='CommunicatorBuilder'></a>Builder für Kommunikatoren
+
+### <a name='Whatiscommbuilder'></a>Was ist der Communicator Builder?
+
+Der Communicator Builder ist eine Funktion, mit der Sie Boards bearbeiten können, um sie zu kopieren, zu löschen, zu veröffentlichen, hinzuzufügen und zu entfernen. Um auf die Funktionen zugreifen zu können, müssen Sie die Einstellungen entsperren und auf die Schaltfläche "Erstellen" klicken. Sie sehen eine neue Seite, die auf drei verschiedenen Registerkarten strukturiert ist: Boards, öffentliche Boards, alle meine Boards. Siehe Abbildung unten:
+
+![Builder für Kommunikatoren](/images/help/communicator.png "Communicator builder")
+
+### <a name='CommunicatorBoards'></a>Kommunikatorentafeln
+
+Die Standardregisterkarte, die im Communicator Builder angezeigt wird, ist die Registerkarte Communicator-Karten, auf der alle in Ihrem Kommunikator enthaltenen Karten angezeigt werden. Sie können Änderungen an Ihrem Kommunikator über die folgenden Aktionsschaltflächen vornehmen:
+
+* Karte aus dem Kommunikator entfernen: Diese Schaltfläche beendet die Karte aus dem Kommunikator, löscht die Karte jedoch NICHT aus der Datenbank und ist weiterhin auf der Registerkarte "Alle meine Karten" verfügbar.
+
+* Board als Root festlegen: Mit dieser Schaltfläche wird das Board als erstes Board definiert, das bei jeder Anmeldung bei Cboard angezeigt wird.
+
+![Kommunikatorentafeln](/images/help/communicatorBoards.png "Communicator boards")
+
+### <a name='PublicBoards'></a>Öffentliche Gremien
+
+* Karte kopieren: Mit dieser Schaltfläche wird eine Kopie der Karte erstellt und in Ihren Kommunikator eingefügt. Da dies eine Kopie der öffentlichen Tafel ist, können Sie diese Tafel nach Belieben bearbeiten, ohne die ursprüngliche öffentliche Tafel zu beeinträchtigen.
+
+![Öffentliche Gremien](/images/help/PublicBoards.png "Public boards")
+
+### <a name='Allmyboards'></a>Alle meine Bretter
+
+Bitte beachten Sie, dass NUR registrierte Benutzer auf diese Registerkartenfunktion zugreifen können.
+
+* Karte aus dem Kommunikator entfernen: Diese Schaltfläche beendet die Karte aus dem Kommunikator, löscht die Karte jedoch NICHT aus der Datenbank und ist weiterhin verfügbar.
+
+* Karte zum Kommunikator hinzufügen: Diese Schaltfläche enthält die Karte zum Kommunikator.
+
+* Board veröffentlichen: Diese Aktion macht das Board öffentlich und wird auf der Registerkarte Öffentliche Boards angezeigt. Jeder kann dein Board sehen.
+    
+ * Board nicht veröffentlichen: Diese Aktion macht das Board privat und wird nicht auf der Registerkarte "Public Boards" angezeigt. Niemand kann dein Board sehen.
+    
+ * Karte löschen: Diese Aktion löscht die Karte und kann nicht wiederhergestellt werden. Die Karte wird aus der Datenbank entfernt.
+
+![Alle meine Bretter](/images/help/AllmyBoards.png "All my boards")

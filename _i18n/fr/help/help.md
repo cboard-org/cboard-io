@@ -49,13 +49,15 @@
     * [Puis-je redimensionner les boutons sur Cboard?](#CanIresizebuttonsonCboard)
 * [Balayage](#Scanning) 
     * [Puis-je utiliser des techniques de numérisation pour accéder aux symboles?](#CanIusescanningtechniquestoaccesssymbols)
+* [Constructeur de communicateurs](#CommunicatorBuilder) 
+    * [Qu'est-ce que le constructeur de communicateurs?](#Whatiscommbuilder)
+    * [Tableaux de communication](#CommunicatorBoards)
+    * [Conseils publics](#PublicBoards)
+    * [Toutes mes planches](#Allmyboards)
 
 ## <a name='WhatisCboard'></a>Qu'est-ce que le Cboard?
 
-Cboard est une application Web gratuite pour les enfants et les adultes ayant des troubles de la parole et du langage, facilitant la communication avec des images et la synthèse vocale. 
-
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/pjoLEtiFf2A" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Cboard est une application Web gratuite pour les enfants et les adultes ayant des troubles de la parole et du langage, facilitant la communication avec des images et la synthèse vocale. <iframe width="420" height="315" src="https://www.youtube.com/embed/pjoLEtiFf2A" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ## <a name='Registrationandlogin'></a>Inscription et connexion
 
@@ -135,10 +137,7 @@ Veuillez interroger Cboard sur l'utilisation du mode contraste élevé pour les 
 
 ### <a name='WhichlanguagesaresupportedbyCboard'></a>Quelles langues sont supportées par Cboard?
 
-Cboard prend en charge 33 langues. Pour sélectionner une autre langue, allez à PARAMÈTRES - sélectionnez LANGUE et celles disponibles apparaîtront. Faites votre choix et une coche apparaîtra à côté de la langue. 
-
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/HHq9b3dJ0zM" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Cboard prend en charge 33 langues. Pour sélectionner une autre langue, allez à PARAMÈTRES - sélectionnez LANGUE et celles disponibles apparaîtront. Faites votre choix et une coche apparaîtra à côté de la langue. <iframe width="420" height="315" src="https://www.youtube.com/embed/HHq9b3dJ0zM" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ### <a name='CanCboardreadmymessageoutaloud'></a>Cboard peut-il lire mon message à voix haute?
 
@@ -192,10 +191,7 @@ Pour voir Cboard en plein écran, déverrouillez l'écran en appuyant sur le sym
 
 ### <a name='HowdoIshareaboard'></a>Comment partager un tableau?
 
-Pour partager un tableau, déverrouillez l'écran en appuyant sur le symbole de verrouillage situé à droite, puis sur la rangée la plus élevée (la barre noire), le troisième symbole à droite vous permet de partager votre tableau par courrier électronique, Facebook, Twitter ou copiez le lien pour l'envoyer à quelqu'un. 
-
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/fE0R6HzZ9O4" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Pour partager un tableau, déverrouillez l'écran en appuyant sur le symbole de verrouillage situé à droite, puis sur la rangée la plus élevée (la barre noire), le troisième symbole à droite vous permet de partager votre tableau par courrier électronique, Facebook, Twitter ou copiez le lien pour l'envoyer à quelqu'un. <iframe width="420" height="315" src="https://www.youtube.com/embed/fE0R6HzZ9O4" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ## <a name='Talking'></a>Parlant
 
@@ -217,10 +213,7 @@ Pour partager un tableau, déverrouillez l'écran en appuyant sur le symbole de 
 
 8. Enfin, sélectionnez le symbole du microphone et enregistrez, vous pouvez enregistrer plusieurs fois et le lire avant de le sauvegarder sur le tableau.
     
-    Si vous avez sélectionné plusieurs symboles, utilisez NEXT pour passer au symbole suivant et répétez le processus. 
-
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/KZwCP4PkM4I" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+    Si vous avez sélectionné plusieurs symboles, utilisez NEXT pour passer au symbole suivant et répétez le processus. <iframe width="420" height="315" src="https://www.youtube.com/embed/KZwCP4PkM4I" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ### <a name='HowdoIswitchtoadifferentvoice'></a>Comment puis-je changer de voix?
 
@@ -242,10 +235,7 @@ La nouvelle carte vide sera immédiatement disponible pour l'édition et peut ê
 
 Pour créer un nouveau dossier, commencez par déverrouiller l'écran en sélectionnant le bouton de verrouillage situé à droite. Une fois que vous avez déverrouillé l’écran, sélectionnez le symbole plus (+) sur le côté droit afin d’ajouter des mosaïques. Vous aurez ensuite la possibilité d'ajouter une mosaïque / bouton qui est la première option automatique ou de sélectionner le dossier. Cette action crée un nouveau tableau auquel vous pouvez ajouter plus de carreaux et de dossiers.
 
-Une fois que vous avez nommé le dossier, vous pouvez télécharger une image de la même manière que pour créer une mosaïque avec un paramètre de couleur et une étiquette. Ce nouveau dossier créera automatiquement un lien vers un tableau situé au-dessus (si une rangée de tuiles est incluse). Il apparaîtra dans votre liste de tableaux comme un tableau vide jusqu'à ce qu'il soit rempli de symboles et d'étiquettes. 
-
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/FPfbrAtj1Zg" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Une fois que vous avez nommé le dossier, vous pouvez télécharger une image de la même manière que pour créer une mosaïque avec un paramètre de couleur et une étiquette. Ce nouveau dossier créera automatiquement un lien vers un tableau situé au-dessus (si une rangée de tuiles est incluse). Il apparaîtra dans votre liste de tableaux comme un tableau vide jusqu'à ce qu'il soit rempli de symboles et d'étiquettes. <iframe width="420" height="315" src="https://www.youtube.com/embed/FPfbrAtj1Zg" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ### <a name='HowdoIpersonalizeanexistingboardinCboard'></a>Comment personnaliser un tableau existant dans Cboard?
 
@@ -253,10 +243,7 @@ Pour personnaliser un tableau existant, sélectionnez le verrou en haut à droit
 
 ![personnaliser un tableau existant](/images/help/personalize.png "personalize an existing board")
 
-Pour personnaliser le tableau, sélectionnez le crayon et vous pourrez changer l'étiquette, télécharger une image et ajouter de la vocalisation. 
-
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/sRnVvafKBLM" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Pour personnaliser le tableau, sélectionnez le crayon et vous pourrez changer l'étiquette, télécharger une image et ajouter de la vocalisation. <iframe width="420" height="315" src="https://www.youtube.com/embed/sRnVvafKBLM" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ### <a name='CanIusemyownpictureswheneditingaboard'></a>Puis-je utiliser mes propres images lors de l'édition d'un tableau?
 
@@ -268,17 +255,11 @@ Oui! Lorsque vous éditez un tableau, déverrouillez l'écran à l'aide du symbo
 
 ### <a name='HowdoIselectmultipleelementstoedit'></a>Comment sélectionner plusieurs éléments à éditer?
 
-De la même manière que vous modifiez l'ordre des éléments dans un tableau, mais au lieu de sélectionner et de faire glisser, vous choisissez le cercle à l'intérieur du carré du pictogramme / symbole. Pour éditer plusieurs symboles, vous pouvez en choisir plusieurs. Après cela, sélectionnez l’icône PENCIL sur le côté droit, ce qui vous permettra d’éditer les éléments sélectionnés. 
-
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/ZgRUamoF8Vk" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+De la même manière que vous modifiez l'ordre des éléments dans un tableau, mais au lieu de sélectionner et de faire glisser, vous choisissez le cercle à l'intérieur du carré du pictogramme / symbole. Pour éditer plusieurs symboles, vous pouvez en choisir plusieurs. Après cela, sélectionnez l’icône PENCIL sur le côté droit, ce qui vous permettra d’éditer les éléments sélectionnés. <iframe width="420" height="315" src="https://www.youtube.com/embed/ZgRUamoF8Vk" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ### <a name='FindSymbols'></a>Comment trouver de nouveaux symboles lorsque je modifie une vignette?
 
-Sélectionnez l'icône de bloc EDIT sur le côté gauche de la barre du tableau et choisissez le pictogramme / symbole que vous souhaitez modifier. Sélectionnez-le et une fois que l'anneau bleu est coché, allez à l'icône du CRAYON sur la droite. Après avoir sélectionné le crayon, vous remarquerez qu’une icône MAGNIFIER LE VERRE permet de rechercher des symboles. Lorsque la fonction de recherche est activée, vous verrez apparaître SEARCH SYMBOL LIBRARY dans une barre d'édition. Tapez le concept / label / mot que vous recherchez et les symboles apparaîtront. Une fois que vous avez sélectionné un symbole, vous revenez automatiquement à la page d'édition TILE. 
-
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/-8OXT3b4Flk" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Sélectionnez l'icône de bloc EDIT sur le côté gauche de la barre du tableau et choisissez le pictogramme / symbole que vous souhaitez modifier. Sélectionnez-le et une fois que l'anneau bleu est coché, allez à l'icône du CRAYON sur la droite. Après avoir sélectionné le crayon, vous remarquerez qu’une icône MAGNIFIER LE VERRE permet de rechercher des symboles. Lorsque la fonction de recherche est activée, vous verrez apparaître SEARCH SYMBOL LIBRARY dans une barre d'édition. Tapez le concept / label / mot que vous recherchez et les symboles apparaîtront. Une fois que vous avez sélectionné un symbole, vous revenez automatiquement à la page d'édition TILE. <iframe width="420" height="315" src="https://www.youtube.com/embed/-8OXT3b4Flk" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ## <a name='Exportandimport-1'></a>Exporter et importer
 
@@ -316,3 +297,43 @@ Oui! Vous pouvez redimensionner les mosaïques ou les boutons dans les paramètr
 ### <a name='CanIusescanningtechniquestoaccesssymbols'></a>Puis-je utiliser des techniques de numérisation pour accéder aux symboles?
 
 La numérisation correspond à la présentation séquentielle dans le temps des éléments du jeu de sélection et à la sélection indirecte de l'utilisateur, généralement par le biais d'un commutateur. La numérisation sur Cboard fonctionne dans les paramètres et la catégorie système. Il existe différents paramètres pour la numérisation. Vous devez d’abord activer le paramètre de numérisation en sélectionnant ACTIVER. Vous pouvez ensuite choisir le délai, ainsi que la méthode (automatique ou manuelle). Veuillez noter que lors de l'utilisation d'une tablette ou d'un smartphone, celle-ci peut également disposer de sa propre option de numérisation intégrée.
+
+## <a name='CommunicatorBuilder'></a>Constructeur de communicateurs
+
+### <a name='Whatiscommbuilder'></a>Qu'est-ce que le constructeur de communicateurs?
+
+Le constructeur de communicateur est une fonctionnalité qui vous permet de gérer des tableaux afin de les copier, les supprimer, les publier, les ajouter et les supprimer. Afin d'accéder à la fonctionnalité dont vous avez besoin pour déverrouiller les paramètres et cliquez sur le bouton «Build». Vous verrez une nouvelle page structurée sur trois onglets différents: les tableaux, les tableaux publics, tous mes tableaux. Voir figure ci-dessous:
+
+![Constructeur de communicateurs](/images/help/communicator.png "Communicator builder")
+
+### <a name='CommunicatorBoards'></a>Tableaux de communication
+
+L'onglet par défaut que vous verrez dans le générateur de communicateur est l'onglet des cartes de communicateur, qui affichera toutes les cartes incluses dans votre communicateur. Vous pouvez apporter des modifications à votre communicateur à partir des boutons d'action suivants:
+
+* Supprimer la carte du communicateur: ce bouton quittera la carte du communicateur mais NE supprimera PAS la carte de la base de données et elle est toujours disponible sous l'onglet «Toutes mes cartes».
+
+* Définir la carte en tant que root: ce bouton définira la carte comme la première carte à afficher à chaque connexion à Cboard.
+
+![Tableaux de communication](/images/help/communicatorBoards.png "Communicator boards")
+
+### <a name='PublicBoards'></a>Conseils publics
+
+* Copier le tableau: ce bouton créera une copie du tableau et l'ajoutera à votre communicateur. Comme il s'agit d'une copie du tableau public, vous pouvez modifier ce tableau à votre guise sans affecter le tableau public d'origine.
+
+![Conseils publics](/images/help/PublicBoards.png "Public boards")
+
+### <a name='Allmyboards'></a>Toutes mes planches
+
+Veuillez noter que les utilisateurs enregistrés JUST peuvent accéder à cette fonctionnalité de l'onglet.
+
+* Supprimer la carte du communicateur: ce bouton quittera la carte du communicateur mais NE supprimera PAS la carte de la base de données et elle est toujours disponible.
+
+* Ajouter une carte au communicateur: ce bouton inclura la carte au communicateur.
+
+* Publier le forum: cette action rendra le forum public et il sera affiché sous l'onglet des forums publics. Tout le monde peut voir votre tableau.
+    
+ * Annuler la publication du tableau: cette action rendra le tableau privé et il ne sera pas affiché sous l'onglet des tableaux publics. Personne ne peut voir votre tableau.
+    
+ * Supprimer le forum: cette action supprimera le forum et il ne pourra pas être récupéré. Le tableau sera supprimé de la base de données.
+
+![Toutes mes planches](/images/help/AllmyBoards.png "All my boards")

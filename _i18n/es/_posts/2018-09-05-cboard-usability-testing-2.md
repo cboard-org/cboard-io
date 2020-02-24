@@ -1,49 +1,49 @@
 ---
-title: Pruebas de usabilidad de Cboard 2
+title: Cboard usability testing 2
 date: 2018-09-05
-description: Comentarios de los pacientes sobre la usabilidad
+description: Feedback from patients on usability
 categories:
-  - tablero
-  - prueba de usabilidad
+  - cboard
+  - usability-testing
 image: /images/eipam2.jpg
 author_staff_member: katrina
 ---
-## Las últimas semanas de prueba.
+## The final weeks of testing
 
-Durante las últimas dos semanas de pruebas, continuamos viendo pacientes de Ciren y Eipan, pero aunque vimos algunos pacientes nuevos, la mayoría de las visitas fueron segundas sesiones con pacientes previamente vistos. Esto fue útil porque los niños no estaban tan abrumados con nuevas imágenes y estaban viendo a Cboard por segunda vez (al menos). Creamos carpetas con pocos pictogramas (por lo tanto, menos estimulación visual) para determinar si sus reacciones y comprensión cambiaron desde la visita inicial.
+For the final two weeks of testing, we continued seeing patients from both Ciren and Eipan, but though we saw a few new patients, the majority of the visits were second sessions with previously seen patients. This was helpful in that the children were not as overwhelmed with new images, and were seeing Cboard for a second time (at least). We had created folders with few pictograms (so less visual stimulation) in order to determine whether their reactions and understanding changed from the initial visit.
 
 ![Eipan](/images/eipam2.jpg)
 
-## Pruebas de usuario: semanas 3 y 4
+## User testing – weeks 3 and 4
 
-Después de las primeras dos semanas, los obstáculos iniciales que los niños encontraron con Cboard de sobreestimulación debido a que tenían demasiados pictogramas en la pantalla. Los pacientes a menudo tenían poca o ninguna práctica con la comunicación asistiva aumentativa (AAC), y los terapeutas del habla sugirieron editar las páginas para limitar las imágenes mostradas. También nos centramos en la comprensión de los pictogramas y la capacidad de comunicarnos durante una actividad usando estos pictogramas, en lugar de la capacidad de navegar, por ejemplo. Dado que muchos de los pacientes eran muy jóvenes y tenían poca o ninguna experiencia con AAC, la navegación llevaría tiempo y práctica, mientras que la comprensión de los pictogramas y la distinción de carpeta versus pictograma serían instantáneos.
+Following the first two weeks, the initial obstacles the kids were encountering with Cboard of overstimulation due to having too many pictograms on the screen. The patients often had little to no practice with assistive augmentative communication (AAC), and the speech therapists suggested editing the pages to limit shown images. We also focused on understanding of the pictograms, and ability to communicate during an activity using these pictograms, rather than ability to navigate for instance. Since many of the patients were very young and had little to no experience with AAC, navigating would take time and practice, while understanding of pictograms and distinction of folder versus pictogram would be instant.
 
-Vimos al paciente de 4 años con retraso en el desarrollo neurológico mencionado en la primera publicación del blog por segunda vez, pero editó la carpeta para proporcionar menos pictogramas. Este paciente pudo concentrarse más en lo que estaba en la pantalla, y Cboard aquí sirvió como una herramienta para facilitar el juego. El juego consistía en bañar y alimentar a un bebé. Las carpetas de Cboard utilizadas fueron principalmente "alimentos" e "higiene". La segunda visita fue más fácil porque la paciente era receptiva a las instrucciones y podía concentrarse durante más tiempo en los pictogramas que tenía delante. En resumen, Cboard, como cualquier otra aplicación o herramienta en línea, se volvió más fácil de usar con la práctica y la edición individual para las necesidades personales de este paciente.
+We saw the 4 year old patient with neurodevelopmental delay mentioned in the first blog post a second time, but edited the folder in order to provide fewer pictograms. This patient was able to focus more on what was on the screen, and Cboard here served as a tool to facilitate playing. The game consisted of bathing and feeding a baby. The folders from Cboard used were ‘food’ and ‘hygiene’ primarily. The second visit was easier because the patient was receptive to instructions, and able to focus for longer amount of time on the pictograms in front of her. In sum, Cboard, like any other online application or tool, became easier to use with practice and individual editing for this patient’s personal needs.
 
-Los otros pacientes atendidos también tuvieron un tiempo más fácil con las carpetas editadas, pero tuvieron algunos de los mismos problemas mencionados anteriormente con respecto al tamaño de los pictogramas y la ubicación del botón Atrás, así como volver a la página de inicio sin presionar el botón ' botón de retroceso tantas veces. Las segundas sesiones con pacientes señalaron que la práctica hizo que Cboard fuera más fácil de usar, pero que será necesario agregar la opción para ampliar los pictogramas y las opciones de navegación para continuar desarrollando la aplicación.
+The other patients were saw also had an easier time with the edited folders, but had some of the same issues previously mentioned regarding the size of pictograms, and the placement of the back button as well as going back to the home page without pressing the ‘back’ button so many times. The second sessions with patients pointed out that practice made Cboard easier to use, but that adding the option to enlarge both the pictograms and navigation options will be necessary to continue developing the application.
 
 ![Eipan2](/images/eipan3.jpeg)
 
-## Comentarios generales y últimos pensamientos
+## Overall feedback and last thoughts
 
-Terminamos la prueba de usuario inicial en Ciren y Eipan el 28 de agosto. Los comentarios de las pruebas siguen siendo similares a los comentarios iniciales de la primera publicación:
+We finished the initial user testing at Ciren and Eipan on August 28th . The feedback from the testing remains similar to the initial feedback from the first post:
 
-- Esquemas de colores: para asegurarse de que el esquema de colores, particularmente dentro de la carpeta 'animal', sea claro y permita a los pacientes diferenciar entre animales.
+- Color schemes: to make sure the color scheme, particularly within the ‘animal’ folder is clear and allows patients to differentiate between animals.
 
-- Configuración de tamaño: agregue una opción dentro de la configuración que permita ampliar pictogramas, botón 'atrás', 'borrar' y botones 'retroceso'.
+- Size settings: add an option within settings that would allow to enlarge pictograms, ‘back’ button, ‘erase’ and ‘backspace’ buttons.
 
-- Imprimir letras: para hacer que la impresión se escriba en mayúsculas en lugar de minúsculas.
+- Print letters: to make the print all uppercase writing rather that lowercase.
 
-- Carpetas: Agregue una carpeta de 'acciones y verbos' (e incluya escuchar música, bailar, cantar).
+- Folders: Add an ‘actions and verbs’ folder ( and include listen to music, dancing, singing).
 
-- Copiar y pegar pictogramas: agregue una opción para copiar y pegar pictogramas para poder usar el mismo en muchas ubicaciones diferentes.
+- Copy and Paste pictograms: add an option to copy and past pictograms in order to be able to use the same one in many different locations.
 
-- Formato general: los terapeutas del habla sugirieron que sería útil y ayudaría a la fluidez de la aplicación a agregar un botón para ir directamente a casa y no tener que presionar el botón de retroceso muchas veces para llegar a la página de inicio.
+- Overall format: The speech therapists suggested it would be helpful and help the fluidity of the app to add a button to go straight back home and not have to press the back button many times in order to reach the home page.
 
-Algunos comentarios nuevos incluyen:
+Some new feedback includes:
 
-- Uso sin conexión: capacidad de navegar sin conexión (sin conexión a wifi).
+- Offline use: ability to navigate offline (with no connection to wifi).
 
-- Otras características: ¿posibilidad de agregar un juego usando los pictogramas?
+- Other features: possibility to add a game using the pictograms?
 
-En conclusión, las pruebas de usuario realizadas durante el mes de agosto han tenido éxito porque el equipo de Cboard ahora tiene suficientes comentarios para comenzar a editar y agregar algunas de las sugerencias de los pacientes y los profesionales. Cboard ha recibido comentarios positivos (los pictogramas son claros, el formato es simple y fácil de usar), pero el comentario más útil ha sido la crítica constructiva sobre lo que no funciona y qué elementos de la aplicación serían mejores si se cambiaran a Tener en cuenta las diferentes necesidades de los pacientes y usuarios. Tanto Ciren como Eipan han sido increíblemente útiles y gracias a su cooperación pudimos obtener tantos comentarios constructivos.
+In conclusion, the user testing conducted over the month of August has been successful in that the Cboard team now has enough feedback to begin editing and adding some of the suggestions from both the patients and the professionals. Cboard has gotten positive feedback ( the pictograms are clear, the format is simple and easy to use), but the most useful feedback has been the constructive criticism around what doesn’t work, and what elements of the application would be better if changed to take into account the different needs of patients and users. Both Ciren and Eipan have been incredibly helpful and it is thanks to their cooperation that we were able to gain so much constructive feedback.

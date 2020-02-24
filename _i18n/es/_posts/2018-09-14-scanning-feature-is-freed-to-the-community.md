@@ -1,56 +1,56 @@
 ---
-title: La función de escaneo se libera a la comunidad
+title: Scanning feature is freed to the community
 date: 2018-09-14
-description: Proporcionar una nueva forma de interactuar entre usuarios y aplicaciones.
+description: Providing a new way of interacting between users and apps
 categories:
-  - tablero
-  - usabilidad
-  - accesibilidad
-  - reaccionar
-  - reaccionable escaneable
+  - cboard
+  - usability
+  - accessibility
+  - react
+  - react-scannable
 image: /images/scanning.png
 author_staff_member: tinchodipalma
 ---
-## Introducción
+## Intro
 
-Estamos orgullosos de decir que hemos desarrollado una herramienta de escaneo abierta a la comunidad y de uso gratuito. Llamamos a esto como `react-scannable` y está disponible para descargarse desde npm como un paquete.
+We are proud to say we have developed a scanning tool that is open to the community and free to use. We called this as `react-scannable` and is available to be downloaded from npm as a package.
 
-## ¿Qué es react-scannable?
+## What is react-scannable?
 
-React-scannable proporciona un escáner, es decir, un componente React que explora sus elementos secundarios escaneables (botones, divs, otros componentes) y permite que la aplicación interactúe con ellos de una manera nueva.
+React-scannable provides a scanner, that means a React Component that explores their scannable children (buttons, divs, other components), and allows the app to interact with them in a new way.
 
-React-scannable es un paquete npm creado en la parte superior de React y JavaScript. Los desarrolladores pueden usar este paquete para incluir un escáner en sus proyectos React.
+React-scannable is a npm package built on the top of React and JavaScript. Developers can use this package to include a scanner into their React projects.
 
-## ¿Qué hace react-scannable?
+## What does react-scannable do?
 
-Una vez que un escáner está activo, itera sobre los elementos que se han identificado como escaneables y les permite ejecutar acciones cuando se enfocan en la pantalla.
+Once a scanner is active, it iterates over those elements that have been identified as scannable and lets them execute actions when they get focused on the screen.
 
-![react-scannable en acción](/images/scanning.gif)
+![react-scannable in action](/images/scanning.gif)
 
-El objetivo es extender la relación entre el usuario y la aplicación, permitiendo otra forma de interacción.
+The objective is to extend the relationship between the user and the application, allowing another way of interaction.
 
-En el momento en que se escribió esta publicación, `react-scannable` tiene dos métodos de interacción: automático y manual.
+By the moment this post was written, `react-scannable` has two interaction methods: automatic and manual.
 
-El método automático itera sobre elementos escaneables en secuencia periódicamente. Una vez que presiona cualquier tecla (o hace clic en la pantalla), se selecciona el elemento escaneable enfocado y el escáner iterará sobre los elementos escaneables dentro de él o delegará el evento al elemento si no tiene hijos escaneables.
+Automatic method iterates over scannable elements in sequence periodically. Once you press any key (or click on the screen) the focused scannable element is selected and scanner will iterate over scannable elements within it or delegate the event to the element if it doesn’t have any scannable children.
 
-El comportamiento del método manual es bastante diferente. Se itera sobre elementos escaneables cuando el usuario presiona las teclas de espacio / tabulación y los selecciona si el usuario presiona las teclas Intro / Retroceso.
+Manual method behavior is quite different. It iterates over scannable elements when the user presses space/tab keys and selects them if the user presses enter/backspace keys.
 
-Incluso si está en método automático o manual, el usuario puede desactivar el escáner presionando Escape cuatro veces.
+Even if you are in automatic or manual method, the user can deactivate scanner by pressing Escape four times.
 
-## Tablero y react-scannable
+## Cboard and react-scannable
 
-Cboard utiliza react-scannable para implementar la función de escáner solo para escanear toda la placa.
+Cboard uses react-scannable to implement scanner feature just to scan the entire board.
 
-Los usuarios que usan un interruptor para interactuar con las aplicaciones pueden comunicarse como lo hace cualquier otro usuario.
+Users that use a switch to interact with applications can communicate as any other user does.
 
-![cambiar](/images/switch.jpg)
+![switch](/images/switch.jpg)
 
-Esto es muy importante porque permite que las personas con discapacidad interactúen con el tablero como de costumbre.
+This is very important because it allows handicapped people to interact with the board as usual.
 
-## ¿Por qué un paquete npm?
+## Why a npm package?
 
-La idea detrás de react-scannable es estar abierto a la comunidad, de código abierto y de uso gratuito. Puede descargar el código fuente de [Github](https://github.com/cboard-org/react-scannable) o el paquete del registro</a>de npm.</p> 
+The idea behind react-scannable is to be open to the community, open sourced and free to use. You can download the source code from [Github](https://github.com/cboard-org/react-scannable) or the package from [npm registry](https://www.npmjs.com/package/react-scannable).
 
-Queremos que la gente se involucre en esto, usando react-scannable en sus aplicaciones, extendiendo la forma en que sus aplicaciones interactúan con los usuarios.
+We want people to be involved in this, using react-scannable in their apps, extending the way their applications interacts with users.
 
-También alentamos a las personas a informar los problemas que tienen (y promovemos soluciones si es posible) y, por supuesto, a desarrollar nuevas funciones (¿por qué no una nueva estrategia / método?).
+We also encourage people to report the issues they have (and promote fixes to them if its possible), and of course, to develop new features (why not a new strategy/method).
