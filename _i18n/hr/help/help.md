@@ -57,7 +57,9 @@
 
 ## <a name='WhatisCboard'></a>Što je Cboard?
 
-Cboard je besplatna web aplikacija za djecu i odrasle osobe s oštećenjem govora i jezika koja olakšava komunikaciju sa slikama i pretvorbom teksta u govor. <iframe width="420" height="315" src="https://www.youtube.com/embed/pjoLEtiFf2A" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Cboard je besplatna web aplikacija za djecu i odrasle osobe s oštećenjem govora i jezika koja olakšava komunikaciju sa slikama i pretvorbom teksta u govor. 
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/pjoLEtiFf2A" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ## <a name='Registrationandlogin'></a>Registracija i prijava
 
@@ -137,7 +139,9 @@ Molimo vas, pitajte Cboard o korištenju načina visokog kontrasta za korisnike 
 
 ### <a name='WhichlanguagesaresupportedbyCboard'></a>Koje jezike podržava Cboard?
 
-Cboard ima podršku za 33 jezika. Za odabir drugog jezika idite na POSTAVKE - odaberite JEZIK i pojavit će se dostupni jezici. Kada odaberete jezik, pored njega pojavit će se „kvačica". <iframe width="420" height="315" src="https://www.youtube.com/embed/HHq9b3dJ0zM" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Cboard ima podršku za 33 jezika. Za odabir drugog jezika idite na POSTAVKE - odaberite JEZIK i pojavit će se dostupni jezici. Kada odaberete jezik, pored njega pojavit će se „kvačica". 
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/HHq9b3dJ0zM" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ### <a name='CanCboardreadmymessageoutaloud'></a>Može li Cboard naglas pročitati moju poruku?
 
@@ -191,7 +195,9 @@ Kako biste prikazali Cboard u punom zaslonu, otključajte zaslon pritiskom na si
 
 ### <a name='HowdoIshareaboard'></a>Kako podijeliti ploču?
 
-Da biste podijelili ploču, otključajte zaslon pritiskom na simbol lokota s desne strane, zatim na najvišem redu (crna traka), treći simbol s desne strane daje vam mogućnost dijeljenja ploče na bilo koji e-mail, Facebook, Twitter, ili kopirajte vezu da biste je nekome poslali. <iframe width="420" height="315" src="https://www.youtube.com/embed/fE0R6HzZ9O4" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Da biste podijelili ploču, otključajte zaslon pritiskom na simbol lokota s desne strane, zatim na najvišem redu (crna traka), treći simbol s desne strane daje vam mogućnost dijeljenja ploče na bilo koji e-mail, Facebook, Twitter, ili kopirajte vezu da biste je nekome poslali. 
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/fE0R6HzZ9O4" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ## <a name='Talking'></a>Govor
 
@@ -213,7 +219,9 @@ Da biste podijelili ploču, otključajte zaslon pritiskom na simbol lokota s des
 
 8. Konačno odaberite simbol mikrofona i snimite, možete snimati više puta i možete reproducirati zapis prije nego što ga spremite na ploču.
     
-    Ako ste odabrali više simbola, pritiskom na SLJEDEĆI prijeđite na sljedeći simbol i ponovite postupak. <iframe width="420" height="315" src="https://www.youtube.com/embed/KZwCP4PkM4I" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+    Ako ste odabrali više simbola, pritiskom na SLJEDEĆI prijeđite na sljedeći simbol i ponovite postupak. 
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/KZwCP4PkM4I" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ### <a name='HowdoIswitchtoadifferentvoice'></a>Kako mogu odabrati drugi glas?
 
@@ -235,7 +243,9 @@ Nova prazna ploča bit će odmah dostupna za uređivanje i može se postaviti ka
 
 Da biste stvorili novu mapu, počnite otključavanjem zaslona odabirom gumba za zaključavanje s desne strane. Jednom kada otključate zaslon, odaberite simbol plus (+) na desnoj strani kako biste dodali pločicu. Tada ćete dobiti mogućnost dodavanja mapa/tipki što je prva i automatska opcija ili odaberite PRAZNA PLOČA. Ova akcija stvara novu ploču kojoj možete dodati više mapa i tipki.
 
-Nakon što ste imenovali ploču, možete prenijeti sliku na sličan način kao što je izrađivanje tipke sa postavljanjem boje i naziva. Ova se nova mapa automatski povezuje na ploču iznad nje (ako sadrži niz pločica). Pojavit će se na vašem popisu ploča kao prazna ploča dok se ne popuni simbolima i naljepnicama. <iframe width="420" height="315" src="https://www.youtube.com/embed/FPfbrAtj1Zg" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Nakon što ste imenovali ploču, možete prenijeti sliku na sličan način kao što je izrađivanje tipke sa postavljanjem boje i naziva. Ova se nova mapa automatski povezuje na ploču iznad nje (ako sadrži niz pločica). Pojavit će se na vašem popisu ploča kao prazna ploča dok se ne popuni simbolima i naljepnicama. 
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/FPfbrAtj1Zg" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ### <a name='HowdoIpersonalizeanexistingboardinCboard'></a>Kako personalizirati postojeću ploču u programu Cboard?
 
@@ -243,7 +253,9 @@ Kako biste personalizirali postojeću ploču, odaberite LOKOT u gornjem desnom k
 
 ![Personalizirajte postojeću ploču](/images/help/personalize.png "personalize an existing board")
 
-Da biste personalizirali ploču, odaberite olovku i moći ćete mijenjati tipku, učitati sliku i dodati zvučni zapis. <iframe width="420" height="315" src="https://www.youtube.com/embed/sRnVvafKBLM" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Da biste personalizirali ploču, odaberite olovku i moći ćete mijenjati tipku, učitati sliku i dodati zvučni zapis. 
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/sRnVvafKBLM" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ### <a name='CanIusemyownpictureswheneditingaboard'></a>Mogu li koristiti svoje slike pri uređivanju ploče?
 
@@ -255,11 +267,15 @@ Da! Kada uređujete ploču, otključajte zaslon pomoću simbola LOKOTA. Zatim od
 
 ### <a name='HowdoIselectmultipleelementstoedit'></a>Kako mogu odabrati više elemenata za uređivanje?
 
-Na isti način na koji mijenjate redoslijed elemenata na ploči, ali umjesto odabira i povlačenja, birate krug unutar piktograma/simbola. Možete odabrati više od jednog, kako biste uredili nekoliko simbola. Nakon toga odaberite ikonu OLOVKE na desnoj strani što će vam omogućiti uređivanje odabranih elemenata. <iframe width="420" height="315" src="https://www.youtube.com/embed/ZgRUamoF8Vk" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Na isti način na koji mijenjate redoslijed elemenata na ploči, ali umjesto odabira i povlačenja, birate krug unutar piktograma/simbola. Možete odabrati više od jednog, kako biste uredili nekoliko simbola. Nakon toga odaberite ikonu OLOVKE na desnoj strani što će vam omogućiti uređivanje odabranih elemenata. 
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/ZgRUamoF8Vk" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ### <a name='FindSymbols'></a>Kako mogu pronaći nove simbole kada uređujem pločicu?
 
-Odaberite ikonu bloka UREDI na lijevoj strani trake ploče i odaberite piktogram/simbol koji želite promijeniti. Odaberite ga i nakon što plavi prsten ima kvačicu, prijeđite na ikonu OLOVKE s desne strane. Odabirom olovke primijetit ćete da se za traženje simbola nalazi ikona POVEĆALA. Kada se aktivira značajka pretraživanja, na traci za uređivanje vidjet ćete KNJIŽNICU PRETRAŽIVOG SIMBOLA. Unesite pojam/oznaku/riječ koju tražite i pojavit će se simboli. Jednom kada odaberete jedan simbol, automatski će vas vratiti na stranicu "uredi pločicu". <iframe width="420" height="315" src="https://www.youtube.com/embed/-8OXT3b4Flk" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Odaberite ikonu bloka UREDI na lijevoj strani trake ploče i odaberite piktogram/simbol koji želite promijeniti. Odaberite ga i nakon što plavi prsten ima kvačicu, prijeđite na ikonu OLOVKE s desne strane. Odabirom olovke primijetit ćete da se za traženje simbola nalazi ikona POVEĆALA. Kada se aktivira značajka pretraživanja, na traci za uređivanje vidjet ćete KNJIŽNICU PRETRAŽIVOG SIMBOLA. Unesite pojam/oznaku/riječ koju tražite i pojavit će se simboli. Jednom kada odaberete jedan simbol, automatski će vas vratiti na stranicu "uredi pločicu". 
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/-8OXT3b4Flk" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
 ## <a name='Exportandimport-1'></a>Izvoz i učitavanje
 
