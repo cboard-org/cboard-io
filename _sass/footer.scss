@@ -33,6 +33,10 @@ footer {
 			float: left;
 		}
 
+		&.footer-partners {
+			clear: both;
+		}
+
 		li {
 			list-style: none;
 			margin: 15px auto;
