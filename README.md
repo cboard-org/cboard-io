@@ -6,7 +6,7 @@ An informational website for [Cboard](https://github.com/cboard-org/cboard), an 
 
 ## Develop
 
-Cboard.io was built with [Jekyll](http://jekyllrb.com/) version 3.3.1, but should support newer versions as well.
+Cboard.io was built with [Jekyll](http://jekyllrb.com/) version 3.8.4 and Ruby+Devkit 2.5.7.
 
 Install the dependencies with [Bundler](http://bundler.io/):
 
