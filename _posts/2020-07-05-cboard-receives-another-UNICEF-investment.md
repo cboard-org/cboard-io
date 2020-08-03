@@ -5,9 +5,6 @@ description: UNICEF Cryptocurrency Fund announces its largest investment of star
 categories:
   - cboard
   - unicef
-  - europe
-  - pilot
-  - crypto currency 
 image: /images/ethereum.jpg
 author_staff_member: katrina
 ---

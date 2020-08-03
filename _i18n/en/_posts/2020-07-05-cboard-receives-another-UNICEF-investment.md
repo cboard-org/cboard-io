@@ -4,10 +4,7 @@ date: 2020-07-05
 description: UNICEF Cryptocurrency Fund announces its largest investment of startups in developing and emerging economies
 categories:
   - cboard
-  - unicef
-  - europe
-  - pilot
-  - crypto currency 
+  - unicef 
 image: /images/ethereum.jpg
 author_staff_member: katrina
 ---
