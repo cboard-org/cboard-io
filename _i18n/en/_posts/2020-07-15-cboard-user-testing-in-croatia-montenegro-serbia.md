@@ -6,7 +6,7 @@ categories:
   - cboard
   - unicef
   - europe
-image: /images/ecaro-pilot-3.jpg
+image: /images/ecaro-pilot-3.png
 author_staff_member: katrina
 ---
 ## Cboard user testing in Croatia, Montenegro and Serbia
@@ -42,7 +42,7 @@ Professionals involved in the testing reported that children seemed to respond p
 
 > “Our child uttered a three-word sentence several times when requesting a desired item, until recently she used the isolated word occasionally”.
 
-![Unicef ECARO pilot](/images/ecaro-pilot-2.jpg)
+![Unicef ECARO pilot](/images/ecaro-pilot-2.png)
 
 Natasa Sreckovic Milenkovic, a speech therapist for Srna, 3 year old girl in Belgrade, Serbia, observed the following:
 
@@ -53,7 +53,7 @@ In order to measure in the impact of Cboard, the **PIADS** (Psychosocial Impact 
 
 Initial results from PIADS test points show a positive tren, with progress in all three domains. In practice, this means that ‘frustrations are now less expressed and they are now a calmer and happier child. Cboard makes out lives easier and enables the child to communicate’, as observed by a pre-school teacher in CVIT Mediterana, Split, Croatia.
 
-![Unicef ECARO pilot](/images/ecaro-pilot-3.jpg)
+![Unicef ECARO pilot](/images/ecaro-pilot-3.png)
 
 ## Next Step
 Testing continues through COVID-19 while children use the app from their homes, assisted by parents. Professionals are providing support through virtual platforms including Whatsapp and Viber. Additionally, a new native version of Cboard is in development with new features incorporating comments and feedback received during the pilots.
