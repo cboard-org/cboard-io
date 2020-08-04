@@ -11,7 +11,6 @@ categories:
 image: /images/scanning.png
 author_staff_member: tinchodipalma
 ---
-## Intro
 We are proud to say we have developed a scanning tool that is open to the community and free to use. We called this as `react-scannable` and is available to be downloaded from npm as a package.
 
 ## What is react-scannable?

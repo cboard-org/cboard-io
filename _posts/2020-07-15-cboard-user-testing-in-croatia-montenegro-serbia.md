@@ -9,8 +9,6 @@ categories:
 image: /images/ecaro-pilot-3.png
 author_staff_member: katrina
 ---
-## Cboard user testing in Croatia, Montenegro and Serbia
-
 The UNICEF *Europe and Central Asia Regional office (ECARO)* has been piloting user testing to promote affordable assistive technology for Augmentative and Alternative Communication (AAC) in Croatia, Montenegro and Serbia.
 
 According to those conducting the testing, Cboard promotes interaction, helps overcome speech impairments, develop language and steers children towards an education and active social life right from their early years.

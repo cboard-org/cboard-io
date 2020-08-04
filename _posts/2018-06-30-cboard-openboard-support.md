@@ -9,7 +9,6 @@ categories:
 image: 
 author_staff_member: shay
 ---
-## Intro
 We at Cboard recently released a new and exiting feature: openboard support.
 This is going to be as key piece in order to allow Cboard users a flexible platform that supports easy sharing and migration.
 

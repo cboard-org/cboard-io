@@ -1,7 +1,7 @@
 ---
 title: UNICEF Innovation Fund graduation 
 date: 2019-05-15
-description: A long and fantastic trip 
+description: Cboard graduates! A long and fantastic trip 
 categories:
   - cboard
   - unicef
@@ -9,7 +9,6 @@ categories:
 image: /images/aacgathering.jpg
 author_staff_member: martin
 ---
-## Cboard graduates!
 We are proud to say we have complete the process that finishes our 15 months of investment with the Unicef innovation fund.
 
 ![UNICEF-Innovation_Primary-Logo](/images/UNICEF-Innovation_Primary-Logo.png)
