@@ -1,0 +1,58 @@
+{
+  "name": "cboard-io",
+  "version": "0.1.1",
+  "description": "Cboard is an augmentative and alternative communication (AAC) web application, allowing users with speech and language impairments (autism, cerebral palsy) to communicate by symbols and text-to-speech.",
+  "keywords": [
+    "aac",
+    "autism",
+    "cerebral-palsy",
+    "progressive-web-app",
+    "communication-board",
+    "speech",
+    "language",
+    "tts",
+    "text-to-speech"
+  ],
+  "homepage": "https://www.cboard.io",
+  "private": false,
+  "license": "GPL-3.0-only",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "browser-image-resizer": "^1.2.0",
+    "copy-to-clipboard": "^3.0.8",
+    "jszip": "^3.5.0",
+    "jszip-utils": "^0.1.0",
+    "opencollective": "^1.0.3",
+    "ramda": "^0.27.0"
+  },
+  "devDependencies": {
+    "decompress-zip": "^0.3.1"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.{js,json,css}": [
+      "prettier --write",
+      "git add"
+    ]
+  },
+    "scripts": {
+    "analyze": "source-map-explorer build/static/js/**/*.js",
+    "translations:pull": "CBOARD_ENV=local node ./scripts/crowdin-fetch-latest.js",
+    "translations:push": "CBOARD_ENV=local node ./scripts/crowdin-push-changes.js",
+    "postinstall": "opencollective postinstall"
+  },
+  "collective": {
+    "type": "opencollective",
+    "url": "https://opencollective.com/cboard"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
