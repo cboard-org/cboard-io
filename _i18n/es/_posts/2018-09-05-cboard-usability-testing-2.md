@@ -13,7 +13,7 @@ Durante las últimas dos semanas de pruebas, continuamos viendo pacientes de Cir
 
 ![Eipan](/images/eipam2.jpg)
 
-## User testing – weeks 3 and 4
+## Pruebas de usuario: semanas 3 y 4
 
 Después de las primeras dos semanas, los obstáculos iniciales que los niños encontraron con Cboard de sobreestimulación debido a que tenían demasiados pictogramas en la pantalla. Los pacientes a menudo tenían poca o ninguna práctica con la comunicación asistiva aumentativa (AAC), y los terapeutas del habla sugirieron editar las páginas para limitar las imágenes mostradas. También nos centramos en la comprensión de los pictogramas y la capacidad de comunicarnos durante una actividad usando estos pictogramas, en lugar de la capacidad de navegar, por ejemplo. Dado que muchos de los pacientes eran muy jóvenes y tenían poca o ninguna experiencia con AAC, la navegación llevaría tiempo y práctica, mientras que la comprensión de los pictogramas y la distinción de carpeta versus pictograma serían instantáneos.
 
@@ -23,7 +23,7 @@ Los otros pacientes atendidos también tuvieron un tiempo más fácil con las ca
 
 ![Eipan2](/images/eipan3.jpeg)
 
-## Overall feedback and last thoughts
+## Comentarios generales y últimos pensamientos
 
 Terminamos la prueba de usuario inicial en Ciren y Eipan el 28 de agosto. Los comentarios de las pruebas siguen siendo similares a los comentarios iniciales de la primera publicación:
 

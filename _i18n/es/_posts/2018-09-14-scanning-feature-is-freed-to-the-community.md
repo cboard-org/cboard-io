@@ -14,13 +14,13 @@ author_staff_member: tinchodipalma
 
 Estamos orgullosos de decir que hemos desarrollado una herramienta de escaneo abierta a la comunidad y de uso gratuito. Llamamos a esto como `react-scannable` y está disponible para descargarse desde npm como un paquete.
 
-## What is react-scannable?
+## ¿Qué es react-scannable?
 
 React-scannable proporciona un escáner, es decir, un componente React que explora sus elementos secundarios escaneables (botones, divs, otros componentes) y permite que la aplicación interactúe con ellos de una manera nueva.
 
 React-scannable es un paquete npm creado en la parte superior de React y JavaScript. Los desarrolladores pueden usar este paquete para incluir un escáner en sus proyectos React.
 
-## What does react-scannable do?
+## ¿Qué hace react-scannable?
 
 Una vez que un escáner está activo, itera sobre los elementos que se han identificado como escaneables y les permite ejecutar acciones cuando se enfocan en la pantalla.
 
@@ -36,7 +36,7 @@ El comportamiento del método manual es bastante diferente. Se itera sobre eleme
 
 Incluso si está en método automático o manual, el usuario puede desactivar el escáner presionando Escape cuatro veces.
 
-## Cboard and react-scannable
+## Tablero y react-scannable
 
 Cboard utiliza react-scannable para implementar la función de escáner solo para escanear toda la placa.
 
@@ -46,7 +46,7 @@ Los usuarios que usan un interruptor para interactuar con las aplicaciones puede
 
 Esto es muy importante porque permite que las personas con discapacidad interactúen con el tablero como de costumbre.
 
-## Why a npm package?
+## ¿Por qué un paquete npm?
 
 La idea detrás de react-scannable es estar abierto a la comunidad, de código abierto y de uso gratuito. Puede descargar el código fuente de [Github](https://github.com/cboard-org/react-scannable) o el paquete del registro</a>de npm.</p> 
 

@@ -18,10 +18,7 @@
   "license": "GPL-3.0-only",
   "dependencies": {
     "axios": "^0.19.2",
-    "browser-image-resizer": "^1.2.0",
-    "copy-to-clipboard": "^3.0.8",
-    "jszip": "^3.5.0",
-    "jszip-utils": "^0.1.0",
+    "fs-extra": "9.0.1",
     "opencollective": "^1.0.3",
     "ramda": "^0.27.0"
   },
