@@ -9,7 +9,6 @@ categories:
 image:
 author_staff_member: Shay
 ---
-## Intro
 
 Alla Cboard abbiamo recentemente rilasciato una nuova ed eccitante funzionalità: il supporto openboard. Questo sarà un elemento chiave per consentire agli utenti di Cboard una piattaforma flessibile che supporti la condivisione e la migrazione facili.
 

@@ -3,12 +3,13 @@ const { CROWDIN_API_KEY } = require('./config');
 console.log('Pulling translations from CrowdIn.');
 
 const https = require('https');
-const fs = require('fs');
+const fs = require('fs-extra')
 const resolve = require('path').resolve;
 const DecompressZip = require('decompress-zip');
 
 const zipFilePath = resolve('./alltx.zip');
-const extractPath = resolve('./_i18n');
+const extractPath = resolve('./_i18n/temp');
+const destPath = resolve('./_i18n');
 
 const downloadTranslations = onComplete => {
   console.log('Trying to download latest translation strings...');
@@ -35,6 +36,15 @@ const deleteTemporaryDownloadFile = () => {
   fs.unlinkSync(zipFilePath);
 };
 
+const copyFiles = data => {
+  try {
+    fs.copySync(`${extractPath}/website/i18n/${data.source}`, `${destPath}/${data.dest}`);
+    console.log('Sucess copy of ' + data.dest);
+  } catch (err) {
+    console.error(err)
+  }
+};
+
 const extractTranslations = () => {
   console.log('Extracting zip to translations folder.');
 
@@ -46,36 +56,47 @@ const extractTranslations = () => {
 
   unzipper.on('extract', function (log) {
     console.log('DecompressZip finished extracting.');
-    const dirs = fs.readdirSync(helpLangExtractPath, { withFileTypes: true })
+    const dirs = fs.readdirSync(extractPath, { withFileTypes: true })
       .filter(dirent => dirent.isDirectory())
       .map(dirent => dirent.name);
-    //copy and rename help files 
-/*     dirs.forEach(dir => {
-      fs.copyFileSync(`${helpLangExtractPath}/${dir}/help/help.md`, `${helpExtractPath}/${dir}.md`);
-    });
-    // delete directory recursively
-    try {
-      fs.rmdirSync(`${extractPath}/website`, { recursive: true });
-      console.log(`website folded was deleted.`);
-    } catch (err) {
-      console.error(`Error while deleting ${extractPath}/website`);
-    }
-    deleteTemporaryDownloadFile();
-    //handle special cases for custom languages
+    //copy and rename files 
     const custom = [
       {
-        source: 'me-ME',
-        dest: 'sr-ME'
+        source: 'en-US',
+        dest: 'en'
       },
       {
-        source: 'sr-CS',
-        dest: 'sr-RS'
+        source: 'es-ES',
+        dest: 'es'
+      },
+      {
+        source: 'de-DE',
+        dest: 'de'
+      },
+      {
+        source: 'fr-FR',
+        dest: 'fr'
+      },
+      {
+        source: 'hr-HR',
+        dest: 'hr'
+      },
+      {
+        source: 'it-IT',
+        dest: 'it'
       }
     ];
     custom.forEach(data => {
-      fs.copyFileSync(`${extractPath}/${data.source}.json`, `${extractPath}/${data.dest}.json`);
-      fs.copyFileSync(`${helpExtractPath}/${data.source}.md`, `${helpExtractPath}/${data.dest}.md`);
-    }); */
+      copyFiles(data);
+    });
+    // delete directory recursively
+    deleteTemporaryDownloadFile();
+    try {
+      fs.rmdirSync(`${extractPath}`, { recursive: true });
+      console.log(`website folded was deleted.`);
+    } catch (err) {
+      console.error(`Error while deleting ${extractPath}`);
+    }
   });
 
   unzipper.on('progress', function (fileIndex, fileCount) {
@@ -87,5 +108,4 @@ const extractTranslations = () => {
   });
 };
 
-downloadCboardJson(() => null);
 downloadTranslations(extractTranslations);

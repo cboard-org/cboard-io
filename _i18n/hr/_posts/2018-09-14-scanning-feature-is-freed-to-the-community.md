@@ -11,7 +11,6 @@ categories:
 image: /images/scanning.png
 author_staff_member: tinchodipalma
 ---
-## Uvod
 
 S ponosom možemo reći da smo razvili alat za skeniranje koji je otvoren za zajednicu i jednostavan za upotrebu. Nazvali smo to kao `skenirati` i dostupan je za preuzimanje s npm-a kao paket.
 

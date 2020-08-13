@@ -1,56 +1,55 @@
 ---
-title: Функција скенирања се ослобађа у заједници
+title: Scanning feature is freed to the community
 date: 2018-09-14
-description: Омогућавање новог начина интеракције између корисника и апликација
+description: Providing a new way of interacting between users and apps
 categories:
-  - картон
-  - употребљивост
-  - приступачност
-  - реагују
-  - може се скенирати на реакције
-image: /имагес/сцаннинг.пнг
-author_staff_member: тинцходипалма
+  - cboard
+  - usability
+  - accessibility
+  - react
+  - react-scannable
+image: /images/scanning.png
+author_staff_member: tinchodipalma
 ---
-## Интро
 
-С поносом можемо рећи да смо развили алат за скенирање који је отворен за заједницу и бесплатан за употребу. Назвали смо ово као `се може скенирати на реакцију` и може се преузети са нпм-а као пакет.
+We are proud to say we have developed a scanning tool that is open to the community and free to use. We called this as `react-scannable` and is available to be downloaded from npm as a package.
 
-## Шта је могуће скенирати на реакције?
+## What is react-scannable?
 
-Реацт-скенирање пружа скенер, то значи Реацт Цомпонент који истражује њихову скенирајућу децу (дугмад, дивс, друге компоненте) и омогућава апликацији да на њих комуницира на нови начин.
+React-scannable provides a scanner, that means a React Component that explores their scannable children (buttons, divs, other components), and allows the app to interact with them in a new way.
 
-Реацт-сканабле је нпм пакет изграђен на врху Реацт-а и ЈаваСцрипт-а. Програмери могу да користе овај пакет да би у своје Реацт пројекте укључили скенер.
+React-scannable is a npm package built on the top of React and JavaScript. Developers can use this package to include a scanner into their React projects.
 
-## Шта ради скенирање реакција?
+## What does react-scannable do?
 
-Једном када је скенер активан, прелази на оне елементе који су идентификовани као скенирани и омогућава им да извршавају акције када се фокусирају на екран.
+Once a scanner is active, it iterates over those elements that have been identified as scannable and lets them execute actions when they get focused on the screen.
 
-![може се скенирати на акцију](/images/scanning.gif)
+![react-scannable in action](/images/scanning.gif)
 
-Циљ је проширити однос између корисника и апликације, омогућавајући други начин интеракције.
+The objective is to extend the relationship between the user and the application, allowing another way of interaction.
 
-До тренутка када је овај пост написан, `се може скенирати` има две методе интеракције: аутоматску и ручну.
+By the moment this post was written, `react-scannable` has two interaction methods: automatic and manual.
 
-Аутоматска метода периодично понавља редовно скениране елементе. Након што притиснете било који тастер (или кликнете на екран), изабран је фокусиран елемент за скенирање и скенер ће поновити елементе који се могу скенирати унутар њега или ће делегирати догађај елементу ако нема децу која се може скенирати.
+Automatic method iterates over scannable elements in sequence periodically. Once you press any key (or click on the screen) the focused scannable element is selected and scanner will iterate over scannable elements within it or delegate the event to the element if it doesn’t have any scannable children.
 
-Понашање ручних метода је сасвим другачије. Ит итерира преко елемената за скенирање када корисник притисне типке за размак / таб и одабире их ако корисник притисне типке за унос / повратни простор.
+Manual method behavior is quite different. It iterates over scannable elements when the user presses space/tab keys and selects them if the user presses enter/backspace keys.
 
-Чак и ако сте у аутоматској или ручној методи, корисник може деактивирати скенер притиском на типку Есцапе четири пута.
+Even if you are in automatic or manual method, the user can deactivate scanner by pressing Escape four times.
 
-## Картон и скенирање на реакције
+## Cboard and react-scannable
 
-Цбоард користи реакцију која се може скенирати за имплементацију функције скенера само за скенирање цијеле плоче.
+Cboard uses react-scannable to implement scanner feature just to scan the entire board.
 
-Корисници који користе прекидач за интеракцију са апликацијама могу комуницирати као и било који други корисник.
+Users that use a switch to interact with applications can communicate as any other user does.
 
-![прекидач](/images/switch.jpg)
+![switch](/images/switch.jpg)
 
-Ово је веома важно јер омогућава хендикепираним људима да комуницирају са даском као и обично.
+This is very important because it allows handicapped people to interact with the board as usual.
 
-## Зашто нпм пакет?
+## Zašto npm paket?
 
-Идеја иза које се може скенирати реаговање је бити отворен за заједницу, отворен и слободан за употребу. Изворни код можете преузети са [Гитхуб](https://github.com/cboard-org/react-scannable) или пакет из регистра [нпм](https://www.npmjs.com/package/react-scannable).
+The idea behind react-scannable is to be open to the community, open sourced and free to use. You can download the source code from [Github](https://github.com/cboard-org/react-scannable) or the package from [npm registry](https://www.npmjs.com/package/react-scannable).
 
-Желимо да људи буду укључени у то, користећи реакцију која се може скенирати у њиховим апликацијама, проширујући начин интеракције њихових апликација са корисницима.
+We want people to be involved in this, using react-scannable in their apps, extending the way their applications interacts with users.
 
-Такође охрабрујемо људе да пријављују проблеме које имају (и промовишу исправке ако су могући), и наравно да развију нове функције (зашто не и нову стратегију / методу).
+We also encourage people to report the issues they have (and promote fixes to them if its possible), and of course, to develop new features (why not a new strategy/method).

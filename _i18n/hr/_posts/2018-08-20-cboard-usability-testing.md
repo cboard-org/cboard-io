@@ -8,7 +8,6 @@ categories:
 image: /images/eipan.jpg
 author_staff_member: Katrina
 ---
-## Priprema za testiranje
 
 U tjednima prije početka testiranja upotrebljivosti kontaktirali smo tri centra za rehabilitaciju govora u središnjem Buenos Airesu, od kojih su dva odgovorila da imaju podobne kandidate i da će sudjelovati u testiranju. Prvi je Ciren (Centro Integral de Rehabilitación y Educación Neurológica), a drugi Eipan (Equipo Interdisciplinario para la Atención del Niño con Alteraciones del Desarrollo). Oba centri pružaju govornu terapiju, među ostalim uslugama, te rad s djecom s velikim brojem različitih dijagnoza, uključujući i veliki broj sa [cerebralna paraliza](https://en.wikipedia.org/wiki/Cerebral_palsy) i neurorazvojnim odgode.
 

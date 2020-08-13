@@ -11,7 +11,6 @@ categories:
 image: /images/scanning.png
 author_staff_member: tinchodipalma
 ---
-## Intro
 
 Siamo orgogliosi di dire che abbiamo sviluppato uno strumento di scansione aperto alla comunità e gratuito da usare. Abbiamo chiamato questo come `reattivo-scansionabile` ed è disponibile per essere scaricato da npm come pacchetto.
 

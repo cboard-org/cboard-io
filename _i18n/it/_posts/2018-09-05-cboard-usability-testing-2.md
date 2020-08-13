@@ -8,7 +8,6 @@ categories:
 image: /images/eipam2.jpg
 author_staff_member: Caterina
 ---
-## Le ultime settimane di test
 
 Per le ultime due settimane di test, abbiamo continuato a vedere pazienti sia di Ciren che di Eipan, ma sebbene abbiamo visto alcuni nuovi pazienti, la maggior parte delle visite erano seconde sessioni con pazienti precedentemente visti. Ciò è stato utile in quanto i bambini non erano così sopraffatti dalle nuove immagini e stavano vedendo Cboard per la seconda volta (almeno). Avevamo creato cartelle con pochi pittogrammi (quindi meno stimolazione visiva) al fine di determinare se le loro reazioni e la loro comprensione fossero cambiate rispetto alla visita iniziale.
 

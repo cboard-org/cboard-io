@@ -9,7 +9,6 @@ categories:
 image:
 author_staff_member: trka
 ---
-## Uvod
 
 Nedavno smo u Cboard-u objavili novu i značajku koja se izlazi: podrška za openboard. Ovo će biti ključni dio kako bi se korisnicima CSB-a omogućila fleksibilna platforma koja podržava lako dijeljenje i migraciju.
 
@@ -33,6 +32,6 @@ Kada izvozite ploču u zaslon postavki Cboard `/ izvoz` , sada ćete imati mogu�
 
 ![Cboard](/images/app/export.png)
 
-## Kakva je budućnost?
+## Što budućnost donosi?
 
 Nadamo se da će jednog dana postojati glavno spremište koje će nuditi kompatibilne ploče Open Board Format, tržnice ako hoćete, od ploča koje su kreirali profesionalci, razvrstanih po kategorijama koje su ocijenili ljudi i koje se nude besplatno.

@@ -1,42 +1,41 @@
 ---
-title: Испитивање употребљивости плоче
-date: 2018-08-20
-description: Повратне информације пацијената о употребљивости
+title: Ispitivanje upotrebljivosti Cboard-a
+date: 20.08.2018
+description: Povratne informacije korisnika o upotrebljivosti
 categories:
-  - картон
-  - тестирање употребљивости
-image: /имагес/еипан.јпг
-author_staff_member: катрина
+  - cboard
+  - testiranje upotrebljivosti
+image: /images/eipan.jpg
+author_staff_member: katrina
 ---
-## Припрема за тестирање
 
-У неколико недеља пре почетка тестирања употребљивости контактирали смо три центра за рехабилитацију говора у централном Буенос Ајресу, од којих су два одговорила да имају подобне кандидате и да ће учествовати у тестирању. Први је Цирен (Центро Интеграл де Рехабилитацион и Едуцацион Неурологица), а други Еипан (Екуипо Интердисциплинарио пара ла Атенцион дел Нино цон Алтерационес дел Десарролло). Оба центра пружају говорну терапију, између осталог, и раде са децом са низом различитих дијагноза, укључујући велики број са [церебралном парализом](https://en.wikipedia.org/wiki/Cerebral_palsy) и неуроразвојним кашњењем.
+U nedeljama pre početka testiranja upotrebljivosti kontaktirali smo tri centra za rehabilitaciju govora u središnjem Buenos Airesu, od kojih su dva odgovorila da imaju podobne kandidate i da će učestvovati u testiranju. Prvi je Ciren (Centro Integral de Rehabilitación y Educación Neurológica), a drugi Eipan (Equipo Interdisciplinario para la Atención del Niño con Alteraciones del Desarrollo). Oba centra pružaju govornu terapiju, među ostalim uslugama, kao i rad sa decom sa velikim brojem različitih dijagnoza, uključujući i veliki broj sa [cerebralnom paralizom](https://en.wikipedia.org/wiki/Cerebral_palsy) i neurorazvojnim kašnjenjem.
 
-![Еипан](/images/eipan.jpg)
+![Eipan](/images/eipan.jpg)
 
-## Испитивање корисника - 1. и 2. недеља
+## Ispitivanje korisnika - 1. i 2. nedelja
 
-Прве недеље у августу започели смо прве посете центрима, састајући се са професионалцима, објаснили смо циљ тестирања, пружили даље информације о плочи и одговарали на могућа питања која су имали. 6. августа започели смо тестирање корисника. Десет пацијената које смо видели у прве две недеље стари су између 4 и 22 године, од којих је већина са церебралном парализом, а једна са неуроразвојним кашњењем.
+Prve posete centrima započeli smo tokom prve nedelje avgusta, sastajući se sa profesionalcima, objasnili smo cilj testiranja, pružili daljnje informacije o tabli i odgovarali na sva moguća pitanja koja su imali. 6. avgusta započeli smo korisničko testiranje. Deset korisnika koje smo videli u prve dve nedelje stari su između 4 i 22 godine, od kojih je većina sa cerebralnom paralizom, a jedan sa neurorazvojnim kašnjenjem.
 
-Први пацијент, четворогодишњак са неуроразвојним кашњењем, био је у стању да јасно препозна симболе и да препозна мапе и општи формат картона. Пацијент је у стању да говори, али има проблема са фокусирањем и прекомерном стимулацијом. Плоча би била опција за овог пацијента, али њу би требало уређивати како би се обезбедило мање како би се пацијент могао фокусирати и формулисати неку идеју.
+Prvi korisnik, četvorogodišnjak sa neurorazvojnim kašnjenjem, bio je u stanju da jasno prepozna simbole i bio je u stanju da prepozna foldere i opšti format Cboard-a. Korisnik je u stanju da govori, ali ima problema sa fokusiranjem i preteranom stimulacijom. Cboard bi mogla biti opcija za ovog pacijenta, ali bi ga trebalo urđivati tako da se može fokusirati i formulisati neku ideju.
 
-Између осталих пацијената, Цбоард се чинио као добар старац за неколико старијих пацијената. Један се посебно истакао као сјајан кандидат, 22-годишњак са церебралном парализом, а пре тестирања није имао искуства са помоћном аугментативном комуникацијом ([ААЦ](https://en.wikipedia.org/wiki/Augmentative_and_alternative_communication)). Има ограничену употребу руку и руку, али је могла да користи Цбоард на таблету. Умела је да се креће, изражава своје потребе (била је у стању да јасно изрази да је гладна и жели да поједе колач), као и да је брзо схватила како да се врати назад, шта категорије значе, па чак и изразила уживање у кориштењу Цбоард-а. Оно што је уочено на њеном тестирању било је да би јој било корисно да је дугме 'натраг' веће, а мапа 'породица' збуњујућа јер не разуме пиктограме који су коришћени за представљање чланова породице.
+Između ostalih pacijenata, Cboard se učinio dobrim za nekoliko starijih pacijenata. Posebno se jedan istakao kao sjajan kandidat, 22-godišnjak sa cerebralnom paralizom, a pre testiranja nije imao iskustva sa augmentativnom i alternativnom komunikacijom ([AAC](https://en.wikipedia.org/wiki/Augmentative_and_alternative_communication)). Imala je ograničeno korišćenje ruku i šaka, ali je mogla da koristi Cboard na tabletu. Umela je da upravlja uređajem, izražava svoje potrebe (bila je u stanju da jasno izrazi da je gladna i da želi da pojede kolač), brzo je shvatila kako da se vrati nazad, šta koje kategorije znače, pa je čak i izrazila uživanje u korišćenju Cboard-a. Ono što je zabeleženo na njenom testiranju bilo je da bi joj bilo korisno kad bi dugme za 'natrag' bilo veće, a fascikla 'porodica' bila je zbunjujuća jer nije razumela piktograme koji su korišćeni za predstavljanje članova porodice.
 
-## Повратна информација
+## Povratne informacije
 
-Укупна позитивна повратна информација била је да су пиктограми већином јасни и разумљиви, а већина је разумела формат и брзо знала како апликација делује без превише објашњења. Пацијенти су такође уживали у Цбоард-у и доживљавали су то као игру. Многи од млађих пацијената (узраста 4-6 година) уживали су у кориштењу апликације да би комуницирали какву играчку желе, а затим се играју са самом играчком пре него што наставе са Цбоард-ом (на пример, притиском на пиктограм лопте и затим предавањем руке лопта).
+Ukupna pozitivna povratna informacija bila je da su piktogrami većinom jasni i razumljivi, a većina je razumela format i brzo znala kako aplikacija funkcioniše bez previše objašnjenja. Pacijenti su takođe uživali u Cboard-u i to su doživljavali kao igru. Mnogi mlađi pacijenti (uzrasta od 4 do 6 godina) uživali su u korišćenju aplikacije kako bi komunicirali kakvu igračku žele, a zatim se igraju sa samom igračkom pre nego što nastave sa Cboard-om (na primer, pritiskom na piktogram lopte i uzimanjem lopte u ruke).
 
-Са друге стране, од тестирања смо добили низ корисних предлога на којима радимо:
+Sa druge strane, dobili smo niz korisnih predloga za testiranje na kojima možemo raditi:
 
-- Шеме боја: да бисте били сигурни да је схема боја, посебно унутар мапе „животиња“, јасна и омогућава пацијентима да разликују животиње.
-- Подешавања величине: додајте опцију у подешавања која би омогућила увећање пиктограма, дугмета „назад“, дугмета „брисање“ и „повратног простора“.
-- Штампање слова: да бисте штампали све велико слово, а не мала слова.
-- Мапе: Додајте фасциклу „акције и глаголи“ (и укључују „слушање музике“, „плес“, „певање“).
-- Копирај и залепи пиктограме: додај опцију за копирање и прошлих пиктограма како би се могла користити иста на многим различитим локацијама.
-- Укупни формат: Логопеди су претпоставили да би било корисно и помоћи флуидности апликације да додају дугме да бисте се вратили равно кући и да не бисте морали више пута да притиснете дугме за повратак да бисте дошли до почетне странице.
+- Sheme boja: kako bi se osigurala jasna shema boja, posebno unutar foldera „životinja“, i omogućila pacijentima da razlikuju životinje.
+- Postavke veličine: dodajte opciju unutar postavki koje će omogućiti uvećavanje piktograma, dugmeta za 'natrag', 'brisanje' i 'brisanje od nazad'.
+- Štampanje slova: da biste štampali sve velikim slovima, a ne malim slovima.
+- Fascikle: Dodajte fasciklu „radnje i glagoli“ (i uključiti „slušanje muzike“, „ples“, „pevanje“).
+- Kopiraj i zalepi piktograme: dodaj opciju za kopiranje i prošlih piktograma da bi se mogla koristiti ista na mnogim različitim lokacijama.
+- Celokupni format: Logopedi sugerišu da bi bilo korisno i da bi pomoglo fluidnosti aplikacije dodavanje dugmeta za povratak na početnu stranicu da ne moraju više puta pritiskati tipku za povratak da bi došli do početne stranice.
 
-## Планирајте за следеће недеље
+## Planirajte za sledeće sedmice
 
-Следеће недеље смо заказали посете оба центра са пацијентима како бисмо наставили са тестирањем лека (неки од већ виђених и неки нови пацијенти). Већина повратних информација пацијената пренесено је у ктриал, где ћемо моћи да добијемо ширу слику целокупне повратне информације од пацијената. За неке ће бити потребна друга сесија, јер прва једноставно није била довољна да процене да ли разумеју Цбоард или не. Код многих пацијената Цбоард је био неодољив због количине приказаних пиктограма, али циљ је у наредне две недеље да се пацијенти поново тестирају, али да посебни налози уреде према њиховим личним потребама.
+Sledeće sedmice smo zakazali obilaske oba centra sa klijentima kako bismo nastavili sa testiranjem (neki od već viđenih i neki novi korisnici). Većina povratnih informacija pacijenata prenesena je u qtrial, gde ćemo moći da imamo širu sliku celokupne povratne informacije od pacijenata. Nekima će trebati druga sesija jer prva jednostavno nije bila dovoljna za procenu razumeju li Cboard ili ne. Kod mnogih korisnika se desilo da su bili preplavljeni Cboard-om zbog količine prikazanih piktograma, pa je cilj za naredne dve sedmice bio da se ponovo testiraju, ali da se posebni nalozi urede prema njihovim ličnim potrebama.
 
-Такође планирамо да радимо са логопедима да видимо како да наставимо са радом на Цбоард-у и тачније како би они желели да апликација буде. Неколицина њих споменула је да би желела да на својим рачунима креира различите фасцикле са именима пацијената како би током сесија лако приступила тим персонализованим алатима.
+Takođe planiramo da radimo sa logopedima kako bismo videli kako da nastavimo rad na Cboard-u, i tačnije, kako bi oni želeli da aplikacija izgleda. Nekolicina njih spomenula je da bi na svojim nalozima želeli da naprave različite fscikle sa imenima svojih pacijenata kako bi tokom seansi mogli pristupiti tim prilagođenim alatima.

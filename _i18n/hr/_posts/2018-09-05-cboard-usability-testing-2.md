@@ -8,7 +8,6 @@ categories:
 image: /images/eipam2.jpg
 author_staff_member: Katrina
 ---
-## Završni tjedni testiranja
 
 U posljednja dva tjedna testiranja nastavili smo viđati pacijente i iz Cirena i iz Eipan-a, ali iako smo vidjeli nekoliko novih pacijenata, većina posjeta bile su druge sesije s prethodno viđenim pacijentima. Ovo je korisno jer djeca nisu bila toliko preplavljena novim slikama, a Cboard su vidjeli barem drugi put (barem). Stvorili smo mape s nekoliko piktograma (tako manje vizualne stimulacije) kako bismo utvrdili da li su se njihove reakcije i razumijevanja promijenili od početnog posjeta.
 

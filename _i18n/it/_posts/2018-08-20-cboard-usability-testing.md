@@ -8,7 +8,6 @@ categories:
 image: /images/eipan.jpg
 author_staff_member: Caterina
 ---
-## Preparazione per il test
 
 Nelle settimane prima di iniziare i test di usabilità, abbiamo contattato tre centri di riabilitazione vocale nel centro di Buenos Aires, due dei quali hanno risposto che avevano candidati idonei e avrebbero partecipato ai test. Il primo è Ciren (Centro Integral de Rehabilitación y Educación Neurológica), e il secondo Eipan (Equipo Interdisciplinario per Atención del Niño con Alteraciones del Desarrollo). Entrambi i centri forniscono logopedia, tra gli altri servizi, e lavorano con bambini con una serie di diagnosi diverse, tra cui un gran numero con [paralisi cerebrale](https://en.wikipedia.org/wiki/Cerebral_palsy) e ritardo dello sviluppo neurologico.
 
