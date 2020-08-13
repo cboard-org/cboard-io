@@ -8,7 +8,7 @@ categories:
 image: /images/ethereum.jpg
 author_staff_member: katrina
 ---
-Cboard se complace en anunciar otra inversión de UNICEF para continuar desarrollando la aplicación. Cboard es una aplicación web gratuita en línea que ayuda a la comunicación a través de texto a voz, creada a través del centro de rehabilitación Cireha en Córdoba, Argentina. Con el apoyo de UNICEF, pudimos realizar pruebas de usuario iniciales en Buenos Aires, Argentina, antes del lanzamiento oficial en septiembre de 2018. Durante esta prueba, pudimos obtener comentarios de los usuarios y del logopeda profesional para editar la aplicación y hacerla más accesible para los usuarios.
+Cboard se alegra en anunciar otra inversión de UNICEF para continuar desarrollando la aplicación. Cboard es una aplicación web gratuita en línea que ayuda a la comunicación a través de texto a voz, creada a través del centro de rehabilitación Cireha en Córdoba, Argentina. Con el apoyo de UNICEF, pudimos realizar pruebas de usuario iniciales en Buenos Aires, Argentina, antes del lanzamiento oficial en septiembre de 2018. Durante esta prueba, pudimos obtener comentarios de los usuarios y del logopeda profesional para editar la aplicación y hacerla más accesible para los usuarios.
 
 ![Centro CIREHA](/images/cireha12.jpg)
 

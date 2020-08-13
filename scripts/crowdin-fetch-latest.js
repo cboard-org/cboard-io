@@ -84,6 +84,10 @@ const extractTranslations = () => {
       {
         source: 'it-IT',
         dest: 'it'
+      },
+      {
+        source: 'sr-CS',
+        dest: 'sr'
       }
     ];
     custom.forEach(data => {
