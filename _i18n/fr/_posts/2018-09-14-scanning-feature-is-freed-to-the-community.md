@@ -11,11 +11,10 @@ categories:
 image: /images/scanning.png
 author_staff_member: tinchodipalma
 ---
-## Intro
 
 Nous sommes fiers de dire que nous avons développé un outil d'analyse ouvert à la communauté et libre d'utilisation. Nous l'avons appelé `react-scannable` et peut être téléchargé à partir de npm sous forme de package.
 
-## Qu'est-ce que react-scannable?
+## Qu'est-ce que le scan réactif?
 
 React-scannable fournit un scanner, c'est-à-dire un composant React qui explore leurs enfants numérisables (boutons, divs, autres composants) et permet à l'application d'interagir avec eux d'une nouvelle manière.
 
@@ -37,7 +36,7 @@ Le comportement de la méthode manuelle est assez différent. Il parcourt les é
 
 Même si vous utilisez une méthode automatique ou manuelle, l'utilisateur peut désactiver le scanner en appuyant quatre fois sur Echap.
 
-## Cboard et React Scannable
+## Cboard et réactif scannable
 
 Cboard utilise react-scannable pour implémenter la fonction scanner, uniquement pour analyser le tableau en entier.
 
@@ -47,7 +46,7 @@ Les utilisateurs qui utilisent un commutateur pour interagir avec des applicatio
 
 C'est très important car cela permet aux personnes handicapées d'interagir avec le tableau comme d'habitude.
 
-## Pourquoi un paquet npm?
+## Pourquoi un forfait npm?
 
 L'idée derrière react-scannable est d'être ouvert à la communauté, open source et libre d'utilisation. Vous pouvez télécharger le code source depuis [Github](https://github.com/cboard-org/react-scannable) ou le paquet depuis le registre [npm](https://www.npmjs.com/package/react-scannable).
 

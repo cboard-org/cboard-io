@@ -11,7 +11,6 @@ categories:
 image: /images/scanning.png
 author_staff_member: tinchodipalma
 ---
-## Intro
 
 Wir sind stolz darauf, ein Scan-Tool entwickelt zu haben, das für die Community offen und kostenlos ist. Wir haben dies als `React-Scannable` und können es als Paket von npm herunterladen.
 

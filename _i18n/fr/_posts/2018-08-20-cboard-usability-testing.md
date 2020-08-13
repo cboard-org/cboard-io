@@ -8,7 +8,6 @@ categories:
 image: /images/eipan.jpg
 author_staff_member: Katrina
 ---
-## Se préparer aux tests
 
 Dans les semaines qui ont précédé le début des tests d’utilisabilité, nous avons contacté trois centres de rééducation de la parole situés dans le centre de Buenos Aires. Deux d’entre eux ont répondu qu’ils avaient des candidats éligibles et qu’ils participeraient aux tests. Le premier est Ciren (Centre intégral de rééducation et d'éducation neurologique), et le second Eipan (Equipes interdisciplinaires pour l'apprentissage du crime avec des variantes du comportement). Les deux centres offrent l'orthophonie, entre autres services, et de travailler avec des enfants ayant un certain nombre de diagnostics différents, dont un grand nombre avec [infirmité motrice cérébrale](https://en.wikipedia.org/wiki/Cerebral_palsy) et retard neurodéveloppemental.
 
@@ -35,7 +34,7 @@ D'autre part, nous avons reçu un certain nombre de suggestions utiles issues de
 - Copier et coller des pictogrammes: ajoutez une option pour copier et coller des pictogrammes afin de pouvoir utiliser le même pictogramme dans de nombreux endroits.
 - Format général: Les orthophonistes ont suggéré qu'il serait utile d'aider la fluidité de l'application à ajouter un bouton pour revenir directement à la maison et de ne pas avoir à appuyer plusieurs fois sur le bouton de retour pour atteindre la page d'accueil.
 
-## Planifiez pour les prochaines semaines
+## Planifiez les prochaines semaines
 
 Au cours des prochaines semaines, nous avons programmé des visites dans les deux centres avec des patients pour continuer à tester Cboard (certains de ceux déjà vus et de nouveaux patients). La plupart des commentaires des patients ont été téléchargés dans qtrial, où nous pourrons avoir une image plus large du retour global des patients. Pour certains, une deuxième session sera nécessaire car la première n'était tout simplement pas suffisante pour évaluer s'ils comprenaient ou non Cboard. Avec beaucoup de patients, Cboard était écrasant à cause de la quantité de pictogrammes affichés, mais l'objectif dans les deux prochaines semaines est de tester à nouveau les patients, mais de modifier leurs comptes spécifiques en fonction de leurs besoins personnels.
 

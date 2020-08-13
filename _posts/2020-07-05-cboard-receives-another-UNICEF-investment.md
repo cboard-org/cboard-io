@@ -12,7 +12,7 @@ Cboard is very please to announce another investment from UNICEF to continue dev
 
 ![CIREHA-Center](/images/cireha12.jpg)
 
-On June 19 UNICEF announced eight technology companies in developing and emerging economies would be receiving an investment from the UNICEF Cryptocurrent Fund (CryptoFund). Those receiving investments had all previously received up to $100,000 from UNICEF’s Innovation Fund to create or continue developing open-source techonology. 
+On June 19 UNICEF announced eight technology companies in developing and emerging economies would be receiving an investment from the UNICEF Cryptocurrent Fund (CryptoFund). Those receiving investments had all previously received up to $100,000 from UNICEF’s Innovation Fund to create or continue developing open-source technology. 
 
 > Cireha (Argentina) is scaling the reach of its accessible app in three countries to help more children with speech impairments communicate using symbols.
 

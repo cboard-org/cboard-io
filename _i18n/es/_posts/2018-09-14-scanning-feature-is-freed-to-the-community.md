@@ -52,4 +52,4 @@ La idea detrás de react-scannable es estar abierto a la comunidad, de código a
 
 Queremos que la gente se involucre en esto, usando react-scannable en sus aplicaciones, extendiendo la forma en que sus aplicaciones interactúan con los usuarios.
 
-También alentamos a las personas a informar los problemas que tienen (y promovemos soluciones si es posible) y, por supuesto, a desarrollar nuevas funciones (¿por qué no una nueva estrategia / método?).
+También alentamos a las personas a comunicar los problemas que tienen (y promovemos soluciones si es posible) y, por supuesto, a desarrollar nuevas funciones (¿por qué no una nueva estrategia / método?).
