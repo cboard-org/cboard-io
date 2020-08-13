@@ -1,355 +1,339 @@
-# Цбоард Хелп  
+# Cboard Pomoć  
   
 
 
-## Преглед садржаја
+## Sadržaj
 
-* [Шта је Цбоард?](#WhatisCboard)
-* [Регистрација и пријава](#Registrationandlogin) 
-    * [Како да се региструјем за Цбоард?](#HowdoIregisterforCboard)
-    * [Да ли се могу регистровати користећи своје налоге на друштвеним мрежама?](#CanIregistermyselfusingmysocialmediaaccounts)
-    * [Како се пријавим на Цбоард након што сам регистровани корисник?](#HowdoIlogintoCboardonceIamaregistereduser)
-    * [Како се одјавити?](#HowdoIlogout)
-    * [Која је разлика између регистрованог и нерегистрованог корисника?](#Whatisthedifferencebetweenaregisteredandanon-registereduser)
-    * [Како да ажурирам своје корисничке податке?](#HowdoIupdatemyuserinformation)
-    * [Како да ресетујем лозинку?](#HowdoIresetmypassword)
-* [Цена](#Price) 
-    * [Колико кошта Цбоард?](#HowmuchdoesCboardcost)
-* [Карактеристике](#Features) 
-    * [Који су уређаји и ОС подржани?](#WhatdevicesandOSaresupported)
-    * [Које језике подржава Цбоард?](#WhichlanguagesaresupportedbyCboard)
-    * [Може ли Цбоард наглас прочитати моју поруку?](#CanCboardreadmymessageoutaloud)
-    * [Способности говора](#Speechcapabilities)
-    * [Извоз и увоз](#Exportandimport)
-    * [Могућности приказа](#Displaycapabilities)
-    * [Могу ли променити било која подешавања навигације?](#CanIchangeanynavigationsettings)
-    * [Навигација кроз интерфејс](#Navigationthroughtheinterface)
-* [Подешавања](#Settings) 
-    * [Како да приступим подешавањима на картици?](#HowdoIaccesssettingsinCboard)
-    * [Како да штампам свој сет плоче на Цбоард?](#HowdoIprintmyboardsetinCboard)
-    * [Како могу да видим картицу на целом екрану?](#HowdoIseeCboardinfullscreen)
-    * [Како да делим плочу?](#HowdoIshareaboard)
-* [Талкинг](#Talking) 
-    * [Како могу додати лично снимљени глас симболима на плочи?](#HowdoIaddapersonallyrecordedvoicetosymbolsonCboard)
-    * [Како да пребацим на други глас?](#HowdoIswitchtoadifferentvoice)
-    * [Како да променим звук гласа?](#HowdoIchangehowavoicesounds)
-* [Уређивање одбора](#BoardEditing) 
-    * [Како да направим празну плочу?](#HowdoIcreateanemptyboard)
-    * [Како да персонализујем постојећу плочу у Цбоард-у?](#HowdoIpersonalizeanexistingboardinCboard)
-    * [Могу ли користити своје слике приликом уређивања плоче?](#CanIusemyownpictureswheneditingaboard)
-    * [Могу ли променити редослед елемената на плочи?](#CanIchangetheorderingoftheelementsinaboard)
-    * [Како да изаберем више елемената за уређивање?](#HowdoIselectmultipleelementstoedit)
-    * [Како могу да пронађем нове симболе када уређујем плочицу?](#FindSymbols)
-* [Извоз и увоз](#Exportandimport) 
-    * [Како да извозим плочу у картон?](#HowdoIexportmyboardinCboard)
-    * [Како да увозим плочу у Цбоард?](#HowdoIimportaboardintoCboard)
-    * [Који формат датотека користи Цбоард за увоз / извоз?](#WhatfileformatdoesCboarduseforimportexport)
-* [Могућности приказа](#Displaycapabilities) 
-    * [Шта могу да променим на екрану?](#WhatcanIchangeonthedisplay)
-    * [Могу ли да променим величину тастера на плочи?](#CanIresizebuttonsonCboard)
-* [Скенирање](#Scanning) 
-    * [Могу ли да користим технике скенирања за приступ симболима?](#CanIusescanningtechniquestoaccesssymbols)
-* [Communicator builder](#CommunicatorBuilder) 
-    * [What is the communicator builder?](#Whatiscommbuilder)
-    * [Communicator boards](#CommunicatorBoards)
-    * [Public boards](#PublicBoards)
-    * [All my boards](#Allmyboards)
+* [Šta je Cboard?](#WhatisCboard)
+* [Registracija i prijava](#Registrationandlogin) 
+    * [Kako da se registrujem za Cboard?](#HowdoIregisterforCboard)
+    * [Mogu li se registrovati koristeći svoje naloge na društvenim mrežama?](#CanIregistermyselfusingmysocialmediaaccounts)
+    * [Kako da se prijavim na Cboard kao registrovani korisnik?](#HowdoIlogintoCboardonceIamaregistereduser)
+    * [Kako se odjaviti?](#HowdoIlogout)
+    * [Koja je razlika između registrovanog i neregistrovanog korisnika?](#Whatisthedifferencebetweenaregisteredandanon-registereduser)
+    * [Kako da ažuriram svoje korisničke podatke?](#HowdoIupdatemyuserinformation)
+    * [Kako da promenim svoju lozinku?](#HowdoIresetmypassword)
+* [Cena](#Price) 
+    * [Koliko košta Cboard?](#HowmuchdoesCboardcost)
+* [Karakteristike](#Features) 
+    * [Koji su uređaji i OS podržani?](#WhatdevicesandOSaresupported)
+    * [Koje jezike podržava Cboard?](#WhichlanguagesaresupportedbyCboard)
+    * [Može li Cboard naglas da pročita moju poruku?](#CanCboardreadmymessageoutaloud)
+    * [Mogućnosti govora](#Speechcapabilities)
+    * [Izvoz i učitavanje](#Exportandimport)
+    * [Mogućnosti prikaza](#Displaycapabilities)
+    * [Mogu li da promenim bilo koje postavke navigacije?](#CanIchangeanynavigationsettings)
+    * [Navigacija ekrana](#Navigationthroughtheinterface)
+* [Podešavanja](#Settings) 
+    * [Kako pristupiti podešavanjima na Cboard-u?](#HowdoIaccesssettingsinCboard)
+    * [Kako mogu da odštampam svoju tablu u Cboard-u?](#HowdoIprintmyboardsetinCboard)
+    * [Kako da vidim Cboard na celom ekranu?](#HowdoIseeCboardinfullscreen)
+    * [Kako da podelim tablu?](#HowdoIshareaboard)
+* [Govor](#Talking) 
+    * [Kako mogu da dodam lično snimljeni glas simbolima na tabli?](#HowdoIaddapersonallyrecordedvoicetosymbolsonCboard)
+    * [Kako mogu da odaberem drugi glas?](#HowdoIswitchtoadifferentvoice)
+    * [Kako mogu da promenim način na koji zvuči glas?](#HowdoIchangehowavoicesounds)
+* [Uređivanje table](#BoardEditing) 
+    * [Kako da kreiram praznu tablu?](#HowdoIcreateanemptyboard)
+    * [Kako da personalizujem postojeću tablu u Cboardu?](#HowdoIpersonalizeanexistingboardinCboard)
+    * [Mogu li da koristim svoje slike pri uređivanju table?](#CanIusemyownpictureswheneditingaboard)
+    * [Mogu li da promenim redosled elemenata na tabli?](#CanIchangetheorderingoftheelementsinaboard)
+    * [Kako da odaberem više elemenata za uređivanje?](#HowdoIselectmultipleelementstoedit)
+    * [Kako mogu da pronađem nove simbole kada uređujem pločicu?](#FindSymbols)
+* [Izvoz i učitavanje](#Exportandimport) 
+    * [Kako da izvezem svoju tablu u Cboardu?](#HowdoIexportmyboardinCboard)
+    * [Kako da učitam tablu u Cboard?](#HowdoIimportaboardintoCboard)
+    * [Koji format datoteke Cboard koristi za učitavanje/izvoz?](#WhatfileformatdoesCboarduseforimportexport)
+* [Mogućnosti prikaza](#Displaycapabilities) 
+    * [Šta mogu da promenim na prikazu?](#WhatcanIchangeonthedisplay)
+    * [Mogu li da promenim veličinu tipke na tabli?](#CanIresizebuttonsonCboard)
+* [Skeniranje](#Scanning) 
+    * [Mogu li da koristim tehnike skeniranja za pristup simbolima?](#CanIusescanningtechniquestoaccesssymbols)
+* [Izrada komunikatora](#CommunicatorBuilder) 
+    * [Šta je izrada komunikatora?](#Whatiscommbuilder)
+    * [Table komunikatora](#CommunicatorBoards)
+    * [Javne table](#PublicBoards)
+    * [Sve moje table](#Allmyboards)
 
-## <a name='WhatisCboard'></a>Шта је Цбоард?
+## <a name='WhatisCboard'></a>Šta je Cboard?
 
-Цбоард је бесплатна веб апликација за децу и одрасле са оштећењима говора и језика, олакшавајући комуникацију са сликама и текстом у говор. 
+Cboard je besplatna internet aplikacija za decu i odrasle osobe sa teškoćama u govoru i jeziku, koja olakšava komunikaciju simbolima i pretvaranjem teksta u govor. <iframe width="420" height="315" src="https://www.youtube.com/embed/pjoLEtiFf2A" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/pjoLEtiFf2A" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+## <a name='Registrationandlogin'></a>Registracija i prijava
 
-## <a name='Registrationandlogin'></a>Регистрација и пријава
+### <a name='HowdoIregisterforCboard'></a>Kako da se registrujem za Cboard?
 
-### <a name='HowdoIregisterforCboard'></a>Како да се региструјем за Цбоард?
+Da biste se registrovali za Cboard, počnite prateći korake na stranici dobrodošlice gde ćete pronaći način prijave.
 
-Да бисте се регистровали за Цбоард, започните следећи кораке на страници добродошлице где ћете наћи избор пријаве.
+![Web stranica Cboard-a](/images/help/website.png "Cboard website")
 
-![Веб локација Цбоард](/images/help/website.png "Cboard website")
+![Stranica dobrodošlice](/images/help/welcome-page.png "Welcome page")
 
-![Страница добродошлице](/images/help/welcome-page.png "Welcome page")
+Ako ste novi korisnik, pritisnite REGISTRACIJA i pojaviće se kratki obrazac koji traži osnovne podatke za otvaranje naloga.
 
-Ако сте нови корисник, притисните ПРИЈАВИ УПОЗОРЕЊЕ и појавиће се кратак образац који тражи основне информације да бисте отворили свој налог.
+![Cboard registracija](/images/help/signup.png "Cboard signup")
 
-![Регистрација на картону](/images/help/signup.png "Cboard signup")
+Nakon što unesete svoje podatke, dobićete imejl sa poveznicom koju treba slediti kako biste potvrdili svoj nalog.
 
-Након што испуните ове информације, добићете е-маил убрзо након тога са линком који треба да следите како бисте потврдили свој налог.
+![Registracija putem imejla](/images/help/signupemail.png "Email signup")
 
-![Регистрација путем е-маила](/images/help/signupemail.png "Email signup")
+Ove informacije služe samo za podršku u upotrebi Cboarda i kako bi se mogla ponuditi pomoć kada je to neophodno. Informacije se ne dele sa drugim organizacijama. (Pogledaj [Pojedinosti o privatnosti](https://www.cboard.io/privacy/)).
 
-Ове информације компанија задржава само ради подршке коришћењу Цбоард-а и пружања помоћи када је то потребно. Не дели се са другим организацијама (Погледајте [детаља о приватности](https://www.cboard.io/privacy/)).
+Nakon što potvrdite svoj nalog, imaćete pristup Cboard-u i primićete drugi imejl koji potvrđuje da ste uspešno potvrdili svoj nalog.
 
-Након што верификујете свој рачун, добићете приступ Цбоард-у и примићете још један е-маил који потврђује да сте успешно верификовали свој налог.
+### <a name='CanIregistermyselfusingmysocialmediaaccounts'></a>Mogu li se registrovati koristeći svoje naloge na društvenim mrežama?
 
-### <a name='CanIregistermyselfusingmysocialmediaaccounts'></a>Да ли се могу регистровати користећи своје налоге на друштвеним мрежама?
+Da! Na stranici za prijavu imaćete mogućnost prijave svojim Google ili Facebook nalogom ako to želite. Možete se registrovati i sa imejl adresom.
 
-Да! На страници за пријављивање биће вам дата могућност да се пријавите са својим Гоогле или Фацебоок налогом ако то желите. Такође се можете регистровати са адресом е-поште.
+### <a name='HowdoIlogintoCboardonceIamaregistereduser'></a>Kako da se prijavim na Cboard kao registrovani korisnik?
 
-### <a name='HowdoIlogintoCboardonceIamaregistereduser'></a>Како се пријавим на Цбоард након што сам регистровани корисник?
+Da biste se prijavili na Cboard, sledite prvi korak pomoću kojeg ste se prijavili, ali umesto odabira REGISTRACIJA na ekranu dobrodošlice odaberite PRIJAVI SE. Tada će se tražiti da unesete imejl sa kojim ste se registrovali i lozinku koju ste postavili.
 
-Да бисте се пријавили на Цбоард, следите први корак који сте користили да бисте се пријавили, али уместо да одаберете ПРИЈАВИ на екрану добродошлице, изаберите ПРИЈАВИТЕ се. Тада ће се од вас тражити да унесете е-пошту са којом сте се првобитно пријавили и лозинку коју сте поставили.
+![Cboard prijava](/images/help/login.png "Cboard login")
 
-![Пријављивање на картону](/images/help/login.png "Cboard login")
+### Koje su različite mogućnosti za konfiguraciju Cboard-a?
 
-### Које су различите опције за подешавање Цбоард-а?
+Nakon što se prijavite na Cboard, možete pristupiti različitim opcijama za konfigurisanje i razvoj komunikacijske table koje su dostupne kada je Cboard u otključanom načinu. Pogledajte popis svih ključnih opcija u nastavku:
 
-Једном када се пријавите на Цбоард, можете приступити различитим опцијама за конфигурацију и развој комуникационе плоче која се пружа када је Цбоард у откључаном режиму. Погледајте списак свих кључних опција у наставку:
+![Cboard podešavanja](/images/help/settings.png "Cboard settings")
 
-![Подешавања картице](/images/help/settings.png "Cboard settings")
+### <a name='HowdoIlogout'></a>Kako se odjaviti?
 
-### <a name='HowdoIlogout'></a>Како се одјавити?
+Možete se odjaviti tako da odaberete ikonu za podešavanja, a opcija će se pojaviti označena crvenom bojom. Takođe možete odabrati simbol zaključavanja u desnom uglu, kliknuti tri puta i nakon što otključate ekran i pojavi se crvena traka, odaberite ikonu sa leve strane zaključavanja (vaše slike ako ste je učitali) i mogućnost odjave će se pojaviti označena crvenom bojom.
 
-Можете се одјавити одабиром иконе поставки, а опција ће се појавити црвеном бојом. Такође можете да изаберете симбол закључавања у десном углу, кликнете три пута и након што откључате екран и појави се црвена трака, изаберите икону са леве стране закључавања (слика ако имате једну учвршћену) и опцију да се пријавите вани ће се појавити црвеном бојом.
+![Cboard odjava](/images/help/logout.png "Cboard logout")
 
-![Одјава са картице](/images/help/logout.png "Cboard logout")
+### <a name='Whatisthedifferencebetweenaregisteredandanon-registereduser'></a>Koja je razlika između registrovanog i neregistrovanog korisnika?
 
-### <a name='Whatisthedifferencebetweenaregisteredandanon-registereduser'></a>Која је разлика између регистрованог и нерегистрованог корисника?
+Registrovani korisnik može personalizovati svoje table, a promene će biti sačuvane na njihovom nalogu tako da kad se ponovo prijave, mogu koristiti svoje prilagođene table. Neregistrovani korisnik neće moći da sačuva promene. Preporučujemo registraciju za svaki slučaj, tako da vaše promene budu sigurno sačuvane.
 
-Регистровани корисник је у могућности да персонализује своје плоче, а промене ће бити сачуване на њихов налог тако да када се поново пријаве, могу да користе своје прилагођене плоче. Нерегистровани корисник неће моћи безбедно да спреми промене. Препоручујемо да се региструјете за сваки случај, тако да су промене загарантоване да буду сачуване.
+### <a name='HowdoIupdatemyuserinformation'></a>Kako da ažuriram svoje korisničke podatke?
 
-### <a name='HowdoIupdatemyuserinformation'></a>Како да ажурирам своје корисничке податке?
+Da biste ažurirali svoje korisničke podatke, sledite iste korake koje biste koristili ako se pokušavate odjaviti. Odaberite simbol zaključavanja u gornjem desnom uglu table - tri klika ili dodira i kada otključate ekran, odaberite ikonu sa leve strane zaključavanja (inicijali korisničkog imena, fotografija), a zatim možete urediti svoje korisničke podatke.
 
-Да бисте ажурирали своје корисничке податке, следите исте кораке који бисте користили ако се покушавате одјавити. Изаберите симбол закључавања у горњем десном углу плоче - три клика или додиривања, а када откључате екран, изаберите икону са леве стране закључавања (иницијали корисничког имена, фотографија), а затим можете да уредите своје корисничке информације .
+### <a name='HowdoIresetmypassword'></a>Kako da promenim svoju lozinku?
 
-### <a name='HowdoIresetmypassword'></a>Како да ресетујем лозинку?
+Da biste promenili lozinku, pošaljite nam imejl na adresu support@cboard.io i mi ćemo vam odgovoriti.
 
-Да бисте ресетовали лозинку, пошаљите нам е-маил суппорт@цбоард.ио и ми ћемо вам се обратити.
+## <a name='Price'></a>Cena
 
-## <a name='Price'></a>Цена
+### <a name='HowmuchdoesCboardcost'></a>Koliko košta Cboard?
 
-### <a name='HowmuchdoesCboardcost'></a>Колико кошта Цбоард?
+Cboard je potpuno besplatna aplikacija.
 
-Картон је потпуно бесплатан.
+## <a name='Features'></a>Svojstva
 
-## <a name='Features'></a>Карактеристике
+### <a name='WhatdevicesandOSaresupported'></a>Koji su uređaji i OS podržani?
 
-### <a name='WhatdevicesandOSaresupported'></a>Који су уређаји и ОС подржани?
+Cboard aplikacija je dostupna putem interneta na raznim uređajima, uključujući računare, tablete i mobilne uređaje koji koriste Mac, Windows i Android operativne sisteme. Najbolje je koristiti pretraživače kao što su Chrome, Firefox, Edge i Safari, a Android aplikacija dostupna je u Google Play.
 
-Цбоард је доступан на мрежи путем широког спектра уређаја, укључујући радне површине, таблете и мобилне телефоне који користе Мац, Виндовс и Андроид оперативне системе. Најбоље се прегледава у прегледачима као што су Цхроме, Фирефок, Едге и Сафари, а Андроид апликација је доступна са Гоогле Плаи-а.
+![Podrška pretraživača](/images/help/browsers.png "Browser support")
 
-![Подршка за прегледач](/images/help/browsers.png "Browser support")
+Budući da je Cboard internet aplikacija, ona će odgovarati podešavanjima koje pružaju pojedini pretraživači. To može značiti da imate različite rezultate u podešavanjima koje pruža Cboard. Na primer, možda ćete naći različite opcije odabira govora.
 
-Будући да је Цбоард интернетска апликација, она ће одговорити на поставке које пружају поједини прегледачи. То може значити да имате различите резултате у подешавањима Цбоард-а. На пример, можете наћи различите могућности говора.
+Ne zaboravite da možete koristiti povećavanje pretraživača do određenog nivoa, u zavisnosti od veličine ekrana računara, tableta ili telefona.
 
-Не заборавите да такође можете повећати или увећати прегледач до одређене мере у зависности од величине екрана рачунара, таблета или телефона.
+Molimo vas, pitajte Cboard o načinu korišćenja visokog kontrasta za korisnike sa oštećenjem vida jer opcije zasnovane na pretraživaču nisu korisne kada koriste ovu vrstu web aplikacije.
 
-Питајте Цбоард о коришћењу режима високог контраста за оне са оштећењем вида јер опције засноване на претраживачу нису од помоћи приликом употребе ове врсте веб апликација.
+### <a name='WhichlanguagesaresupportedbyCboard'></a>Koje jezike podržava Cboard?
 
-### <a name='WhichlanguagesaresupportedbyCboard'></a>Које језике подржава Цбоард?
+Cboard ima podršku za 33 jezika. Za odabir drugog jezika idite na PODEŠAVANJA - odaberite JEZIK i pojaviće se dostupni jezici. Kada odaberete jezik, pored njega pojaviće se „kvačica". <iframe width="420" height="315" src="https://www.youtube.com/embed/HHq9b3dJ0zM" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
-Цбоард долази са подршком за 33 језика. Да бисте изабрали други језик, идите на ПОСТАВКЕ - одаберите ЈЕЗИК и појавиће се онај који је доступан. Изаберите избор и поред језика ће се појавити „крпељ“. 
+### <a name='CanCboardreadmymessageoutaloud'></a>Može li Cboard naglas da pročita moju poruku?
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/HHq9b3dJ0zM" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Da, Cboard koristi sintetizovani govorni izlaz dostupan na vašem uređaju za čitanje pojedinih naziva koji se nalaze ispod svakog simbola kada su dodati u okvir za izlaz poruka. Možete odabrati celu poruku koja će takođe biti pročitana naglas. Ako su nekom simbolu dodati vlastiti snimci zvuka, reči ili fraze (uputstvo pod Govor - Snimci govora), umesto sintetizovanog zvuka čućete vlastiti snimak. To može biti korisno ako prevod nije dostupan, ako je potreban dečji glas ili naglasak nije prihvatljiv. Molimo vas, proverite da li je omogućen mrežni pristup vašem mikrofonu.
 
-### <a name='CanCboardreadmymessageoutaloud'></a>Може ли Цбоард наглас прочитати моју поруку?
+### <a name='Speechcapabilities'></a>Mogućnosti govora
 
-Да, Цбоард користи синтетички излаз говора који је доступан на вашем уређају за читање појединачних налепница које се налазе испод сваког симбола док су додане у оквир за излаз порука. Можете одабрати комплетну поруку и она ће се такође прочитати наглас. Ако су неком симболу додате персонализовано снимање звука, речи или фразе (упутства под разговором - Снимање гласа), чућете тај снимак уместо синтетизованог гласа. То може бити од велике користи ако превод није доступан на језику, потребан је дечји глас или је акценат неприхватљив. Молимо вас проверите да ли је вашем микрофону омогућен приступ интернету.
+Da biste prilagodili govorne mogućnosti/glas, uđite u PODEŠAVANJA, a pod kategorijom JEZIK je kategorija GOVOR. Kad odaberete GOVOR, moći ćete da uredite visinu i tempo govora na Cboard-u.
 
-### <a name='Speechcapabilities'></a>Способности говора
+![Mogućnosti govora](/images/help/speech.png "Speech capabilities")
 
-Да бисте прилагодили говорне могућности, уђите у ПОСТАВКЕ, а под категоријом ЈЕЗИК је категорија СПАСАК. Када одаберете СПЕЕЦХ, моћи ћете да уређујете висину и темпо говора на Цбоард-у.
+### <a name='Exportandimport'></a>Izvoz i učitavanje
 
-![Способности говора](/images/help/speech.png "Speech capabilities")
+Obe mogućnosti izvoza nalaze se unutar PODEŠAVANJA u kategoriji SISTEM, ispod jezika i govora. Kategorija IZVOZ pružiće vam mogućnost otpremanja u formatu OpenBoarda ili PDF-a. Kategorija UČITAVANJE otvoriće vaše sačuvane datoteke nakon što odaberete VRAĆANJE.
 
-### <a name='Exportandimport'></a>Извоз и увоз
+![Mogućnosti izvoza](/images/help/export.png "Export capabilities")
 
-Обе опције за извоз у оквиру ПОСТАВКА су у категорији СИСТЕМА, испод језика и говора. Категорија ЕКСПОРТ ће вам дати могућност да отпремите ОпенБоард или ПДФ. ИМПОРТ категорија ће отворити ваше сачуване датотеке након што одаберете РЕСТОРЕ.
+### <a name='Displaycapabilities'></a>Mogućnosti prikaza
 
-![Извозне могућности](/images/help/export.png "Export capabilities")
+Podešavanje prikaza se može uređivati u PODEŠAVANJA, unutar kategorije SISTEM. Opcija Prikaz nalazi se odmah ispod Izvoz i učitavanje. Kada odaberete PRIKAZ, možete promeniti veličinu ekrana kao i veličinu fonta aplikacije odabirom željene veličine. Crvena tačka treba da bude ispod veličine koju želite da odaberete.
 
-### <a name='Displaycapabilities'></a>Могућности приказа
+![Mogućnosti prikaza](/images/help/display.png "Display capabilities")
 
-Подешавања екрана могу се уређивати у СЕТТИНГС, унутар категорије СИСТЕМ. Опција Дисплаи је тачно испод Екпорт анд Импорт. Оне које одаберете ДИСПЛАИ, можете променити величину корисничког сучеља као и величину фонта за апликацију одабиром жељене величине. Црвена тачка би требала бити испод величине коју желите изабрати.
+### <a name='CanIchangeanynavigationsettings'></a>Mogu li da promenim bilo koje postavke navigacije?
 
-![Могућности приказа](/images/help/display.png "Display capabilities")
+U odeljku NAVIGACIJA uredite i olakšajte način na koji se krećete po Cboard-u i brišete simbole u okviru sa porukama. Navigacija na kraju kategorije SISTEM u PODEŠAVANJA omogućuje vam odabir većeg dugmeta "nazad" koje se lakše koristi. Takođe je moguće dopustiti da se iznad svakog simbola koji su prikazani u okviru sa porukama, pojavi dugme za brisanje "x". To može olakšati brisanje simbola unutar rečenice. Budite svesni potreba korisnika jer to može da zbuni pojedince.
 
-### <a name='CanIchangeanynavigationsettings'></a>Могу ли променити било која подешавања навигације?
+### <a name='Navigationthroughtheinterface'></a>Navigacija ekrana
 
-Користите одељак НАВИГАЦИЈА да измените и олакшате начин на који се крећете по картону и бришете симболе у пољу за поруке. Навигација на крају категорије СИСТЕМА У ПОСТАВАМА омогућава вам веће дугме за повратак које је лакше одабрати. Такође је могуће дозволити да се дугме за брисање ('к') појави изнад сваког симбола док су представљени у оквиру са поруком. Ово може олакшати брисање симбола унутар реченице. Али имајте на уму потребе корисника, јер то може збунити неке појединце.
+Kako biste uredili i olakšali navigaciju kroz Cboard, odaberite NAVIGACIJA, zadnju stavku menija SISTEM (unutar podešavanja) koja vam omogućuje dodavanje određenih detalja za olakšano korišćenje. Prva opcija unutar navigacije omogućava odabir većeg dugmeta "nazad" koje se lakše koristi kada je uvećano. Druga opcija dodaje dugme "x" radi lakšeg brisanja simbola, a treća olakšava otključavanje zahtevajući samo jedan "klik" za otključavanje podešavanja.
 
-### <a name='Navigationthroughtheinterface'></a>Навигација кроз интерфејс
+![Mogućnosti navigacije](/images/help/navigation.png "Navigation capabilities")
 
-Да бисте изменили и олакшали навигацију кроз картицу, изаберите НАВИГАЦИЈА, последња ставка менија у систему СИСТЕМ (све у подешавањима) омогућава вам додавање одређених детаља ради лакшег коришћења плоче. Прва опција унутар Навигације омогућава веће дугме за повратак које је лакше изабрати због величине. Други додаје дугме 'к' ради лакшег брисања симбола, а трећи олакшава откључавање захтијевајући само један клик за откључавање поставки.
+## <a name='Settings'></a>Podešavanja
 
-![Могућности за навигацију](/images/help/navigation.png "Navigation capabilities")
+### <a name='HowdoIaccesssettingsinCboard'></a>Kako da pristupim postavkama u Cboard-u?
 
-## <a name='Settings'></a>Подешавања
+Nakon što se prijavite u Cboard, otvoriće se početna stranica.
 
-### <a name='HowdoIaccesssettingsinCboard'></a>Како да приступим подешавањима на картици?
+Da biste pristupili PODEŠAVANJIMA, kliknite na mali katanac, na gornjoj desnoj strani ispod strelice, tri puta. Nakon što to uradite, pojaviće se siva traka ispod trake POČETNA stranica. Dugme 'podešavanja' pojaviće se odmah sa leve strane katanca na traci POČETNA stranica, drugi po redu sa desne strane.
 
-Једном када се пријавите на картицу, отвориће се ХОМЕ страница.
+### <a name='HowdoIprintmyboardsetinCboard'></a>Kako mogu da odštampam svoju tablu u Cboard-u?
 
-Да бисте приступили СЕТТИНГС-у, изаберите малу браву са десне стране три пута, испод стрелице. Након што то учините, сива трака ће се појавити испод црне ХОМЕ траке, а дугме „подешавања“ ће се појавити директно лево од закључавања на траци ХОМЕ, друго са десне стране.
+Da bi se odštampala tabla, pritisnite sličicu na kojoj je prikazan štampač na levoj strani crne trake POČETNA stranica, nakon što se otključa POČETNA stranica. Adobe Portable Dokument (.pdf) će biti preuzet na vaš uređaj.
 
-### <a name='HowdoIprintmyboardsetinCboard'></a>Како да штампам свој сет плоче на Цбоард?
+### <a name='HowdoIseeCboardinfullscreen'></a>Kako prikazati Cboard na celom ekranu?
 
-Да бисте исписали плочу, притисните логотип штампача на левој страни црне траке ХОМЕ, након што сте откључали ХОМЕ страницу. На вашу технологију биће преузет Адобе Портабле Доцумент (.пдф).
+Kako biste prikazali Cboard na celom ekranu, otključajte ekran pritiskom na simbol katanca sa desne strane, a zatim u najvišem redu (crna traka), drugi simbol sa leve strane, koji izgleda kao pravougaonik, proširuje ekran.
 
-### <a name='HowdoIseeCboardinfullscreen'></a>Како могу да видим картицу на целом екрану?
+![mogućnosti celog ekrana](/images/help/fullscreen.png "Fullscreen")
 
-Да бисте видели Цбоард на целом екрану, откључајте екран притиском на симбол закључавања са десне стране, а затим на највиши ред (црна трака), други симбол са леве стране који изгледа као правоугаоник проширује екран.
+### <a name='HowdoIshareaboard'></a>Kako da podelim tablu?
 
-![могућности целог екрана](/images/help/fullscreen.png "Fullscreen")
+Da biste podelili tablu, otključajte ekran pritiskom na simbol katanca sa desne strane, zatim u najvišem redu (crna traka), treći simbol sa desne strane daje vam mogućnost deljenja table na bilo koji e-mail, Facebook, Twitter, ili kopiranje veze da biste je nekome poslali. <iframe width="420" height="315" src="https://www.youtube.com/embed/fE0R6HzZ9O4" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
-### <a name='HowdoIshareaboard'></a>Како да делим плочу?
+## <a name='Talking'></a>Govor
 
-Да бисте делили плочу, откључајте екран притиском на симбол закључавања са десне стране, а затим на највишем реду (црна трака), трећи симбол са десне стране вам даје могућност да заједничку плочу делите на било који емаил, Фацебоок, Твиттер или копирајте везу да бисте је некоме послали. 
+### <a name='HowdoIaddapersonallyrecordedvoicetosymbolsonCboard'></a>Kako mogu da dodam lično snimljeni glas simbolima na tabli?
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/fE0R6HzZ9O4" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+1. Idite na tablu koju želite da koristite.
 
-## <a name='Talking'></a>Талкинг
+2. Otključajte tablu pomoću katanca sa desne strane.
 
-### <a name='HowdoIaddapersonallyrecordedvoicetosymbolsonCboard'></a>Како могу додати лично снимљени глас симболима на плочи?
+3. Odaberite dugme UREDI na levoj strani.
 
-1. Идите на плочу коју желите да користите.
+4. Odaberite ćeliju simbola ili pločicu kojoj želite da dodate glasovni zapis. Jednom kada ste odabrali pločicu ili niz pločica, u svakoj će se pojaviti plava kvačica i one će biti označene.
 
-2. Откључајте плочу помоћу браве с десне стране.
+5. Odaberite ikonu OLOVKA na krajnjoj desnoj strani svetloplave trake.
 
-3. Изаберите дугме ЕДИТ на левој страни.
+6. Jednom kada se pločica otvori, imate mogućnost korišćenja diktafona za dodavanje zvuka, reči, fraze itd.
 
-4. Одаберите ћелију или плочицу симбола којој желите да додате говорни снимак. Једном када одаберете плочицу или низ плочица, у сваком ће се појавити плави квачица и они ће бити означени.
+7. Dodajte oznaku za vokalizaciju
 
-5. Изаберите икону ПЕНЦИЛ на крајњој десној страни на светло плавој траци.
-
-6. Када се плочица отвори, биће вам дата могућност да помоћу диктафона додате звук, реч или фразу итд.
-
-7. Додајте налепницу за вокализацију
-
-8. Коначно одаберите симбол микрофона и снимите, можете да снимате више пута и можете да га репродукујете пре него што га сачувате на плочу.
+8. Konačno odaberite simbol mikrofona i snimite, možete snimati više puta i možete reprodukovati zapis pre nego što ga sačuvate na tabli.
     
-    Ако сте одабрали више симбола, НЕКСТ пређите на следећи симбол и поновите поступак. 
+    Ako ste odabrali više simbola, pritiskom na SLEDEĆI pređite na sledeći simbol i ponovite postupak. <iframe width="420" height="315" src="https://www.youtube.com/embed/KZwCP4PkM4I" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/KZwCP4PkM4I" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+### <a name='HowdoIswitchtoadifferentvoice'></a>Kako da odaberem drugi glas?
 
-### <a name='HowdoIswitchtoadifferentvoice'></a>Како да пребацим на други глас?
+Da biste prilagodili govorne mogućnosti/glas, uđite u podešavanja, a pod kategorijom JEZIK je kategorija GOVOR. Kad odaberete GOVOR, moći ćete da uredite visinu i tempo govora na Cboard-u. Možete snimiti vlastiti glas za simbole, prateći korake odgovora za "Kako mogu dodati lično snimljeni glas simbolima na tabli?"
 
-Да бисте прилагодили говорне могућности / глас, уђите у подешавања, а под категоријом ЈЕЗИК је категорија СПЕЕЦХ. Када одаберете СПЕЕЦХ, моћи ћете да уређујете висину и темпо говора на Цбоард-у. Такође можете да снимите свој сопствени глас за симболе пратећи кораке одговора за „Како да додам лично снимљени глас симболима на плочи?“
+### <a name='HowdoIchangehowavoicesounds'></a>Kako mogu da promenim način na koji zvuči glas?
 
-### <a name='HowdoIchangehowavoicesounds'></a>Како да променим звук гласа?
+Da biste prilagodili govorne mogućnosti/glas/zvuk, uđite u podešavanja, a pod kategorijom JEZIK odaberite GOVOR. Tada ćete moći da uređujete visinu i tempo govora na Cboardu.
 
-Да бисте прилагодили говорне могућности / глас / звук, идите на ПОСТАВКЕ, а под категоријом ЈЕЗИК одаберите категорију ГОВОР. Тада ћете моћи да уређујете висину и темпо говора на Цбоард-у.
+## <a name='BoardEditing'></a>Uređivanje table
 
-## <a name='BoardEditing'></a>Уређивање одбора
+### <a name='HowdoIcreateanemptyboard'></a>Kako da kreiram praznu tablu?
 
-### <a name='HowdoIcreateanemptyboard'></a>Како да направим празну плочу?
+U Cboardu prazna tabla jednaka je folderu.
 
-У картону празна плоча је једнака мапи.
+Ako želite da kreirate novu ili praznu tablu, morate napraviti novi folder, što će stvoriti novu tablu u prostoru za čuvanje na Cboard-u (što možete videti kada u načinu uređivanja pređete na TABLE na srednjoj traci).
 
-Ако желите да направите нову или празну плочу, морате да креирате нову фасциклу, а то ће створити нову плочу у простору за складиштење картице (што можете видети када пређете на БОАРДС на средњој траци у режиму уређивања).
+Nova prazna tabla će biti odmah dostupna za uređivanje i može se postaviti kao korenska tabla (pomoću tipke za izgradnju), što znači da će to biti prva tabla koju ćete videti kada sledeći put otvorite Cboard.
 
-Нова празна плоча биће одмах доступна за уређивање и може се поставити као матична плоча (помоћу дугмета за прављење), што значи да ће то бити прва плоча коју ћете видети следећи пут када отворите плочу.
+Da biste napravili novi folder, počnite otključavanjem ekrana odabirom tipke za zaključavanje sa desne strane. Jednom kada otključate ekran, odaberite simbol plus (+) na desnoj strani kako biste dodali pločicu. Tada ćete dobiti mogućnost dodavanja pločica/tipki što je prva i automatska opcija ili odaberite PRAZNA TABLA. Ova akcija stvara NOVU TABLU kojoj možete dodati više pločica i foldera.
 
-Да бисте креирали нову фасциклу, започните откључавањем екрана одабиром дугмета за закључавање на десној страни. Једном када откључате екран, изаберите симбол плус (+) на десној страни да бисте додали плочицу. Тада ћете добити опцију да додате плочицу / дугме која је прва и аутоматска опција или да одаберете ФОЛДЕР. Ова радња чини НОВУ таблу којој можете додати више плочица и мапа.
+Jednom kada ste imenovali tablu, možete preneti sliku na sličan način kao što je izrađivanje pločice sa podešavanjem boje i naziva. Ova nova tabla će se automatski povezati sa tablom iznad nje (ako sadrži niz pločica). Pojaviće se na vašem popisu tabli kao prazna tabla dok se ne popuni simbolima i oznakama. <iframe width="420" height="315" src="https://www.youtube.com/embed/FPfbrAtj1Zg" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
-Једном када именујете фасциклу, можете отпремити слику на сличан начин као и плочица са поставком боја и налепницом. Ова нова мапа ће се аутоматски повезати с плочом изнад ње (ако садржи ред плочица). Појавит ће се на вашој листи плоча као празна табла док није попуњена симболима и наљепницама. 
+### <a name='HowdoIpersonalizeanexistingboardinCboard'></a>Kako da personalizujem postojeću tablu u Cboardu?
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/FPfbrAtj1Zg" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+Kako biste personalizovali postojeću tablu, odaberite KATANAC u gornjem desnom uglu trake iznad table, (ispod strelice sa krstićem). Nakon što to uradite, ispod crne trake pojaviće se druga traka, a na levoj strani ćete pronaći ikonu malog bloka (UREDI) za dodavanje pločice ili ćelije. Kad ste odabrali blok, siva traka bi trebalo da postane plava, a na desnoj strani videćete malu kantu za smeće i olovku.
 
-### <a name='HowdoIpersonalizeanexistingboardinCboard'></a>Како да персонализујем постојећу плочу у Цбоард-у?
+![personalizujte postojeću tablu](/images/help/personalize.png "personalize an existing board")
 
-Да бисте персонализовали постојећу плочу, изаберите закључавање у горњем десном углу траке изнад плоче (испод стрелице са крстом). Након што то учините, друга црта појавиће се испод црне ХОМЕ траке, а на левој страни ћете пронаћи икону малог блока (ЕДИТ) за додавање плочице или ћелије. Једном када је одабран блок, сива трака треба постати плава, а на десној страни ћете видети малу канту за смеће и оловку.
+Da biste personalizovali tablu, odaberite olovku i moći ćete menjati naziv, učitati sliku i dodati zvučni zapis. <iframe width="420" height="315" src="https://www.youtube.com/embed/sRnVvafKBLM" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
-![персонализујте постојећу плочу](/images/help/personalize.png "personalize an existing board")
+### <a name='CanIusemyownpictureswheneditingaboard'></a>Mogu li da koristim svoje slike pri uređivanju table?
 
-Да бисте персонализовали плочу, изаберите оловку и моћи ћете да промените налепницу, ставите слику и додате Воцализатион. 
+Da, možete koristiti svoju sliku pri uređivanju table. Kako biste koristili svoju sliku, možete je preneti kad kreirate novu pločicu (odabirom znaka PLUS (+) na sivoj traci nakon otključavanja stranice). Možete i urediti postojeću pločicu svojom slikom.
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/sRnVvafKBLM" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+### <a name='CanIchangetheorderingoftheelementsinaboard'></a>Mogu li da promenim redosled elemenata na tabli?
 
-### <a name='CanIusemyownpictureswheneditingaboard'></a>Могу ли користити своје слике приликом уређивања плоче?
+Da! Kada uređujete tablu, otključajte ekran pomoću simbola KATANAC. Zatim odaberite ikonu UREDI na levoj strani (ispod ikone IZRADI). Zatim možete povući piktogram/simbol ili folder gde god želite unutar iste table.
 
-Да, можете користити сопствену слику приликом уређивања плоче. Да бисте користили сопствену слику, можете је отпремити кад креирате нову плочицу (одабиром ПЛУС СИГН (+) на сивој траци након откључавања странице). Такође можете да уредите постојећу плочицу са сопственом сликом.
+### <a name='HowdoIselectmultipleelementstoedit'></a>Kako da odaberem više elemenata za uređivanje?
 
-### <a name='CanIchangetheorderingoftheelementsinaboard'></a>Могу ли променити редослед елемената на плочи?
+Na isti način na koji menjate redosled elemenata na tabli, ali umesto odabira i povlačenja, birate krug unutar piktograma/simbola. Možete odabrati više od jednog, kako biste uredili nekoliko simbola. Nakon toga odaberite ikonu OLOVKE na desnoj strani što će vam omogućiti uređivanje odabranih elemenata. <iframe width="420" height="315" src="https://www.youtube.com/embed/ZgRUamoF8Vk" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
-Да! Када уређујете плочу, откључајте екран помоћу симбола ЛОЦК. Затим изаберите икону блока ЕДИТ на левој страни (испод иконе БУИЛД). Затим можете повући пиктограм / симбол или мапу где год желите да га ставите унутар исте плоче.
+### <a name='FindSymbols'></a>Kako mogu da pronađem nove simbole kada uređujem pločicu?
 
-### <a name='HowdoIselectmultipleelementstoedit'></a>Како да изаберем више елемената за уређивање?
+Odaberite ikonu UREDI na levoj strani trake na tabli i odaberite piktogram/simbol koji želite da promenite. Odaberite ga i nakon što plavi prsten ima kvačicu, pređite na ikonu OLOVKA sa desne strane. Odabirom olovke primetićete da se za traženje simbola nalazi ikona LUPA. Kada se aktivira mogućnost pretraživanja, na traci za uređivanje videćete BIBLIOTEKU PRETRAŽIVOG SIMBOLA. Unesite pojam/oznaku/reč koju tražite i pojaviće se simboli. Jednom kada odaberete jedan simbol, automatski će vas vratiti na stranicu "uredi pločicu". <iframe width="420" height="315" src="https://www.youtube.com/embed/-8OXT3b4Flk" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
 
-На исти начин мењате редослед елемената на плочи, али уместо да одаберете и превлачите, бирате круг унутар пиктограма / симбола. За уређивање многих симбола можете одабрати више њих. Након тога, изаберите икону ПЕНЦИЛ на десној страни и то ће вам омогућити да измените одабране елементе. 
+## <a name='Exportandimport-1'></a>Izvoz i učitavanje
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/ZgRUamoF8Vk" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+### <a name='HowdoIexportmyboardinCboard'></a>Kako da izvezem svoju tablu u Cboardu?
 
-### <a name='FindSymbols'></a>Како могу да пронађем нове симболе када уређујем плочицу?
+Da biste izvezli tablu u Cboard-u, pređite na PODEŠAVANJA, a čim otvorite Podešavanja, opcija IZVEZI pojaviće se kao strelica okrenuta prema dole, ispod jezik i govor.
 
-Изаберите икону блока ЕДИТ на левој страни траке плоче и изаберите пиктограм / симбол који желите да промените. Изаберите га и када плави прстен има квачицу, идите на икону ПЕНЦИЛ са десне стране. Одабиром оловке приметићете да постоји икона ЗА МЕЊАВАЊЕ СТАКЛА за претраживање симбола. Када је активирана функција претраживања, на траци за уређивање видећете СЕАРЦХ СИМБОЛ ЛИБРАРИ. Упишите концепт / ознаку / реч коју тражите и појавиће се симболи. Једном када одаберете један симбол, аутоматски ће вас вратити на страницу за уређивање ТИЛЕ. 
+Odaberite IZVEZI i preuzmite tablu odabirom OPENBOARD ili IZVOZ.
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/-8OXT3b4Flk" frameborder="0" allowfullscreen mark="crwd-mark"></iframe> 
+### <a name='HowdoIimportaboardintoCboard'></a>Kako da učitam tablu u Cboard?
 
-## <a name='Exportandimport-1'></a>Извоз и увоз
+Da biste učitali tablu, sledite korake koji se koriste za izvoz. UČITAVANJE je ispod Izvoz, strelica okrenuta prema gore sa horizontalnom trakom ispod nje.
 
-### <a name='HowdoIexportmyboardinCboard'></a>Како да извозим плочу у картон?
+### <a name='WhatfileformatdoesCboarduseforimportexport'></a>Koji format datoteke Cboard koristi za učitavanje/izvoz?
 
-Да бисте извезли плочу у Цбоард, идите на ПОСТАВКЕ, а чим отворите Подешавања, опција ЕКСПОРТ ће се појавити као стрелица окренута надоле, испод Језик и говор.
+Za učitvanje i izvoz tabli imate dve mogućnosti:
 
-Одаберите ЕКСПОРТ и преузмите плочу одабиром или ОПЕНБОАРД или ЕКСПОРТ.
+* Koristite matične datoteke table Cboard.
+* Koristite OpenBoard formatirane datoteke. [Saznajte više o Open Board Formatu](https://www.openboardformat.org/)
 
-### <a name='HowdoIimportaboardintoCboard'></a>Како да увозим плочу у Цбоард?
+## <a name='Displaycapabilities-1'></a>Mogućnosti prikaza
 
-Да бисте увезли плочу, следите кораке коришћене за извоз. ИМПОРТ је испод Извоз, стрелица окренута према горе са хоризонталном траком испод ње.
+### <a name='WhatcanIchangeonthedisplay'></a>Šta mogu da promenim na prikazu?
 
-### <a name='WhatfileformatdoesCboarduseforimportexport'></a>Који формат датотека користи Цбоард за увоз / извоз?
+Podešavanje prikaza se može uređivati u PODEŠAVANJA, unutar kategorije SISTEM. Opcija Prikaz nalazi se odmah ispod Izvoz i Učitavanje. Kada odaberete PRIKAZ, možete promeniti veličinu korisničkog ekrana kao i veličinu fonta aplikacije odabirom željene veličine. Crvena tačka treba da bude ispod veličine koju želite da odaberete.
 
-За увоз и извоз плоча имате две могућности:
+### <a name='CanIresizebuttonsonCboard'></a>Mogu li da promenim veličinu tipke na tabli?
 
-* Користите матичне плоче датотека Цбоард.
-* Користите датотеке форматиране на ОпенБоард-у. [Сазнајте више о Опен Боард Формат](https://www.openboardformat.org/)
+Da! Možete promeniti veličinu pločica ili dugmeta u PODEŠAVANJIMA. U kategoriji SISTEM odaberite PRIKAZ i dobićete 3 mogućnosti za veličinu: Standardni, Veliki, Extra Veliki. Pogledajte sliku u nastavku:
 
-## <a name='Displaycapabilities-1'></a>Могућности приказа
+![Mogućnosti prikaza](/images/help/display.png "Display capabilities")
 
-### <a name='WhatcanIchangeonthedisplay'></a>Шта могу да променим на екрану?
+## <a name='Scanning'></a>Skeniranje
 
-Подешавања екрана могу се уређивати у СЕТТИНГС, унутар категорије СИСТЕМ. Опција за приказ је испод Извоз и увоз. Једном када одаберете ДИСПЛАИ, можете променити величину корисничког интерфејса (УИ) као и величину фонта за апликацију одабиром жељене величине. Црвена тачка би требала бити испод величине коју желите изабрати.
+### <a name='CanIusescanningtechniquestoaccesssymbols'></a>Mogu li da koristim tehnike skeniranja za pristup simbolima?
 
-### <a name='CanIresizebuttonsonCboard'></a>Могу ли да променим величину тастера на плочи?
+Skeniranje je mesto u kojem se stavke u izbornom setu prikazuju uzastopno tokom vremena, a korisnik vrši odabir nedirektno, obično prekidačem. Skeniranje na tabli funkcioniše unutar kategorije PODEŠAVANJA i kategorije SISTEM. Postoje različita podešavanja skeniranja. Prvo biste trebali da omogućite postavku skeniranja odabirom opcije OMOGUĆI. Tada možete odabrati vremensko odlaganje kao i metodu (automatsku ili ručnu). Imajte na umu da prilikom korišćenja tableta ili pametnog telefona on može imati i svoju ugrađenu opciju skeniranja.
 
-Да! Можете да промијените величину плочица или гумба у ПОСТАВАМА. У категорији СИСТЕМ одаберите ДИСПЛАИ и добиће вам 3 опције за величину: Стандард, Ларге, Ектра Ларге. Погледајте слику испод:
+## <a name='CommunicatorBuilder'></a>Izrada komunikatora
 
-![Могућности приказа](/images/help/display.png "Display capabilities")
+### <a name='Whatiscommbuilder'></a>Šta je izrada komunikatora?
 
-## <a name='Scanning'></a>Скенирање
+Izrada komunikatora je funkcija koja vam omogućava da rukujete tablama kako biste ih kopirali, brisali, objavljivali, dodavali i uklanjali. Da biste pristupili funkciji treba da otključate podešavanja i kliknete na dugme "Izradi". Videćete novu stranicu koja se sastoji od tri različite kartice: table, javne table, sve moje table. Pogledajte sliku u nastavku:
 
-### <a name='CanIusescanningtechniquestoaccesssymbols'></a>Могу ли да користим технике скенирања за приступ симболима?
+![Izrada komunikatora](/images/help/communicator.png "Communicator builder")
 
-Скенирање је оно где се ставке у скупу за избор приказују узастопно током времена и корисник врши избор индиректно, обично прекидачем. Скенирање на плочи ради у оквиру ПОСТАВКЕ и у категорији СИСТЕМ. Постоје различита подешавања за скенирање. Прво бисте требали омогућити подешавање скенирања одабиром опције ЕНАБЛЕ. Затим можете одабрати временско одлагање, као и метод (аутоматски или ручни). Имајте на уму да када користите таблет или паметни телефон може имати и своју уграђену опцију скенирања.
+### <a name='CommunicatorBoards'></a>Table komunikatora
 
-## <a name='CommunicatorBuilder'></a>Communicator builder
+Zadata kartica koju ćete videti u Izrada komunikatora je kartica table komunikatora koja će prikazivati sve table uključene u Vaš komunikator. Možete napraviti promene u Vašem komunikatoru pomoću sledećih tipki:
 
-### <a name='Whatiscommbuilder'></a>What is the communicator builder?
+* Ukloni tablu iz komunikatora: ova tipka će ukloniti tablu iz Komunikatora, ali NEĆE obrisati tablu iz baze podataka i ona će i dalje biti dostupna pod karticom Sve moje table.
 
-The communicator builder is a feature that allows you to handle boards in order to copy, delete, publish, add and remove them. In order to access to the functionality you need to unlock settings and click on 'Build' buttton. You will see a new page structured on three different tabs: boards, public boards, all my boards. See figure below:
+* Postavi tablu kao početnu: ova tipka definiše odabranu tablu kao početnu tablu koja će se prikazati svaki put kada se prijavite u Cboard.
 
-![Communicator builder](/images/help/communicator.png "Communicator builder")
+![Table komunikatora](/images/help/communicatorBoards.png "Communicator boards")
 
-### <a name='CommunicatorBoards'></a>Communicator boards
+### <a name='PublicBoards'></a>Javne table
 
-The default tab you will see in communicator builder is the communicator boards tab, that will display all boards included into your communicator. You can make changes in your communicator from following action buttons:
+* Kopiraj tablu: ova tipka će napraviti kopiju table i ona će biti dodata u Vaš komunikator. Pošto je ovo kopija javne table, možete je urediti kako želite, što neće uticati na originalnu javnu tablu.
 
-* Remove board from communicator: this buttton will quit the board from communicator but WILL NOT delete the board from the database and it is still available under 'All my boards' tab.
+![Javne table](/images/help/PublicBoards.png "Public boards")
 
-* Set board as root: this buttton will define the board as the first board to be displayed every time you login to Cboard.
+### <a name='Allmyboards'></a>Sve moje table
 
-![Communicator boards](/images/help/communicatorBoards.png "Communicator boards")
+Imajte na umu da samo registrovani korisnici mogu pristupiti ovoj funkciji kartice.
 
-### <a name='PublicBoards'></a>Public boards
+* Ukloni tablu iz komunikatora: ova tipka će ukloniti tablu iz Komunikatora, ali NEĆE obrisati tablu iz baze podataka i ona će i dalje biti dostupna.
 
-* Copy board: this buttton will create a copy of the board and it will add it into your communicator. As this is a copy of the public board, you can edit this board as you want without affecting the original public board.
+* Dodaj tablu u komunikator: ova tipka će uključiti tablu u komunikator.
 
-![Public boards](/images/help/PublicBoards.png "Public boards")
-
-### <a name='Allmyboards'></a>All my boards
-
-Please note that JUST registered users can access to this tab functionality.
-
-* Remove board from communicator: this buttton will quit the board from communicator but WILL NOT delete the board from the database and it is still available.
-
-* Add board to the communicator: this buttton will include the board to the communicator.
-
-* Publish board: This action will make public the board and it will be displayed under the public boards tab. Everybody can see your board.
+* Objavi tablu: Ova akcija će učiniti tablu javnom i ona će biti prikazana pod karticom javne table. Svi mogu da vide Vašu tablu.
     
- * Unpublish board: This action will make the board private and it won't be displayed under the public boards tab. Nobody can see your board.
+ * Odjavi tablu: ova akcija će ponovo učiniti tablu privatnom i više neće biti vidljiva pod karticom Javne table. Niko neće moći da vidi Vašu tablu.
     
- * Delete board: This action will delete the board and it cannot be recovered. The board will be removed from the database.
+ * Obriši tablu: Ova akcija će izbrisati tablu i neće je biti moguće vratiti. Tabla će biti uklonjena iz baze podataka.
 
-![All my boards](/images/help/AllmyBoards.png "All my boards")
+![Sve moje table](/images/help/AllmyBoards.png "All my boards")
