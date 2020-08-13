@@ -8,7 +8,6 @@ categories:
 image: /images/eipam2.jpg
 author_staff_member: Katrina
 ---
-## Die letzten Testwochen
 
 Während der letzten zwei Testwochen sahen wir weiterhin Patienten aus Ciren und Eipan, aber obwohl wir einige neue Patienten sahen, handelte es sich bei der Mehrzahl der Besuche um zweite Sitzungen mit zuvor gesehenen Patienten. Dies war hilfreich, da die Kinder nicht so überfordert von neuen Bildern waren und Cboard (zumindest) zum zweiten Mal sahen. Wir hatten Ordner mit wenigen Piktogrammen (also weniger visueller Stimulation) erstellt, um festzustellen, ob sich ihre Reaktionen und ihr Verständnis seit dem ersten Besuch geändert haben.
 
@@ -24,7 +23,7 @@ Den anderen Patienten fiel es mit den bearbeiteten Ordnern ebenfalls leichter, s
 
 ![Eipan2](/images/eipan3.jpeg)
 
-## Gesamtfeedback und letzte Gedanken
+## Allgemeines Feedback und letzte Gedanken
 
 Wir haben die ersten Benutzertests bei Ciren und Eipan am 28. August abgeschlossen. Das Feedback aus dem Test bleibt ähnlich wie das erste Feedback aus dem ersten Beitrag:
 

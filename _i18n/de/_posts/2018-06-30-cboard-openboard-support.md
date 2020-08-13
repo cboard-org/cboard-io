@@ -9,11 +9,10 @@ categories:
 image:
 author_staff_member: shay
 ---
-## Intro
 
 Wir bei Cboard haben kürzlich eine neue und aufregende Funktion veröffentlicht: Openboard-Unterstützung. Dies wird ein Schlüsselelement sein, um Cboard-Benutzern eine flexible Plattform zu ermöglichen, die einfaches Teilen und Migrieren unterstützt.
 
-## Was ist das Open Board Format?
+## Was ist das Open Board-Format?
 
 Open Board Format, kurz OBF, ist eine Spezifikation für AAC-Kommunikationskarten. Sie beschreibt die Daten und die Struktur, die für die Darstellung einer Karte erforderlich sind, von der Anzahl der Rasterzeilen bis hin zu Schaltflächen, Bildern und mehr. Es wurde entwickelt, damit Boards zwischen Apps portiert und von Personen gemeinsam genutzt werden können.
 
@@ -21,7 +20,7 @@ Open Board Format, kurz OBF, ist eine Spezifikation für AAC-Kommunikationskarte
 
 Als wir von Open Board Format erfuhren, mussten wir nicht viel nachdenken, die Vorteile lagen auf der Hand, jeder gewinnt, der Benutzer, Cboard und das AAC-Ökosystem (hoffentlich). Der Benutzer kann seine Boards in andere Anwendungen migrieren und Boards für andere Personen freigeben. Cboard kann öffentlich zugängliche Boards von Drittanbietern einbinden, Benutzer können von anderen Apps zu Cboard migrieren. Wenn mehr OBF-kompatible Boards online veröffentlicht werden, werden Boards nicht länger ein Schlüsselfaktor für die Entscheidung zwischen AAC-Apps sein, und Unternehmen müssen sich mehr auf die Verbesserung der Softwarequalität als auf Inhalte konzentrieren, um einen Wettbewerbsvorteil zu erzielen.
 
-## Software Änderungen
+## Softwareänderungen
 
 Um den OBF-Import in Cboard zu implementieren, haben wir eine Adapterfunktion erstellt, die ein OBF-Objekt verwendet und ein Objekt ausgibt, das Cboard verstehen und rendern kann. Die Spezifikation definiert auch eine Möglichkeit, Boards als .OBZ-Datei zu bündeln, bei der es sich im Wesentlichen um eine oder mehrere .OBF-Dateien handelt, die über gzip komprimiert wurden. Um gzip zu unterstützen, mussten wir zwei neue `npm` Pakete `jszip` und `jszip-utils`hinzufügen.
 
