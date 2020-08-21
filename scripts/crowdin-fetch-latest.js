@@ -40,6 +40,7 @@ const copyFiles = data => {
   try {
     fs.copySync(`${extractPath}/website/i18n/${data.source}`, `${destPath}/${data.dest}`);
     fs.copySync(`${extractPath}/website/${data.source}.yml`, `${destPath}/${data.dest}.yml`);
+    
     console.log('Sucess copy of ' + data.dest);
   } catch (err) {
     console.error(err)
