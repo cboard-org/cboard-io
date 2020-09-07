@@ -4,9 +4,6 @@ We got a few comments from Cboard users regarding language options on the platfo
 
 In order to access more language options, go into Settings, then Language, and at the bottom of the list of languages that appear, a 'MORE LANGUAGES' symbol will appear. See below: 
 
-![Screen Shot 2020-08-24 at 7.47.27 AM](../../../../Desktop/Screen Shot 2020-08-24 at 7.47.27 AM.png)
-
-![Screen Shot 2020-08-24 at 7.47.41 AM](../../../../Desktop/Screen Shot 2020-08-24 at 7.47.41 AM.png)
 
 We will be posting about new features added to Cboard soon. Get in touch if you have questions or comments! Your feedback helps us adapt the app to suit the users. 
 
