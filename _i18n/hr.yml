@@ -1,30 +1,30 @@
 ---
 global:
   tagline: Hrvatski
-  about: Oko
-  twitter: Cvrkut
+  about: O aplikaciji
+  twitter: Twitter
   github: GitHub
 langs:
   en: Eng
-  es: esp
+  es: Esp
   it: Ita
   de: Deu
   fr: Fra
   hr: Hrv
   sr: Srb
 pages:
-  indexTitleTop: Komunikacija za sve
-  indexSubTitleTop: internetska aplikacija za djecu i odrasle osobe s oštećenjem govora i jezika, pomažući komunikaciji sa simbolima i tekstom u govor.
+  indexTitleTop: Komunikacija za svakoga
+  indexSubTitleTop: Cboard je besplatna web i mobilna aplikacija za djecu i odrasle osobe s oštećenjem govora i jezika koja olakšava komunikaciju sa simbolima/slikama i pretvorbom teksta u govor.
   indexSubTitleTopin: je
   example: primjer
   about_title: Naša priča
-  about_desc: Mi smo međunarodna skupina profesionalaca čiji je jedini cilj razviti besplatnu komunikacijsku pomoć otvorenog koda za ljude širom svijeta.
+  about_desc: Mi smo međunarodna skupina profesionalaca čiji je jedini cilj razviti besplatan i otvorenog koda alat za komunikaciju za ljude širom svijeta.
   contact_address: Adresa
   contact_title: Javite se danas
   contact_subtitle: Ako imate bilo kakvih pitanja ili upita, pošaljite nam poruku i javit ćemo vam se što je prije moguće.
   blogTitle: Najnovije vijesti
-  blogSubTitle: Čujte najnoviji napredak na razvoju ploče
-  index_info1Title: Izgrađeno za web
+  blogSubTitle: Čujte najnoviji napredak na razvoju aplikacije Cboard
+  index_info1Title: Razvijeno za web
   index_info2Title: Personalizirane ploče
   index_info3Title: 33 jezika
   index_info1Desc: "Cboard radi na modernim preglednicima i dostupan je na velikom broju platformi, uključujući radne površine, tablete i mobilne telefone. Izvanmrežna podrška dostupna je na pregledniku Google Chrome (desktop i android)."

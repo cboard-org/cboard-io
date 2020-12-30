@@ -1,8 +1,8 @@
 ---
 global:
-  tagline: Italiano
+  tagline: Inglese
   about: Info
-  twitter: cinguettio
+  twitter: Twitter
   github: GitHub
 langs:
   en: Eng
@@ -14,30 +14,30 @@ langs:
   sr: Srb
 pages:
   indexTitleTop: Comunicazione per tutti
-  indexSubTitleTop: app web per bambini e adulti con problemi linguistici e vocali, facilitando la comunicazione con i simboli e la sintesi vocale.
+  indexSubTitleTop: app web per bambini e adulti con problemi di linguaggio e linguaggio, che aiuta la comunicazione con simboli e sintesi vocale.
   indexSubTitleTopin: è un
   example: esempio
   about_title: La nostra storia
-  about_desc: Siamo un gruppo internazionale di professionisti il cui unico obiettivo è sviluppare un servizio di comunicazione gratuito e open source per persone in tutto il mondo.
+  about_desc: Siamo un gruppo internazionale di professionisti il cui unico obiettivo è sviluppare un aiuto di comunicazione gratuito e open source per le persone di tutto il mondo.
   contact_address: Indirizzo
   contact_title: Mettiti in contatto oggi
-  contact_subtitle: Se hai domande o domande inviaci un messaggio e ti risponderemo al più presto.
+  contact_subtitle: In caso di domande o domande, inviaci un messaggio e ti risponderemo al più presto.
   blogTitle: Le ultime notizie
   blogSubTitle: Ascolta gli ultimi progressi sullo sviluppo di Cboard
   index_info1Title: Costruito per il web
   index_info2Title: Schede personalizzate
   index_info3Title: 33 lingue
-  index_info1Desc: "Cboard funziona su browser moderni ed è disponibile su una vasta gamma di piattaforme, inclusi desktop, tablet e telefoni cellulari. Il supporto offline è disponibile su Google Chrome (desktop e android)."
-  index_info2Desc: 'Con oltre 3400 simboli del <a href="https://mulberrysymbols.org/">Mulberry Symbol Set</a>, puoi creare le tue schede personalizzate per le diverse situazioni della vita.'
-  index_info3Desc: "Cboard viene fornito con supporto per 33 lingue, il supporto varia a seconda dei sistemi operativi."
+  index_info1Desc: "Cboard funziona su browser moderni ed è disponibile su un'ampia varietà di piattaforme, inclusi desktop, tablet e telefoni cellulari. Il supporto offline è disponibile su Google Chrome (desktop e Android)."
+  index_info2Desc: 'Con oltre 3400 simboli del set di simboli Mulberry <a href="https://mulberrysymbols.org/"></a>, puoi creare le tue schede personalizzate per diverse situazioni della vita.'
+  index_info3Desc: "Cboard viene fornito con il supporto per 33 lingue, il supporto varia tra i sistemi operativi."
   index_bottomTitle: 'Unisciti a noi su GitHub'
-  index_bottomDesc: 'Cboard è un progetto open source, apprezziamo sempre una mano amica, se vuoi contribuire, sei invitato al nostro repository GitHub.'
+  index_bottomDesc: 'Cboard è un progetto open source, apprezziamo sempre una mano, se vuoi contribuire sei invitato al nostro repository GitHub.'
 titles:
   pagination: paginatura
 navs:
-  about: di
+  about: Info
   contact: contatto
 button:
   readmore: Leggi di più
-  star: Start Cboard
+  star: Avvia Cboard
 
