@@ -25,7 +25,14 @@
 		gtag('js', new Date());
 
 		gtag('config', '{{ site.google_analytics_key }}');
+		gtag('config', '{{ site.google_ads_key }}');
 	</script>
+
+	<!-- Event snippet for Open Site conversion page -->
+    <script>
+	gtag('event', 'conversion', {'send_to': 'AW-783635605/G8T4CJ2cre8BEJWp1fUC'});
+    </script>
+  
 	{% endif %}
   
 
