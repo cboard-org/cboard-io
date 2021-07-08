@@ -8,5 +8,5 @@ group :jekyll_plugins do
 	gem 'jekyll-paginate', '1.1.0'
 	gem 'jekyll-archives', '2.1.1'
 	gem 'jekyll-sitemap', '1.2.0'
-	gem 'jekyll-multiple-languages-plugin'
+	gem 'jekyll-multiple-languages-plugin', '>= 1.6.0'
 end
