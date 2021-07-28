@@ -16,8 +16,12 @@ pages:
   indexSubTitleTop:  web app for children and adults with speech and language impairments, aiding communication with symbols and text-to-speech.
   indexSubTitleTopin: is an
   example: example
-  about_title: Our Story
-  about_desc: We are an international group of professionals whose sole goal is to develop a free and open-source communication aid for people around the globe.
+  about_title: Our Community
+  about_desc: Our community is a crucible of experiences and capabilities, from software developers, biomedical engineers, speech therapists, families, and people with disabilities. We treat ourselves as equals with respect and empathy
+  about_vision_title: Our Vision
+  about_vision_desc: Be a global one-stop solution for technological solutions for people with disabilities. With innovation, affordability and empathy as key motivators and guidelines.
+  about_mission_title: Our Mission
+  about_mission_desc: Everyday we work to improve people with disabilities lifestyle by returning the voice to all those who have lost it; we are sure that technology can empower people with disabilities.
   contact_address: Address
   contact_title: Get in touch today
   contact_subtitle: If you have any questions or queries send us a message and we'll get back to you as soon as we can.

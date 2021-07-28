@@ -17,11 +17,15 @@ pages:
   indexSubTitleTop: application Web pour enfants et adultes ayant des troubles de la parole et du langage, facilitant la communication avec des symboles et la synthèse vocale.
   indexSubTitleTopin: est un
   example: exemple
-  about_title: Notre histoire
-  about_desc: Nous sommes un groupe international de professionnels dont le seul objectif est de développer une aide à la communication gratuite et ouverte pour tous dans le monde.
+  about_title: Notre communauté
+  about_desc: Notre communauté est un creuset d'expériences et de capacités, provenant de développeurs de logiciels, d'ingénieurs biomédicaux, d'orthophonistes, de familles et de personnes handicapées. Nous nous traitons comme des égaux avec respect et empathie
+  about_vision_title: Notre vision
+  about_vision_desc: Être une solution globale à guichet unique pour les solutions technologiques pour les personnes handicapées. Avec l'innovation, l'abordabilité et l'empathie comme principaux facteurs de motivation et lignes directrices.
+  about_mission_title: Notre mission
+  about_mission_desc: Chaque jour, nous travaillons pour améliorer le mode de vie des personnes handicapées en redonnant la voix à tous ceux qui l'ont perdue ; nous sommes convaincus que la technologie peut autonomiser les personnes handicapées.
   contact_address: Adresse
   contact_title: Entrez en contact aujourd'hui
-  contact_subtitle: Si vous avez des questions ou des questions, envoyez-nous un message et nous vous contacterons dès que possible.
+  contact_subtitle: Si vous avez des questions ou des requêtes, envoyez-nous un message et nous vous contacterons dès que possible.
   blogTitle: Les dernières nouvelles
   blogSubTitle: Écoutez les derniers progrès sur le développement de Cboard
   index_info1Title: Construit pour le web
@@ -31,7 +35,7 @@ pages:
   index_info2Desc: 'Avec plus de 3 400 symboles du groupe de symboles <a href="https://mulberrysymbols.org/">Mulberry</a>, vous pouvez créer vos propres tableaux personnalisés pour différentes situations de la vie.'
   index_info3Desc: "Cboard prend en charge 33 langues, la prise en charge varie selon les systèmes d'exploitation."
   index_bottomTitle: 'Rejoignez-nous sur GitHub'
-  index_bottomDesc: 'Cboard est un projet open-source, nous apprécions toujours de l''aide, si vous voulez contribuer, vous êtes invité à notre repo GitHub.'
+  index_bottomDesc: 'Cboard est un projet open-source, nous apprécions toujours de l''aide, si vous voulez contribuer, vous êtes invité à notre dépôt GitHub.'
 titles:
   pagination: Pagination
 navs:
