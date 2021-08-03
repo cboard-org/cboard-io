@@ -199,6 +199,17 @@ To share a board, unlock the screen by pressing the lock symbol on the right han
 
 <div><iframe width="420" height="315" src="https://www.youtube.com/embed/fE0R6HzZ9O4" frameborder="0" allowfullscreen mark="crwd-mark"></iframe></div>
 
+### <a name='HowdoIshareaphrase'></a>How do I share a phrase?
+
+To share a phrase, only for the first time, unlock the screen, go to settings > Navigation and Buttons > and turn on the 'Show the share phrase button' option.
+
+![Phrase share Settings](https://user-images.githubusercontent.com/21298844/128038972-a2848d47-2675-4e2d-9a15-6f93186f29d6.png)
+
+Assemble a phrase. Then press the share icon that appears on the right of the output phrase bar. Select the social network where you want to share the phrase. One dialog would be open with the phrase in a text field. Press the submit button to share it.
+If you want to copy the phrase on your clipboard, press the share button and then 'copy to clipboard' option. One Notification would be shown on your screen with a succes message.
+
+![Phrase share button](https://user-images.githubusercontent.com/21298844/128044322-d61491c6-7168-4615-8117-244dc872091e.png)
+
 ## <a name='Talking'></a>Talking
 
 ### <a name='HowdoIaddapersonallyrecordedvoicetosymbolsonCboard'></a>How do I add a personally recorded voice to symbols on Cboard?
