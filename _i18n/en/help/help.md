@@ -27,6 +27,7 @@
     * [How do I print my board set in Cboard?](#HowdoIprintmyboardsetinCboard)
     * [How do I see Cboard in fullscreen?](#HowdoIseeCboardinfullscreen)
     * [How do I share a board?](#HowdoIshareaboard)
+    * [How do I share a phrase?](#HowdoIshareaphrase)
 * [Talking](#Talking) 
     * [How do I add a personally recorded voice to symbols on Cboard?](#HowdoIaddapersonallyrecordedvoicetosymbolsonCboard)
     * [How do I switch to a different voice?](#HowdoIswitchtoadifferentvoice)
