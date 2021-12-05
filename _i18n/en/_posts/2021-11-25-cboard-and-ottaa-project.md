@@ -6,7 +6,7 @@ categories:
   - cboard
   - unicef
   - Ottaa Project
-image: /images/serbia01.jpg
+image: /images/ottaateam.jpg
 author_staff_member: katrina
 ---
 [Cboard](https://www.cboard.io/) and [OTTAA project](https://www.ottaaproject.com/), both portfolio companies of the [UNICEF Innovation Fund](https://www.unicef.org/innovation/stories/giving-every-child-voice-aac-technology), have been working together for the past few months to amplify impact. 
