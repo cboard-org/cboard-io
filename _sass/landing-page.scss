@@ -42,10 +42,6 @@
     text-align: center;
   }
 
-  .hero-text-container h1 {
-    font-size: 40px;
-  }
-
   .hero-text-right {
     position: absolute;
     right: 0;
@@ -76,6 +72,9 @@
       flex: 1;
       padding: 0 20px;
     }
+  }
+  .hero-text-container h1 {
+    font-size: 65px;
   }
 
   .content section:nth-child(even) .flex {
