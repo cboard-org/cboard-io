@@ -1,3 +1,9 @@
+
+@font-face {
+  font-family: 'Catamaran';
+  src: url("/fonts/Catamaran.ttf");
+}
+
 html {
   background: #2b2b40;
 }
@@ -9,7 +15,7 @@ body {
 }
 
 body {
-  font-family: "Arimo", sans-serif;
+  font-family: Catamaran, Helvetica, Arial, "sans-serif";
 }
 
 a {
@@ -56,5 +62,5 @@ ul {
   margin-bottom: 20px;
   font-weight: 300;
   line-height: 1.5;
-  font-family: "Arimo", sans-serif;
+  font-family: Catamaran, Helvetica, Arial, "sans-serif";
 }
