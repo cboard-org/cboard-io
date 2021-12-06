@@ -10,7 +10,8 @@ bottom_image: /images/aacgathering.jpg
 	<div class="inner-hero text-container">
 		<div class="hero-text-container">
 			<h1 class="editable">{% t pages.indexTitleTop %}</h1>
-			<p class="subtext editable"><b>Cboard</b> <span>{% t pages.indexSubTitleTopin %}</span> <abbr title="Augmentative and Alternative Communication">AAC</abbr>
+			<p class="subtext editable"><b>Cboard</b> <span>{% t pages.indexSubTitleTopin %}</span> <abbr
+					title="Augmentative and Alternative Communication">AAC</abbr>
 				{% t pages.indexSubTitleTop %}</p>
 			<div class="cta button alt"><a href="https://app.cboard.io">{% t button.star %}</a></div>
 		</div>
@@ -21,8 +22,22 @@ bottom_image: /images/aacgathering.jpg
 	<section class="info">
 		<div class="container flex">
 			<div class="text">
+				<h2 class="editable">{% t pages.index_downloadTitle %}</h2>
+				<p class="editable">{% t pages.index_downloadDesc %}</p>
+			</div>
+			<div class="image">
+				<a className="badge-link" href="https://play.google.com/store/apps/details?id=com.unicef.cboard">
+					<img class="editable" src="/images/google-play-badge.svg" alt="Screenshot" />
+				</a>
+			</div>
+		</div>
+	</section>
+
+	<section class="info">
+		<div class="container flex">
+			<div class="text">
 				<h2 class="editable">{% t pages.index_info1Title %}</h2>
-                <p class="editable">{% t pages.index_info1Desc %}</p>
+				<p class="editable">{% t pages.index_info1Desc %}</p>
 			</div>
 			<div class="image">
 				<img class="editable" src="/images/app/cant-speak-iphone-english.png" alt="Screenshot" />
@@ -33,8 +48,8 @@ bottom_image: /images/aacgathering.jpg
 	<section class="info">
 		<div class="container flex">
 			<div class="text">
-                <h2 class="editable">{% t pages.index_info2Title %}</h2>
-                <p class="editable">{% t pages.index_info2Desc %}</p>
+				<h2 class="editable">{% t pages.index_info2Title %}</h2>
+				<p class="editable">{% t pages.index_info2Desc %}</p>
 			</div>
 			<div class="image">
 				<img class="editable" src="/images/app/home-board-ipad-hebrew.png" alt="Screenshot" />
@@ -45,8 +60,8 @@ bottom_image: /images/aacgathering.jpg
 	<section class="info">
 		<div class="container flex">
 			<div class="text">
-                <h2 class="editable">{% t pages.index_info3Title %}</h2>
-                <p class="editable">{% t pages.index_info3Desc %}</p>
+				<h2 class="editable">{% t pages.index_info3Title %}</h2>
+				<p class="editable">{% t pages.index_info3Desc %}</p>
 			</div>
 			<div class="image">
 				<img class="editable" src="/images/app/pizza-nexus-hindi.png" alt="Screenshot" />
@@ -57,9 +72,9 @@ bottom_image: /images/aacgathering.jpg
 	<section class="hero" style="background-image: url({% include relative-src.html src=page.bottom_image %})">
 		<div class="inner-hero text-container">
 			<div class="hero-text-container">
-                <h2 class="editable">{% t pages.index_bottomTitle %}</h2>
-				
-                <p class="subtext editable">{% t pages.index_bottomDesc %}</p>
+				<h2 class="editable">{% t pages.index_bottomTitle %}</h2>
+
+				<p class="subtext editable">{% t pages.index_bottomDesc %}</p>
 				<div class="cta button alt"><a href="https://github.com/cboard-org/cboard">Cboard GitHub</a></div>
 			</div>
 		</div>
