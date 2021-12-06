@@ -6,7 +6,7 @@ url: "https://www.cboard.io"
 baseurl:
 google_analytics_key: UA-110808529-1
 google_ads_key: AW-783635605
-google_maps_javascript_api_key: AIzaSyB-zxaWqIbmrZqoPeLj8gSaaZbzE-ziHBw
+google_maps_javascript_api_key: AIzaSyDEMjUcl3WVTNcurx9bVSDz2uT9jecyqPM
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
