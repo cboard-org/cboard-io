@@ -12,7 +12,6 @@ input[type="submit"] {
 
 .button a:hover,
 input[type="submit"]:hover {
-  background: $brand-color;
   color: #fff;
   cursor: pointer;
   transition: none;
@@ -24,13 +23,9 @@ input[type="submit"]:hover {
   text-transform: uppercase;
   color: #fff;
 }
-.btn-outline {
-  color: #fff;
-  border: 1px solid #fff;
-}
 
 .button.alt a:hover {
-  background: #764bea;
+  background: $brand-color;
   border-color: #eae4fa;
 }
 
