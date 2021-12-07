@@ -19,14 +19,19 @@ input[type="submit"]:hover {
 }
 
 .button.alt a {
-  background: #1976d2;
-  border-color: #1976d2;
+  border-radius: 300px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
   color: #fff;
+}
+.btn-outline {
+  color: #fff;
+  border: 1px solid #fff;
 }
 
 .button.alt a:hover {
-  background: #4b9fea;
-  border-color: #4b9fea;
+  background: #764bea;
+  border-color: #eae4fa;
 }
 
 textarea,
