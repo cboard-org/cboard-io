@@ -107,16 +107,18 @@
   .hero-text-container h1 {
     font-size: 65px;
   }
-
  
-  .segment-text-container {
+  .segment-text {
     text-align: center!important;
     margin-bottom: 100px;
+    h1  {
+      font-size: 55px;
+    }
+    p  {
+      color: #6c757d!important;
+    }
   }
 
-  .segment-text-container h1  {
-    font-size: 55px;
-  }
 
   .content section:nth-child(even) .flex {
     flex-direction: row-reverse;
