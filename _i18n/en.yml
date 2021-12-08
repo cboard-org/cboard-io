@@ -33,11 +33,13 @@ pages:
   indexInfosTitle: Open Source, +40 languages, Modern UI, Runs on Browsers and Android app.
   indexInfosSubTitle: Check out what you can do with Cboard in the open!
   index_info1Title: Built for the web
-  index_info2Title: Personalized boards
-  index_info3Title: 33 languages
+  index_info2Title: Modern interface
+  index_info3Title: 40+ languages
+  index_info4Title: Open Source
   index_info1Desc: "Cboard works on modern browsers and is available on a wide variety of platforms, including desktops, tablets and mobile phones. Offline support is available on Google Chrome (desktop & android)."
-  index_info2Desc: 'With more than 3400 symbols from the <a href="https://mulberrysymbols.org/">Mulberry Symbol Set</a>, you can create your own custom boards for different situations in life.'
-  index_info3Desc: "Cboard comes with support for 33 languages, support varies between operating systems."
+  index_info2Desc: "We use last technology trends to design and develop Cboard. Our ultimate goal is to offer a beautiful and intuitive interface that can be navigated without reading the user help."
+  index_info3Desc: "Cboard comes with support for 44 languages and counting!. We strongly believe that this is key to reduce inequalities among people with disabilities in the world."
+  index_info4Desc: "Cboard is 100% open source. A fantastic community of developers, speech professionals, parents, and institutions have made the project a reality. From translation to development, contribution is part of Cboard's DNA."
   index_bottomTitle: 'Join us on GitHub'
   index_bottomDesc: 'Cboard is an open-source project, we always appreciate a helping hand, if you want to contribute you are invited to our GitHub repo.'
 titles:
