@@ -74,17 +74,19 @@
 }
 
 .video {
+  position: relative;
+  padding: 60px 0;
   color: #f5f5f5;
   text-align: center;
   background: linear-gradient(#ac2f8a,#ff00bb);
-	padding: 0 20px 100px 20px;
+}
 
-	&:first-child {
-		padding-top: 100px;
-	}
-  h2 {
-    font-size: 2.5em;
-  }
+.video .container {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 .badges {
