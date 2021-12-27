@@ -73,6 +73,20 @@
   }
 }
 
+.video {
+  color: #f5f5f5;
+  text-align: center;
+  background: linear-gradient(#ac2f8a,#ff00bb);
+	padding: 0 20px 100px 20px;
+
+	&:first-child {
+		padding-top: 100px;
+	}
+  h2 {
+    font-size: 2.5em;
+  }
+}
+
 .badges {
   .badge-link {
       display: block;
