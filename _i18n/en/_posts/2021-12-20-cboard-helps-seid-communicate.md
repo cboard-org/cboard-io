@@ -6,7 +6,7 @@ categories:
   - cboard
   - unicef
   - montenegro
-image: /images/montenegro-2021.jpg
+image: /images/montenegro-2021.png
 author_staff_member: martin
 ---
 Podgorica, 1 December 2021 – Seid is a cheerful, calm six-year-old who goes to kindergarten and likes to listen to music. He was born with a speech impairment. Since he started using [Cboard](https://www.cboard.io/) application, he has been able to communicate using symbols, and this lets his parents and three siblings understand more easily, how he is feeling and what he wants.
@@ -28,7 +28,7 @@ His preschool teacher, Snezana Scekic says that the activities in kindergarten, 
 
 ![Snezana Scekic](/images/montenegro-2021-3.jpg)
 
-*UNICEF Montenegro / Duško Miljanić / 2021*
+Preschool teacher Snezana Scekic *UNICEF Montenegro / Duško Miljanić / 2021*
 
 Preschool teacher Snezana Scekic tells about how Seid is interested in the application, in Podgorica, in December 2021.
 “I notice that Seid is interested in the application and that he is happy to use it. When he shows exactly what he wants, we reward him". 
@@ -39,7 +39,7 @@ Teaching assistant, Mirnela Muratovic also thinks that Seid now communicates mor
 ‘’The Cboard app takes a little getting used to. To encourage Seid, we created activities in kindergarten using the Cboard symbols – and he was able to see how these symbols let him communicate with us and with other children”. 
 
 ![Mirnela Muratović](/images/montenegro-2021-4.jpg)
-*UNICEF Montenegro / Duško Miljanić / 2021*
+Mirnela Muratovic, Seid's teaching assistant *UNICEF Montenegro / Duško Miljanić / 2021*
 
 Teaching assistant Mirnela Muratovic tells about how Seid now communicates more easily with her and other teachers, in Podgorica, in December 2021.
 
