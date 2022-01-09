@@ -6,8 +6,8 @@ categories:
   - cboard
   - unicef
   - montenegro
-image: /images/montenegro-2021.jpg
-author_staff_member: martín
+image: /images/montenegro-2021.png
+author_staff_member: martin
 ---
 Podgorica, 1 de diciembre de 2021 – Seid es un niño de seis años alegre y tranquilo que va al jardín de infantes y le gusta escuchar música. Nació con una deficiencia de habla. Desde que comenzó a usar [Cboard](https://www.cboard.io/) , ha sido capaz de comunicarse con símbolos y esto permite a sus padres y tres hermanos entender más fácilmente, cómo se siente y lo que quiere.
 
@@ -28,7 +28,7 @@ Su maestra de jardín, Snezana Scekic dice que las actividades en la guardería,
 
 ![Snezana Scekic](/images/montenegro-2021-3.jpg)
 
-*UNICEF Montenegro/Dus�ko Miljanic�/ 2021*
+*UNICEF Montenegro / Duško Miljanić / 2021 CONTEXTEDIT*
 
 La docente Snezana Scekic cuenta cómo Seid está interesado en la aplicación, en Podgorica, en diciembre de 2021. “Observo que Seid está interesado en la aplicación y que está encantado de usarla. Cuando muestra exactamente lo que quiere, lo recompensamos".
 
