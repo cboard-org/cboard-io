@@ -3,11 +3,11 @@ title: 'Cboard ayuda a Seid de Montenegro a comunicarse'
 date: 2021-12-20
 description: Un niño con deficiencia en el habla utiliza tecnología de asistencia que apoya su desarrollo
 categories:
-  - cboard
+  - tablero
   - unicef
-  - montenegro
-image: /images/montenegro-2021.png
-author_staff_member: martin
+  - mono
+image: /images/montenegro-2021.jpg
+author_staff_member: martín
 ---
 Podgorica, 1 de diciembre de 2021 – Seid es un niño de seis años alegre y tranquilo que va al jardín de infantes y le gusta escuchar música. Nació con una deficiencia de habla. Desde que comenzó a usar [Cboard](https://www.cboard.io/) , ha sido capaz de comunicarse con símbolos y esto permite a sus padres y tres hermanos entender más fácilmente, cómo se siente y lo que quiere.
 
@@ -36,7 +36,7 @@ La profesora de asistente, Mirnela Muratovic también piensa que Seid ahora se c
 
 ‘’ La aplicación Cboard toma poco de acostumbrarse. Para alentar a Seid, creamos actividades en el jardín de hielo usando los símbolos de Cboard – y él pudo ver cómo estos símbolos le permitieron comunicarse con nosotros y con otros niños”.
 
-![Mirnela Muratovic](/images/montenegro-2021-4.jpg) *UNICEF Montenegro / Duško Miljanić / 2021*
+![Mirnela Muratovic](/images/montenegro-2021-4.jpg) *UNICEF Montenegro/Dusä ko Miljanicä / 2021*
 
 La asistente docente Mirnela Muratovic dice que Seid ahora se comunica más fácilmente con ella y con otros maestros, en Podgorica, en diciembre de 2021.
 

@@ -12,6 +12,7 @@ langs:
   fr: Fra
   hr: Hrv
   sr: Srb
+  mk: Mcd
 pages:
   indexTitleTop: Communication pour tous
   indexSubTitleTop: application Web pour enfants et adultes ayant des troubles de la parole et du langage, facilitant la communication avec des symboles et la synthèse vocale.
@@ -28,12 +29,18 @@ pages:
   contact_subtitle: Si vous avez des questions ou des requêtes, envoyez-nous un message et nous vous contacterons dès que possible.
   blogTitle: Les dernières nouvelles
   blogSubTitle: Écoutez les derniers progrès sur le développement de Cboard
+  index_downloadTitle: Téléchargez Cboard pour Android!
+  index_downloadDesc: L'application Cboard est disponible pour les appareils mobiles Android. Téléchargez maintenant pour commencer à communiquer
+  indexInfosTitle: Open Source, +40 langues, interface moderne, fonctionne sur les navigateurs et l'application Android.
+  indexInfosSubTitle: Découvrez ce que vous pouvez faire avec Cboard à l'ouverture!
   index_info1Title: Construit pour le web
-  index_info2Title: Conseils personnalisés
-  index_info3Title: 33 langues
+  index_info2Title: Interface moderne
+  index_info3Title: Plus de 40 langues
+  index_info4Title: Open Source
   index_info1Desc: "Cboard fonctionne sur les navigateurs modernes et est disponible sur une grande variété de plates-formes, y compris les ordinateurs de bureau, les tablettes et les téléphones mobiles. Le support hors ligne est disponible sur Google Chrome (desktop et android)."
-  index_info2Desc: 'Avec plus de 3 400 symboles du groupe de symboles <a href="https://mulberrysymbols.org/">Mulberry</a>, vous pouvez créer vos propres tableaux personnalisés pour différentes situations de la vie.'
-  index_info3Desc: "Cboard prend en charge 33 langues, la prise en charge varie selon les systèmes d'exploitation."
+  index_info2Desc: "Nous utilisons les dernières tendances technologiques pour concevoir et développer Cboard. Notre but ultime est d'offrir une interface magnifique et intuitive qui peut être naviguée sans avoir à lire l'aide de l'utilisateur."
+  index_info3Desc: "Cboard est fourni avec le support pour 44 langues et compter!. Nous croyons fermement que c'est essentiel pour réduire les inégalités entre les personnes handicapées dans le monde."
+  index_info4Desc: "Cboard est 100% open source. Une communauté fantastique de développeurs, de professionnels de la parole, de parents et d'institutions ont fait du projet une réalité. De la traduction au développement, la contribution fait partie de l'ADN du Cboard."
   index_bottomTitle: 'Rejoignez-nous sur GitHub'
   index_bottomDesc: 'Cboard est un projet open-source, nous apprécions toujours de l''aide, si vous voulez contribuer, vous êtes invité à notre dépôt GitHub.'
 titles:
@@ -44,4 +51,5 @@ navs:
 button:
   readmore: Lire la suite
   star: Démarrer Cboard
+  download: Télécharger
 

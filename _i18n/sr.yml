@@ -1,47 +1,55 @@
 ---
 global:
-  tagline: Српски
-  about: О апликацији
-  twitter: Твитер
-  github: ГитХаб
+  tagline: Engleski
+  about: O
+  twitter: Tviter
+  github: Github
 langs:
-  en: Енг
-  es: Есп
-  it: Ита
-  de: Нем
-  fr: Фра
-  hr: Хрв
-  sr: Срб
+  en: Eng
+  es: Esp
+  it: Ita
+  de: Nem
+  fr: Fra
+  hr: Hrv
+  sr: Srb
+  mk: Mcd
 pages:
-  indexTitleTop: Комуникација за све
-  indexSubTitleTop: веб апликација за децу и одрасле особе са оштећењима говора и језика, помажући комуникацију са симболима и текст-у говор.
-  indexSubTitleTopin: је
-  example: пример
-  about_title: Наша заједница
-  about_desc: Наша заједница је крчаг искустава и могућности, од програмера софтвера, биомедицинских инжењера, логопеда, породица и људи са инвалидитетом. Третирамо се као једнаке са поштовањем и емпатијом
-  about_vision_title: Наша визија
-  about_vision_desc: Будите глобално решење на једном месту за технолошка решења за особе са инвалидитетом. Уз иновативност, приступачност и емпатију као кључне мотиваторе и смернице.
-  about_mission_title: Наша мисија
-  about_mission_desc: Свакодневно радимо на побољшању начина живота особа са инвалидитетом враћајући глас свима онима који су га изгубили; сигурни смо да технологија може оснажити људе са инвалидитетом.
-  contact_address: Адреса
-  contact_title: Јавите се данас
-  contact_subtitle: Ако имате било каквих питања или упита, пошаљите нам поруку и јавићемо вам се што је пре могуће.
-  blogTitle: Најновије вести
-  blogSubTitle: Чујте најновији напредак у развоју СИборда
-  index_info1Title: Направљено за веб
-  index_info2Title: Персонализоване табле
-  index_info3Title: 33 језика
-  index_info1Desc: "СИборд ради на модерним претраживачима и доступан је на великом броју платформи, укључујући рачунаре, таблете и мобилне телефоне. Ванмрежна подршка доступна је на Google Chrome (desktop & android)."
-  index_info2Desc: 'Са више од 3400 симбола из сета симбола <a href="https://mulberrysymbols.org/">Мулберри</a>, можете креирати сопствене прилагођене табле за различите животне ситуације.'
-  index_info3Desc: "На СИборду се нуди подршка за 33 језика, а подршка варира између оперативних система."
-  index_bottomTitle: 'Придружите нам се на ГитХабу'
-  index_bottomDesc: 'СИборд је пројекат отвореног кода, увек ценимо помоћ, ако желите да дате свој допринос позвани сте у наш ГитХаб.'
+  indexTitleTop: Komunikacija za sve
+  indexSubTitleTop: internet aplikacija za decu i odrasle osobe sa teškoćama u govoru i jeziku, koja pomaže u komunikaciji simbolima i pretvaranjem teksta u govor.
+  indexSubTitleTopin: je
+  example: primer
+  about_title: Naša zajednica
+  about_desc: Naša zajednica je krčag iskustava i mogućnosti, od programera softvera, biomedicinskih inženjera, logopeda, porodica i osoba sa invaliditetom. Tretiramo se kao jednaki s poštovanjem i empatijom
+  about_vision_title: Naša vizija
+  about_vision_desc: Budite globalno rešenje na jednom mestu za tehnološka rešenja za osobe sa invaliditetom. Uz inovativnost, pristupačnost i empatiju kao ključne motivatore i smernice.
+  about_mission_title: Naša misija
+  about_mission_desc: Svakodnevno radimo na poboljšanju načina života osoba sa invaliditetom vraćajući glas svima koji su ga izgubili; sigurni smo da tehnologija može osnažiti osobe sa invaliditetom.
+  contact_address: Adresa
+  contact_title: Javite se danas
+  contact_subtitle: Ako imate bilo kakvo pitanje ili zahtev, pošaljite nam poruku i javićemo vam se čim budemo mogli.
+  blogTitle: Najnovije vesti
+  blogSubTitle: Čujte najnoviji napredak u razvoju Cboard-a
+  index_downloadTitle: Get Cboard for Android!
+  index_downloadDesc: Cboard app is available for Android mobile devices. Download now to start communicating
+  indexInfosTitle: Open Source, +40 languages, Modern UI, Runs on Browsers and Android app.
+  indexInfosSubTitle: Check out what you can do with Cboard in the open!
+  index_info1Title: Izgrađeno za web
+  index_info2Title: Modern interface
+  index_info3Title: 40+ languages
+  index_info4Title: Open Source
+  index_info1Desc: "Cboard radi na modernim pretraživačima i dostupan je na velikom broju platformi, uključujući radne površine, tablete i mobilne telefone. Izvanmrežna podrška dostupna je na pretraživaču Google Chrome (desktop i android)."
+  index_info2Desc: "We use last technology trends to design and develop Cboard. Our ultimate goal is to offer a beautiful and intuitive interface that can be navigated without reading the user help."
+  index_info3Desc: "Cboard comes with support for 44 languages and counting!. We strongly believe that this is key to reduce inequalities among people with disabilities in the world."
+  index_info4Desc: "Cboard is 100% open source. A fantastic community of developers, speech professionals, parents, and institutions have made the project a reality. From translation to development, contribution is part of Cboard's DNA."
+  index_bottomTitle: 'Pridružite nam se na GitHub-u'
+  index_bottomDesc: 'Cboard je projekat otvorenog koda, uvek ćemo vam pomoći ako želite da date svoj doprinos, pozvani ste u naš GitHub.'
 titles:
-  pagination: Обележавање страна
+  pagination: Obeležavanje stranica
 navs:
-  about: О томе
-  contact: контакт
+  about: o
+  contact: kontakt
 button:
-  readmore: Прочитајте више
-  star: Покрените СИборд
+  readmore: Čitaj više
+  star: Pokrenite Cboard
+  download: Download
 

@@ -12,6 +12,7 @@ langs:
   fr: Fra
   hr: Hrv
   sr: Srb
+  mk: Mcd
 pages:
   indexTitleTop: Comunicación para todos
   indexSubTitleTop: aplicación web para niños y adultos con problemas de habla y lenguaje, ayudando a la comunicación con símbolos y texto a voz.
@@ -28,12 +29,18 @@ pages:
   contact_subtitle: Si tiene alguna pregunta o consulta, envíenos un mensaje y nos pondremos en contacto con usted lo antes posible.
   blogTitle: Las últimas noticias
   blogSubTitle: Escuche los últimos avances en el desarrollo de Cboard
+  index_downloadTitle: '¡Obtener Cboard para Android!'
+  index_downloadDesc: La aplicación Cboard está disponible para dispositivos móviles Android. Descárgala ahora para empezar a comunicarse
+  indexInfosTitle: Código abierto, +40 idiomas, interfaz moderna, ejecuciones en navegadores y aplicaciones Android.
+  indexInfosSubTitle: '¡Echa un vistazo a lo que puedes hacer con Cboard al aire libre!'
   index_info1Title: Creado para la web
-  index_info2Title: Tableros personalizados
-  index_info3Title: 33 idiomas
+  index_info2Title: Interfaz moderna
+  index_info3Title: Más de 40 idiomas
+  index_info4Title: Código abierto
   index_info1Desc: "Cboard funciona en navegadores modernos y está disponible en una amplia variedad de plataformas, incluidas computadoras de escritorio, tabletas y teléfonos móviles. El soporte sin conexión está disponible en Google Chrome (escritorio y Android)."
-  index_info2Desc: 'Con más de 3400 símbolos del <a href="https://mulberrysymbols.org/">Mulberry Symbol Set</a>, puede crear sus propios tableros personalizados para diferentes situaciones de la vida.'
-  index_info3Desc: "Cboard viene con soporte para 33 idiomas, el soporte varía entre sistemas operativos."
+  index_info2Desc: "Utilizamos últimas tendencias tecnológicas para diseñar y desarrollar Cboard. Nuestro objetivo final es ofrecer una interfaz hermosa e intuitiva que se pueda navegar sin leer la ayuda del usuario."
+  index_info3Desc: "Cboard viene con soporte para 44 idiomas y contabilidad!. Creemos firmemente que esto es clave para reducir las desigualdades entre las personas con discapacidad en el mundo."
+  index_info4Desc: "Cboard es una fantástica comunidad de desarrolladores, profesionales del habla, padres e instituciones que han hecho del proyecto una realidad. Desde la traducción al desarrollo, la contribución forma parte del ADN del Cartón."
   index_bottomTitle: 'Únete a nosotros en GitHub'
   index_bottomDesc: 'Cboard es un proyecto de código abierto, siempre agradecemos su ayuda, si desea contribuir, está invitado a nuestro repositorio de GitHub.'
 titles:
@@ -44,4 +51,5 @@ navs:
 button:
   readmore: Más información
   star: Iniciar Cboard
+  download: Descargar
 

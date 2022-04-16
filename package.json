@@ -17,6 +17,7 @@
   "private": false,
   "license": "GPL-3.0-only",
   "dependencies": {
+    "@crowdin/crowdin-api-client": "^1.11.1",
     "axios": "^0.19.2",
     "fs-extra": "9.0.1",
     "opencollective": "^1.0.3",
