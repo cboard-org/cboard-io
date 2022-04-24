@@ -6,7 +6,7 @@ bottom_image: /images/aacgathering.jpg
 
 ---
 
-<section class="hero" style="background-image: url({% include relative-src.html src=page.image %})">
+<section class="hero" id="slider" >
 	<div class="inner-hero text-container">
 		<div class="hero-text-container">
 			<h1 class="editable">{% t pages.indexTitleTop %}</h1>
@@ -18,6 +18,23 @@ bottom_image: /images/aacgathering.jpg
 		</div>
 	</div>
 </section>
+<script>
+	var imgArray = [
+		'/images/montenegro-post-01.jpg',
+		'/images/serbia02.jpg',
+		'/images/sara-hero.png'
+	];
+	var curIndex = 0;
+	var imgDuration = 5000;
+
+	function slideShow() {
+		document.getElementById('slider').style="background-image: url({% include relative-src.html src=" + imgArray[curIndex] + " %})";
+		curIndex++;
+		if (curIndex == imgArray.length) { curIndex = 0; }
+		setTimeout("slideShow()", imgDuration);
+	}
+	slideShow();
+</script>
 
 <div class="content">
 	<section class="download" id="section-download">
