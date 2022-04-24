@@ -6,7 +6,7 @@ bottom_image: /images/aacgathering.jpg
 
 ---
 
-<section class="hero" id="sloider" style="background-image: url({% include relative-src.html src=page.image %})">
+<section class="hero" id="slider" >
 	<div class="inner-hero text-container">
 		<div class="hero-text-container">
 			<h1 class="editable">{% t pages.indexTitleTop %}</h1>
@@ -28,7 +28,7 @@ bottom_image: /images/aacgathering.jpg
 	var imgDuration = 5000;
 
 	function slideShow() {
-		document.getElementById('slider').src = imgArray[curIndex];
+		document.getElementById('slider').style = "background-image: url(" + imgArray[curIndex] + ")";
 		curIndex++;
 		if (curIndex == imgArray.length) { curIndex = 0; }
 		setTimeout("slideShow()", imgDuration);
