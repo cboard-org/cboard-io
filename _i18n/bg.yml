@@ -1,0 +1,56 @@
+---
+global:
+  tagline: English
+  about: относно
+  twitter: Twitter
+  github: GitHub
+langs:
+  en: Инж
+  es: Esp
+  it: Ита
+  de: Deu
+  fr: Fra
+  hr: Hrv
+  sr: Srb
+  mk: Mcd
+  bg: Bul
+pages:
+  indexTitleTop: Комуникация за всички
+  indexSubTitleTop: уеб приложение за деца и възрастни с речеви и езикови увреждания, подпомагащо комуникацията със символи и преобразуване на текст в реч.
+  indexSubTitleTopin: е
+  example: пример
+  about_title: Нашата общност
+  about_desc: Нашата общност е тигел от опит и възможности, от разработчици на софтуер, биомедицински инженери, логопеди, семейства и хора с увреждания. Ние се отнасяме към себе си като към равни с уважение и съпричастност
+  about_vision_title: Нашата визия
+  about_vision_desc: Бъдете глобално решение на едно гише за технологични решения за хора с увреждания. С иновации, достъпност и съпричастност като ключови мотиватори и насоки.
+  about_mission_title: Нашата мисия
+  about_mission_desc: Всеки ден работим за подобряване на начина на живот на хората с увреждания, като връщаме гласа на всички, които са го загубили; сигурни сме, че технологията може да даде възможност на хората с увреждания.
+  contact_address: Адрес
+  contact_title: Свържете се днес
+  contact_subtitle: Ако имате някакви въпроси или въпроси, изпратете ни съобщение и ние ще се свържем с вас възможно най-скоро.
+  blogTitle: Последните новини
+  blogSubTitle: Чуйте последния напредък в разработването на Cboard
+  index_downloadTitle: Get Cboard for Android!
+  index_downloadDesc: Cboard app is available for Android mobile devices. Download now to start communicating
+  indexInfosTitle: Open Source, +40 languages, Modern UI, Runs on Browsers and Android app.
+  indexInfosSubTitle: Check out what you can do with Cboard in the open!
+  index_info1Title: Създаден за мрежата
+  index_info2Title: Modern interface
+  index_info3Title: 40+ languages
+  index_info4Title: Open Source
+  index_info1Desc: "Cboard работи върху съвременни браузъри и се предлага на голямо разнообразие от платформи, включително настолни компютри, таблети и мобилни телефони. Поддръжката офлайн е налична в Google Chrome (настолен компютър и android)."
+  index_info2Desc: "We use last technology trends to design and develop Cboard. Our ultimate goal is to offer a beautiful and intuitive interface that can be navigated without reading the user help."
+  index_info3Desc: "Cboard comes with support for 44 languages and counting!. We strongly believe that this is key to reduce inequalities among people with disabilities in the world."
+  index_info4Desc: "Cboard is 100% open source. A fantastic community of developers, speech professionals, parents, and institutions have made the project a reality. From translation to development, contribution is part of Cboard's DNA."
+  index_bottomTitle: 'Присъединете се към нас в GitHub'
+  index_bottomDesc: 'Cboard е проект с отворен код, ние винаги оценяваме ръка за помощ, ако искате да допринесете, вие сте поканени в нашия репозитор на GitHub.'
+titles:
+  pagination: Пагинация
+navs:
+  about: относно
+  contact: контакт
+button:
+  readmore: Прочетете още
+  star: Стартирайте Cboard
+  download: Download
+

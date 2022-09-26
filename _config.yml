@@ -110,6 +110,6 @@ _comments:
   blurb: Short bio or description of this person
 
 # jekyll-multiple-languages-plugin settings:
-languages: ["en", "es", "it", "de", "fr", "hr", "sr", "mk"]
+languages: ["en", "es", "it", "de", "fr", "hr", "sr", "mk", "bg"]
 
 exclude_from_localizations: [ "javascripts", "css", "scripts", "favicon.ico"]

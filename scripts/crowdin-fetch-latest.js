@@ -57,6 +57,10 @@ const extractTranslations = () => {
 
   const languages = [
     {
+      source: 'bg-BG',
+      dest: 'bg'
+    },
+    {
       source: 'en-US',
       dest: 'en'
     },
