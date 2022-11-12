@@ -32,6 +32,8 @@ pages:
   blogSubTitle: Escuche los últimos avances en el desarrollo de Cboard
   index_downloadTitle: '¡Obtener Cboard para Android!'
   index_downloadDesc: La aplicación Cboard está disponible para dispositivos móviles Android. Descárgala ahora para empezar a comunicarse
+  index_downloadTitleWindows: '¡Obtener Cboard para Windows!'
+  index_downloadDescWindows: La aplicación Cboard está disponible para el escritorio de Microsoft Windows. Descárgala ahora para empezar a comunicarse
   indexInfosTitle: Código abierto, +40 idiomas, interfaz moderna, ejecuciones en navegadores y aplicaciones Android.
   indexInfosSubTitle: '¡Echa un vistazo a lo que puedes hacer con Cboard al aire libre!'
   index_info1Title: Creado para la web

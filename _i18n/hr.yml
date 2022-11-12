@@ -32,6 +32,8 @@ pages:
   blogSubTitle: Čujte najnoviji napredak na razvoju aplikacije Cboard
   index_downloadTitle: Get Cboard for Android!
   index_downloadDesc: Cboard app is available for Android mobile devices. Download now to start communicating
+  index_downloadTitleWindows: Get Cboard for Windows!
+  index_downloadDescWindows: Cboard app is available for Microsoft Windows desktops. Download now to start communicating
   indexInfosTitle: Open Source, +40 languages, Modern UI, Runs on Browsers and Android app.
   indexInfosSubTitle: Check out what you can do with Cboard in the open!
   index_info1Title: Razvijeno za web
