@@ -2,58 +2,63 @@
 
 ## Inhaltsverzeichnis
 
-* [Was ist Cboard?](#WhatisCboard)
-* [Registrierung und Login](#Registrationandlogin) 
-    * [Wie registriere ich mich für Cboard?](#HowdoIregisterforCboard)
-    * [Kann ich mich mit meinen Social Media-Konten registrieren?](#CanIregistermyselfusingmysocialmediaaccounts)
-    * [Wie melde ich mich bei Cboard an, wenn ich ein registrierter Benutzer bin?](#HowdoIlogintoCboardonceIamaregistereduser)
-    * [Wie melde ich mich ab?](#HowdoIlogout)
-    * [Was ist der Unterschied zwischen einem registrierten und einem nicht registrierten Benutzer?](#Whatisthedifferencebetweenaregisteredandanon-registereduser)
-    * [Wie aktualisiere ich meine Benutzerinformationen?](#HowdoIupdatemyuserinformation)
-    * [Wie setze ich mein Passwort zurück?](#HowdoIresetmypassword)
-* [Preis](#Price) 
-    * [Was kostet Cboard?](#HowmuchdoesCboardcost)
-* [Eigenschaften](#Features) 
-    * [Welche Geräte und Betriebssysteme werden unterstützt?](#WhatdevicesandOSaresupported)
-    * [Welche Sprachen werden von Cboard unterstützt?](#WhichlanguagesaresupportedbyCboard)
-    * [Kann Cboard meine Nachricht laut vorlesen?](#CanCboardreadmymessageoutaloud)
-    * [Sprachfähigkeiten](#Speechcapabilities)
-    * [Export und Import](#Exportandimport)
-    * [Anzeigefunktionen](#Displaycapabilities)
-    * [Kann ich Navigationseinstellungen ändern?](#CanIchangeanynavigationsettings)
-    * [Navigation durch die Oberfläche](#Navigationthroughtheinterface)
-* [Einstellungen](#Settings) 
-    * [Wie greife ich auf Einstellungen in Cboard zu?](#HowdoIaccesssettingsinCboard)
-    * [Wie drucke ich mein Board-Set in Cboard?](#HowdoIprintmyboardsetinCboard)
-    * [Wie sehe ich Cboard im Vollbildmodus?](#HowdoIseeCboardinfullscreen)
-    * [Wie teile ich ein Board?](#HowdoIshareaboard)
-* [Reden](#Talking) 
-    * [Wie füge ich Symbolen auf Cboard eine persönlich aufgenommene Stimme hinzu?](#HowdoIaddapersonallyrecordedvoicetosymbolsonCboard)
-    * [Wie wechsle ich zu einer anderen Stimme?](#HowdoIswitchtoadifferentvoice)
-    * [Wie ändere ich den Klang einer Stimme?](#HowdoIchangehowavoicesounds)
-* [Board-Bearbeitung](#BoardEditing) 
-    * [Wie erstelle ich eine leere Tafel?](#HowdoIcreateanemptyboard)
-    * [Wie personalisiere ich ein vorhandenes Board in Cboard?](#HowdoIpersonalizeanexistingboardinCboard)
-    * [Kann ich beim Bearbeiten eines Boards meine eigenen Bilder verwenden?](#CanIusemyownpictureswheneditingaboard)
-    * [Kann ich die Reihenfolge der Elemente in einer Tafel ändern?](#CanIchangetheorderingoftheelementsinaboard)
-    * [Wie wähle ich mehrere Elemente zum Bearbeiten aus?](#HowdoIselectmultipleelementstoedit)
-    * [Wie finde ich neue Symbole, wenn ich eine Kachel bearbeite?](#FindSymbols)
-    * [Kann ich Brettplättchen an festen Positionen platzieren?](#FixedBoards)
-    * [Wie lege ich eine bestimmte Anzahl von Zeilen und Spalten in meinem Board fest?](#FixedRows)
-* [Export und Import](#Exportandimport) 
-    * [Wie exportiere ich mein Board in Cboard?](#HowdoIexportmyboardinCboard)
-    * [Wie importiere ich ein Board in Cboard?](#HowdoIimportaboardintoCboard)
-    * [Welches Dateiformat verwendet Cboard für den Import / Export?](#WhatfileformatdoesCboarduseforimportexport)
-* [Anzeigefunktionen](#Displaycapabilities) 
-    * [Was kann ich am Display ändern?](#WhatcanIchangeonthedisplay)
-    * [Kann ich die Größe von Schaltflächen auf Cboard ändern?](#CanIresizebuttonsonCboard)
-* [Scannen](#Scanning) 
-    * [Kann ich mit Scantechniken auf Symbole zugreifen?](#CanIusescanningtechniquestoaccesssymbols)
-* [Builder für Kommunikatoren](#CommunicatorBuilder) 
-    * [Was ist der Communicator Builder?](#Whatiscommbuilder)
-    * [Kommunikatorentafeln](#CommunicatorBoards)
-    * [Öffentliche Gremien](#PublicBoards)
-    * [Alle meine Bretter](#Allmyboards)
+- [Cboard-Hilfe](#cboard-help) 
+  - [Inhaltsverzeichnis](#table-of-contents)
+  - [<a name='WhatisCboard'></a>Was ist Cboard?](#what-is-cboard)
+  - [<a name='Registrationandlogin'></a>Registrierung und Login](#registration-and-login) 
+    - [<a name='HowdoIregisterforCboard'></a>Wie melde ich mich für Cboard an?](#how-do-i-register-for-cboard)
+    - [<a name='CanIregistermyselfusingmysocialmediaaccounts'></a>Kann ich mich mit meinen Social Media Accounts registrieren?](#can-i-register-myself-using-my-social-media-accounts)
+    - [<a name='HowdoIlogintoCboardonceIamaregistereduser'></a>Wie melde ich mich bei Cboard an, sobald ich ein registrierter Benutzer bin?](#how-do-i-log-in-to-cboard-once-i-am-a-registered-user)
+    - [Was sind die verschiedenen Optionen um Cboard zu konfigurieren?](#what-are-the-different-options-to-configure-cboard)
+    - [<a name='HowdoIlogout'></a>Wie melde ich mich ab?](#how-do-i-logout)
+    - [<a name='Whatisthedifferencebetweenaregisteredandanon-registereduser'></a>Was ist der Unterschied zwischen einem registrierten und einem nicht registrierten Benutzer?](#what-is-the-difference-between-a-registered-and-a-non-registered-user)
+    - [<a name='HowdoIupdatemyuserinformation'></a>Wie kann ich meine Benutzerinformationen aktualisieren?](#how-do-i-update-my-user-information)
+    - [<a name='HowdoIresetmypassword'></a>Wie kann ich mein Passwort zurücksetzen?](#how-do-i-reset-my-password)
+  - [<a name='Price'></a>Preis](#price) 
+    - [<a name='HowmuchdoesCboardcost'></a>Wie viel kostet Cboard?](#how-much-does-cboard-cost)
+  - [<a name='Features'></a>Eigenschaften](#features) 
+    - [<a name='WhatdevicesandOSaresupported'></a>Welche Geräte und Betriebssystem werden unterstützt?](#what-devices-and-os-are-supported)
+    - [<a name='WhichlanguagesaresupportedbyCboard'></a>Welche Sprachen werden von Cboard unterstützt?](#which-languages-are-supported-by-cboard)
+    - [<a name='CanCboardreadmymessageoutaloud'></a>Kann Cboard meine Nachricht laut lesen?](#can-cboard-read-my-message-out-aloud)
+    - [<a name='Speechcapabilities'></a>Sprachfähigkeiten](#speech-capabilities)
+    - [<a name='Exportandimport'></a>Exportieren und importieren](#export-and-import)
+    - [<a name='Displaycapabilities'></a>Anzeigemöglichkeiten](#display-capabilities)
+    - [<a name='CanIchangeanynavigationsettings'></a>Kann ich die Navigationseinstellungen ändern?](#can-i-change-any-navigation-settings)
+    - [<a name='Navigationthroughtheinterface'></a>Navigation über die Schnittstelle](#navigation-through-the-interface)
+  - [<a name='Settings'></a>Einstellungen](#settings) 
+    - [<a name='HowdoIaccesssettingsinCboard'></a>Wie kann ich auf die Einstellungen in Cboard zugreifen?](#how-do-i-access-settings-in-cboard)
+    - [<a name='HowdoIprintmyboardsetinCboard'></a>Wie kann ich mein Board in Cboard drucken?](#how-do-i-print-my-board-set-in-cboard)
+    - [<a name='HowdoIseeCboardinfullscreen'></a>Wie sehe ich Cboard im Vollbild?](#how-do-i-see-cboard-in-fullscreen)
+    - [<a name='HowdoIshareaboard'></a>Wie teile ich ein Board?](#how-do-i-share-a-board)
+    - [<a name='HowdoIshareaphrase'></a>Wie teile ich einen Satz?](#how-do-i-share-a-phrase)
+  - [<a name='Talking'></a>Sprechen](#talking) 
+    - [<a name='HowdoIaddapersonallyrecordedvoicetosymbolsonCboard'></a>Wie füge ich den Symbolen auf Cboard eine persönlich aufgenommene Stimme hinzu?](#how-do-i-add-a-personally-recorded-voice-to-symbols-on-cboard)
+    - [<a name='HowdoIswitchtoadifferentvoice'></a>Wie wechsele ich zu einer anderen Stimme?](#how-do-i-switch-to-a-different-voice)
+    - [<a name='HowdoIchangehowavoicesounds'></a>Wie kann ich meine Stimme ändern?](#how-do-i-change-how-a-voice-sounds)
+  - [<a name='BoardEditing'></a>Board-Bearbeitung](#board-editing) 
+    - [<a name='HowdoIcreateanemptyboard'></a>Wie erstelle ich ein leeres Board?](#how-do-i-create-an-empty-board)
+    - [<a name='HowdoIpersonalizeanexistingboardinCboard'></a>Wie personalisiere ich ein bestehendes Board in Cboard?](#how-do-i-personalize-an-existing-board-in-cboard)
+    - [<a name='CanIusemyownpictureswheneditingaboard'></a>Kann ich meine eigenen Bilder beim Bearbeiten eines Boards verwenden?](#can-i-use-my-own-pictures-when-editing-a-board)
+    - [<a name='CanIchangetheorderingoftheelementsinaboard'></a>Kann ich die Reihenfolge der Elemente in einem Board ändern?](#can-i-change-the-ordering-of-the-elements-in-a-board)
+    - [<a name='HowdoIselectmultipleelementstoedit'></a>Wie kann ich mehrere Elemente zum Bearbeiten auswählen?](#how-do-i-select-multiple-elements-to-edit)
+    - [<a name='FindSymbols'></a>Wie finde ich neue Symbole, wenn ich eine Kachel bearbeite?](#how-can-i-find-new-symbols-when-i-am-editing-a-tile)
+    - [<a name='FixedBoards'></a>Kann ich Kacheln in festen Positionen platzieren?](#can-i-place-board-tiles-in-fixed-positions)
+    - [<a name='FixedRows'></a>Wie kann ich eine bestimmte Anzahl von Zeilen und Spalten in meinem Forum festlegen?](#how-do-i-set-a-specific-number-of-rows-and-columns-in-my-board)
+  - [<a name='Exportandimport-1'></a>Exportieren und importieren](#export-and-import-1) 
+    - [<a name='HowdoIexportmyboardinCboard'></a>Wie exportiere ich mein Board in Cboard?](#how-do-i-export-my-board-in-cboard)
+    - [<a name='HowdoIimportaboardintoCboard'></a>Wie importiere ich ein Board in Cboard?](#how-do-i-import-a-board-into-cboard)
+    - [<a name='WhatfileformatdoesCboarduseforimportexport'></a>Welches Dateiformat verwendet Cboard für den Import/Export?](#what-file-format-does-cboard-use-for-importexport)
+  - [<a name='Displaycapabilities-1'></a>Anzeigemöglichkeiten](#display-capabilities-1) 
+    - [<a name='WhatcanIchangeonthedisplay'></a>Was kann ich auf dem Display ändern?](#what-can-i-change-on-the-display)
+    - [<a name='CanIresizebuttonsonCboard'></a>Kann ich die Größe der Tasten in Cboard ändern?](#can-i-resize-buttons-on-cboard)
+    - [<a name='BigScrollButtons'></a>Bildschirm durch große Tasten scrollen](#screen-scroll-through-big-buttons)
+  - [<a name='Scanning'></a>Scannen](#scanning) 
+    - [<a name='CanIusescanningtechniquestoaccesssymbols'></a>Kann ich mit Scan-Techniken auf Symbole zugreifen?](#can-i-use-scanning-techniques-to-access-symbols)
+  - [<a name='CommunicatorBuilder'></a>Communicator-Builder](#communicator-builder) 
+    - [<a name='Whatiscommbuilder'></a>Was ist der Communicator Builder?](#what-is-the-communicator-builder)
+    - [<a name='CommunicatorBoards'></a>Kommunikationsplattform](#communicator-boards)
+    - [<a name='PublicBoards'></a>Verwaltungsräte](#public-boards)
+    - [<a name='Allmyboards'></a>Alle meine Boards](#all-my-boards)
 
 ## <a name='WhatisCboard'></a>Was ist Cboard?
 
@@ -199,9 +204,19 @@ Um ein Board freizugeben, entsperren Sie den Bildschirm, indem Sie auf das Schlo
 
 <div><iframe width="420" height="315" src="https://www.youtube.com/embed/fE0R6HzZ9O4" frameborder="0" allowfullscreen></iframe></div>
 
+### <a name='HowdoIshareaphrase'></a>Wie teile ich einen Satz?
+
+Um einen Ausdruck zu teilen, entsperren Sie den Bildschirm zum ersten Mal Gehen Sie zu Einstellungen > Navigation und Schaltflächen > und aktivieren Sie die Option 'Zeige die Phrase anzeigen'.
+
+![Ausdrucksfreigabe-Einstellungen](https://user-images.githubusercontent.com/21298844/128038972-a2848d47-2675-4e2d-9a15-6f93186f29d6.png)
+
+Fügen Sie einen Satz hinzu. Dann drücken Sie das Teilen-Symbol, das rechts neben der Ausgabe-Phrasenleiste angezeigt wird. Wählen Sie das soziale Netzwerk, in dem Sie die Phrase teilen möchten. Ein Dialog wird mit der Phrase in einem Textfeld geöffnet. Drücken Sie die Schaltfläche "Absenden", um sie zu teilen. Wenn Sie die Phrase in Ihrer Zwischenablage kopieren möchten, drücken Sie die Schaltfläche "teilen" und dann "in die Zwischenablage kopieren" Option. Eine Benachrichtigung wird auf Ihrem Bildschirm mit einer Erfolgsmeldung angezeigt.
+
+!["Ausdrucken"-Button](https://user-images.githubusercontent.com/21298844/128044322-d61491c6-7168-4615-8117-244dc872091e.png)
+
 ## <a name='Talking'></a>Reden
 
-### <a name='HowdoIaddapersonallyrecordedvoicetosymbolsonCboard'></a>Wie füge ich Symbolen auf Cboard eine persönlich aufgenommene Stimme hinzu?
+### <a name='HowdoIaddapersonallyrecordedvoicetosymbolsonCboard'></a>Wie füge ich den Symbolen auf Cboard eine persönlich aufgenommene Stimme hinzu?
 
 1. Gehen Sie zu der Tafel, die Sie verwenden möchten.
 
@@ -218,80 +233,80 @@ Um ein Board freizugeben, entsperren Sie den Bildschirm, indem Sie auf das Schlo
 7. Fügen Sie das Etikett für die Vokalisierung hinzu
 
 8. Wählen Sie abschließend das Mikrofonsymbol und nehmen Sie auf, Sie können mehrmals aufzeichnen und es wiedergeben, bevor Sie es auf der Platine speichern.
-    
+  
     Wenn Sie mehrere Symbole ausgewählt haben, wechseln Sie mit NEXT zum nächsten Symbol und wiederholen Sie den Vorgang.
 
 <div><iframe width="420" height="315" src="https://www.youtube.com/embed/KZwCP4PkM4I" frameborder="0" allowfullscreen></iframe></div>
 
-### <a name='HowdoIswitchtoadifferentvoice'></a>Wie wechsle ich zu einer anderen Stimme?
+### <a name='HowdoIswitchtoadifferentvoice'></a>Wie wechsele ich zu einer anderen Stimme?
 
-Um die Sprachfähigkeiten / Stimme anzupassen, gehen Sie in die Einstellungen und unter der Kategorie SPRACHE befindet sich die Kategorie SPRACHE. Wenn Sie SPEECH auswählen, können Sie die Tonhöhe und das Sprachtempo auf Cboard bearbeiten. Sie können auch Ihre eigene Stimme für die Symbole aufzeichnen, indem Sie die Schritte in der Antwort für "Wie füge ich Symbolen auf Cboard eine persönlich aufgezeichnete Stimme hinzu?" Ausführen.
+Um die Sprachfähigkeiten anzupassen, gehen Sie in die Einstellungen, und unter der Kategorie SPEECH ist die Kategorie SPEECH. Wenn Sie SPEECH auswählen, können Sie die Tonhöhe und das Tempo der Sprache auf Cboard bearbeiten. Sie können auch Ihre eigene Stimme für die Symbole aufnehmen, die den Schritten auf der Antwort auf „Wie füge ich eine persönlich aufgenommene Stimme zu den Symbolen auf Cboard hinzu?“ folgen
 
-### <a name='HowdoIchangehowavoicesounds'></a>Wie ändere ich den Klang einer Stimme?
+### <a name='HowdoIchangehowavoicesounds'></a>Wie kann ich meine Stimme ändern?
 
-Um die Sprachfähigkeiten / Stimme / Ton einzustellen, gehen Sie zu EINSTELLUNGEN und wählen Sie unter der Kategorie SPRACHE die Kategorie SPRACHE. Sie können dann die Tonhöhe und das Sprachtempo auf Cboard bearbeiten.
+Zur Anpassung der Sprachfunktionen/Sprache/Ton gehen Sie in EINSTELLUNGEN und wählen unter der Kategorie SPEECH die Kategorie SPEECH aus. Sie können dann die Tonhöhe und das Tempo der Sprache auf Cboard bearbeiten.
 
 ## <a name='BoardEditing'></a>Board-Bearbeitung
 
-### <a name='HowdoIcreateanemptyboard'></a>Wie erstelle ich eine leere Tafel?
+### <a name='HowdoIcreateanemptyboard'></a>Wie erstelle ich ein leeres Board?
 
-In Cboard entspricht eine leere Karte einem Ordner.
+In Cboard entspricht ein leeres Board einem Ordner.
 
-Wenn Sie ein neues oder leeres Board erstellen möchten, müssen Sie einen neuen Ordner erstellen. Dadurch wird im Cboard-Speicherbereich ein neues Board erstellt (was Sie sehen, wenn Sie im Bearbeitungsmodus in der mittleren Leiste zu BOARDS wechseln).
+Wenn Sie ein neues oder leeres Board erstellen möchten, müssen Sie einen neuen Ordner erstellen, und das wird ein neues Board im Cboard-Speicherbereich erstellen (was Sie sehen können, wenn Sie in der mittleren Leiste im Bearbeitungsmodus zu BOARDS gehen).
 
-Das neue leere Board steht sofort zur Bearbeitung zur Verfügung und kann (über die Schaltfläche "Erstellen") als Root-Board festgelegt werden. Dies bedeutet, dass es das erste Board ist, das Sie beim nächsten Öffnen von Cboard sehen.
+Das neue leere Board wird sofort zum Bearbeiten verfügbar sein und kann als Root-Board gesetzt werden (über die Erstellen-Schaltfläche), was bedeutet, dass es das erste Brett ist, das Sie beim nächsten Öffnen von Cboard sehen.
 
-Um einen neuen Ordner zu erstellen, entsperren Sie zunächst den Bildschirm, indem Sie auf die Sperrschaltfläche auf der rechten Seite klicken. Wenn Sie den Bildschirm entsperrt haben, wählen Sie das Pluszeichen (+) auf der rechten Seite aus, um KACHEL HINZUFÜGEN. Sie haben dann die Möglichkeit, eine Kachel / einen Knopf hinzuzufügen, die / der die erste und automatische Option ist, oder den Ordner auszuwählen. Diese Aktion erstellt ein NEUES BOARD, zu dem Sie weitere Kacheln und Ordner hinzufügen können.
+Um einen neuen Ordner zu erstellen, entsperren Sie zunächst den Bildschirm und wählen Sie rechts den Schlosser-Button aus. Sobald Sie den Bildschirm entsperrt haben, wählen Sie das Plus-(+) Symbol auf der rechten Seite aus, um den Bildschirm zu ADD TILE. Sie erhalten dann die Möglichkeit, eine Kachel / BUTTON hinzuzufügen, die die erste und automatische Option ist, oder wählen Sie die Aktion FOLDER Diese Aktion macht ein NEUES BOARD, zu dem Sie mehr Kacheln und Ordner hinzufügen können.
 
-Nachdem Sie den Ordner benannt haben, können Sie ein Bild auf ähnliche Weise hochladen wie eine Kachel mit einer Farbeinstellung und einem Etikett. Dieser neue Ordner wird automatisch mit einer darüber liegenden Tafel verknüpft (sofern eine Reihe von Kacheln enthalten ist). Es wird in Ihrer Liste der Boards als leeres Board angezeigt, bis es mit Symbolen und Beschriftungen gefüllt ist.
+Sobald Sie den Ordner benannt haben, können Sie ein Bild in ähnlicher Weise hochladen wie eine Kachel mit einer Farbeinstellung und Beschriftung. Dieser neue Ordner wird automatisch auf ein Board oberhalb verlinken (falls eine Reihe von Fliesen enthalten). Es wird in Ihrer Liste der Boards als leeres Board angezeigt, bis es mit Symbolen und Labels bestückt ist.
 
 <div><iframe width="420" height="315" src="https://www.youtube.com/embed/FPfbrAtj1Zg" frameborder="0" allowfullscreen></iframe></div>
 
-### <a name='HowdoIpersonalizeanexistingboardinCboard'></a>Wie personalisiere ich ein vorhandenes Board in Cboard?
+### <a name='HowdoIpersonalizeanexistingboardinCboard'></a>Wie personalisiere ich ein bestehendes Board in Cboard?
 
-Um ein vorhandenes Board zu personalisieren, wählen Sie das LOCK in der oberen rechten Ecke des Balkens über dem Board (unter dem Pfeil mit einem Kreuz). Sobald Sie dies getan haben, wird eine weitere Leiste unter der schwarzen HOME-Leiste angezeigt. Auf der linken Seite befindet sich ein kleines Block-Symbol (EDIT), mit dem Sie eine Kachel oder Zelle hinzufügen können. Sobald der Block ausgewählt ist, sollte der graue Balken blau werden und auf der rechten Seite sehen Sie einen kleinen Mülleimer und einen Bleistift.
+Um ein bestehendes Board zu personalisieren wählen Sie den LOCK in der oberen rechten Ecke der Bar oberhalb des Brettes (unter dem Pfeil mit einem Kreuz). Sobald Sie dies getan haben, erscheint eine weitere Leiste unterhalb der schwarzen HOME-Leiste und Sie finden auf der linken Seite ein kleines Block (EDIT) Symbol um eine Kachel oder eine Zelle hinzuzufügen. Sobald der Block ausgewählt ist, sollte die graue Leiste blau werden, und auf der rechten Seite sehen Sie eine kleine Mülldose und einen Bleistift.
 
-![Personalisieren Sie ein vorhandenes Board](/images/help/personalize.png "personalize an existing board")
+![ein bestehendes Board personalisieren](/images/help/personalize.png "personalize an existing board")
 
-Um das Board zu personalisieren, wählen Sie den Stift aus und Sie können das Label ändern, ein Bild hochladen und Vocalization hinzufügen.
+Um das Board zu personalisieren, wählen Sie den Bleistift aus und Sie können das Label ändern, ein Bild hochladen und Vocalisierung hinzufügen.
 
 <div><iframe width="420" height="315" src="https://www.youtube.com/embed/sRnVvafKBLM" frameborder="0" allowfullscreen></iframe></div>
 
-### <a name='CanIusemyownpictureswheneditingaboard'></a>Kann ich beim Bearbeiten eines Boards meine eigenen Bilder verwenden?
+### <a name='CanIusemyownpictureswheneditingaboard'></a>Kann ich meine eigenen Bilder beim Bearbeiten eines Boards verwenden?
 
-Ja, Sie können beim Bearbeiten eines Boards Ihr eigenes Bild verwenden. Um Ihr eigenes Bild zu verwenden, können Sie das Bild hochladen, wenn Sie eine neue Kachel erstellen (indem Sie nach dem Entsperren der Seite das PLUSZEICHEN (+) in der grauen Leiste auswählen). Sie können auch eine vorhandene Kachel mit Ihrem eigenen Bild bearbeiten.
+Ja, Sie können Ihr eigenes Bild beim Bearbeiten eines Boards verwenden. Um Ihr eigenes Bild zu verwenden, Sie können das Bild hochladen, wenn Sie eine neue Kachel erstellen (durch Auswahl der PLUS SIGN (+) auf der grauen Leiste nach dem Entsperren der Seite). Sie können auch eine bestehende Kachel mit Ihrem eigenen Bild bearbeiten.
 
-### <a name='CanIchangetheorderingoftheelementsinaboard'></a>Kann ich die Reihenfolge der Elemente in einer Tafel ändern?
+### <a name='CanIchangetheorderingoftheelementsinaboard'></a>Kann ich die Reihenfolge der Elemente in einem Board ändern?
 
-Ja! Wenn Sie ein Board bearbeiten, entsperren Sie den Bildschirm mit dem LOCK-Symbol. Wählen Sie dann das EDIT-Block-Symbol auf der linken Seite (unterhalb des BUILD-Symbols). Sie können dann das Piktogramm / Symbol oder den Ordner an die gewünschte Stelle auf derselben Tafel ziehen.
+Ja! Beim Bearbeiten eines Boards entsperren Sie den Bildschirm mit dem LOCK-Symbol. Dann wählen Sie links das BEARBEITS-Block Symbol aus (unter dem BUILD Symbol). Dann können Sie das Piktogramm/Symbol oder den Ordner dorthin ziehen, wo Sie es auf ein und demselben Board setzen möchten.
 
-### <a name='HowdoIselectmultipleelementstoedit'></a>Wie wähle ich mehrere Elemente zum Bearbeiten aus?
+### <a name='HowdoIselectmultipleelementstoedit'></a>Wie kann ich mehrere Elemente zum Bearbeiten auswählen?
 
-Genauso wie Sie die Reihenfolge der Elemente in einer Tafel ändern, aber anstatt sie auszuwählen und zu ziehen, wählen Sie den Kreis innerhalb des Piktogramm- / Symbolquadrats. Um viele Symbole zu bearbeiten, können Sie mehrere auswählen. Wählen Sie anschließend das BLEISTIFT-Symbol auf der rechten Seite, um die ausgewählten Elemente zu bearbeiten.
+Ebenso ändern Sie die Reihenfolge der Elemente in einem Board aber anstatt zu selektieren und zu ziehen, wählen Sie den Kreis innerhalb des Piktogramm/Symbol-Quadrate. Um viele Symbole zu bearbeiten, können Sie mehr als eins auswählen. Danach wählen Sie das PENCIL Symbol auf der rechten Seite aus und so können Sie die ausgewählten Elemente bearbeiten.
 
 <div><iframe width="420" height="315" src="https://www.youtube.com/embed/ZgRUamoF8Vk" frameborder="0" allowfullscreen></iframe></div>
 
 ### <a name='FindSymbols'></a>Wie finde ich neue Symbole, wenn ich eine Kachel bearbeite?
 
-Wählen Sie das EDIT-Block-Symbol auf der linken Seite der Board-Leiste und wählen Sie das Piktogramm / Symbol, das Sie ändern möchten. Wählen Sie es aus und sobald der blaue Ring ein Häkchen hat, gehen Sie zum BLEISTIFT-Symbol auf der rechten Seite. Wenn Sie den Stift ausgewählt haben, sehen Sie, dass ein Lupensymbol für die Symbolsuche angezeigt wird. Wenn die Suchfunktion aktiviert ist, wird in einer Bearbeitungsleiste SUCHBIBLIOTHEK angezeigt. Geben Sie das gesuchte Konzept / Etikett / Wort ein, und Symbole werden angezeigt. Sobald Sie ein Symbol ausgewählt haben, kehren Sie automatisch zur Seite KACHEL bearbeiten zurück.
+Wählen Sie auf der linken Seite der Boardleiste das Button-Symbol EDIT und wählen Sie das Piktogramm/Symbol aus, das Sie ändern möchten. Wählen Sie es aus und sobald der blaue Ring einen Tick hat, gehen Sie zum PENCIL Symbol auf der rechten Seite. Wenn Sie den Bleistift ausgewählt haben, werden Sie feststellen, dass es ein MAGNIFYING GLASS Symbol für die Symbolsuche gibt. Wenn die Suchfunktion aktiviert ist, sehen Sie SEARCH SYMBOL LIBRARY in einer Bearbeitungsleiste. Geben Sie das Konzept / Label / Wort nach dem Sie suchen und Symbole erscheinen. Sobald Sie ein Symbol ausgewählt haben, werden Sie automatisch zur Seite TILE bearbeiten.
 
 <div><iframe width="420" height="315" src="https://www.youtube.com/embed/-8OXT3b4Flk" frameborder="0" allowfullscreen></iframe></div>
 
-### <a name='FixedBoards'></a>Kann ich Brettplättchen an festen Positionen platzieren?
+### <a name='FixedBoards'></a>Kann ich Kacheln in festen Positionen platzieren?
 
-Wenn eine neue Karte erstellt wird, fügt Cboard standardmäßig eine **fließende Karte**. Auf jeden Fall ist es möglich, die Karte in eine **Festplatte**umzuwandeln. Sie haben die folgenden Funktionen:
+Standardmäßig wird Cboard beim Erstellen eines neuen Boards ein **fließendes Board** hinzufügen. Auf jeden Fall ist es möglich, das Board in eine **Festplatte** zu verwandeln. Sie haben folgende Funktionen:
 
 * Das Raster ändert sich nicht für unterschiedliche Bildschirmgrößen oder Geräteausrichtungen. 
 * Die Anzahl der Zeilen und Spalten ist konfigurierbar. 
 * Die Kacheln haben feste Positionen im Raster. 
 
-Um eine Karte in eine feste Karte umzuwandeln, bearbeiten Sie einfach die Karte und wechseln Sie die Option in der Symbolleiste, um sie zu fixieren. Ihr Board ändert sein Erscheinungsbild und die Zeilen- und Spaltenindikatoren werden angezeigt.
+Um ein Board in ein festes Board zu konvertieren, bearbeiten Sie einfach das Board und schalten Sie die Option in der Symbolleiste ein, um es zu fixieren. Ihr Board ändert sein Erscheinungsbild und die Zeilen- und Spaltenindikatoren werden angezeigt.
 
-![Feste Platte](/images/help/fixedBoard.png "Fixed board")
+![Festes Board](/images/help/fixedBoard.png "Fixed board")
 
-### <a name='FixedRows'></a>Wie lege ich eine bestimmte Anzahl von Zeilen und Spalten in meinem Board fest?
+### <a name='FixedRows'></a>Wie kann ich eine bestimmte Anzahl von Zeilen und Spalten in meinem Forum festlegen?
 
-Zuerst müssen Sie die Karte in eine **Festplatte** umwandeln (siehe vorheriges Thema). Im Editionsmodus zeigt Ihr Board Zeilen- und Spaltenindikatoren an. Sie können mit diesen Steuerelementen interagieren, um die Anzahl der gewünschten Zeilen und Spalten zu erhöhen oder zu verringern.
+Zuerst müssen Sie das Board in ein **festgelegtes Board** transformieren (siehe vorheriges Thema). Im Edition-Modus zeigt Ihr Board Zeilen und Spalten an. Sie können mit diesen Steuerelementen interagieren, um die Anzahl der Zeilen und Spalten zu erhöhen oder zu verringern.
 
 <div><iframe width="420" height="315" src="https://www.youtube.com/embed/XEAz85zrZ70" frameborder="0" allowfullscreen></iframe></div>
 
@@ -318,56 +333,66 @@ Zum Importieren und Exportieren von Boards haben Sie zwei Möglichkeiten:
 
 ### <a name='WhatcanIchangeonthedisplay'></a>Was kann ich auf dem Display ändern?
 
-Anzeigeeinstellungen können in EINSTELLUNGEN in der Kategorie SYSTEM bearbeitet werden. Die Anzeigeoption befindet sich unter Exportieren und Importieren. Sobald Sie DISPLAY ausgewählt haben, können Sie die Größe der Benutzeroberfläche sowie die Schriftgröße der App ändern, indem Sie die gewünschte Größe auswählen. Der rote Punkt sollte unter der Größe liegen, die Sie auswählen möchten.
+Anzeigeeinstellungen können in EINSTELLUNGEN innerhalb der SYSTEM-Kategorie bearbeitet werden. Die Anzeigeoption liegt unter Export und Import. Sobald Sie DISPLAY gewählt haben, können Sie die Größe der Benutzeroberfläche (UI) sowie die Schriftgröße der App ändern, indem Sie die gewünschte Größe auswählen. Der rote Punkt sollte unter der gewünschten Größe liegen.
 
-### <a name='CanIresizebuttonsonCboard'></a>Kann ich die Größe von Schaltflächen auf Cboard ändern?
+### <a name='CanIresizebuttonsonCboard'></a>Kann ich die Größe der Tasten in Cboard ändern?
 
-Ja! Sie können die Größe von Kacheln oder Schaltflächen in EINSTELLUNGEN ändern. Wählen Sie in der Kategorie SYSTEM die Option ANZEIGE aus, und Sie erhalten drei Größenoptionen: Standard, Groß, Extra Groß. Siehe Abbildung unten:
+Ja! Sie können Kacheln oder Tasten in EINSTELLUNGEN verkleinern. In der Kategorie SYSTEM wählen Sie DISPLAY und Sie erhalten 3 Optionen für die Größe: Standard, groß, extra groß. Siehe Abbildung unten:
 
-![Anzeigefunktionen](/images/help/display.png "Display capabilities")
+![Anzeigemöglichkeiten](/images/help/display.png "Display capabilities")
+
+### <a name='BigScrollButtons'></a>Bildschirm durch große Tasten scrollen
+
+Es ist auch möglich, ein Brett hoch- und runter zu scrollen, indem Sie ein paar große Tasten verwenden, die im Abschnitt Einstellungen hinzugefügt werden können. Dies ist besonders nützlich für Nutzer von Eye-Trackergeräten, da die Tasten erlauben das Brett zu scrollen ohne den Bildschirm zu schieben. Um diese Funktion zu aktivieren, gehen Sie in die Einstellungen und suchen nach dem Schalter "Große Scroll-Schaltflächen aktivieren". Schalten Sie den Schalter und speichern Sie die Einstellungen. Siehe Abbildung unten:
+
+![Aktiviere große Scroll-Tasten](/images/help/bigScrollSettings.png "Big scroll buttons settings")
+
+Dann sollten Sie ein paar große Tasten oben und unten auf einem Board sehen, wenn es groß genug ist wie im folgenden Bild angezeigt:
+
+![Große Scroll-Tasten](/images/help/bigScrollButtons.png "Big scroll buttons")
 
 ## <a name='Scanning'></a>Scannen
 
 ### <a name='CanIusescanningtechniquestoaccesssymbols'></a>Kann ich mit Scan-Techniken auf Symbole zugreifen?
 
-Beim Scannen werden die Elemente im Auswahlsatz im Laufe der Zeit nacheinander angezeigt, und der Benutzer trifft eine Auswahl indirekt, normalerweise durch Switch-Zugriff. Das Scannen auf Cboard funktioniert innerhalb von EINSTELLUNGEN und der Kategorie SYSTEM. Es gibt verschiedene Einstellungen für das Scannen. Sie sollten zuerst die Scaneinstellung aktivieren, indem Sie AKTIVIEREN auswählen. Sie können dann die Zeitverzögerung sowie die Methode (entweder automatisch oder manuell) auswählen. Bitte beachten Sie, dass bei Verwendung eines Tablets oder Smartphones möglicherweise auch eine eigene Scanoption integriert ist.
+Beim Scannen werden die Elemente des Auswahlsatzes im Laufe der Zeit sequentiell dargestellt und der Benutzer macht indirekt eine Auswahl, üblicherweise durch den Schalterzugriff. SCANNING on Cboard arbeitet innerhalb von EINSTELLUNGEN und der SYSTEM-Kategorie. Es gibt verschiedene Einstellungen für das Scannen von Bildern. Sie sollten zuerst die Scaneinstellung aktivieren, indem Sie ENABLE auswählen. Sie können dann die Zeitverzögerung sowie die Methode (entweder automatisch oder manuell) auswählen. Bitte beachten Sie, dass bei der Verwendung eines Tablet oder Smartphones auch eine eigene eingebaute Scan-Option zur Verfügung steht.
 
 ## <a name='CommunicatorBuilder'></a>Builder für Kommunikatoren
 
 ### <a name='Whatiscommbuilder'></a>Was ist der Communicator Builder?
 
-Der Communicator Builder ist eine Funktion, mit der Sie Boards bearbeiten können, um sie zu kopieren, zu löschen, zu veröffentlichen, hinzuzufügen und zu entfernen. Um auf die Funktionen zugreifen zu können, müssen Sie die Einstellungen entsperren und auf die Schaltfläche "Erstellen" klicken. Sie sehen eine neue Seite, die auf drei verschiedenen Registerkarten strukturiert ist: Boards, öffentliche Boards, alle meine Boards. Siehe Abbildung unten:
+Der Communicator Builder ist eine Funktion, mit der Sie Boards bearbeiten können, um sie zu kopieren, zu löschen, zu veröffentlichen, hinzuzufügen und zu entfernen. Um auf die Funktionalität zugreifen zu können, müssen Sie die Einstellungen entsperren und auf den "Erstellen"-Button klicken. Sie werden eine neue Seite sehen, die auf drei verschiedenen Tabs strukturiert ist: Boards, öffentliche Boards und alle meine Boards. Siehe Abbildung unten:
 
-![Builder für Kommunikatoren](/images/help/communicator.png "Communicator builder")
+![Communicator-Builder](/images/help/communicator.png "Communicator builder")
 
-### <a name='CommunicatorBoards'></a>Kommunikatorentafeln
+### <a name='CommunicatorBoards'></a>Kommunikationsplattform
 
-Die Standardregisterkarte, die im Communicator Builder angezeigt wird, ist die Registerkarte Communicator-Karten, auf der alle in Ihrem Kommunikator enthaltenen Karten angezeigt werden. Sie können Änderungen in Ihrem Kommunikator über die folgenden Aktionsschaltflächen vornehmen:
+Die Standard-Registerkarte, die Sie im Communicator-Builder sehen, ist die Registerkarte Kommunikator-Boards, die alle in Ihrem Kommunikator enthaltenen Boards anzeigt. Sie können Änderungen in Ihrem Kommunikator durch folgende Aktionstasten vornehmen:
 
 * Karte aus dem Kommunikator entfernen: Diese Schaltfläche beendet die Karte aus dem Kommunikator, löscht die Karte jedoch NICHT aus der Datenbank und ist weiterhin auf der Registerkarte "Alle meine Karten" verfügbar.
 
 * Board als Root festlegen: Mit dieser Schaltfläche wird das Board als das erste Board definiert, das bei jeder Anmeldung bei Cboard angezeigt wird.
 
-![Kommunikatorentafeln](/images/help/communicatorBoards.png "Communicator boards")
+![Kommunikationsplattform](/images/help/communicatorBoards.png "Communicator boards")
 
-### <a name='PublicBoards'></a>Öffentliche Gremien
+### <a name='PublicBoards'></a>Verwaltungsräte
 
 * Karte kopieren: Mit dieser Schaltfläche wird eine Kopie der Karte erstellt und in Ihren Kommunikator eingefügt. Da dies eine Kopie der öffentlichen Tafel ist, können Sie diese Tafel nach Belieben bearbeiten, ohne die ursprüngliche öffentliche Tafel zu beeinträchtigen.
 
-![Öffentliche Gremien](/images/help/PublicBoards.png "Public boards")
+![Verwaltungsräte](/images/help/PublicBoards.png "Public boards")
 
-### <a name='Allmyboards'></a>Alle meine Bretter
+### <a name='Allmyboards'></a>Alle meine Boards
 
-Bitte beachten Sie, dass NUR registrierte Benutzer auf diese Registerkartenfunktion zugreifen können.
+Bitte beachten Sie, dass JUST registrierte Benutzer auf diese Funktion zugreifen können.
 
 * Karte aus dem Kommunikator entfernen: Mit dieser Schaltfläche wird die Karte aus dem Kommunikator beendet, die Karte wird jedoch NICHT aus der Datenbank gelöscht und ist weiterhin verfügbar.
 
 * Karte zum Kommunikator hinzufügen: Diese Schaltfläche enthält die Karte zum Kommunikator.
 
 * Board veröffentlichen: Diese Aktion macht das Board öffentlich und wird auf der Registerkarte Public Boards angezeigt. Jeder kann dein Board sehen.
-    
+  
  * Board nicht veröffentlichen: Diese Aktion macht das Board privat und wird nicht auf der Registerkarte "Public Boards" angezeigt. Niemand kann dein Board sehen.
-    
+  
  * Karte löschen: Diese Aktion löscht die Karte und kann nicht wiederhergestellt werden. Die Karte wird aus der Datenbank entfernt.
 
-![Alle meine Bretter](/images/help/AllmyBoards.png "All my boards")
+![Alle meine Boards](/images/help/AllmyBoards.png "All my boards")

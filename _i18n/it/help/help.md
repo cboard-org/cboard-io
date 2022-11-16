@@ -2,58 +2,63 @@
 
 ## Sommario
 
-* [Cos'è Cboard?](#WhatisCboard)
-* [Registrazione e login](#Registrationandlogin) 
-    * [Come posso registrarmi a Cboard?](#HowdoIregisterforCboard)
-    * [Posso registrarmi usando i miei account sui social media?](#CanIregistermyselfusingmysocialmediaaccounts)
-    * [Come posso accedere a Cboard dopo essere un utente registrato?](#HowdoIlogintoCboardonceIamaregistereduser)
-    * [Come posso disconnettermi?](#HowdoIlogout)
-    * [Qual è la differenza tra un utente registrato e un utente non registrato?](#Whatisthedifferencebetweenaregisteredandanon-registereduser)
-    * [Come posso aggiornare le mie informazioni utente?](#HowdoIupdatemyuserinformation)
-    * [Come reimpostare la mia password?](#HowdoIresetmypassword)
-* [Prezzo](#Price) 
-    * [Quanto costa Cboard?](#HowmuchdoesCboardcost)
-* [Caratteristiche](#Features) 
-    * [Quali dispositivi e sistemi operativi sono supportati?](#WhatdevicesandOSaresupported)
-    * [Quali lingue sono supportate da Cboard?](#WhichlanguagesaresupportedbyCboard)
-    * [Cboard può leggere il mio messaggio ad alta voce?](#CanCboardreadmymessageoutaloud)
-    * [Funzionalità vocali](#Speechcapabilities)
-    * [Esporta e importa](#Exportandimport)
-    * [Funzionalità di visualizzazione](#Displaycapabilities)
-    * [Posso modificare le impostazioni di navigazione?](#CanIchangeanynavigationsettings)
-    * [Navigazione attraverso l'interfaccia](#Navigationthroughtheinterface)
-* [Impostazioni](#Settings) 
-    * [Come posso accedere alle impostazioni in Cboard?](#HowdoIaccesssettingsinCboard)
-    * [Come faccio a stampare il mio set di schede in Cboard?](#HowdoIprintmyboardsetinCboard)
-    * [Come vedo Cboard a schermo intero?](#HowdoIseeCboardinfullscreen)
-    * [Come faccio a condividere una scheda?](#HowdoIshareaboard)
-* [parlando](#Talking) 
-    * [Come faccio ad aggiungere una voce registrata personalmente ai simboli su Cboard?](#HowdoIaddapersonallyrecordedvoicetosymbolsonCboard)
-    * [Come posso passare a una voce diversa?](#HowdoIswitchtoadifferentvoice)
-    * [Come posso cambiare il modo in cui suona una voce?](#HowdoIchangehowavoicesounds)
-* [Modifica della scheda](#BoardEditing) 
-    * [Come faccio a creare una scheda vuota?](#HowdoIcreateanemptyboard)
-    * [Come personalizzo una scheda esistente in Cboard?](#HowdoIpersonalizeanexistingboardinCboard)
-    * [Posso usare le mie foto quando modifico una lavagna?](#CanIusemyownpictureswheneditingaboard)
-    * [Posso modificare l'ordinamento degli elementi in una scheda?](#CanIchangetheorderingoftheelementsinaboard)
-    * [Come seleziono più elementi da modificare?](#HowdoIselectmultipleelementstoedit)
-    * [Come posso trovare nuovi simboli quando modifico una tessera?](#FindSymbols)
-    * [Posso posizionare le tessere del tabellone in posizioni fisse?](#FixedBoards)
-    * [Come imposto un numero specifico di righe e colonne nella mia bacheca?](#FixedRows)
-* [Esporta e importa](#Exportandimport) 
-    * [Come posso esportare la mia scheda in Cboard?](#HowdoIexportmyboardinCboard)
-    * [Come importare una scheda in Cboard?](#HowdoIimportaboardintoCboard)
-    * [Quale formato di file utilizza Cboard per l'importazione / esportazione?](#WhatfileformatdoesCboarduseforimportexport)
-* [Funzionalità di visualizzazione](#Displaycapabilities) 
-    * [Cosa posso cambiare sul display?](#WhatcanIchangeonthedisplay)
-    * [Posso ridimensionare i pulsanti su Cboard?](#CanIresizebuttonsonCboard)
-* [lettura](#Scanning) 
-    * [Posso usare le tecniche di scansione per accedere ai simboli?](#CanIusescanningtechniquestoaccesssymbols)
-* [Generatore di comunicazioni](#CommunicatorBuilder) 
-    * [Cos'è il costruttore di comunicazioni?](#Whatiscommbuilder)
-    * [Schede di comunicazione](#CommunicatorBoards)
-    * [Lavagne pubbliche](#PublicBoards)
-    * [Tutte le mie schede](#Allmyboards)
+- [Aiuto Cboard](#cboard-help) 
+  - [Tabella dei contenuti](#table-of-contents)
+  - [<a name='WhatisCboard'></a>Che cos'è Cboard?](#what-is-cboard)
+  - [<a name='Registrationandlogin'></a>Registrazione e login](#registration-and-login) 
+    - [<a name='HowdoIregisterforCboard'></a>Come posso registrarmi a Cboard?](#how-do-i-register-for-cboard)
+    - [<a name='CanIregistermyselfusingmysocialmediaaccounts'></a>Posso registrarmi usando i miei account di social media?](#can-i-register-myself-using-my-social-media-accounts)
+    - [<a name='HowdoIlogintoCboardonceIamaregistereduser'></a>Come faccio ad accedere a Cboard una volta che sono un utente registrato?](#how-do-i-log-in-to-cboard-once-i-am-a-registered-user)
+    - [Quali sono le diverse opzioni per configurare Cboard?](#what-are-the-different-options-to-configure-cboard)
+    - [<a name='HowdoIlogout'></a>Come faccio ad uscire?](#how-do-i-logout)
+    - [<a name='Whatisthedifferencebetweenaregisteredandanon-registereduser'></a>Qual è la differenza tra un utente registrato e un utente non registrato?](#what-is-the-difference-between-a-registered-and-a-non-registered-user)
+    - [<a name='HowdoIupdatemyuserinformation'></a>Come faccio ad aggiornare le informazioni dell'utente?](#how-do-i-update-my-user-information)
+    - [<a name='HowdoIresetmypassword'></a>Come reimpostare la mia password?](#how-do-i-reset-my-password)
+  - [<a name='Price'></a>Prezzo](#price) 
+    - [<a name='HowmuchdoesCboardcost'></a>Quanto costa Cboard?](#how-much-does-cboard-cost)
+  - [<a name='Features'></a>Caratteristiche](#features) 
+    - [<a name='WhatdevicesandOSaresupported'></a>Quali dispositivi e OS sono supportati?](#what-devices-and-os-are-supported)
+    - [<a name='WhichlanguagesaresupportedbyCboard'></a>Quali lingue sono supportate da Cboard?](#which-languages-are-supported-by-cboard)
+    - [<a name='CanCboardreadmymessageoutaloud'></a>Può Cboard leggere il mio messaggio ad alta voce?](#can-cboard-read-my-message-out-aloud)
+    - [<a name='Speechcapabilities'></a>Capacità vocali](#speech-capabilities)
+    - [<a name='Exportandimport'></a>Esportazione e importazione](#export-and-import)
+    - [<a name='Displaycapabilities'></a>Funzionalità di visualizzazione](#display-capabilities)
+    - [<a name='CanIchangeanynavigationsettings'></a>Posso cambiare le impostazioni di navigazione?](#can-i-change-any-navigation-settings)
+    - [<a name='Navigationthroughtheinterface'></a>Navigazione attraverso l'interfaccia](#navigation-through-the-interface)
+  - [<a name='Settings'></a>Impostazioni](#settings) 
+    - [<a name='HowdoIaccesssettingsinCboard'></a>Come posso accedere alle impostazioni in Cboard?](#how-do-i-access-settings-in-cboard)
+    - [<a name='HowdoIprintmyboardsetinCboard'></a>Come faccio a stampare la mia scheda impostata in Cboard?](#how-do-i-print-my-board-set-in-cboard)
+    - [<a name='HowdoIseeCboardinfullscreen'></a>Come vedo Cboard a schermo intero?](#how-do-i-see-cboard-in-fullscreen)
+    - [<a name='HowdoIshareaboard'></a>Come posso condividere una scheda?](#how-do-i-share-a-board)
+    - [<a name='HowdoIshareaphrase'></a>Come condivido una frase?](#how-do-i-share-a-phrase)
+  - [<a name='Talking'></a>Parlando](#talking) 
+    - [<a name='HowdoIaddapersonallyrecordedvoicetosymbolsonCboard'></a>Come posso aggiungere una voce registrata personalmente ai simboli su Cboard?](#how-do-i-add-a-personally-recorded-voice-to-symbols-on-cboard)
+    - [<a name='HowdoIswitchtoadifferentvoice'></a>Come faccio a passare a una voce diversa?](#how-do-i-switch-to-a-different-voice)
+    - [<a name='HowdoIchangehowavoicesounds'></a>Come faccio a cambiare il suono di una voce?](#how-do-i-change-how-a-voice-sounds)
+  - [<a name='BoardEditing'></a>Modifica Scheda](#board-editing) 
+    - [<a name='HowdoIcreateanemptyboard'></a>Come faccio a creare una scheda vuota?](#how-do-i-create-an-empty-board)
+    - [<a name='HowdoIpersonalizeanexistingboardinCboard'></a>Come posso personalizzare una scheda esistente in Cboard?](#how-do-i-personalize-an-existing-board-in-cboard)
+    - [<a name='CanIusemyownpictureswheneditingaboard'></a>Posso usare le mie foto quando modifico una scheda?](#can-i-use-my-own-pictures-when-editing-a-board)
+    - [<a name='CanIchangetheorderingoftheelementsinaboard'></a>Posso cambiare l'ordine degli elementi in una scheda?](#can-i-change-the-ordering-of-the-elements-in-a-board)
+    - [<a name='HowdoIselectmultipleelementstoedit'></a>Come faccio a selezionare più elementi da modificare?](#how-do-i-select-multiple-elements-to-edit)
+    - [<a name='FindSymbols'></a>Come posso trovare nuovi simboli quando sto modificando una piastrella?](#how-can-i-find-new-symbols-when-i-am-editing-a-tile)
+    - [<a name='FixedBoards'></a>Posso posizionare le piastrelle di bordo in posizioni fisse?](#can-i-place-board-tiles-in-fixed-positions)
+    - [<a name='FixedRows'></a>Come posso impostare un numero specifico di righe e colonne nella mia scheda?](#how-do-i-set-a-specific-number-of-rows-and-columns-in-my-board)
+  - [<a name='Exportandimport-1'></a>Esportazione e importazione](#export-and-import-1) 
+    - [<a name='HowdoIexportmyboardinCboard'></a>Come posso esportare la mia scheda in Cboard?](#how-do-i-export-my-board-in-cboard)
+    - [<a name='HowdoIimportaboardintoCboard'></a>Come posso importare una scheda in Cboard?](#how-do-i-import-a-board-into-cboard)
+    - [<a name='WhatfileformatdoesCboarduseforimportexport'></a>Quale formato di file utilizza Cboard per importare/esportare?](#what-file-format-does-cboard-use-for-importexport)
+  - [<a name='Displaycapabilities-1'></a>Funzionalità di visualizzazione](#display-capabilities-1) 
+    - [<a name='WhatcanIchangeonthedisplay'></a>Cosa posso cambiare sul display?](#what-can-i-change-on-the-display)
+    - [<a name='CanIresizebuttonsonCboard'></a>Posso ridimensionare i pulsanti su Cboard?](#can-i-resize-buttons-on-cboard)
+    - [<a name='BigScrollButtons'></a>Scorri lo schermo attraverso i pulsanti grandi](#screen-scroll-through-big-buttons)
+  - [<a name='Scanning'></a>Scansione](#scanning) 
+    - [<a name='CanIusescanningtechniquestoaccesssymbols'></a>Posso usare tecniche di scansione per accedere ai simboli?](#can-i-use-scanning-techniques-to-access-symbols)
+  - [<a name='CommunicatorBuilder'></a>Costruttore di comunicatori](#communicator-builder) 
+    - [<a name='Whatiscommbuilder'></a>Cos'è il costruttore di comunicatori?](#what-is-the-communicator-builder)
+    - [<a name='CommunicatorBoards'></a>Pannelli per comunicatori](#communicator-boards)
+    - [<a name='PublicBoards'></a>Comitati pubblici](#public-boards)
+    - [<a name='Allmyboards'></a>Tutte le mie tavole](#all-my-boards)
 
 ## <a name='WhatisCboard'></a>Cos'è Cboard?
 
@@ -199,9 +204,19 @@ Per condividere una scheda, sblocca lo schermo premendo il simbolo del lucchetto
 
 <div><iframe width="420" height="315" src="https://www.youtube.com/embed/fE0R6HzZ9O4" frameborder="0" allowfullscreen></iframe></div>
 
+### <a name='HowdoIshareaphrase'></a>Come condivido una frase?
+
+Per condividere una frase, solo per la prima volta, sblocca lo schermo, vai alle impostazioni > Navigazione e Pulsanti > e attiva l'opzione 'Mostra il pulsante di condivisione frase'.
+
+![Impostazioni condivisione frasi](https://user-images.githubusercontent.com/21298844/128038972-a2848d47-2675-4e2d-9a15-6f93186f29d6.png)
+
+Assembla una frase. Quindi premere l'icona di condivisione che appare sulla destra della barra delle frasi di output. Selezionare il social network in cui condividere la frase. Una finestra di dialogo sarebbe aperta con la frase in un campo di testo. Premi il pulsante Invia per condividerlo. Se si desidera copiare la frase negli appunti, premere il pulsante di condivisione e quindi l'opzione 'copia negli appunti'. Una notifica verrà visualizzata sullo schermo con un messaggio di successo.
+
+![Pulsante condivisione frase](https://user-images.githubusercontent.com/21298844/128044322-d61491c6-7168-4615-8117-244dc872091e.png)
+
 ## <a name='Talking'></a>parlando
 
-### <a name='HowdoIaddapersonallyrecordedvoicetosymbolsonCboard'></a>Come faccio ad aggiungere una voce registrata personalmente ai simboli su Cboard?
+### <a name='HowdoIaddapersonallyrecordedvoicetosymbolsonCboard'></a>Come posso aggiungere una voce registrata personalmente ai simboli su Cboard?
 
 1. Vai alla scheda che desideri utilizzare.
 
@@ -218,18 +233,18 @@ Per condividere una scheda, sblocca lo schermo premendo il simbolo del lucchetto
 7. Aggiungi l'etichetta per la vocalizzazione
 
 8. Infine, seleziona il simbolo del microfono e registra, puoi registrare più volte e riprodurlo prima di salvarlo sulla scheda.
-    
+  
     Se sono stati selezionati più simboli, utilizzare NEXT per passare al simbolo successivo e ripetere il processo.
 
 <div><iframe width="420" height="315" src="https://www.youtube.com/embed/KZwCP4PkM4I" frameborder="0" allowfullscreen></iframe></div>
 
-### <a name='HowdoIswitchtoadifferentvoice'></a>Come posso passare a una voce diversa?
+### <a name='HowdoIswitchtoadifferentvoice'></a>Come faccio a passare a una voce diversa?
 
-Per regolare le capacità vocali / vocali, accedere alle impostazioni e nella categoria LINGUA è la categoria SPEECH. Quando selezioni SPEECH sarai in grado di modificare il tono e il ritmo del discorso su Cboard. Puoi anche registrare la tua voce per i simboli seguendo i passaggi sulla risposta per "Come posso aggiungere una voce registrata personalmente ai simboli su Cboard?"
+Al fine di regolare le capacità vocali/voce, entrare nelle impostazioni, e sotto la categoria LINGUA è la categoria SPEECH. Quando si seleziona SPEECH si sarà in grado di modificare il passo e il ritmo del discorso su Cboard. È anche possibile registrare la propria voce per i simboli seguendo i passaggi sulla risposta per “Come posso aggiungere una voce registrata personalmente ai simboli su Cboard?”
 
-### <a name='HowdoIchangehowavoicesounds'></a>Come posso cambiare il modo in cui suona una voce?
+### <a name='HowdoIchangehowavoicesounds'></a>Come faccio a cambiare il suono di una voce?
 
-Per regolare le capacità vocali / voce / suono, andare su IMPOSTAZIONI e nella categoria LINGUA selezionare la categoria SPEECH. Sarai quindi in grado di modificare il tono e il ritmo del discorso su Cboard.
+Al fine di regolare le capacità vocali/voce/suono, andare in IMPOSTAZIONI e sotto la categoria LANGUAGE selezionare la categoria SPEECH. Sarete quindi in grado di modificare il passo e il ritmo del discorso su Cboard.
 
 ## <a name='BoardEditing'></a>Modifica della scheda
 
@@ -237,79 +252,79 @@ Per regolare le capacità vocali / voce / suono, andare su IMPOSTAZIONI e nella 
 
 In Cboard una scheda vuota equivale a una cartella.
 
-Se si desidera creare una scheda nuova o vuota, è necessario creare una nuova cartella, che creerà una nuova scheda nell'area di memorizzazione della lavagna (che è possibile visualizzare quando si passa a SCHEDE sulla barra centrale in modalità di modifica).
+Se vuoi creare una nuova scheda o una nuova scheda vuota devi creare una nuova cartella, e che creerà una nuova scheda nell'area di archiviazione Cboard (che puoi vedere quando vai a BOARDS sulla barra centrale in modalità modifica).
 
-La nuova scheda vuota sarà immediatamente disponibile per la modifica e può essere impostata come scheda principale (usando il pulsante build), il che significa che sarà la prima scheda che vedrai alla successiva apertura di Cboard.
+La nuova scheda vuota sarà immediatamente disponibile per la modifica e può essere impostata come root board (utilizzando il pulsante di generazione), che significa che sarà la prima scheda che vedi la prossima volta che apri Cboard.
 
-Per creare una nuova cartella, iniziare sbloccando lo schermo selezionando il pulsante di blocco sul lato destro. Dopo aver sbloccato lo schermo, selezionare il simbolo più (+) sul lato destro, per AGGIUNGERE PIASTRELLA. Ti verrà quindi data la possibilità di aggiungere una tessera / PULSANTE che è la prima e automatica opzione o selezionare la CARTELLA Questa azione crea una NUOVA SCHEDA alla quale puoi aggiungere più tessere e cartelle.
+Per creare una nuova cartella, inizia sbloccando lo schermo selezionando il pulsante di blocco sul lato destro. Una volta sbloccato lo schermo, selezionare il simbolo plus (+) sul lato destro, per aggiungere TILE. Ti verrà data la possibilità di aggiungere una mattonella / BUTTON che è la prima e automatica opzione o selezionare la CARRIERA Questa azione rende un NUOVO CARRIERA a cui è possibile aggiungere più caselle e cartelle.
 
-Dopo aver assegnato un nome alla cartella, puoi caricare un'immagine in modo simile alla creazione di un riquadro con un'impostazione e un'etichetta di colore. Questa nuova cartella si collegherà automaticamente a una scheda sopra di essa (se inclusa una fila di tessere). Apparirà nel tuo elenco di schede come una scheda vuota fino a quando non viene popolata con simboli ed etichette.
+Una volta nominata la cartella, è possibile caricare un'immagine in modo simile a fare una piastrella con un'impostazione di colore ed etichetta. Questa nuova cartella si collegherà automaticamente a una scheda sopra di essa (se inclusa una riga di piastrelle). Apparirà nella tua lista di schede come una scheda vuota fino a quando non sarà popolata con simboli ed etichette.
 
 <div><iframe width="420" height="315" src="https://www.youtube.com/embed/FPfbrAtj1Zg" frameborder="0" allowfullscreen></iframe></div>
 
-### <a name='HowdoIpersonalizeanexistingboardinCboard'></a>Come personalizzo una scheda esistente in Cboard?
+### <a name='HowdoIpersonalizeanexistingboardinCboard'></a>Come posso personalizzare una scheda esistente in Cboard?
 
-Per personalizzare una tavola esistente, seleziona il BLOCCO nell'angolo in alto a destra della barra sopra la tavola (sotto la freccia con una croce). Una volta fatto questo, un'altra barra apparirà sotto la barra HOME nera e troverai una piccola icona a blocchi (EDIT) sul lato sinistro per aggiungere un riquadro o una cella. Una volta selezionato il blocco, la barra grigia dovrebbe diventare blu e sul lato destro vedrai un piccolo cestino e una matita.
+Al fine di personalizzare una scheda esistente, selezionare il LOCK nell'angolo in alto a destra della barra sopra la scheda, (sotto la freccia con una croce). Una volta fatto questo, un'altra barra apparirà sotto la barra HOME nera, e troverai un piccolo blocco (EDIT) icona sul lato sinistro per aggiungere una casella o una cella. Una volta selezionato il blocco, la barra grigia dovrebbe diventare blu, e sul lato destro vedrete una piccola spazzatura lattina e una matita.
 
-![personalizzare una scheda esistente](/images/help/personalize.png "personalize an existing board")
+![personalizza una scheda esistente](/images/help/personalize.png "personalize an existing board")
 
-Per personalizzare la lavagna, seleziona la matita e sarai in grado di cambiare l'etichetta, caricare un'immagine e aggiungere la vocalizzazione.
+Al fine di personalizzare la scheda, selezionare la matita e si sarà in grado di modificare l'etichetta, caricare un'immagine e aggiungere Vocalizzazione.
 
 <div><iframe width="420" height="315" src="https://www.youtube.com/embed/sRnVvafKBLM" frameborder="0" allowfullscreen></iframe></div>
 
-### <a name='CanIusemyownpictureswheneditingaboard'></a>Posso usare le mie foto quando modifico una lavagna?
+### <a name='CanIusemyownpictureswheneditingaboard'></a>Posso usare le mie foto quando modifico una scheda?
 
-Sì, puoi usare la tua foto quando modifichi una lavagna. Per utilizzare la tua immagine, puoi caricare l'immagine quando crei una nuova tessera (selezionando il SEGNO PIÙ (+) sulla barra grigia dopo aver sbloccato la pagina). Puoi anche modificare un riquadro esistente con la tua foto.
+Sì, è possibile utilizzare la propria immagine quando si modifica una scheda. Per utilizzare la propria immagine, è possibile caricare l'immagine quando si crea una nuova casella (selezionando PLUS SIGN (+) sulla barra grigia dopo aver sbloccato la pagina). È anche possibile modificare un tile esistente con la propria immagine.
 
-### <a name='CanIchangetheorderingoftheelementsinaboard'></a>Posso modificare l'ordinamento degli elementi in una scheda?
+### <a name='CanIchangetheorderingoftheelementsinaboard'></a>Posso cambiare l'ordine degli elementi in una scheda?
 
-Sì! Quando modifichi una lavagna, sblocca lo schermo usando il simbolo BLOCCO. Quindi selezionare l'icona del blocco EDIT sul lato sinistro (sotto l'icona BUILD). È quindi possibile trascinare il pittogramma / simbolo o la cartella in un punto in cui si desidera inserirlo nella stessa scheda.
+Sì! Quando si modifica una scheda, sbloccare lo schermo utilizzando il simbolo LOCK. Quindi selezionare l'icona del blocco EDIT sul lato sinistro (sotto l'icona BUILD). È quindi possibile trascinare il pittogramma/simbolo o la cartella dove si desidera inserirlo nella stessa scheda.
 
-### <a name='HowdoIselectmultipleelementstoedit'></a>Come seleziono più elementi da modificare?
+### <a name='HowdoIselectmultipleelementstoedit'></a>Come faccio a selezionare più elementi da modificare?
 
-Allo stesso modo in cui cambi l'ordine di elementi in una tavola, ma invece di selezionare e trascinare, scegli il cerchio all'interno del quadrato del pittogramma / simbolo. Per modificare molti simboli puoi sceglierne più di uno. Dopo averlo fatto, seleziona l'icona MATITA sul lato destro e questo ti permetterà di modificare gli elementi selezionati.
+Allo stesso modo si cambia l'ordine di elementi in una tavola, ma invece di selezionare e trascinare, si sceglie il cerchio all'interno del pittogramma/simbolo quadrato. Per modificare molti simboli puoi scegliere più di uno. Dopo averlo fatto, seleziona l'icona PENCIL sul lato destro e questo ti permetterà di modificare gli elementi selezionati.
 
 <div><iframe width="420" height="315" src="https://www.youtube.com/embed/ZgRUamoF8Vk" frameborder="0" allowfullscreen></iframe></div>
 
-### <a name='FindSymbols'></a>Come posso trovare nuovi simboli quando modifico una tessera?
+### <a name='FindSymbols'></a>Come posso trovare nuovi simboli quando sto modificando una piastrella?
 
-Seleziona l'icona del blocco EDIT sul lato sinistro della barra della scheda e scegli il pittogramma / simbolo che desideri modificare. Selezionalo e una volta che l'anello blu ha un segno di spunta, vai sull'icona PENCIL sulla destra. Dopo aver selezionato la matita, noterai che è presente un'icona LENTE D'INGRANDIMENTO per la ricerca di simboli. Quando la funzione di ricerca è attivata, vedrai RICERCA SIMBOLI DI RICERCA in una barra di modifica. Digita il concetto / etichetta / parola che stai cercando e appariranno i simboli. Dopo aver selezionato un simbolo, tornerai automaticamente alla pagina di modifica TILE.
+Selezionare l'icona del blocco EDIT sul lato sinistro della barra della scheda e scegliere il pittogramma/simbolo che si desidera modificare. Selezionalo e una volta che l'anello blu ha un segno di spunta, vai all'icona PENCIL sulla destra. Dopo aver selezionato la matita noterai che c'è un'icona MAGNIFYING GLASS per la ricerca di simboli. Quando la funzione di ricerca è attivata, vedrai RICERCA SYMBOL LIBRARY in una barra di modifica. Digitare il concetto / etichetta / parola che stai cercando e i simboli appariranno. Una volta selezionato un simbolo ti restituirà automaticamente alla pagina TILE di modifica.
 
 <div><iframe width="420" height="315" src="https://www.youtube.com/embed/-8OXT3b4Flk" frameborder="0" allowfullscreen></iframe></div>
 
-### <a name='FixedBoards'></a>Posso posizionare le tessere del tabellone in posizioni fisse?
+### <a name='FixedBoards'></a>Posso posizionare le piastrelle di bordo in posizioni fisse?
 
-Per impostazione predefinita, quando viene creata una nuova bacheca, Cboard aggiungerà una bacheca fluente ****. È comunque possibile trasformare la scheda in una scheda fissa ****. Hanno le seguenti caratteristiche:
+Per impostazione predefinita, quando viene creata una nuova scheda, Cboard aggiungerà una **scheda fluente**. Anyway, it is possible to transform the board into a **fixed board**. Hanno le seguenti caratteristiche:
 
 * La griglia non cambierà per le diverse dimensioni dello schermo o l'orientamento del dispositivo. 
 * Il numero di righe e colonne è configurabile. 
 * Le piastrelle avranno posizioni fisse nella griglia. 
 
-Per convertire una scheda in una scheda fissa, è sufficiente modificare la scheda e cambiare l'opzione nella barra degli strumenti per fissarla. La tua bacheca cambierà aspetto e verranno visualizzati gli indicatori di righe e colonne.
+Per convertire una scheda in una scheda fissa, è sufficiente modificare la scheda e cambiare l'opzione nella barra degli strumenti per renderla fissa. La tua scheda cambierà l'aspetto e le righe e gli indicatori delle colonne verranno visualizzati.
 
-![Tavola fissa](/images/help/fixedBoard.png "Fixed board")
+![Scheda fissa](/images/help/fixedBoard.png "Fixed board")
 
-### <a name='FixedRows'></a>Come imposto un numero specifico di righe e colonne nella mia bacheca?
+### <a name='FixedRows'></a>Come posso impostare un numero specifico di righe e colonne nella mia scheda?
 
-Per prima cosa, devi trasformare la scheda in una scheda fissa **** (vedi argomento precedente). In modalità edizione, la tua bacheca mostrerà indicatori di righe e colonne. Puoi interagire con questi controlli per aumentare o diminuire il numero di righe e colonne che desideri.
+In primo luogo, devi trasformare la scheda in una scheda fissa **** (vedi argomento precedente). In modalità edizione, la scheda visualizzerà gli indicatori di righe e colonne. È possibile interagire con questi controlli per aumentare o diminuire il numero di righe e colonne che si desidera.
 
 <div><iframe width="420" height="315" src="https://www.youtube.com/embed/XEAz85zrZ70" frameborder="0" allowfullscreen></iframe></div>
 
 ## <a name='Exportandimport-1'></a>Esporta e importa
 
-### <a name='HowdoIexportmyboardinCboard'></a>Come esporto la mia scheda in Cboard?
+### <a name='HowdoIexportmyboardinCboard'></a>Come posso esportare la mia scheda in Cboard?
 
-Per esportare la tua bacheca in Cboard, vai su IMPOSTAZIONI e non appena apri Impostazioni, l'opzione ESPORTA apparirà come una freccia rivolta verso il basso, sotto Lingua e discorso.
+Per esportare la scheda in Cboard, vai a SETTINGS, e non appena apri le impostazioni, l'opzione ESPORTAZIONE apparirà come una freccia rivolta verso il basso, sotto Lingua e Speech.
 
-Seleziona ESPORTA e scarica la tua lavagna selezionando OPENBOARD o ESPORTA.
+Selezionare EXPORT e scaricare la scheda selezionando OPENBOARD o EXPORT.
 
-### <a name='HowdoIimportaboardintoCboard'></a>Come si importa una bacheca in Cboard?
+### <a name='HowdoIimportaboardintoCboard'></a>Come posso importare una scheda in Cboard?
 
-Per importare una bacheca, segui i passaggi utilizzati per esportare. IMPORT è sotto Export, una freccia rivolta verso l'alto con una barra orizzontale sotto di essa.
+Per importare una scheda, seguire i passaggi utilizzati per Esportare. IMPORTAZIONE è sotto Esportazione, una freccia rivolta verso l'alto con una barra orizzontale sotto di essa.
 
-### <a name='WhatfileformatdoesCboarduseforimportexport'></a>Quale formato di file utilizza Cboard per l'importazione / esportazione?
+### <a name='WhatfileformatdoesCboarduseforimportexport'></a>Quale formato di file utilizza Cboard per importare/esportare?
 
-Per importare ed esportare le schede hai due opzioni:
+Al fine di importare ed esportare schede si dispone di due opzioni:
 
 * Usa i file board nativi di Cboard.
 * Usa file formattati OpenBoard. [Ulteriori informazioni su Open Board Format](https://www.openboardformat.org/)
@@ -318,56 +333,66 @@ Per importare ed esportare le schede hai due opzioni:
 
 ### <a name='WhatcanIchangeonthedisplay'></a>Cosa posso cambiare sul display?
 
-Le impostazioni di visualizzazione possono essere modificate in IMPOSTAZIONI, all'interno della categoria SISTEMA. L'opzione Visualizza è sotto Esporta e importa. Dopo aver selezionato DISPLAY, puoi modificare la dimensione dell'interfaccia utente (UI) e la dimensione del carattere dell'app selezionando la dimensione desiderata. Il punto rosso dovrebbe essere inferiore alla dimensione che desideri scegliere.
+Le impostazioni di visualizzazione possono essere modificate in SETTINGS, all'interno della categoria SYSTEM. L'opzione di visualizzazione è sotto Esporta ed Importa. Una volta selezionata DISPLAY, è possibile modificare la dimensione dell'interfaccia utente (UI) e la dimensione del carattere dell'app selezionando la dimensione desiderata. Il punto rosso dovrebbe essere sotto la dimensione che si desidera scegliere.
 
 ### <a name='CanIresizebuttonsonCboard'></a>Posso ridimensionare i pulsanti su Cboard?
 
-Sì! Puoi ridimensionare i riquadri oi pulsanti in IMPOSTAZIONI. Nella categoria SISTEMA, seleziona VISUALIZZAZIONE e ti verranno fornite 3 opzioni per la taglia: Standard, Large, Extra Large. Vedi figura sotto:
+Sì! È possibile ridimensionare i tile o i pulsanti nelle impostazioni. Nella categoria SYSTEM, seleziona DISPLAY e ti verranno date 3 opzioni per la dimensione: Standard, Large, Extra Large. Cfr. figura sotto:
 
 ![Funzionalità di visualizzazione](/images/help/display.png "Display capabilities")
+
+### <a name='BigScrollButtons'></a>Scorri lo schermo attraverso i pulsanti grandi
+
+È anche possibile scorrere su e giù una scheda utilizzando un paio di pulsanti grandi che possono essere aggiunti dalla sezione Impostazioni. Questo è particolarmente utile per gli utenti del dispositivo eye-tracker, in quanto i pulsanti permettono di scorrere la scheda senza bisogno di scorrere lo schermo. Per abilitare questa funzione, vai alla sezione Impostazioni e cerca l'interruttore "abilita i pulsanti di scorrimento grandi". Attiva/disattiva l'interruttore e salva le impostazioni. Cfr. figura sotto:
+
+![Abilita i pulsanti di scorrimento grandi](/images/help/bigScrollSettings.png "Big scroll buttons settings")
+
+Poi, si dovrebbe vedere un paio di grandi pulsanti nella parte superiore e la parte inferiore di una scheda se è abbastanza grande, come mostrato nell'immagine sottostante:
+
+![Pulsanti di scorrimento grandi](/images/help/bigScrollButtons.png "Big scroll buttons")
 
 ## <a name='Scanning'></a>lettura
 
 ### <a name='CanIusescanningtechniquestoaccesssymbols'></a>Posso usare tecniche di scansione per accedere ai simboli?
 
-La scansione è il punto in cui gli elementi nel gruppo di selezione vengono presentati in sequenza nel tempo e l'utente effettua una selezione indirettamente, di solito tramite switch access. SCANNING su Cboard funziona all'interno delle IMPOSTAZIONI e nella categoria SISTEMA. Sono disponibili diverse impostazioni per la scansione. È necessario prima abilitare l'impostazione di scansione selezionando ABILITA. È quindi possibile scegliere il ritardo di tempo e il metodo (automatico o manuale). Tieni presente che quando si utilizza un tablet o uno smartphone, potrebbe anche avere la propria opzione di scansione integrata.
+La scansione è dove gli elementi nel set di selezione sono presentati in modo sequenziale nel tempo e l'utente effettua una selezione indirettamente, di solito tramite accesso switch. SCANNING su Cboard funziona all'interno delle SETTINGS e della categoria SYSTEM. Ci sono diverse impostazioni per la scansione. Si dovrebbe prima abilitare l'impostazione di scansione selezionando ENABLE. È quindi possibile scegliere il ritardo di tempo, così come il metodo (sia automatico o manuale). Si prega di notare che quando si utilizza un tablet o uno smartphone, può anche avere la propria opzione di scansione integrata.
 
 ## <a name='CommunicatorBuilder'></a>Generatore di comunicazioni
 
-### <a name='Whatiscommbuilder'></a>Cos'è il comunicatore builder?
+### <a name='Whatiscommbuilder'></a>Cos'è il costruttore di comunicatori?
 
-Il communicator builder è una funzionalità che ti consente di gestire le bacheche per copiarle, eliminarle, pubblicarle, aggiungerle e rimuoverle. Per accedere alla funzionalità è necessario sbloccare le impostazioni e fare clic sul pulsante "Build". Vedrai una nuova pagina strutturata su tre diverse schede: bacheche, bacheche pubbliche, tutte le mie bacheche. Vedi figura sotto:
+Il costruttore di comunicatori è una funzionalità che consente di gestire schede per copiare, eliminare, pubblicare, aggiungere e rimuoverle. Per accedere alla funzionalità è necessario sbloccare le impostazioni e fare clic sul pulsante 'Build'. Vedrete una nuova pagina strutturata su tre diverse schede: tavole, tavole pubbliche, tutte le mie schede. Cfr. figura sotto:
 
-![Costruttore di comunicatore](/images/help/communicator.png "Communicator builder")
+![Costruttore di comunicatori](/images/help/communicator.png "Communicator builder")
 
-### <a name='CommunicatorBoards'></a>Schede comunicatore
+### <a name='CommunicatorBoards'></a>Pannelli per comunicatori
 
-La scheda predefinita che vedrai in communicator builder è la scheda schede communicator, che mostrerà tutte le schede incluse nel tuo communicator. È possibile apportare modifiche nel communicator dai seguenti pulsanti di azione:
+La scheda predefinita che vedrai nel generatore comunicatore è la scheda schede comunicatore, che visualizzerà tutte le schede incluse nel tuo comunicatore. È possibile apportare modifiche al comunicatore dai seguenti pulsanti di azione:
 
 * Rimuovi scheda dal comunicatore: questo pulsante chiuderà la scheda dal comunicatore ma NON eliminerà la scheda dal database ed è ancora disponibile nella scheda "Tutte le mie schede".
 
 * Imposta scheda come root: questo pulsante definirà la scheda come la prima scheda da visualizzare ogni volta che accedi a Cboard.
 
-![Schede comunicatore](/images/help/communicatorBoards.png "Communicator boards")
+![Pannelli per comunicatori](/images/help/communicatorBoards.png "Communicator boards")
 
-### <a name='PublicBoards'></a>Consigli pubblici
+### <a name='PublicBoards'></a>Comitati pubblici
 
 * Copia scheda: questo pulsante creerà una copia della scheda e la aggiungerà al comunicatore. Poiché questa è una copia della bacheca pubblica, puoi modificare questa bacheca come desideri senza influire sulla bacheca pubblica originale.
 
-![Consigli pubblici](/images/help/PublicBoards.png "Public boards")
+![Comitati pubblici](/images/help/PublicBoards.png "Public boards")
 
 ### <a name='Allmyboards'></a>Tutte le mie tavole
 
-Si noti che SOLO gli utenti registrati possono accedere a questa funzionalità della scheda.
+Si prega di notare che gli utenti registrati JUST possono accedere a questa funzionalità di scheda.
 
 * Rimuovi scheda dal comunicatore: questo pulsante chiuderà la scheda dal comunicatore ma NON eliminerà la scheda dal database ed è ancora disponibile.
 
 * Aggiungi scheda al comunicatore: questo pulsante includerà la scheda al comunicatore.
 
 * Pubblica bacheca: questa azione renderà pubblica la bacheca e verrà visualizzata nella scheda bacheche pubbliche. Tutti possono vedere la tua tavola.
-    
+  
  * Annulla pubblicazione bacheca: questa azione renderà la bacheca privata e non verrà visualizzata nella scheda bacheche pubbliche. Nessuno può vedere la tua tavola.
-    
+  
  * Elimina scheda: questa azione eliminerà la scheda e non potrà essere ripristinata. La scheda verrà rimossa dal database.
 
 ![Tutte le mie tavole](/images/help/AllmyBoards.png "All my boards")
