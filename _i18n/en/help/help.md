@@ -48,6 +48,7 @@
 * [Display capabilities](#Displaycapabilities) 
     * [What can I change on the display?](#WhatcanIchangeonthedisplay)
     * [Can I resize buttons on Cboard?](#CanIresizebuttonsonCboard)
+    - [Screen scroll through big buttons](#BigScrollButtons)
 * [Scanning](#Scanning) 
     * [Can I use scanning techniques to access symbols?](#CanIusescanningtechniquestoaccesssymbols)
 * [Communicator builder](#CommunicatorBuilder) 
@@ -337,6 +338,17 @@ Display settings can be edited in SETTINGS, within the SYSTEM category. The Disp
 Yes! You can resize Tiles or Buttons in SETTINGS. In the category SYSTEM, select DISPLAY and you will be given 3 options for size: Standard, Large, Extra Large. See figure below:
 
 ![Display capabilities](/images/help/display.png "Display capabilities")
+
+### <a name='BigScrollButtons'></a>Screen scroll through big buttons
+
+It is also possible to scroll up and down a board using a couple of big buttons that can be added from the settings section. This is especially useful for eye-tracker device users, as the buttons allow to scroll the board without needing to slide the screen. 
+To enable this feature, go to the settings section and look for the "enable big scroll buttons " switch. Toggle the switch and save the settings. See figure below:
+
+![Enable big scroll buttons](/images/help/bigScrollSettings.png "Big scroll buttons settings")
+
+Then, you should see a couple of big buttons at the top and the bottom of a board if it is large enough, as displayed in the below image: 
+
+![Big scroll buttons](/images/help/bigScrollButtons.png "Big scroll buttons")
 
 ## <a name='Scanning'></a>Scanning
 
