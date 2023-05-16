@@ -34,6 +34,8 @@ pages:
   index_downloadDesc: Cboard app is available for Android mobile devices. Download now to start communicating
   index_downloadTitleWindows: Get Cboard for Windows!
   index_downloadDescWindows: Cboard app is available for Microsoft Windows desktops. Download now to start communicating
+  index_downloadTitleAmazon: Get Cboard for Amazon Fire!
+  index_downloadDescAmazon: Cboard app is available for Amazon Fire tablets. Download now to start communicating
   indexInfosTitle: Open Source, +40 languages, Modern UI, Runs on Browsers and Android app.
   indexInfosSubTitle: Check out what you can do with Cboard in the open!
   index_info1Title: Built for the web
