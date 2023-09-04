@@ -1,5 +1,5 @@
 ---
-title: 'CBoard AAC App se lanza en iOS: Empoderando la comunicación para los usuarios de iPhone y iPad'
+title: 'CBoard AAC App Launches on iOS'
 date: 2023-08-14
 description: 'Potenciar la comunicación para usuarios de iPhone y iPad'
 categories:
@@ -7,10 +7,8 @@ categories:
   - iOS
   - Tienda de Apple
 image: /images/apple_ios_app_store.jpg
-author_staff_member: katrina
+author_staff_member: martin
 ---
-
-### **Introducción**
 
 En un importante hito para el mundo de la Comunicación Aumentativa y Alternativa (AAC), CBoard, el aclamado software de aplicación AAC, acaba de expandir su alcance lanzando su tan esperada aplicación para dispositivos iOS. Este anuncio es un cambio de juego para las personas con dificultades de comunicación, ya que trae el poder de CBoard a los usuarios de iPhone y iPad, haciendo la comunicación más accesible e inclusiva que nunca antes.
 
