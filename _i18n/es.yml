@@ -22,28 +22,31 @@ pages:
   about_title: Nuestra comunidad
   about_desc: Nuestra comunidad es un crisol de experiencias y capacidades, de desarrolladores de software, ingenieros biomédicos, logopedas, familias y personas con discapacidades. Nos tratamos como iguales con respeto y empatía.
   about_vision_title: Nuestra visión
-  about_vision_desc: Sea una solución global integral de soluciones tecnológicas para personas con discapacidad. Con la innovación, la asequibilidad y la empatía como motivadores y pautas clave.
+  about_vision_desc: Ser una solución global e integral de tecnologías para personas con discapacidad. Con la innovación, la asequibilidad y la empatía como motivadores y guías. 
   about_mission_title: Nuestra misión
-  about_mission_desc: Todos los días trabajamos para mejorar el estilo de vida de las personas con discapacidad devolviendo la voz a todos aquellos que la han perdido; estamos seguros de que la tecnología puede empoderar a las personas con discapacidad.
+  about_mission_desc: Todos los días trabajamos para mejorar la calidad de vida de las personas con discapacidad devolviendo la voz a todos aquellos que la han perdido; estamos seguros de que la tecnología puede empoderar a las personas con discapacidad.
   contact_address: Dirección
   contact_title: Ponte en contacto con nosotros
   contact_subtitle: Si tiene alguna pregunta o consulta, envíenos un mensaje y nos pondremos en contacto con usted lo antes posible.
   blogTitle: Las últimas noticias
   blogSubTitle: Escuche los últimos avances en el desarrollo de Cboard
   index_downloadTitle: '¡Obtener Cboard para Android!'
-  index_downloadDesc: La aplicación Cboard está disponible para dispositivos móviles Android. Descárgala ahora para empezar a comunicarse
+  index_downloadDesc: La aplicación Cboard está disponible para dispositivos móviles Android. Descárgala ahora para empezar a comunicarte
+  index_downloadTitleApple: '¡Obtén Cboard para iOS!'
   index_downloadTitleWindows: '¡Obtener Cboard para Windows!'
-  index_downloadDescWindows: La aplicación Cboard está disponible para el escritorio de Microsoft Windows. Descárgala ahora para empezar a comunicarse
-  indexInfosTitle: Código abierto, +40 idiomas, interfaz moderna, ejecuciones en navegadores y aplicaciones Android.
-  indexInfosSubTitle: '¡Echa un vistazo a lo que puedes hacer con Cboard al aire libre!'
+  index_downloadDescWindows: La aplicación Cboard está disponible para el escritorio de Microsoft Windows. Descárgala ahora para empezar a comunicarte
+  index_downloadTitleAmazon: '¡Obtén Cboard para Amazon Fire!'
+  index_downloadDescAmazon: La aplicación Cboard está disponible para las tabletas Amazon Fire. Descárgala ahora para empezar a comunicarse
+  indexInfosTitle: Código abierto, +40 idiomas, interfaz moderna, ejecución en navegadores y aplicación Android.
+  indexInfosSubTitle: '¡Echa un vistazo a lo que puedes hacer con Cboard código abierto!'
   index_info1Title: Creado para la web
   index_info2Title: Interfaz moderna
   index_info3Title: Más de 40 idiomas
   index_info4Title: Código abierto
   index_info1Desc: "Cboard funciona en navegadores modernos y está disponible en una amplia variedad de plataformas, incluidas computadoras de escritorio, tabletas y teléfonos móviles. El soporte sin conexión está disponible en Google Chrome (escritorio y Android)."
   index_info2Desc: "Utilizamos últimas tendencias tecnológicas para diseñar y desarrollar Cboard. Nuestro objetivo final es ofrecer una interfaz hermosa e intuitiva que se pueda navegar sin leer la ayuda del usuario."
-  index_info3Desc: "Cboard viene con soporte para 44 idiomas y contabilidad!. Creemos firmemente que esto es clave para reducir las desigualdades entre las personas con discapacidad en el mundo."
-  index_info4Desc: "Cboard es una fantástica comunidad de desarrolladores, profesionales del habla, padres e instituciones que han hecho del proyecto una realidad. Desde la traducción al desarrollo, la contribución forma parte del ADN del Cartón."
+  index_info3Desc: "Cboard viene con soporte para 44 idiomas y contando!. Creemos firmemente que esto es clave para reducir las desigualdades entre las personas con discapacidad en el mundo."
+  index_info4Desc: "Cboard es una fantástica comunidad de desarrolladores, profesionales del habla, padres e instituciones que han hecho del proyecto una realidad. Desde la traducción al desarrollo, la contribución forma parte del ADN de Cboard."
   index_bottomTitle: 'Únete a nosotros en GitHub'
   index_bottomDesc: 'Cboard es un proyecto de código abierto, siempre agradecemos su ayuda, si desea contribuir, está invitado a nuestro repositorio de GitHub.'
 titles:

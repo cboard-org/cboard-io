@@ -32,8 +32,11 @@ pages:
   blogSubTitle: Чуйте последния напредък в разработването на Cboard
   index_downloadTitle: Свалете Cboard за Андроид!
   index_downloadDesc: Cboard е приложение, достъпно за мобилни устройства с Андроид. Свалете го сега, за да започнете да комуникирате.
+  index_downloadTitleApple: Get Cboard for iOS!
   index_downloadTitleWindows: Свалете Cboard за Windows!
   index_downloadDescWindows: Cboard е приложение, достъпно за настолни компютри с Microsoft Windows. Свалете го сега, за да започнете да комуникирате.
+  index_downloadTitleAmazon: Get Cboard for Amazon Fire!
+  index_downloadDescAmazon: Cboard app is available for Amazon Fire tablets. Download now to start communicating
   indexInfosTitle: Отворен код, + 40 езика, Модерен потребителски интерфейс, работи на браиузъри и приложения на Андроид.
   indexInfosSubTitle: Открийте какво можете да правите с Cboard в света навън!
   index_info1Title: Създаден за мрежата

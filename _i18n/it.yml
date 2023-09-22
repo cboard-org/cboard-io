@@ -32,8 +32,11 @@ pages:
   blogSubTitle: Ascolta gli ultimi progressi sullo sviluppo di Cboard
   index_downloadTitle: Ottieni Cboard per Android!
   index_downloadDesc: L'app Cboard è disponibile per dispositivi mobili Android. Scarica ora per iniziare a comunicare
+  index_downloadTitleApple: Ottieni Cboard per iOS!
   index_downloadTitleWindows: Ottieni Cboard per Windows!
   index_downloadDescWindows: L'app Cboard è disponibile per i desktop Microsoft Windows. Scarica ora per iniziare a comunicare
+  index_downloadTitleAmazon: Ottieni Cboard per Amazon Fire!
+  index_downloadDescAmazon: L'app Cboard è disponibile per i tablet Amazon Fuoco. Scarica ora per iniziare a comunicare
   indexInfosTitle: Open Source, +40 lingue, UI moderno, funziona su Browser e app Android.
   indexInfosSubTitle: Scopri cosa puoi fare con Cboard all'aperto!
   index_info1Title: Costruito per il web
