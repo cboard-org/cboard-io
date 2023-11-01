@@ -17,7 +17,7 @@ const fse = require('fs-extra');
 
 const zipFilePath = resolve('./alltx.zip');
 const extractPath = resolve('./downloads');
-const langPath = resolve('./_i18n');
+const langPath = resolve('../_i18n');
 
 const downloadTranslations = async onComplete => {
   console.log('Trying to download latest translation strings...');
@@ -99,15 +99,15 @@ const extractTranslations = () => {
     //copy and rename files
     languages.forEach(lang => {
       fs.copyFileSync(
-        `${extractPath}/website/${lang.source}.yml`,
-        `${langPath}/${lang.dest}.yml`
+        `${extractPath}\\website\\${lang.source}.yml`,
+        `${langPath}\\${lang.dest}.yml`
       );
     });
     languages.forEach((lang, index) => {
       // copy source folder to destination
       fse.copy(
-        `${extractPath}/website/i18n/${lang.source}`,
-        `${langPath}/${lang.dest}/`, function (err) {
+        `${extractPath}\\website\\i18n\\${lang.source}`,
+        `${langPath}\\${lang.dest}\\`, function (err) {
           if (err) {
             console.log('An error occured while copying the folder.')
             return console.error(err)
