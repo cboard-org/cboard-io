@@ -24,7 +24,7 @@ L'integrazione dell'IA nella piattaforma di Cboard rappresenta un enorme balzo i
 
 **2. Testo predittivo migliorato: l'IA di Cboard di** impara dai modelli di comunicazione dell'utente, offrendo suggerimenti di testo predittivi sempre più accurati nel tempo. Questa personalizzazione assicura che lo strumento diventi più adattato alle esigenze specifiche dell'utente e allo stile di comunicazione.
 
-!\[Migliora la funzionalità Frase\](/images/app/phrase improvement.png) *Funzione di miglioramento Frase*
+!\[Migliora la funzionalità Frase\](/images/app/phrase-improvement.png) *Funzione di miglioramento Frase*
 
 **3. Maggiore velocità ed efficienza:** Con l'assistenza dell'intelligenza artificiale, gli utenti possono costruire frasi più velocemente ed efficientemente, ridurre il tempo necessario per trasmettere i loro pensieri e sentimenti.
 

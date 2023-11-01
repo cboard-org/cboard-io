@@ -24,7 +24,7 @@ The integration of AI into Cboard's platform represents a monumental leap forwar
 
 **2. Improved Predictive Text:** Cboard's AI learns from the user's communication patterns, offering increasingly accurate predictive text suggestions over time. This personalization ensures that the tool becomes more tailored to the user's specific needs and communication style.
 
-!\[Improve Phrase feature\](/images/app/phrase improvement.png) *Phrase improvement feature*
+!\[Improve Phrase feature\](/images/app/phrase-improvement.png) *Phrase improvement feature*
 
 **3. Greater Speed and Efficiency:** With AI assistance, users can construct sentences more quickly and efficiently, reducing the time it takes to convey their thoughts and feelings.
 
