@@ -24,7 +24,7 @@ L'intégration d'AI dans la plate-forme de Cboard représente un bond en avant m
 
 **2. Texte prédictif amélioré :** L'IA de Cboard apprend des habitudes de communication de l'utilisateur, offrant des suggestions de texte prédictif de plus en plus précises au fil du temps. Cette personnalisation garantit que l'outil est mieux adapté aux besoins spécifiques de l'utilisateur et au style de communication.
 
-!\[Améliorer la fonctionnalité Phrase \](/images/app/phrase-improvement.png) *Fonctionnalité d'amélioration de Phrase*
+![Améliorer la fonctionnalité Phrase ](/images/app/phrase-improvement.png) *Fonctionnalité d'amélioration de Phrase*
 
 **3. Vitesse et efficacité accrues :** Avec l'aide de l'AI, les utilisateurs peuvent construire des phrases plus rapidement et plus efficacement, la réduction du temps nécessaire pour transmettre leurs pensées et leurs sentiments.
 

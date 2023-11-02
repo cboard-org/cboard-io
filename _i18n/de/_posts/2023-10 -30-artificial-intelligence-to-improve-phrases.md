@@ -24,7 +24,7 @@ Die Integration der KI in die Plattform von Cboard stellt einen gewaltigen Schri
 
 **2. Verbesserter Predictive Text: Die KI von** der Cboard lernt aus den Kommunikationsmustern des Benutzers und bietet im Laufe der Zeit immer präzisere Textvorschläge. Diese Personalisierung sorgt dafür, dass das Tool besser auf die Bedürfnisse und den Kommunikationsstil des Benutzers zugeschnitten wird.
 
-!\[Phrase-Funktion verbessern\](/images/app/phrase-improvement.png) *Phrase-Verbesserungsfunktion*
+![Phrase-Funktion verbessern](/images/app/phrase-improvement.png) *Phrase-Verbesserungsfunktion*
 
 **3. Höhere Geschwindigkeit und Effizienz:** Mit KI-Hilfe können Benutzer Sätze schneller und effizienter konstruieren, Verringerung der Zeit, die es dauert, um ihre Gedanken und Gefühle zu vermitteln.
 
